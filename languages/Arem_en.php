@@ -238,21 +238,65 @@ Pangloss Collection:</span>&nbsp;</p>
             </table>
             <p class="intertitre"></p>
             <p></p>
-            <p style="font-style: italic;">The
-Cuối Chăm
-materials were digitized and edited as part of a project <span
- style="font-style: italic;">(Sept. 2014-Feb. 2016) </span>funded
-by the <a href="http://www.bibliothequescientifiquenumerique.fr/"
+            <p>&nbsp;</p>
+            <p
+ style="font-style: italic; text-align: justify;">These
+materials&nbsp;were digitized by <span
+ style="font-style: italic;">the <a
+ href="http://www.mica.edu.vn/index.php" target="_blank">International
+Research Institute MICA</a> (</span><i>HUST
+&ndash; CNRS/UMI-2954 &ndash; Grenoble INP</i><span
+ style="font-style: italic;">) in&nbsp;</span><span
+ style="font-style: italic;">partnership</span><span
+ style="font-style: italic;"> with <a
+ href="http://lacito.vjf.cnrs.fr/" target="_blank">CNRS-LACITO</a>,
+            </span>as part of the
+DO-RE-MI-FA
+project <span style="font-style: italic;">(Sept.
+2014-Feb. 2016), </span>funded
+by the <a
+ href="http://www.bibliothequescientifiquenumerique.fr/"
  target="_blank">Digital Scientific Library</a><span
  style="font-style: italic;">, a programme of the
 French Ministry for Higher
-Education and Research.&nbsp;</span></p>
-            <a href="http://www.bibliothequescientifiquenumerique.fr/"
- target="_blank"> <img src="../images/logos/bsn.png"
- alt="Digital Scientific Library" border="0" height="75"></a>
-            <p style="font-style: italic;"><span
- style="font-style: italic;"></span></p>
-            <p>Last updated 2015.</p>
+Education and Research</span><span
+ style="font-style: italic;">.</span><span
+ style="font-style: italic;"></span><span
+ style="font-style: italic;">&nbsp;</span></p>
+            <a
+ href="http://www.bibliothequescientifiquenumerique.fr/"
+ target="_blank"> <br>
+            </a>
+            <table
+ style="width: 959px; height: 90px; text-align: left; margin-left: auto; margin-right: auto;"
+ border="0" cellpadding="2" cellspacing="2">
+              <tbody>
+                <tr>
+                  <td
+ style="text-align: center; height: 35%; width: 35%;"><a
+ href="http://www.bibliothequescientifiquenumerique.fr/"><span
+ style="text-decoration: underline;"><img
+ style="border: 0px solid ; width: 241px; height: 64px;"
+ alt="BSN"
+ src="http://bbf.enssib.fr/consulter/bbf-2013-1-p61.jpg"></span></a></td>
+                  <td
+ style="text-align: center;"><a
+ href="http://www.mica.edu.vn/index.php"><img
+ style="border: 0px solid ; width: 80px; height: 74px;"
+ alt="MICA"
+ src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Logo-mica-transp.gif"></a></td>
+                  <td
+ style="text-align: center;">
+                  <p><a
+ href="http://www.mica.edu.vn/research-actions/au-co-project/"><img
+ style="border: 0px solid ; width: 109px; height: 50px;"
+ alt="AuCo"
+ src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_of_the_AuCo_collection%2C_a_project_of_the_MICA_International_Research_Institute_in_Hanoi%2C_Vietnam.jpg"></a></p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p>Last updated 2016.</p>
             <p><a href="../../membres/michaud.htm">Contact: Alexis
 Michaud</a></p>
 <!-- InstanceEndEditable --></div>

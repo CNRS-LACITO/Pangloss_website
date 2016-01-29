@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Language" content="fr">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Corpus na</title>
+<title>Collection Pangloss - Corpus na</title>
 <!-- InstanceEndEditable --><link rel="stylesheet" type="text/css" href="../../styles/xcharte.css">
 <link rel="stylesheet" type="text/css" href="../../styles/styles.css">
 <script src="../../Scripts/Change_Version.js" type="text/javascript"></script>
@@ -130,10 +130,10 @@ align="texttop"
       <div id="ZonePrint" class="ZonePrint">    
       <!-- InstanceBeginEditable name="Contenu" -->
       <h1 align="center">Corpus na</h1>
-      <p class="intertitre">&nbsp;</p>
-      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Na_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=400,height=400,scrollbars=yes,resizable=yes',1);return false">na<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"><br>
+      <p>&nbsp;</p>
+      <p>Fiche technique sur le <a href="../../ALC/Languages/Na_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=400,height=400,scrollbars=yes,resizable=yes',1);return false">na<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"><br>
       </a>Carnet de terrain sur le na (<a href="../fieldwork/Na_fw-Yongning.htm">Yongning 2006-2012</a>)</p>
-      <p class="intertitre">&nbsp;</p>
+      <p>&nbsp;</p>
      <p></p>      
       <p><b>La langue na (endonyme : /nɑ˩-ʐwɤ˧/, 'na'+'langue') </b> est parlée à la frontière des provinces chinoises du Yunnan et du Sichuan, aux abords du lac Lugu (lo˧ʂv̩˩-hi˩nɑ˧mi˧).</p>
       <p> Elle appartient au groupe naish de la famille sino-tibétaine, qui comprend également le naxi et le na (pour plus d'informations, <em>cf</em>. Jacques and Michaud 2011). Elle est également appelée langue mos(u)o. </p>
@@ -156,22 +156,22 @@ align="texttop"
       <img src="../../images/icones/h_parleur.gif" alt="a" width="20" height="20"> <a href="../tools/list_rsc.php?lg=Na&aff=na" target="_blank">Accès à toutes les ressources</a>
       </p>
        <p align="left" class="intertitre">&nbsp;</p>
-      <p class="intertitre"><a href="../tools/show_text.php?id=crdo-NRU_MARIAGE_DE_LA_SOEUR_V1_SOUND&idref=crdo-NRU_Mariage_De_La_Soeur_V1"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0">Le mariage de la soeur (Version 1)</a><br>
+      <p><a href="../tools/show_text.php?id=crdo-NRU_MARIAGE_DE_LA_SOEUR_V1_SOUND&idref=crdo-NRU_Mariage_De_La_Soeur_V1"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0">Le mariage de la soeur (Version 1)</a><br>
       Chine, province du Yunnan, Latami Dashi-Lame, 2006, <a href="../../membres/michaud.htm">Alexis Michaud</a></p>
-      <p class="intertitre"><a href="../tools/show.php?id=crdo-NRU_Mariage_De_La_Soeur_V2_SOUND"><img src="../../images/icones/h_parleur.gif" alt="a" width="20" height="20" border="0">Le mariage de la soeur (Version 2)</a><br>
+      <p><a href="../tools/show.php?id=crdo-NRU_Mariage_De_La_Soeur_V2_SOUND"><img src="../../images/icones/h_parleur.gif" alt="a" width="20" height="20" border="0">Le mariage de la soeur (Version 2)</a><br>
       Chine, province du Yunnan, Latami Dashi-Lame, 2007, <a href="../../membres/michaud.htm">Alexis Michaud</a></p>
-      <p class="intertitre"><a href="../tools/show_text.php?id=crdo-NRU_Mariage_De_La_Soeur_V3_SOUND&idref=crdo-NRU_Mariage_De_La_Soeur_V3"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0">Le mariage de la soeur (Version 3)</a><br>
+      <p><a href="../tools/show_text.php?id=crdo-NRU_Mariage_De_La_Soeur_V3_SOUND&idref=crdo-NRU_Mariage_De_La_Soeur_V3"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0">Le mariage de la soeur (Version 3)</a><br>
       Chine, province du Yunnan, Latami Dashi-Lame, 2008, <a href="../../membres/michaud.htm">Alexis Michaud</a></p>
 <p>Ce mythe raconte l'origine du rite pratiqué lors du décès d'une femme qui s'est mariée et a quitté la maison où elle est née. Ce rite, nommé «sɯ˧kʰɯ˩», remonterait à un siècle environ d'après la conteuse : il aurait été établi à un moment où l'institution du mariage commençait à gagner la plaine de Yongning, en contradiction avec la coutume plus ancienne selon laquelle les enfants passent leur vie entière dans la maisonnée de leur mère et de ses frères et sœurs (tantes et oncles maternelles), avec leurs frères et sœurs et leurs cousins du côté maternel, le rôle social du père/amant étant discret voire quasi-inexistant. D'après la conteuse, l'institution de ce rite reflèterait l'acceptation de l'existence de cas de mariage, tout en les représentant comme douloureux : le mariage distend les liens entre la femme et sa famille d'origine.
 Trois versions sont présentées ici, enregistrées sur trois ans. La première et la troisième comportent transcription et gloses. Le meilleur enregistrement au plan technique/acoustique est celui de la troisième version.
 
 </p>
 <p>&nbsp;</p>
-      <p class="intertitre"><a href="../tools/show.php?id=crdo-NRU_Naissance_du_Lac_V1_SOUND"><img src="../../images/icones/h_parleur.gif" alt="a" width="20" height="20" border="0">La naissance du lac (version 1)</a><br>
+      <p><a href="../tools/show.php?id=crdo-NRU_Naissance_du_Lac_V1_SOUND"><img src="../../images/icones/h_parleur.gif" alt="a" width="20" height="20" border="0">La naissance du lac (version 1)</a><br>
       Chine, province du Yunnan, Latami Dashi-Lame, 2006,  <a href="../../membres/michaud.htm">Alexis Michaud</a></p>
-      <p class="intertitre"><a href="../tools/show.php?id=crdo-NRU_Naissance_du_Lac_V2_SOUND"><img src="../../images/icones/h_parleur.gif" alt="a" width="20" height="20" border="0">La naissance du lac (version 2)</a><br>
+      <p><a href="../tools/show.php?id=crdo-NRU_Naissance_du_Lac_V2_SOUND"><img src="../../images/icones/h_parleur.gif" alt="a" width="20" height="20" border="0">La naissance du lac (version 2)</a><br>
       Chine, province du Yunnan, Latami Dashi-Lame, 2007,  <a href="../../membres/michaud.htm">Alexis Michaud</a></p>
-      <p class="intertitre"><a href="../tools/show_text.php?id=crdo-NRU_Naissance_du_Lac_V3_SOUND&idref=crdo-NRU_Naissance_du_Lac_V3"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0">La naissance du lac (version 3)</a><br>
+      <p><a href="../tools/show_text.php?id=crdo-NRU_Naissance_du_Lac_V3_SOUND&idref=crdo-NRU_Naissance_du_Lac_V3"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0">La naissance du lac (version 3)</a><br>
       Chine, province du Yunnan, Latami Dashi-Lame, 2008,  <a href="../../membres/michaud.htm">Alexis Michaud</a></p>
       
 <p>Le lac de /ɭo˧ʂv̩˩/, appelé « lac Lugu » en chinois, est généralement désigné en na comme « le Lac », /hi˩nɑ˧mi˧/. Il tient une place centrale dans la géographie du territoire na, et est l'un des principaux lieux symboliques de la culture na/mosuo. Cette légende raconte comment il serait né d'un déluge causé par l'avidité des hommes. Elle explique aussi l'origine des bateaux traditionnellement employés sur le lac.

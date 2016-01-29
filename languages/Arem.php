@@ -234,26 +234,73 @@ vers les pages correspondantes dans la Collection Pangloss :</span>&nbsp;</p>
                 </tr>
               </tbody>
             </table>
-            <p class="intertitre"></p>
-            <p class="intertitre"><span style="font-style: italic;"></span></p>
-            <p style="font-style: italic;" class="intertitre">Ces
-donn&eacute;es ont &eacute;t&eacute;
-num&eacute;ris&eacute;es dans le cadre d'un projet (sept.
-2014-f&eacute;vr. 2016) financ&eacute; par la <a
- href="http://www.bibliothequescientifiquenumerique.fr/" target="_blank">Biblioth&egrave;que
-Scientifique
-Num&eacute;rique</a>
-du
-Minist&egrave;re fran&ccedil;ais de l'Enseignement
-Sup&eacute;rieur et de la Recherche.&nbsp; </p>
-            <a href="http://www.bibliothequescientifiquenumerique.fr/"
- target="_blank"> <img src="../../images/logos/bsn.png"
- alt="Digital Scientific Library" border="0" height="75"></a>
+			<p>&nbsp;</p>
+            <p style="font-style: italic;">Ces
+donn&eacute;es&nbsp;ont
+&eacute;t&eacute;
+num&eacute;ris&eacute;es et
+catalogu&eacute;es <span
+ style="font-style: italic;">par l'<a
+ href="http://www.mica.edu.vn/" target="_blank">Institut
+de recherche international MICA</a> (</span><i>HUST
+&ndash; CNRS/UMI-2954 &ndash; Grenoble INP)</i><span
+ style="font-style: italic;"> en partenariat avec le <a
+ href="http://lacito.vjf.cnrs.fr/" target="_blank">LACITO</a></span>
+dans le cadre du <a
+ href="https://lacito.hypotheses.org/251" target="_blank">projet
+            </a><span
+ style="font-style: italic;"><a
+ href="https://lacito.hypotheses.org/251" target="_blank">DO-RE-MI-FA</a>
+(Sept. 2014-Feb. 2016) </span>financ&eacute;
+par la&nbsp;<a
+ href="http://www.bibliothequescientifiquenumerique.fr/"
+ target="_blank">Biblioth&egrave;que Scientifique
+Num&eacute;rique</a><span
+ style="font-style: italic;">
+(BSN), un programme du Minist&egrave;re de l'Enseignement
+Sup&eacute;rieur et de la Recherche (MESR, France)</span><i>.</i><i></i><span
+ style="font-style: italic;"></span><span
+ style="font-style: italic;"></span><span
+ style="font-style: italic;"></span></p>
+            <a
+ href="http://www.bibliothequescientifiquenumerique.fr/"
+ target="_blank"> <br>
+            </a>
+            <table
+ style="width: 959px; height: 90px; text-align: left; margin-left: auto; margin-right: auto;"
+ border="0" cellpadding="2" cellspacing="2">
+              <tbody>
+                <tr>
+                  <td
+ style="text-align: center; height: 35%; width: 35%;"><a
+ href="http://www.bibliothequescientifiquenumerique.fr/"><span
+ style="text-decoration: underline;"><img
+ style="border: 0px solid ; width: 241px; height: 64px;"
+ alt="BSN"
+ src="http://bbf.enssib.fr/consulter/bbf-2013-1-p61.jpg"></span></a></td>
+                  <td
+ style="text-align: center;"><a
+ href="http://www.mica.edu.vn/index.php"><img
+ style="border: 0px solid ; width: 80px; height: 74px;"
+ alt="MICA"
+ src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Logo-mica-transp.gif"></a></td>
+                  <td
+ style="text-align: center;">
+                  <p><a
+ href="http://www.mica.edu.vn/research-actions/au-co-project/"><img
+ style="border: 0px solid ; width: 109px; height: 50px;"
+ alt="AuCo"
+ src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_of_the_AuCo_collection%2C_a_project_of_the_MICA_International_Research_Institute_in_Hanoi%2C_Vietnam.jpg"></a></p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
             <p style="font-style: italic;"><span
  style="font-style: italic;"></span></p>
+
             <p>&nbsp;</p>
             <p>Mise &agrave;
-jour : 2015.</p>
+jour : 2016.</p>
             <p><a href="../../membres/michaud.htm">Contact: Alexis
 Michaud</a></p>
 <!-- InstanceEndEditable --></div>
