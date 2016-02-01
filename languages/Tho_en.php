@@ -493,8 +493,10 @@ Jun 2001, Paris, France; translated as: &ldquo;<a target="_blank"
  href="https://halshs.archives-ouvertes.fr/halshs-01128106">Hypercorrections
 in the Thổ dialect of L&agrave;ng Lỡ (Nghệ An, Vietnam): an example
 of pitfalls for comparative linguistics</a>&rdquo;.)</p>
-            <p><br>
-            </p>
+<p></p>            
+            <p class="intertitre"><strong>Perspectives for future data collection: two locations remain to be investigated</strong></p>
+            <p>Michel Ferlus's fieldwork was conducted in one of three villages where L&agrave;ng Lỡ Thổ is spoken. As of 2016, the other two villages apparently remain unexplored. In view of the high dialectal diversity of the area, which encapsulates a wealth of information about the past history of Vietnamese and the Vietic group of Austroasiatic languages, these two other villages would well warrant a linguistic survey.</p>
+            <p>&nbsp;</p>
             <p class="intertitre"><strong>The
 archived documents: vocabulary</strong></p>
             <p>The recordings made
@@ -510,15 +512,15 @@ transcriptions.&nbsp;</p>
             <p style="font-weight: bold;">References
 and links to
 related resources:&nbsp;</p>
-- About L&agrave;ng Lỡ Thổ, see: &ldquo;<a target="_blank"
+<p> About L&agrave;ng Lỡ Thổ, see: &ldquo;<a target="_blank"
  href="https://halshs.archives-ouvertes.fr/halshs-01128106">Hypercorrections
 in the Thổ dialect of L&agrave;ng Lỡ (Nghệ An, Vietnam): an example
 of pitfalls for comparative linguistics</a>&rdquo;
 by Michel Ferlus
-(2001). - See also (in this
-Collection) the data sets for <a href="Cuoi_Cham_en.htm"
- target="_blank">Cuối
-Chăm</a>, and for <a href="Vietnamese_en.htm#CAOLAOHA" target="_blank">Cao
+(2001).</p> 
+<p>See also (in this
+Collection) the data sets for Cuối
+Chăm (this page), and for <a href="Vietnamese_en.htm#CAOLAOHA" target="_blank">Cao
 Lao Hạ</a> and <a href="Vietnamese_en.htm#PHONGNHA">Phong Nha</a>,
 two heterodox dialects
 of Vietnamese which raise similar issues for comparative-linguistic
