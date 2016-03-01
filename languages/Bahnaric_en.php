@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-<head>
-<!-- InstanceBegin template="/Templates/pangloss_seconde-navgauche-navdroite_en.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- InstanceBegin template="/Templates/pangloss_seconde-navgauche-navdroite_en.dwt" codeOutsideHTMLIsLocked="false" --><head>
+
   <meta http-equiv="Content-Language" content="fr">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -159,9 +159,9 @@ Tampuan </h1>
             <p> </p>
             <p>&nbsp;</p>
             <h4 align="left">Resources:</h4>
-            <p> <img
+            <p class="intertitre"> <img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20">
-            <a href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem"
+            <a href="../tools/list_rsc_en.php?lg=Tampuan"
  target="_blank">All
 available resources here </a></p>
             <p>&nbsp;</p>
@@ -235,9 +235,7 @@ Cambodia).</p>
             <p style="text-align: justify;"><span
  style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US">The
 Bahnaric data in Marie Alexandrine Martin's collection essentially
-consist of a recording </span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">of botanical vocabulary.&nbsp;</span>From September 1966
+consist of a recording </span><spa>of botanical vocabulary.&nbsp;</span>From September 1966
 to April 1968, an ethnographic
 project of the Centre National de la Recherche Scientifique was
 conducted by Jacqueline Matras (see
@@ -262,9 +260,7 @@ close to Stung Treng (Ta Veaeng District, Ratanakiri).
 According to Matras and Martin (1972), Bru&nbsp;are&nbsp;mountain
 people
 in contact with Tampuan people in the Northeastern area
-of&nbsp;Ratanakiri.<span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"> (botanical vocabulary, see above for details).&nbsp;</span></p>
+of&nbsp;Ratanakiri.<spa> (botanical vocabulary, see above for details).&nbsp;</span></p>
             <h2><a name="references"></a>3. References </h2>
             <p class="EndNoteBibliography"
  style="margin: 0in 0in 0.0001pt 0.5in; text-indent: -0.5in;"><span

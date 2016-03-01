@@ -137,65 +137,52 @@ langues p&eacute;ariques </h1>
             <p>&nbsp;</p>
             <h4 align="left">Ressources
 :</h4>
-            <p><img
+            <p class="intertitre"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20">
-            <a href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem"
+            <a href="../tools/list_rsc_en.php?lg=Pear"
  target="_blank">Acc&egrave;s
-aux resources en langue Pear (23 fichiers son) </a></p>
-            <p>
+aux resources en langue Pear ici (23 fichiers son) </a></p>
+            <p class="intertitre">
             <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20">&nbsp;<a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">Acc&egrave;s
-aux resources en langue</a><a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">
-Chong Lo here (5&nbsp;</a><a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">fichiers
-son</a><a href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem"
- target="_blank">)
-            </a></p>
-            <p>
+ href="../tools/list_rsc_en.php?lg=Chong Lo" target="_blank">Acc&egrave;s
+aux resources en langue
+Chong Lo ici (5&nbsp;fichiers
+son)</a>
+           </p>
+            <p class="intertitre">
             <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20">&nbsp;<a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">Acc&egrave;s
-aux resources en langue</a><a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">
-Chong Heup here (3 </a><a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">fichiers
-son</a><a href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem"
- target="_blank">)
+ href="../tools/list_rsc_en.php?lg=Chong Heup" target="_blank">Acc&egrave;s
+aux resources en langue
+Chong Heup ici (3 fichiers
+son)
             </a></p>
-            <p>
+            <p class="intertitre">
             <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20">&nbsp;<a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">Acc&egrave;s
-aux resources en langue</a><a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">
-Chong Tratt here (1&nbsp;</a><a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">fichier
-son</a><a href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem"
- target="_blank">)
+ href="../tools/list_rsc_en.php?lg=Chont Tratt" target="_blank">Acc&egrave;s
+aux resources en langue
+Chong Tratt ici (1&nbsp;fichier
+son)
             </a></p>
-            <p>
+            <p class="intertitre">
             <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20">&nbsp;<a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">Acc&egrave;s
-aux resources en langue</a><a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">
-Samre here (1&nbsp;</a><a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">fichier
-son</a><a href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem"
- target="_blank">)
-            </a></p>
+ href="../tools/list_rsc_en.php?lg=Samre" target="_blank">Acc&egrave;s
+aux resources en langue Samre ici (1&nbsp;fichier
+son</a>)
+         </p>
             <p></p>
             <span style="font-weight: bold;">Contenu
-de la page :</span> <a href="#languages">1. </a><a href="#languages">A
+de la page :</span> <p  class="intertitre"><a href="#languages">1. </a><a href="#languages">A
 propos des langues
 p&eacute;ariques</a> -- <a href="#archived_doc">2. A propos des
 documents</a>
 -- <a href="#references">3.
 R&eacute;f&eacute;rences</a>
 -- <a href="#links">4.
-Liens vers d'autres ressources</a>
+Liens vers d'autres ressources</a></p>
             <p></p>
             <h2><a name="languages"></a>1.
 A propos des langues p&eacute;ariques</h2>
@@ -326,31 +313,26 @@ l'Asie du Sud-Est sont expos&eacute;es par&nbsp;Ferlus (1977,
 Les documents archiv&eacute;s:&nbsp;<strong>enregistrements audio
 de&nbsp;</strong>Marie Alexandrine
 Martin</strong></h2>
-            <p style="text-align: justify;"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Marie
+            <p style="text-align: justify;"><span>Marie
 Alexandrine Martin (1932 - 2013) &eacute;tait une botaniste et une
 ethnologue du
 CNRS, rattach&eacute;e au Centre de Recherche sur
-l'Extr&ecirc;me-Orient de Paris-Sorbonne (CREOPS). </span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Entre
+l'Extr&ecirc;me-Orient de Paris-Sorbonne (CREOPS). </span><span>Entre
 1965 et 1972, elle a men&eacute; des recherches ethnobotaniques et
 ethnolinguistiques dans la r&eacute;gion de la cha&icirc;ne des
 Cardamomes (villages khmers et p&eacute;ars), mais
 &eacute;galement
 aupr&egrave;s des populations khm&egrave;res et
 p&eacute;ars de
-Tha&iuml;lande. </span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p><br>
-            </o:p><o:p></o:p></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><br>
+Tha&iuml;lande. </span><span><o:p><br>
+            </o:p><o:p></o:p></span><span><br>
 Une s&eacute;lection de r&eacute;f&eacute;rences
 bibliographiques
 de&nbsp;Marie Alexandrine Martin est disponible sur le site de l'<a
  href="http://aefek.free.fr/travaux/news00010359.html" target="_blank">AEFEK</a>
 (Association
 d&rsquo;Echanges et de Formation pour les Etudes
-Khm&egrave;res). </span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Outre
+Khm&egrave;res). </span><span>Outre
 ses travaux universitaires, elle a &eacute;crit des
 livres
 &agrave; destination du grand public fond&eacute;s sur ses
@@ -363,8 +345,7 @@ document&eacute;e entre 1965 et la fin des ann&eacute;es 90
  href="http://aefek.free.fr/travaux/news00010359.html"><span
  style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: windowtext;"></span></a><span
  class="MsoHyperlink"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: windowtext;"><o:p></o:p></span></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p><br>
+ style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: windowtext;"><o:p></o:p></span></span><span><o:p><br>
             </o:p><br>
 Les ressources mises &agrave; disposition ici<span
  style="font-style: italic;"></span>
@@ -387,10 +368,8 @@ en ligne de ses donn&eacute;es. La num&eacute;risation a
 Michaud, tandis que
 le catalogage a &eacute;t&eacute; conduit par Michel Ferlus et
 Julien
-Heurdier.<o:p></o:p></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p><br>
-            </o:p></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Le
+Heurdier.<o:p></o:p></span><span><o:p><br>
+            </o:p></span><span>Le
 fonds&nbsp;Marie Alexandrine Martin est compos&eacute; de
 plusieurs
 enregistrements de dialectes khmers et de langues p&eacute;ariques
@@ -401,30 +380,21 @@ des&nbsp;Cardamomes
 Le fonds inclue &eacute;galement un enregistrement de brou et de
 tampuan (langues bahnariques de la province de Rotanah Kiri, Nord-Est
 du Cambodge).</span><br>
-            <span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"></span></p>
-            <div style="text-align: justify;"><span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"></span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"></span>
-            <span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"><small><span style="font-weight: bold;"></span></small></span></div>
-            <p style="text-align: justify;"><span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US">Le
+            <spa></span></p>
+            <div style="text-align: justify;"><span></span><span></span>
+            <spa><small><span style="font-weight: bold;"></span></small></span></div>
+            <p style="text-align: justify;"><span>Le
 corpus de langues p&eacute;ariques du fonds&nbsp;Marie
 Alexandrine Martin
 comporte principalement des enregistrements collect&eacute;s dans
 et
 autour de la zone de la cha&icirc;ne des Cardamomes</span><span
- xml:lang="th" lang="th"></span><span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US">,
+ xml:lang="th" lang="th"></span><span>,
 &agrave; la fois au Cambodge pour le p&eacute;ar
 (Kr&acirc;hung) et en Tha&iuml;lande pour le chong Lo (Tung
 Kebin), le chong Heup (Ban Wang Kaphre), le chong Tratt (Dan Chumpon)
 et le samre.</span></p>
-            <p style="text-align: justify;"><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">Ces
+            <p style="text-align: justify;"><span>Ces
 enregistrements consistent en des r&eacute;cits portant sur les
 travaux
 agricoles, les festivit&eacute;s locales et les noms de lieux ;
@@ -433,9 +403,7 @@ aussi en des enqu&ecirc;tes linguistiques (surtout du lexique
 li&eacute; aux v&eacute;g&eacute;taux et aux plantes) et
 des chants.</span></p>
             <p class="EndNoteBibliography"
- style="margin-bottom: 0.0001pt; text-align: justify;"><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">Marie
+ style="margin-bottom: 0.0001pt; text-align: justify;"><span>Marie
 Alexandrine Martin (parfaitement khm&egrave;rophone) travaillait
 souvent avec une collaboratrice khm&egrave;re. Durant les
 enqu&ecirc;tes linguistiques, son r&ocirc;le consitait
@@ -452,9 +420,7 @@ narration,
 intervenant durant le r&eacute;cit de l'informateur afin de l'aider
 &agrave; poursuivre ou en rele&ccedil;ant le r&eacute;cit
 &agrave;
-l'aide de questions</span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">.</span></p>
+l'aide de questions</span><span>.</span></p>
             <br>
             <h2><a name="references"></a>3.
 R&eacute;f&eacute;rences</h2>

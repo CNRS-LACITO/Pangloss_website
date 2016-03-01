@@ -138,9 +138,9 @@ phou noy (phunoi) </h1>
             <p>&nbsp;</p>
             <h4 align="left">Ressources
 :</h4>
-            <p> <img
+            <p class="intertitre"> <img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20">
-            <a href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem"
+            <a href="../tools/list_rsc_en.php?lg=Phunoi"
  target="_blank">Acc&egrave;s
 &agrave; toutes les ressources </a></p>
             <p>&nbsp;</p>
@@ -242,8 +242,7 @@ linguistiques.&nbsp;</p>
  title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Arem%2C%20a%20Vietic%20language&amp;rft.jtitle=Mon-Khmer%20Studies&amp;rft.volume=43&amp;rft.aufirst=Michel&amp;rft.aulast=Ferlus&amp;rft.au=Michel%20Ferlus&amp;rft.date=2014&amp;rft.pages=1-15&amp;rft.spage=1&amp;rft.epage=15"></span></div>
             <h2><strong><a name="arcived_doc"></a>2.
 Les documents archiv&eacute;s</strong></h2>
-            <p style="text-align: justify;"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Les
+            <p style="text-align: justify;"><span>Les
 donn&eacute;es phou noy de Michel Ferlus consiste en des
 enqu&ecirc;tes
 linguistiques et des r&eacute;cits. Des chants et des formules
@@ -265,11 +264,9 @@ au Laos s'est rendue en France pour y effectuer un stage.&nbsp;</span><span
 zones recul&eacute;es du pays, justement celles qui abritaient le
 plus de langues minoritaires dont plusieurs n&rsquo;avaient jamais
 &eacute;t&eacute; d&eacute;crites ni m&ecirc;me
-recens&eacute;es</span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">"
+recens&eacute;es</span><span>"
 (Ferlus 2011).</span></p>
-            <p style="text-align: justify;"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">La
+            <p style="text-align: justify;"><span>La
 majorit&eacute; des textes enregistr&eacute;s par Ferlus et disponibles
 dans la Collection Pangloss ont
 &eacute;t&eacute; transcrits, annot&eacute;s et traduits

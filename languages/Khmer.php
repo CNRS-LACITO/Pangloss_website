@@ -135,14 +135,14 @@ khmer<br>
             <p style="font-weight: bold;"></p>
             <p style="font-weight: bold;">Ressources
 :</p>
-            <p> <img
+            <p class="intertitre"> <img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20">
-            <a href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem"
+            <a href="../tools/list_rsc_en.php?lg=Cardamom Khmer"
  target="_blank">Acc&egrave;s
 &agrave; toutes les ressources dans le dialecte khmer des Cardamomes </a></p>
-            <p><img
+            <p class="intertitre"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20">
-            <a href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem"
+            <a href="../tools/list_rsc_en.php?lg=Krom Khmer"
  target="_blank">Acc&egrave;s &agrave; un enregistrement en dialecte
 khmer krom</a><span style="font-weight: bold;"></span></p>
             <p style="text-align: left;" class="intertitre"><span
@@ -158,8 +158,7 @@ Liens vers d'autres ressources</a></p>
             <p style="text-align: center;" class="intertitre"></p>
             <h2><a name="language"></a>1.
 A propos de la langue khm&egrave;re</h2>
-            <span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Le
+            <span>Le
 khmer,
 &eacute;galement appel&eacute; cambodgien, est la langue
 officielle du
@@ -168,13 +167,10 @@ m&ocirc;n-khm&egrave;res, ce groupe &eacute;tant
 rattach&eacute;
 &agrave; la famille des langues austroasiatiques (Sidwell 2009).<br>
             <span style="font-weight: bold; text-decoration: underline;"></span></span>
-            <h3><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><span
+            <h3><span><span
  style="font-weight: bold;">1.1. Le khmer et la
-famille des langues m&ocirc;n-khm&egrave;res</span></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"></span></h3>
-            <h3><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><span
+famille des langues m&ocirc;n-khm&egrave;res</span></span><span ></span></h3>
+            <span><span
  style="font-weight: normal;">Ferlus
 (1979, 1992) distingue parmi les langues
 m&ocirc;n-khm&egrave;res
@@ -189,9 +185,8 @@ oppositions entre consonnes initiales -- la m&ecirc;me source
 qui a donn&eacute; en vietnamien (autre langue
 m&ocirc;n-khm&egrave;re) une bipartition du
 syst&egrave;me tonal.</span><o:p></o:p><br>
-            </span></h3>
-            <div style="text-align: justify;"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Tous
+            </span>
+            <div style="text-align: justify;"><span>Tous
 ces d&eacute;veloppements innovants constituent une
 r&eacute;ponse
 &agrave; titre compensatoire &agrave; la perte de l'opposition
@@ -377,8 +372,7 @@ pronounced with lowering of the larynx</big></i><big>"
               </tbody>
             </table>
             </div>
-            <p class="MsoNormal" style="text-align: justify;"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Une
+            <p class="MsoNormal" style="text-align: justify;"><span>Une
 &eacute;volution plus r&eacute;cente, ind&eacute;celable au
 moment de
 l'&eacute;tude d'Henderson, consiste en un d&eacute;veloppement
@@ -391,8 +385,7 @@ et les oppositions lexicales ant&eacute;rieures sont maintenues
 sous la forme d'une opposition tonale (Kirby
 2014).&nbsp;<o:p></o:p><br>
             </span></p>
-            <p class="MsoNormal" style="text-align: justify;"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Le
+            <p class="MsoNormal" style="text-align: justify;"><span>Le
 khmer porte la trace de diverses influences (Higham 2002
 :
 14). Le sanskrit et le pali ont principalement apport&eacute; des
@@ -415,10 +408,8 @@ locuteur du cham de la fa&ccedil;ade maritime centrale du Vietnam"
             <span style="font-weight: bold; text-decoration: underline;"><br>
             </span></p>
             <h3><span style="font-weight: bold;">1.2.
-L'importance du dialecte khmer des Cardamomes</span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p></o:p></span></h3>
-            <span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Le
+L'importance du dialecte khmer des Cardamomes</span><span><o:p></o:p></span></h3>
+            <span>Le
 khmer est principalement parl&eacute; au Cambdoge et dans les zones
 frontali&egrave;res&nbsp;(khmer de Surin en Tha&iuml;lande,
 et
@@ -438,8 +429,7 @@ moyen commence avec le XVIe si&egrave;cle" (Ferlus 1992 : 58).</span>
  style="width: 413px; height: 234px;" alt="middlekhmer"
  src="khmer_dialects.jpg"><br>
             </div>
-            <p class="MsoNormal" style="text-align: justify;"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Le
+            <p class="MsoNormal" style="text-align: justify;"><span>Le
 khmer des Cardamomes est parl&eacute;
 des deux
 c&ocirc;t&eacute;s de la
@@ -458,10 +448,8 @@ trouv&eacute; refuge dans la zone de la cha&icirc;ne des
 Cardamomes.
 Depuis cet &eacute;v&eacute;nement, le khmer des Cardamomes et
 le khmer
-central auraient peu &agrave; peu diverg&eacute;.</span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"></span></p>
-            <div style="text-align: justify;"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Le
+central auraient peu &agrave; peu diverg&eacute;.</span><span></span></p>
+            <div style="text-align: justify;"><span>Le
 khmer des&nbsp;Cardamomes conna&icirc;t une distinction entre
 le
 premier registre (registre haut :
@@ -501,31 +489,26 @@ voyelles, et quelques diff&eacute;rences au plan de la m&eacute;lodie).</span><b
 Les documents archiv&eacute;s : enregistrements audio
 de&nbsp;Marie Alexandrine
 Martin</strong></h2>
-            <p><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Marie
+            <p><span>Marie
 Alexandrine Martin (1932 - 2013) &eacute;tait une botaniste et une
 ethnologue du
 CNRS, rattach&eacute;e au Centre de Recherche sur
-l'Extr&ecirc;me-Orient de Paris-Sorbonne (CREOPS). </span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Entre
+l'Extr&ecirc;me-Orient de Paris-Sorbonne (CREOPS). </span><span>Entre
 1965 et 1972, elle a men&eacute; des recherches ethnobotaniques et
 ethnolinguistiques dans la r&eacute;gion de la cha&icirc;ne des
 Cardamomes (villages khmers et p&eacute;ars), mais
 &eacute;galement
 aupr&egrave;s des populations khm&egrave;res et
 p&eacute;ars de
-Tha&iuml;lande. </span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p><br>
-            </o:p><o:p></o:p></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><br>
+Tha&iuml;lande. </span><span><o:p><br>
+            </o:p><o:p></o:p></span><span><br>
 Une s&eacute;lection de r&eacute;f&eacute;rences
 bibliographiques
 de&nbsp;Marie Alexandrine Martin est disponible sur le site de l'<a
  href="http://aefek.free.fr/travaux/news00010359.html" target="_blank">AEFEK</a>
 (Association
 d&rsquo;Echanges et de Formation pour les Etudes
-Khm&egrave;res). </span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Outre
+Khm&egrave;res). </span><span>Outre
 ses travaux universitaires, elle a &eacute;crit des
 livres
 &agrave; destination du grand public fond&eacute;s sur ses
@@ -538,8 +521,7 @@ document&eacute;e entre 1965 et la fin des ann&eacute;es 90
  href="http://aefek.free.fr/travaux/news00010359.html"><span
  style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: windowtext;"></span></a><span
  class="MsoHyperlink"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: windowtext;"><o:p></o:p></span></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p><br>
+ style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: windowtext;"><o:p></o:p></span></span><span><o:p><br>
             </o:p><br>
 Les ressources mises &agrave; disposition ici<span
  style="font-style: italic;"></span>
@@ -562,10 +544,8 @@ en ligne de ses donn&eacute;es. La num&eacute;risation a
 Michaud, tandis que
 le catalogage a &eacute;t&eacute; conduit par Michel Ferlus et
 Julien
-Heurdier.<o:p></o:p></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p><br>
-            </o:p></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Le
+Heurdier.<o:p></o:p></span><span><o:p><br>
+            </o:p></span><span>Le
 fonds&nbsp;Marie Alexandrine Martin est compos&eacute; de
 plusieurs
 enregistrements de dialectes khmers et de langues p&eacute;ariques

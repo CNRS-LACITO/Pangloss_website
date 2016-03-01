@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-<head>
-<!-- InstanceBegin template="/Templates/pangloss_seconde-navgauche-navdroite.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- InstanceBegin template="/Templates/pangloss_seconde-navgauche-navdroite.dwt" codeOutsideHTMLIsLocked="false" --><head>
+
   <meta http-equiv="Content-Language" content="fr">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -322,8 +322,7 @@ Sud-Est (Laos, Vietnam et Birmanie). Ces enregistrements ont
 &eacute;t&eacute;
 r&eacute;alis&eacute;s entre 1965 et 2000<span
  style="font-style: italic;"></span>.
-            <span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Les
+            <span>Les
 enregistrements de khamou (khmu), qui constituent l'ensemble le plus
 &eacute;tendu, sont pr&eacute;sent&eacute;s sur <a href="Khmu.php"
  target="_blank">une page
@@ -385,7 +384,7 @@ Glottolog</span></td>
 Pray; Prai; Lua')</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Phay" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Khmuic</span></small></td>
@@ -421,9 +420,9 @@ r&eacute;cits</small></td>
                   <small>(Brou;
 Bru; B'ru; Baru; Brou; S&ocirc;)</small></td>
                   <td
- style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
- src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
+ style="background-color: rgb(255, 255, 255); text-align: center;"><!--<a
+ href="../tools/list_rsc.php?lg=Bru" target="_blank"><img
+ src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a>--><i>En cours de traitement</i></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Katuic</span></small></td>
                   <td
@@ -463,9 +462,9 @@ Bru</a> (<span style="font-style: italic;">Ethnologue</span>)<br>
                   <small>(Khamet;
 Lamet; Xmet)</small></td>
                   <td
- style="background-color: rgb(255, 255, 255); text-align: center;"><a
+ style="background-color: rgb(255, 255, 255); text-align: center;"><!--<a
  href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
- src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
+ src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a>--><i>En cours de traitement</i></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Palaungic/Palaung-Wa&nbsp;</span></small></td>
                   <td
@@ -500,7 +499,7 @@ r&eacute;cits</small></td>
 Nhaheun; Yaheun; Nyahon)</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Nyaheun" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Bahnaric</span></small></td>
@@ -534,7 +533,7 @@ questions/r&eacute;ponses</small></td>
  style="font-weight: bold;">Laven</span></big></small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Laven" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Bahnaric</span></small></td>
@@ -576,7 +575,7 @@ questions/r&eacute;ponses</small></td>
                   </td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Palaung" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>M&ocirc;n:
                   <span style="font-style: italic;">Monic</span><br>
@@ -632,7 +631,7 @@ U')</small></div>
                   </td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Kháng" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Palaungic&nbsp;</span></small></td>
@@ -666,7 +665,7 @@ chants<span style="font-weight: bold;"></span></small></td>
 Ksing Mul; Puoc; Xinh Mun)</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Ksing Mun" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Khmuic</span></small></td>
@@ -697,7 +696,7 @@ La, Vietnam</small></td>
 Coong; Mangkong)</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Makong dialect of Bru" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;"><span style="font-style: italic;">dialecte
@@ -724,7 +723,7 @@ Eastern</a>" on <span style="font-style: italic;">Ethnologue</span></small></td>
                   </td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Mảng" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>pr&eacute;sum&eacute;
 &ecirc;tre <span style="font-style: italic;">Pakanic</span></small></td>

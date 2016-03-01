@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-<head>
-<!-- InstanceBegin template="/Templates/pangloss_seconde-navgauche-navdroite_en.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- InstanceBegin template="/Templates/pangloss_seconde-navgauche-navdroite_en.dwt" codeOutsideHTMLIsLocked="false" --><head>
+
   <meta http-equiv="Content-Language" content="fr">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -150,10 +150,10 @@ Pangloss Home</a> &gt; <a href="../index_en.htm#asia"> Asian Languages</a>
             </p>
             <p>&nbsp;</p>
             <h4 align="left">Resources:</h4>
-            <p>
+            <p class="intertitre">
             <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20"> <a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">All
+ href="../tools/list_rsc_en.php?lg=Phunoi" target="_blank">All
 available resources here </a></p>
             <p>&nbsp;</p>
             <span style="font-weight: bold;">Contents

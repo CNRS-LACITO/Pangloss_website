@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-<head>
-<!-- InstanceBegin template="/Templates/pangloss_seconde-navgauche-navdroite_en.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- InstanceBegin template="/Templates/pangloss_seconde-navgauche-navdroite_en.dwt" codeOutsideHTMLIsLocked="false" --><head>
+
   <meta http-equiv="Content-Language" content="fr">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -145,14 +145,14 @@ Corpus<br>
             </h1>
             <p style="font-weight: bold;"></p>
             <p style="font-weight: bold;">Resources:</p>
-            <p> <img
+            <p class="intertitre"> <img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20">
-            <a href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem"
+            <a href="../tools/list_rsc_en.php?lg=Cardamom Khmer"
  target="_blank">All
 available resources in Cardamom Khmer here </a></p>
-            <p>&nbsp;<img
+            <p class="intertitre">&nbsp;<img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20">
-            <a href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem"
+            <a href="../tools/list_rsc_en.php?lg=Krom Khmer"
  target="_blank">Available resources in Khmer Krom here</a><span
  style="font-weight: bold;"></span></p>
             <p style="text-align: left;" class="intertitre"><span
@@ -198,7 +198,7 @@ established the sequence of events from voicing oppositions on initials
 to phonation-type oppositions and finally to vowel contrasts</p>
             <br>
             <br>
-            </div>
+        
             <div align="center">
             <table class="MsoTableGrid"
  style="border: medium none ; border-collapse: collapse; width: 717px; height: 231px;"
@@ -467,28 +467,20 @@ spoken in or around the Cardamom mountains (West Cambodia and East
 Thailand). It also includes a short recording of Brao and Tampuan
 (Bahnaric languages of Ratanakiri province, North-East
 Cambodia). </p>
-            <p class="EndNoteBibliography"> <span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"><small><span
- style="font-weight: bold;"></span></small>The
+            <p class="EndNoteBibliography"> <span><span
+ style="font-weight: bold;"></span>The
 Khmer corpus of the&nbsp;Marie Alexandrine Martin's collection
 mainly contains recordings collected in the Cardamom area</span><font
- size="+1"><span xml:lang="km" lang="km"></span></font><span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"></span><span
- xml:lang="th" lang="th"> </span><span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US">in
+ size="+1"><span xml:lang="km" lang="km"></span></font><span></span><span
+ xml:lang="th" lang="th"> </span><span>in
 two major spots:<o:p></o:p></span></p>
-            <p class="EndNoteBibliography"><span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US">1)
+            <p class="EndNoteBibliography"><span>1)
 in South-Western Cambodia:<br>
             </span></p>
             <ul>
-              <li><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">Koh
-Kong province</span><span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US">,
-Thma Bang district</span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"> (11&deg;49&rsquo;N
+              <li><span>Koh
+Kong province</span><span>,
+Thma Bang district</span><span> (11&deg;49&rsquo;N
 &ndash; 103&deg;25&rsquo;E ; close to Pursat province),
 communes of Ta Tey Leu and&nbsp;Ruessei Chrum, which are in the
 middle
@@ -496,15 +488,9 @@ of the Cardamom mountains. In 1998, Thma Bang district had fewer that
 3000
 inhabitants,
 which are largely rural-based and mostly rely on agriculture and
-forestry.<o:p></o:p></span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"></span></li>
-              <li><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">Koh Kong
-province,&nbsp;Srae Ambel district</span> <span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">(11&deg;30&rsquo;N
+forestry.<o:p></o:p></span><span></span></li>
+              <li><span>Koh Kong
+province,&nbsp;Srae Ambel district</span> <span>(11&deg;30&rsquo;N
 &ndash; 103&deg;10&rsquo;E ; close to Kampot province),
 coastal commune
 of Chhk&ecirc; Prus at the foot of the Damrei/Elephant mountains, a
@@ -514,9 +500,7 @@ southern offshoot of the Cardamom mountains.</span></li>
             <p style="text-align: center;" class="EndNoteBibliography"><img
  style="width: 644px; height: 659px;" alt="kohkong" src="map_khm.png"></p>
             <p style="text-align: center; font-weight: bold;"
- class="EndNoteBibliography"><small><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"><o:p></o:p></span><span
+ class="EndNoteBibliography"><small><span><o:p></o:p></span><span
  style="text-decoration: underline;">Map of Koh Kong
 province</span> (from <a
  href="http://www.mappery.com/Kaoh-Kong-Province-Cambodia-Road-Map-Koh-Kong"
@@ -524,25 +508,15 @@ province</span> (from <a
             <p class="EndNoteBibliography"><br>
             <br>
             <br>
-            <span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">2)
+            <span>2)
 in Eastern
 Thailand, Chanthaburi province</span><span class="lang-th" xml:lang="th"
- lang="th"></span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">, Pong Nam Ron
-district</span><span lang="th"> </span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">(12&deg;54&rsquo;21&rsquo;&rsquo;N
+ lang="th"></span><span>, Pong Nam Ron
+district</span><span lang="th"> </span><span>(12&deg;54&rsquo;21&rsquo;&rsquo;N
 &ndash;
 102&deg;15&rsquo;46&rsquo;&rsquo;E), Thap
-Sai subdistrict</span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">, commune of Thung Krang.<o:p></o:p></span></p>
-            <p class="EndNoteBibliography"><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">These
+Sai subdistrict</span><span>, commune of Thung Krang.<o:p></o:p></span></p>
+            <p class="EndNoteBibliography"><span>These
 recordings include narratives about agrarian works, local festivities
 or
 toponymy, and lexical fieldworks.<o:p></o:p></span></p>
@@ -559,16 +533,12 @@ Krom, an area in southern Vietnam that was once part of <span
  style="background-color: rgb(255, 255, 255);">of
 lower the Khmer Empire.&nbsp;</span></p>
             <p class="EndNoteBibliography"
- style="margin-bottom: 0.0001pt; text-align: justify;"><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">Marie
+ style="margin-bottom: 0.0001pt; text-align: justify;"><span>Marie
 Alexandrine Martin (who could speak Khmer) worked with a female
 Khmer-speaking collaborator. During lexical elicitation, she gives a
 Khmer version of an item as a prompt, and the Cardamom Khmer consultant
 says the word twice in Cardamom Khmer. Marie Martin's collaborator
-also&nbsp;</span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">acted as respondent during the
+also&nbsp;</span><span>acted as respondent during the
 collection of
 tales, to help rekindle the storyteller's eloquence.</span></p>
             <p style="text-align: justify;">A technical note:

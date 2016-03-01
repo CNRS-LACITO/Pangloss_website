@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-<head>
-<!-- InstanceBegin template="/Templates/pangloss_seconde-navgauche-navdroite_en.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- InstanceBegin template="/Templates/pangloss_seconde-navgauche-navdroite_en.dwt" codeOutsideHTMLIsLocked="false" --><head>
+
   <meta http-equiv="Content-Language" content="fr">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -315,8 +315,7 @@ conducted fieldwork on&nbsp;different branches of the Mon-Khmer
 language family, spoken in
 a wide area of Southeastern Asia (Laos, Vietnam and Burma). His
 recordings&nbsp;were collected&nbsp;between 1965 and 2000<span
- style="font-style: italic;"></span>.&nbsp;<span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Recordings
+ style="font-style: italic;"></span>.&nbsp;<span>Recordings
 of Khmu (Khamou), which constitute the biggest set in Michel Ferlus's
 collection of Austroasiatic languages, are presented on <a
  href="Khmu_en.php" target="_blank">a web page
@@ -346,8 +345,7 @@ also have pages of their own:</span></p>
                 </tr>
               </tbody>
             </table>
-            <p><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">The
+            <p><span>The
 other languages in Ferlus's Austroasiatic collections are
 presented in the table below in chronological order. Click on the icon
 in the 'Available resources' column to access the recordings.</span></p>
@@ -384,7 +382,7 @@ Glottolog</span></td>
 Pray; Prai; Lua')</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Phay" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Phay
 is a <span style="font-style: italic;">Khmuic
@@ -422,9 +420,9 @@ narratives</small></td>
                   <small>(Brou;
 Bru; B'ru; Baru; Brou; S&ocirc;)</small></td>
                   <td
- style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
- src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
+ style="background-color: rgb(255, 255, 255); text-align: center;"><!--<a
+ href="../tools/list_rsc.php?lg=Bru" target="_blank"><img
+ src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a>--><i>Coming soon</i></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Bru
 is a <span style="font-style: italic;">Katuic
 language</span> of the Austroasiatic
@@ -466,9 +464,9 @@ Bru</a> (<span style="font-style: italic;">Ethnologue</span>)<br>
                   <small>(Khamet;
 Lamet; Xmet)</small></td>
                   <td
- style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
- src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
+ style="background-color: rgb(255, 255, 255); text-align: center;"><!--<a
+ href="../tools/list_rsc.php?lg=Rmet" target="_blank"><img
+ src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a>--><i>Coming soon</i></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Rmet
 is a <span style="font-style: italic;">Palaungic/Palaung-Wa
 language</span> of the Austroasiatic
@@ -505,7 +503,7 @@ different narratives about emigration, rituals</small></td>
 Nhaheun; Yaheun; Nyahon)</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Nyaheun" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Nya-heun
 is a <span style="font-style: italic;">Bahnaric
@@ -593,7 +591,7 @@ question/answers in Laven</small></td>
                   </td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Palaung" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>M&ocirc;n
 is a <span style="font-style: italic;">Monic
@@ -654,7 +652,7 @@ U')</small></div>
                   </td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Kháng" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Kh&aacute;ng&nbsp;is
 a <span style="font-style: italic;">Palaungic
@@ -692,7 +690,7 @@ duet singing (in Tai)</small></td>
 Ksing Mul; Puoc; Xinh Mun)</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Ksing Mun" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Ksing
 Mun is a <span style="font-style: italic;">Khmuic
@@ -726,7 +724,7 @@ elicitation</small></td>
 Coong; Mangkong)</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Makong dialect of Bru" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Mankong
 is a <span style="font-style: italic;">Bru
@@ -754,7 +752,7 @@ Eastern</a>" on <span style="font-style: italic;">Ethnologue</span></small></td>
                   </td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Mảng" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Mảng
 could be a <span style="font-style: italic;">Pakanic

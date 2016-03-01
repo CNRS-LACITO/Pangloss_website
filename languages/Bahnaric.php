@@ -142,10 +142,10 @@ et tampuan </h1>
             <p>&nbsp;</p>
             <h4 align="left">Ressources
 :</h4>
-            <p>
+            <p class="intertitre">
             <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20"> <a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">Acc&egrave;s
+ href="../tools/list_rsc_en.php?lg=Tampuan" target="_blank">Acc&egrave;s
 &agrave; toutes les ressources </a></p>
             <p>&nbsp;</p>
             <span style="font-weight: bold;">Contenu
@@ -244,31 +244,26 @@ voisin.&nbsp;<br>
 Les documents archiv&eacute;s :&nbsp;<strong>enregistrements audio
 de&nbsp;</strong>Marie Alexandrine
 Martin</strong></h2>
-            <p style="text-align: justify;"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Marie
+            <p style="text-align: justify;"><span>Marie
 Alexandrine Martin (1932 - 2013) &eacute;tait une botaniste et une
 ethnologue du
 CNRS, rattach&eacute;e au Centre de Recherche sur
-l'Extr&ecirc;me-Orient de Paris-Sorbonne (CREOPS). </span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Entre
+l'Extr&ecirc;me-Orient de Paris-Sorbonne (CREOPS). </span><span>Entre
 1965 et 1972, elle a men&eacute; des recherches ethnobotaniques et
 ethnolinguistiques dans la r&eacute;gion de la cha&icirc;ne des
 Cardamomes (villages khmers et p&eacute;ars), mais
 &eacute;galement
 aupr&egrave;s des populations khm&egrave;res et
 p&eacute;ars de
-Tha&iuml;lande. </span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p><br>
-            </o:p><o:p></o:p></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><br>
+Tha&iuml;lande. </span><span><o:p><br>
+            </o:p><o:p></o:p></span><span><br>
 Une s&eacute;lection de r&eacute;f&eacute;rences
 bibliographiques
 de&nbsp;Marie Alexandrine Martin est disponible sur le site de l'<a
  href="http://aefek.free.fr/travaux/news00010359.html" target="_blank">AEFEK</a>
 (Association
 d&rsquo;Echanges et de Formation pour les Etudes
-Khm&egrave;res). </span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Outre
+Khm&egrave;res). </span><span>Outre
 ses travaux universitaires, elle a &eacute;crit des
 livres
 &agrave; destination du grand public fond&eacute;s sur ses
@@ -281,8 +276,7 @@ document&eacute;e entre 1965 et la fin des ann&eacute;es 90
  href="http://aefek.free.fr/travaux/news00010359.html"><span
  style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: windowtext;"></span></a><span
  class="MsoHyperlink"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: windowtext;"><o:p></o:p></span></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p><br>
+ style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; color: windowtext;"><o:p></o:p></span></span><span><o:p><br>
             </o:p><br>
 Les ressources mises &agrave; disposition ici<span
  style="font-style: italic;"></span>
@@ -305,10 +299,8 @@ en ligne de ses donn&eacute;es. La num&eacute;risation a
 Michaud, tandis que
 le catalogage a &eacute;t&eacute; conduit par Michel Ferlus et
 Julien
-Heurdier.<o:p></o:p></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p><br>
-            </o:p></span><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Le
+Heurdier.<o:p></o:p></span><span><o:p><br>
+            </o:p></span><span>Le
 fonds&nbsp;Marie Alexandrine Martin est compos&eacute; de
 plusieurs
 enregistrements de dialectes khmers et de langues p&eacute;ariques
@@ -318,17 +310,11 @@ des&nbsp;Cardamomes
 (Cambodge de l'Ouest et Tha&iuml;lande de l'Est).
 Le fonds inclue &eacute;galement un enregistrement de brou et de
 tampuan (langues bahnariques de la province de Rotanah Kiri, Nord-Est
-du Cambodge).</span><span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"></span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"></span><span style="font-weight: bold;"></span></p>
-            <p><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">Le
+du Cambodge).</span><span></span><span></span><span style="font-weight: bold;"></span></p>
+            <p><span>Le
 corpus de langues bahnariques du fonds&nbsp;Marie Alexandrine
 Martin
-consiste en un enregistrement d'une enqu&ecirc;te linguistique</span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">
+consiste en un enregistrement d'une enqu&ecirc;te linguistique</span><span>
 (vocabulaire botanique, voir ci-dessus pour le contexte de recueil de
 ces donn&eacute;es). Cet &eacute;chantillon de
 donn&eacute;es ne

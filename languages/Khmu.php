@@ -128,7 +128,8 @@ align="texttop"
 ?>
 			
 			<!-- InstanceEndEditable --></div>
-            <div id="ZonePrint" class="ZonePrint"><!-- InstanceBeginEditable name="Contenu" -->
+      <div id="ZonePrint" class="ZonePrint">    
+      <!-- InstanceBeginEditable name="Contenu" -->
             <h1 align="center">Corpus
 khamou (khmu) </h1>
             <p>&nbsp;</p>
@@ -137,13 +138,13 @@ khamou (khmu) </h1>
             <p>&nbsp;</p>
             <h4 align="left">Ressources
 :</h4>
-            <p>
+            <p class="intertitre">
             <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20"> <a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">Acc&egrave;s
+ href="../tools/list_rsc_en.php?lg=Khmu" target="_blank">Acc&egrave;s
 &agrave; toutes les ressources </a></p>
             <p>&nbsp;</p>
-            <span style="font-weight: bold;">Contenu
+            <span style="font-weight: bold;" >Contenu
 de la page :</span> <a href="#language">1. A propos du khamou</a>
 -- <a href="#archived_doc">2.
 A propos des documents</a> -- <a href="#references">3.
@@ -215,14 +216,11 @@ sa documentation et son &eacute;tude.&nbsp; </p>
             <br>
             <h2><strong><a name="archived_doc"></a>2.
 Les documents archiv&eacute;s</strong></h2>
-            <p style="text-align: justify;"><span
- style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Michel
+            <p style="text-align: justify;"><span>Michel
 Ferlus a recueilli des donn&eacute;es khamoues de 1963 &agrave;
 la fin
 des ann&eacute;es 70. Au fil de ces ann&eacute;es de collecte et
-d'analyse, Ferlus a appris le khamou, qu'il parle couramment.</span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"> Le recueil de son corpus khamou
+d'analyse, Ferlus a appris le khamou, qu'il parle couramment.</span><span> Le recueil de son corpus khamou
 repr&eacute;sente son
 travail de terrain le plus approfondi : il a collect&eacute;
 suffisamment de donn&eacute;es pour r&eacute;aliser
@@ -255,9 +253,7 @@ disposition de tous. Les linguistes qui souhaiteraient participer
 num&eacute;risation et mise en forme des collections sont
 invit&eacute;s &agrave; contacter leur auteur (Michel Ferlus) et
 l'&eacute;quipe de la Collection Pangloss.&nbsp;</span></p>
-            <p style="text-align: justify;"><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">Les documents enregistr&eacute;s se composent
+            <p style="text-align: justify;"><span>Les documents enregistr&eacute;s se composent
 essentiellement de r&eacute;cits et de
 chants et incantations. Pour donner une id&eacute;e de la richesse des
 donn&eacute;es khamoues de Michel Ferlus, on ne citera ici qu'un
@@ -269,11 +265,9 @@ de Chuang et ses implications historiques pour le Nord-Laos", in Asie
 du sud-est et Monde Insulindien, vol. 10, no. 2-4.) &nbsp;James
 Chamberlain &eacute;crit au sujet de la version tai de ce r&eacute;cit:</span>
             <span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"></span></p>
+></span></p>
             <div style="text-align: justify;"><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">"... le
+>"... le
 po&egrave;me &eacute;pique de Thao Tung ou Cheuang est
 peut-&ecirc;tre
 la pi&egrave;ce la plus importante de toute la
@@ -304,14 +298,11 @@ existant &agrave; propos de l'ancienne civilisation tha&iuml;e,
 et
 repr&eacute;sente un source d'informations consid&eacute;rable
 [...]." </span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"></span><br>
+></span><br>
             <span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"></span></div>
+></span></div>
             <div style="text-align: right;"><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">Chamberlain,
+>Chamberlain,
 James. 1990. "Thao Hung or Cheuang: A Tai Epic Poem" in Mon-Khmer
 Studies, vol. 18-19, pp. 14-34; notre traduction.</span></div>
             <ul>
@@ -319,20 +310,16 @@ Studies, vol. 18-19, pp. 14-34; notre traduction.</span></div>
             <p class="EndNoteBibliography"
  style="margin-bottom: 0.0001pt; text-align: justify;">
             <span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">Michel Ferlus a travaill&eacute; avec
+>Michel Ferlus a travaill&eacute; avec
 plusieurs collaborateurs qui ont jou&eacute; </span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">un r&ocirc;le essentiel lors de
+>un r&ocirc;le essentiel lors de
 t&acirc;ches de narration,
 intervenant durant le r&eacute;cit de l'informateur afin de l'aider
 &agrave; poursuivre ou en relan&ccedil;ant le r&eacute;cit
 &agrave;
 l'aide de questions</span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US"> durant des entretiens</span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">. Tous les participants aux enregistrements n'ont pu
+> durant des entretiens</span><span
+>. Tous les participants aux enregistrements n'ont pu
 &ecirc;tre identifi&eacute;s &agrave; ce jour (2016); nous
 esp&eacute;rons &ecirc;tre en mesure d'enrichir progressivement les
 m&eacute;tadonn&eacute;es de nouvelles informations au fil du
@@ -681,52 +668,39 @@ mise &agrave; jour : 2016.</p>
 de la page : Julien Heurdier. <a href="../../membres/michaud.htm">Contact
 : Alexis
 Michaud</a></p>
-<!-- InstanceEndEditable --></div>
-            </td>
-          </tr>
-          <tr>
-            <td>
-            <table border="0">
-              <tbody>
-                <tr>
-                  <td class="XnavgaucheIcones" align="center"
- width="1000"><img src="../../z-outils/images/charte/icones-01.gif"
- alt="" usemap="#Map2" border="0" height="55" width="150"></td>
-                </tr>
-              </tbody>
-            </table>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-      </td>
-    </tr>
-  </tbody>
+<!-- InstanceEndEditable --></div></td>
+    
+ </tr>
+ <tr>
+        <td>
+        <table border="0">
+        <tr>
+    <td width="1000" class="XnavgaucheIcones" align="center"><img src="../../z-outils/images/charte/icones-01.gif" alt="" width="150" height="55" border="0" usemap="#Map2"></td>
+   
+  </tr>
+  </table>
+  </td>
+  </tr> 
 </table>
+
+</table>
+
+
 <p>
-<script type="text/javascript">function Go(){return}</script>
-<script type="text/javascript"
- src="../../z-outils/deroulants/pangloss_top_pos_var.js"></script>
-<script type="text/javascript"
- src="../../z-outils/deroulants/pangloss_menu_var_en.js"></script>
-<script type="text/javascript"
- src="../../z-outils/deroulants/pangloss_menu9_com.js"></script></p>
-<noscript> <p>Your browser
-does not support script</p>
+  <script type='text/javascript'>function Go(){return}</script>
+  <script type='text/javascript' src='../../z-outils/deroulants/top_pos_var.js'></script>
+  <script type='text/javascript' src='../../z-outils/deroulants/pangloss_menu_var.js'></script>
+  <script type='text/javascript' src='../../z-outils/deroulants/pangloss_menu9_com.js'></script>
+</p>
+<noscript>
+ <p>Your browser does not support script</p>
 </noscript>
-<map name="Map2">
-<area shape="rect" coords="28,23,46,43" href="javascript:impression()"
- alt="Imprimer">
-<area shape="rect" coords="49,23,66,43"
- href="javascript:writemail('vjf.cnrs.fr','behaghel','',1);"
- alt="Contacter le webmestre">
-<area shape="rect" coords="68,23,85,43" href="../../pratique/index.htm"
- alt="Plan du site">
-<area shape="rect" coords="87,23,105,43"
- href="../../pratique/credits.htm" alt="Cr&eacute;dits">
-<area shape="rect" coords="8,24,24,43" href="../../index.htm"
- alt="Accueil">
+ <map name="Map2">
+   <area shape="rect" coords="28,23,46,43" href="javascript:impression()" alt="Imprimer">
+  <area shape="rect" coords="49,23,66,43" href="javascript:writemail('vjf.cnrs.fr','behaghel','',1);" alt="Contacter le webmestre">
+  <area shape="rect" coords="68,23,85,43" href="../../pratique/index.htm" alt="Plan du site">
+  <area shape="rect" coords="87,23,105,43" href="../../pratique/credits.htm" alt="Crédits">
+  <area shape="rect" coords="8,24,24,43" href="../../index.htm" alt="Accueil">
 </map>
-<!-- InstanceEnd -->
 </body>
-</html>
+<!-- InstanceEnd --></html>

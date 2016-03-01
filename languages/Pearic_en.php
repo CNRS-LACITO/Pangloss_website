@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-<head>
-<!-- InstanceBegin template="/Templates/pangloss_seconde-navgauche-navdroite_en.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- InstanceBegin template="/Templates/pangloss_seconde-navgauche-navdroite_en.dwt" codeOutsideHTMLIsLocked="false" --><head>
+
   <meta http-equiv="Content-Language" content="fr">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -147,30 +147,30 @@ Pangloss Home</a> &gt; <a href="../index_en.htm#asia"> Asian Languages</a>
 of Pearic languages </h1>
             <p>&nbsp;</p>
             <h4 align="left">Resources:</h4>
-            <p>
+            <p class="intertitre">
             <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20"> <a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">All
+ href="../tools/list_rsc_en.php?lg=Pear" target="_blank">All
 available resources for Pear here (23 recordings) </a></p>
-            <p>
+            <p class="intertitre">
             <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20"> <a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">All
+ href="../tools/list_rsc_en.php?lg=Chong Lo" target="_blank">All
 available resources for Chong Lo here (5 recordings) </a></p>
-            <p>
+            <p class="intertitre">
             <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20"> <a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">All
+ href="../tools/list_rsc_en.php?lg=Chong Heup" target="_blank">All
 available resources for Chong Heup here (3 recordings) </a></p>
-            <p>
+            <p class="intertitre">
             <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20"> <a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">Available
+ href="../tools/list_rsc_en.php?lg=Chong Tratt" target="_blank">Available
 resources for Chong Tratt here (1 recording) </a></p>
-            <p>
+            <p class="intertitre">
             <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20"> <a
- href="../tools/list_rsc_en.php?lg=Arem&amp;aff=Arem" target="_blank">Available
+ href="../tools/list_rsc_en.php?lg=Samre" target="_blank">Available
 resources for Samre here (1 recording) </a></p>
             <p></p>
             <p style="text-align: left;" class="intertitre"><span
@@ -327,39 +327,29 @@ spoken in or around the Cardamom mountains (West Cambodia and East
 Thailand). It also includes a short recording of Brao and Tampuan
 (Bahnaric languages of Ratanakiri province, North-East
 Cambodia). </p>
-            <p style="text-align: justify;"><span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US">The
+            <p style="text-align: justify;"><span>The
 Pearic languages corpus of&nbsp;Marie Alexandrine Martin's
 collection
 mainly contains recordings&nbsp;collected in the Cardamom area</span><font
- size="+1"><span xml:lang="km" lang="km"></span></font><span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US"></span><span
- xml:lang="th" lang="th"><span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">,</span></span><span
- style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;" lang="EN-US">
+ size="+1"><span xml:lang="km" lang="km"></span></font><span></span><span
+ xml:lang="th" lang="th"><span>,</span></span><span>
 in Cambodia for Pear (Kr&acirc;hung) and in Thailand for Chong Lo
 (Tung
 Kebin), Chong Heup (Ban Wang Kaphre), Chong Tratt (Dan Chumpon) and
 Samre.</span></p>
-            <p><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">These
+            <p><span>These
 recordings include narratives about agrarian works, local festivities
 or
 toponymy,&nbsp;lexical fieldworks (especially botanical
 vocabulary), and songs.</span></p>
             <p class="EndNoteBibliography"
  style="margin-bottom: 0.0001pt; text-align: justify;">
-            <span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">Marie
+            <span>Marie
 Alexandrine Martin (who could speak Khmer) worked with a female
 Khmer-speaking collaborator. During lexical elicitation, she gives a
 Khmer version of an item as a prompt, and the Pear consultant
 says the word twice in the target language. Marie Martin's collaborator
-also&nbsp;</span><span
- style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"
- lang="EN-US">acted as respondent during the
+also&nbsp;</span><span>acted as respondent during the
 collection of
 tales, to help rekindle the storyteller's eloquence.</span></p>
             <br>
