@@ -152,18 +152,18 @@ Languages</a>
             <p>&nbsp;</p>
             <h4 align="left">Resources
 :</h4>
-            <p> <img
+            <p class="intertitre"> <img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"><a
  href="../tools/list_rsc_en.php?lg=Thavung&amp;aff=Thavung" target="_blank">
 Click
 here for a list of Thavung resources</a></p>
-            <p><img
+            <p class="intertitre"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"><a
  href="../tools/list_rsc_en.php?lg=Aheu&amp;aff=Aheu" target="_blank">
 Click
 here for a list of
 Aheu (Ph&ocirc;n Soung) resources </a></p>
-            <p><br>
+            <p class="intertitre"><br>
             </p>
             <p>This language is
 variously known as Aheu, (Kha) Thavung, S&ocirc;, (Kha)
@@ -207,7 +207,7 @@ mentioned in the resettlement plan available <a
 2015), and appears on the map (page 7).</p>
             <p><br>
             </p>
-            <p><strong>The
+            <p class="intertitre"><strong>The
 archived documents: vocabulary</strong></p>
             <p>The recordings made
 available here were conducted by Michel Ferlus, in collaboration with
@@ -238,6 +238,38 @@ Southeast Asia, used to elicit the vocabulary, is available <a
  href="https://halshs.archives-ouvertes.fr/halshs-01068533/"
  target="_blank">here</a>.</p>
             <p></p>
+           
+            <p class="intertitre"><span style="font-style: italic;">Classification
+of the
+Vietic languages (a.k.a. Viet-Muong, Việt-Chứt)
+after Ferlus 1996, with links to the corresponding pages in the
+Pangloss Collection:</span>&nbsp;</p>
+            <table style="text-align: left;" ;="" border="1"
+ cellpadding="2" cellspacing="2" width="80%">
+              <tbody>
+                <tr>
+                  <td align="undefined" valign="undefined">1. <a
+ href="Maleng_en.htm" target="_blank">Maleng</a></td>
+                  <td align="undefined" valign="undefined">2. <a
+ href="Arem_en.htm" target="_blank">Arem</a></td>
+                  <td align="undefined" valign="undefined">3. <a
+ href="Chut_en.htm" target="_blank">Chứt</a></td>
+                  <td align="undefined" valign="undefined">4. Aheu
+(this page)</td>
+                  <td align="undefined" valign="undefined">5. <a
+ href="Hung_en.htm" target="_blank">Hung</a></td>
+                  <td align="undefined" valign="undefined">6. <a
+ href="Tho_en.htm" target="_blank">Thổ</a></td>
+                  <td align="undefined" valign="undefined">7. <a
+ href="Muong_en.htm" target="_blank">Mường</a></td>
+                  <td align="undefined" valign="undefined">8. <a
+ href="Vietnamese_en.htm" target="_blank">Vietnamese</a></td>
+                </tr>
+              </tbody>
+            </table>
+            <p class="intertitre"></p>
+            <p style="font-style: italic;"></p>
+            <p>&nbsp;</p>
             <p>&nbsp;</p>
             <p
  style="font-style: italic; text-align: justify;">These
@@ -268,7 +300,7 @@ Education and Research</span><span
  target="_blank"> <br>
             </a>
             <table
- style="width: 959px; height: 90px; text-align: left; margin-left: auto; margin-right: auto;"
+ style="width: 800px; height: 90px; text-align: left; margin-left: auto; margin-right: auto;"
  border="0" cellpadding="2" cellspacing="2">
               <tbody>
                 <tr>
@@ -296,41 +328,7 @@ Education and Research</span><span
                 </tr>
               </tbody>
             </table>
-            <p>&nbsp;</p>
-            <p><span style="font-style: italic;">Classification
-of the
-Vietic languages (a.k.a. Viet-Muong, Việt-Chứt)
-after Ferlus 1996, with links to the corresponding pages in the
-Pangloss Collection:</span>&nbsp;</p>
-            <table style="text-align: left;" ;="" border="1"
- cellpadding="2" cellspacing="2" width="100%">
-              <tbody>
-                <tr>
-                  <td align="undefined" valign="undefined">1. <a
- href="Maleng_en.htm" target="_blank">Maleng</a></td>
-                  <td align="undefined" valign="undefined">2. <a
- href="Arem_en.htm" target="_blank">Arem</a></td>
-                  <td align="undefined" valign="undefined">3. <a
- href="Chut_en.htm" target="_blank">Chứt</a></td>
-                  <td align="undefined" valign="undefined">4. Aheu
-(this page)</td>
-                  <td align="undefined" valign="undefined">5. <a
- href="Hung_en.htm" target="_blank">Hung</a></td>
-                  <td align="undefined" valign="undefined">6. <a
- href="Tho_en.htm" target="_blank">Thổ</a></td>
-                  <td align="undefined" valign="undefined">7. <a
- href="Muong_en.htm" target="_blank">Mường</a></td>
-                  <td align="undefined" valign="undefined">8. <a
- href="Vietnamese_en.htm" target="_blank">Vietnamese</a></td>
-                </tr>
-              </tbody>
-            </table>
-            <p></p>
-            <p style="font-style: italic;"></p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>Last updated 2015.</p>
+            <p>Last updated 2016.</p>
             <p><a href="../../membres/michaud.htm">Contact: Alexis
 Michaud</a></p>
 <!-- InstanceEndEditable --></div>

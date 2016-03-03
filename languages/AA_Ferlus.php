@@ -329,7 +329,7 @@ enregistrements de khamou (khmu), qui constituent l'ensemble le plus
 internet qui leur est d&eacute;di&eacute;e</a>.
 Les langues vietiques sont accessibles ici :&nbsp;</span></p>
             <table style="text-align: left;" ;="" border="1"
- cellpadding="2" cellspacing="2" width="100%">
+ cellpadding="2" cellspacing="2" width="80%">
               <tbody>
                 <tr>
                   <td align="undefined" valign="undefined">1. <a
@@ -357,7 +357,7 @@ Michel Ferlus sont pr&eacute;sent&eacute;es ci-dessous, par
 ordre chronologique de collecte. Cliquer sur l'ic&ocirc;ne dans la
 colonne "Ressources audio" pour acc&eacute;der aux enregistrements.</p>
             <table
- style="background-color: rgb(255, 204, 153); width: 90%; text-align: left; margin-left: auto; margin-right: auto;"
+ style="background-color: rgb(255, 204, 153); width: 80%; text-align: left; margin-left: auto; margin-right: auto;"
  border="1" cellpadding="2" cellspacing="2">
               <tbody>
                 <tr>
@@ -920,12 +920,7 @@ The Hague: Mouton.</p>
  style="margin: 0in 0in 0.0001pt 0.5in; text-indent: -0.5in;"><span
  style="font-weight: bold;"></span></p>
             <br>
-            <p class="EndNoteBibliography"
- style="margin: 0in 0in 0.0001pt 0.5in; text-indent: -0.5in;"><span
- style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,&quot;sans-serif&quot;;"
- lang="FR"></span><span style="" lang="FR"></span><span
- style="font-style: italic;"></span>
-            </p>
+            
             <p style="font-style: italic; text-align: justify;">Ces
 donn&eacute;es&nbsp;ont &eacute;t&eacute;
 num&eacute;ris&eacute;es et

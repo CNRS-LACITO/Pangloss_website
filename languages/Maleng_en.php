@@ -250,8 +250,8 @@ Pangloss Collection:</span>&nbsp;</p>
               </tbody>
             </table>
             <p class="intertitre"></p>
-            <p>&nbsp;</p>
-            <p
+            <p></p>
+             <p
  style="font-style: italic; text-align: justify;">These
 materials&nbsp;were digitized by <span
  style="font-style: italic;">the <a
@@ -280,7 +280,7 @@ Education and Research</span><span
  target="_blank"> <br>
             </a>
             <table
- style="width: 959px; height: 90px; text-align: left; margin-left: auto; margin-right: auto;"
+ style="width: 800px; height: 90px; text-align: left; margin-left: auto; margin-right: auto;"
  border="0" cellpadding="2" cellspacing="2">
               <tbody>
                 <tr>

@@ -198,7 +198,7 @@ Vietic languages (a.k.a. Viet-Muong, Việt-Chứt)
 after Ferlus 1996, with links to the corresponding pages in the
 Pangloss Collection:</span>&nbsp;</p>
             <table style="text-align: left;" ;="" border="1"
- cellpadding="2" cellspacing="2" width="100%">
+ cellpadding="2" cellspacing="2" width="80%">
               <tbody>
                 <tr>
                   <td align="undefined" valign="undefined">1. <a
@@ -222,8 +222,7 @@ Pangloss Collection:</span>&nbsp;</p>
             </table>
             <p class="intertitre"></p>
             <p> </p>
-            <p>&nbsp;</p>
-            <p
+             <p
  style="font-style: italic; text-align: justify;">These
 materials&nbsp;were digitized by <span
  style="font-style: italic;">the <a
@@ -252,7 +251,7 @@ Education and Research</span><span
  target="_blank"> <br>
             </a>
             <table
- style="width: 959px; height: 90px; text-align: left; margin-left: auto; margin-right: auto;"
+ style="width: 800px; height: 90px; text-align: left; margin-left: auto; margin-right: auto;"
  border="0" cellpadding="2" cellspacing="2">
               <tbody>
                 <tr>

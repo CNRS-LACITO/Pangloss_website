@@ -323,7 +323,7 @@ of
 their own</a>. The Vietic languages
 also have pages of their own:</span></p>
             <table style="text-align: left;" ;="" border="1"
- cellpadding="2" cellspacing="2" width="100%">
+ cellpadding="2" cellspacing="2" width="80%">
               <tbody>
                 <tr>
                   <td align="undefined" valign="undefined">1. <a
@@ -350,7 +350,7 @@ other languages in Ferlus's Austroasiatic collections are
 presented in the table below in chronological order. Click on the icon
 in the 'Available resources' column to access the recordings.</span></p>
             <table
- style="background-color: rgb(255, 204, 153); width: 90%; text-align: left; margin-left: auto; margin-right: auto;"
+ style="background-color: rgb(255, 204, 153); width: 80%; text-align: left; margin-left: auto; margin-right: auto;"
  border="1" cellpadding="2" cellspacing="2">
               <tbody>
                 <tr>

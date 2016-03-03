@@ -493,10 +493,8 @@ Jun 2001, Paris, France; translated as: &ldquo;<a target="_blank"
  href="https://halshs.archives-ouvertes.fr/halshs-01128106">Hypercorrections
 in the Thổ dialect of L&agrave;ng Lỡ (Nghệ An, Vietnam): an example
 of pitfalls for comparative linguistics</a>&rdquo;.)</p>
-<p></p>            
-            <p class="intertitre"><strong>Perspectives for future data collection: two locations remain to be investigated</strong></p>
-            <p>Michel Ferlus's fieldwork was conducted in one of three villages where L&agrave;ng Lỡ Thổ is spoken. As of 2016, the other two villages apparently remain unexplored. In view of the high dialectal diversity of the area, which encapsulates a wealth of information about the past history of Vietnamese and the Vietic group of Austroasiatic languages, these two other villages would well warrant a linguistic survey.</p>
-            <p>&nbsp;</p>
+            <p><br>
+            </p>
             <p class="intertitre"><strong>The
 archived documents: vocabulary</strong></p>
             <p>The recordings made
@@ -512,15 +510,15 @@ transcriptions.&nbsp;</p>
             <p style="font-weight: bold;">References
 and links to
 related resources:&nbsp;</p>
-<p> About L&agrave;ng Lỡ Thổ, see: &ldquo;<a target="_blank"
+- About L&agrave;ng Lỡ Thổ, see: &ldquo;<a target="_blank"
  href="https://halshs.archives-ouvertes.fr/halshs-01128106">Hypercorrections
 in the Thổ dialect of L&agrave;ng Lỡ (Nghệ An, Vietnam): an example
 of pitfalls for comparative linguistics</a>&rdquo;
 by Michel Ferlus
-(2001).</p> 
-<p>See also (in this
-Collection) the data sets for Cuối
-Chăm (this page), and for <a href="Vietnamese_en.htm#CAOLAOHA" target="_blank">Cao
+(2001). - See also (in this
+Collection) the data sets for <a href="Cuoi_Cham_en.htm"
+ target="_blank">Cuối
+Chăm</a>, and for <a href="Vietnamese_en.htm#CAOLAOHA" target="_blank">Cao
 Lao Hạ</a> and <a href="Vietnamese_en.htm#PHONGNHA">Phong Nha</a>,
 two heterodox dialects
 of Vietnamese which raise similar issues for comparative-linguistic
@@ -540,7 +538,7 @@ Vietic languages (a.k.a. Viet-Muong, Việt-Chứt)
 after Ferlus 1996, with links to the corresponding pages in the
 Pangloss Collection:</span>&nbsp;</p>
             <table style="text-align: left;" ;="" border="1"
- cellpadding="2" cellspacing="2" width="100%">
+ cellpadding="2" cellspacing="2" width="80%">
               <tbody>
                 <tr>
                   <td align="undefined" valign="undefined">1. <a
@@ -563,7 +561,8 @@ page)</td>
               </tbody>
             </table>
             <p class="intertitre"></p>
-            <p>&nbsp;</p>
+            <p style="font-style: italic;"><span
+ style="font-style: italic;"></span></p>
             <p
  style="font-style: italic; text-align: justify;">These
 materials&nbsp;were digitized by <span
@@ -593,7 +592,7 @@ Education and Research</span><span
  target="_blank"> <br>
             </a>
             <table
- style="width: 959px; height: 90px; text-align: left; margin-left: auto; margin-right: auto;"
+ style="width: 800px; height: 90px; text-align: left; margin-left: auto; margin-right: auto;"
  border="0" cellpadding="2" cellspacing="2">
               <tbody>
                 <tr>
@@ -621,10 +620,8 @@ Education and Research</span><span
                 </tr>
               </tbody>
             </table>
-            <p style="font-style: italic;"><span
- style="font-style: italic;"></span></p>
-
-
+            <p>Last updated 2016.</p>
+            <p>&nbsp;</p>
             <p>&nbsp;</p>
             <h1 align="center"><a name="Vietnamese"></a>Ngữ
 liệu tiếng Cuối Chăm</h1>
@@ -1088,7 +1085,7 @@ từ <a href="https://halshs.archives-ouvertes.fr/halshs-01068533/"
  target="_blank">ở đ&acirc;y</a>).</p>
             <p></p>
             <p style="font-style: italic;">C&aacute;c
-tư liệu này đ&atilde; được số h&oacute;a
+tư liệu về tiếng Cuối Chăm đ&atilde; được số h&oacute;a
 v&agrave; bi&ecirc;n tập lại. Đ&acirc;y l&agrave; một
 phần của dự &aacute;n k&eacute;o d&agrave;i từ
 th&aacute;ng 9/2014 đến th&aacute;ng 2/2016, với ng&acirc;n
