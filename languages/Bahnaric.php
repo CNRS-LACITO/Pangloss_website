@@ -134,7 +134,7 @@ align="texttop"
 			
 
             <h1 align="center">Corpus
-de langues bahnariques: brao (bru)
+de langues bahnariques: brao (brou)
 et tampuan </h1>
             <p>&nbsp;</p>
             <p>

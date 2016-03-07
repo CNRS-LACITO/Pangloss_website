@@ -575,7 +575,7 @@ questions/r&eacute;ponses</small></td>
                   </td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Palaung" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Palaong" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>M&ocirc;n:
                   <span style="font-style: italic;">Monic</span><br>
