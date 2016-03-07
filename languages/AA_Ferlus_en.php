@@ -591,7 +591,7 @@ question/answers in Laven</small></td>
                   </td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../tools/list_rsc.php?lg=Palaung" target="_blank"><img
+ href="../tools/list_rsc.php?lg=Palaong" target="_blank"><img
  src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>M&ocirc;n
 is a <span style="font-style: italic;">Monic
@@ -813,24 +813,6 @@ a set of austroasiatic languages whose speakers are considered
 autochtonous to the area by the other ethnic groups. The language does
 not have contrastive voiced stops. Crucially, Vietnamese and&nbsp;Mường
 show traces of a substratum that lacked voiced stops (Ferlus 1999).</p>
-            <p style="text-align: justify;">Parmi les multiples
-questions de
-recherche &agrave; explorer, les langues austroasiatiques
-parl&eacute;es dans le nord
-du Vietnam d&eacute;tiennent les clefs de la compr&eacute;hension de
-ph&eacute;nom&egrave;nes
-d'embo&icirc;tement de dialectes dont on trouve la trace dans les
-langues
-vietiques du nord (vietnamien et mường).La langue ksingmul fait partie
-d'un ensemble de langues austroasiatiques dont l'implantation au
-nord-ouest de l'actuel Vietnam
-para&icirc;t tr&egrave;s ancien; les peuples avoisinants
-consid&egrave;rent les Ksingmul
-comme autochtones. La langue ne pr&eacute;sente pas d'occlusives
-sonores. Or
-le vietnamien et le&nbsp;mường pr&eacute;servent
-pr&eacute;cis&eacute;ment des traces d'un substrat sans occlusives
-sonores (Ferlus 1999).&nbsp;</p>
             <p style="text-align: justify;">Ksing Mul is a non-tonal
 language; a comprehensive dialect survey covering all the villages
 where the Ksing Mul language is still spoken would doubtlessly bring
