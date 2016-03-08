@@ -170,9 +170,9 @@ available resources here </a></p>
             <a href="#archived_doc">2. About the documents</a> -- <a
  href="#references">3. References</a> -- <a href="#links">4. Links to
 other resources</a>
-            <p></p>
+            <p>&nbsp;</p>
             <h2><a name="languages"></a>1. About the Bahnaric languages</h2>
-            <p>The Bahnaric languages belong to the Austroasiatic
+            <p style="text-align: justify;">The Bahnaric languages belong to the Austroasiatic
 family. They are spoken in a wide area of Southeastern Asia (Vietnam,
 Cambodia and Laos). Bahnaric languages present an important internal
 diversity.&nbsp;Sidwell (2002, 2003, 2009)
@@ -182,7 +182,7 @@ Bahnaric), North Bahnaric, and East Bahnaric (see also Matras and
 Ferlus
 1971 for an overview on the Austroasiatic languages, and Thomas 1979
 about the West Bahnaric subgroup).</p>
-            <p>Like many Mon-Khmer languages, Bruu (also spelled Bru,
+            <p style="text-align: justify;">Like many Mon-Khmer languages, Bruu (also spelled Bru,
 Brou or Brao) and Tampuan don't have tones but they have two voice
 registers: vowels can be pronounced with a clear/modal voice or with a
 lax/breathy voice (Bauer 1987; Crowley 2000; Keller 2001). The vowels
