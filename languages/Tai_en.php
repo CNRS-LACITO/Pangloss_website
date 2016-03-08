@@ -495,21 +495,8 @@ H&agrave; Nội: Nh&agrave; Xuất Bản Văn H&oacute;a
 Th&ocirc;ng Tin. (Tập I: 2012, tập II: 2013, vv)</div>
 
             <p>
-Tai Pao, được coi l&agrave; phương ngữ của tiếng Th&aacute;i
+Tai Yo, được coi l&agrave; phương ngữ của tiếng Th&aacute;i
 Mường/Th&aacute;i Mương = Th&aacute;i H&agrave;ng Tổng.</p>
-
-            <h3>Presentation of the ongoing documentation work in Tuong Duong, Nghe An</h3>
-
- 
-            <p>ddddddddddd</p>
-
-            <p>xxxxxxxxxx
-            </p>
-
-            <p>xxxxxxxxxx
-            </p>
-
-            <br>
 
             <br>
 
