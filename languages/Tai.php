@@ -357,7 +357,7 @@ Yongxian
 298&ndash;316. London &amp;
 New York: Routledge.</div>
                   <br>
-Tai Pao, được coi l&agrave; phương ngữ của tiếng Th&aacute;i
+Tai Yo, được coi l&agrave; phương ngữ của tiếng Th&aacute;i
 Mường/Th&aacute;i Mương = Th&aacute;i H&agrave;ng Tổng.<br>
                   <br>
                   <br>
