@@ -112,7 +112,7 @@ align="texttop"
     
     <td class="Xchemin" height="60"> 
     <br/><br/><br/><br/>
-    &nbsp;<!-- InstanceBeginEditable name="Chemin" --> <a href="../../index_en.htm">Lacito Home</a> &gt;<a href="../index_en.htm"> Pangloss Home</a> &gt; <a href="../asie_en.htm">Asian Languages</a> &gt; Burmses Corpus <!-- InstanceEndEditable --> 
+    &nbsp;<!-- InstanceBeginEditable name="Chemin" --> <a href="../../index_en.htm">Lacito Home</a> &gt;<a href="../index_en.htm"> Pangloss Home</a> &gt; <a href="../asie_en.htm">Asian Languages</a> &gt; Burmese Corpus <!-- InstanceEndEditable --> 
     
     </tr>
   
