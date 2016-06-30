@@ -392,7 +392,7 @@ Saek (S&aelig;k, S&egrave;k) </h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"> <a href="../tools/list_rsc_en.php?lg=Saek%20Yo&amp;aff=Saek" target="_blank">All
+            <p class="intertitre"> <img src="../../images/icones/h_parleur.gif" alt="a" height="20" width="20"> <a href="../tools/list_rsc_en.php?lg=Saek&amp;aff=Saek" target="_blank">All
 available resources here </a></p>
 
             <p class="intertitre">This
