@@ -294,7 +294,7 @@ Saek (S&aelig;k, S&egrave;k) </h2>
                   <p class="intertitre">
                   <img src="../../images/icones/h_parleur.gif" alt="a"
  height="20" width="20"> <a
- href="../tools/list_rsc_en.php?lg=Saek%20Yo&amp;aff=Saek" target="_blank">Acc&egrave;s
+ href="../tools/list_rsc_en.php?lg=Saek&amp;aff=Saek" target="_blank">Acc&egrave;s
 &agrave; toutes
 les ressources </a></p>
                   <p class="intertitre"><br>
