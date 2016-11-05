@@ -1,0 +1,496 @@
+<similarities>
+<files>
+<file id="crdo-TDH_KAKCILIP" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/tdh/crdo-TDH_KAKCILIP.xml" lang="Thulung/Deusa" sound="crdo-TDH_KAKCILIP_SOUND" title="Kakcilip story" speaker="Lakpa"/>
+<file id="crdo-KKT_ORIGIN" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/kkt/crdo-KKT_ORIGIN.xml" lang="Koyi" sound="crdo-KKT_ORIGIN_SOUND" title="Origin story" speaker="Phanindra"/>
+<file id="crdo-KLR_KHAKCALOP_DHANA" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/klr/crdo-KLR_KHAKCALOP_DHANA.xml" lang="Khaling" sound="crdo-KLR_KHAKCALOP_DHANA_SOUND"  title="Khaktsalop story" speaker="Dhana"/>
+</files>
+<similarity id="1">
+<color>#EAF7FB</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S1"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S1"/>
+	</file>
+</similarity>
+<similarity id="2">
+<color>#EAFFEF</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S2"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S191"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S2"/>
+		<sentence id="S3"/>
+		<sentence id="S4"/>
+	</file>
+</similarity>
+<similarity id="3">
+<color>#FFEEFD</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S3"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S9"/>
+	</file>
+</similarity>
+<similarity id="4">
+<color>#F3F8F4</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S12"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S13"/>
+	</file>
+</similarity>
+<similarity id="5">
+<color>#F1ECFF</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S13"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S20"/>
+	</file>
+</similarity>
+<similarity id="6">
+<color>#FFFFE3</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S14"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S22"/>
+	</file>
+</similarity>
+<similarity id="7">
+<color>#F9FDFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S203"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S19"/>
+		<sentence id="S25"/>
+	</file>
+</similarity>
+<similarity id="8">
+<color>#FFECEC</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S15"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S204"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S29"/>
+	</file>
+</similarity>
+<similarity id="9">
+<color>#E6FCFF</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S15"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S208"/>
+		<sentence id="S209"/>
+	</file>
+</similarity>
+<similarity id="10">
+<color>#E0EAF8</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S16"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S210"/>
+	</file>
+</similarity>
+<similarity id="11">
+<color>#EAF7FB</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S211"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S31"/>
+	</file>
+</similarity>
+<similarity id="12">
+<color>#EAFFEF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S216"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S54"/>
+		<sentence id="S55"/>
+		<sentence id="S56"/>
+		<sentence id="S57"/>
+		<sentence id="S58"/>
+		<sentence id="S59"/>
+		<sentence id="S60"/>
+		<sentence id="S92"/>
+	</file>
+</similarity>
+<similarity id="13">
+<color>#FFEEFD</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S217"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S37"/>
+		<sentence id="S38"/>
+	</file>
+</similarity>
+<similarity id="14">
+<color>#F3F8F4</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S218"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S42"/>
+		<sentence id="S49"/>
+	</file>
+</similarity>
+<similarity id="15">
+<color>#F1ECFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S221"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S78"/>
+	</file>
+</similarity>
+<similarity id="16">
+<color>#FFFFE3</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S223"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S95"/>
+	</file>
+</similarity>
+<similarity id="17">
+<color>#F9FDFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S225"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S98"/>
+	</file>
+</similarity>
+<similarity id="18">
+<color>#FFECEC</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S226"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S99"/>
+		<sentence id="S1"/>
+	</file>
+</similarity>
+<similarity id="19">
+<color>#E6FCFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S227"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S103"/>
+	</file>
+</similarity>
+<similarity id="20">
+<color>#E0EAF8</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S228"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S106"/>
+	</file>
+</similarity>
+<similarity id="21">
+<color>#EAF7FB</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S229"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S111"/>
+	</file>
+</similarity>
+<similarity id="22">
+<color>#EAFFEF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S230"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S113"/>
+	</file>
+</similarity>
+<similarity id="23">
+<color>#FFEEFD</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S231"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S114"/>
+		<sentence id="S115"/>
+	</file>
+</similarity>
+<similarity id="24">
+<color>#F3F8F4</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S232"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S118"/>
+	</file>
+</similarity>
+<similarity id="25">
+<color>#F1ECFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S233"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S120"/>
+		<sentence id="S13"/>
+	</file>
+</similarity>
+<similarity id="26">
+<color>#FFFFE3</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S73"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S235"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S122"/>
+	</file>
+</similarity>
+<similarity id="27">
+<color>#F9FDFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S236"/>
+	</file>
+	<file id="crdo-KLR_KHAKCALOP_DHANA">
+		<sentence id="S123"/>
+	</file>
+</similarity>
+<similarity id="28">
+<color>#FFECEC</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S19"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S239"/>
+	</file>
+</similarity>
+<similarity id="29">
+<color>#E6FCFF</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S21"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S240"/>
+	</file>
+</similarity>
+<similarity id="30">
+<color>#E0EAF8</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S24"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S241"/>
+	</file>
+</similarity>
+<similarity id="31">
+<color>#EAF7FB</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S30"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S243"/>
+	</file>
+</similarity>
+<similarity id="32">
+<color>#EAFFEF</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S41"/>
+		<sentence id="S42"/>
+		<sentence id="S43"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S247"/>
+	</file>
+</similarity>
+<similarity id="33">
+<color>#FFEEFD</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S44"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S248"/>
+	</file>
+</similarity>
+<similarity id="34">
+<color>#F3F8F4</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S45"/>
+		<sentence id="S46"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S249"/>
+	</file>
+</similarity>
+<similarity id="35">
+<color>#F1ECFF</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S55"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S253"/>
+	</file>
+</similarity>
+<similarity id="36">
+<color>#FFFFE3</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S56"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S254"/>
+	</file>
+</similarity>
+<similarity id="37">
+<color>#F9FDFF</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S59"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S255"/>
+	</file>
+</similarity>
+<similarity id="38">
+<color>#FFECEC</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S62"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S257"/>
+	</file>
+</similarity>
+<similarity id="39">
+<color>#E6FCFF</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S63"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S258"/>
+	</file>
+</similarity>
+<similarity id="40">
+<color>#E0EAF8</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S65"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S262"/>
+	</file>
+</similarity>
+<similarity id="41">
+<color>#EAF7FB</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S76"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S348"/>
+	</file>
+</similarity>
+<similarity id="42">
+<color>#EAFFEF</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S79"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S349"/>
+	</file>
+</similarity>
+<similarity id="43">
+<color>#FFEEFD</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S82"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S352"/>
+	</file>
+</similarity>
+<similarity id="44">
+<color>#F3F8F4</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S84"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S353"/>
+	</file>
+</similarity>
+<similarity id="45">
+<color>#F1ECFF</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S87"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S354"/>
+	</file>
+</similarity>
+<similarity id="46">
+<color>#FFFFE3</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S86"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S356"/>
+	</file>
+</similarity>
+<similarity id="47">
+<color>#F9FDFF</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S91"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S359"/>
+	</file>
+</similarity>
+<similarity id="48">
+<color>#FFECEC</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S93"/>
+		<sentence id="S94"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S361"/>
+	</file>
+</similarity>
+<similarity id="49">
+<color>#E6FCFF</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S98"/>
+		<sentence id="S99"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S362"/>
+	</file>
+</similarity>
+<similarity id="50">
+<color>#E0EAF8</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S100"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S364"/>
+	</file>
+</similarity>
+<similarity id="51">
+<color>#EAF7FB</color>
+	<file id="crdo-TDH_KAKCILIP">
+		<sentence id="S102"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S369"/>
+	</file>
+</similarity>
+</similarities>

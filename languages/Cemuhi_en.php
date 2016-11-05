@@ -1,0 +1,55 @@
+<div>&nbsp;</div>
+<html>
+<head>
+<meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body>
+<html><head><meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
+            <div class="page-header"><h1><a name="up"></a>Cèmuhî Corpus </h1></div>
+            <div class="text-left">
+      <p class="intertitre">&nbsp;</p>
+      <p class="intertitre"><a href="../../ALC/Languages/Cemuhi_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="infos" width="15" height="15" border="0">Cèmuhî</a>: a brief note</p>
+      <p class="intertitre">&nbsp;</p>
+      <ul class="liste-liens">
+        <li><a href="#laiteron">Sow-Thistle Flowers from Pw&ouml;paat</a></li>
+        <li><a href="#crabe">The Crab and the Little Girl from Pwa&eacute;&eacute;to</a></li>
+        <li><a href="#tortue">The Tortoise and the Two Fisher Women</a></li>
+        <li><a href="#ecailles">The Scales of the Fish from Tiw&eacute;caal&egrave;</a></li>
+        <li><a href="#large">Dui Dupaan and the Girl from the Sea</a></li>
+        <li><a href="#coquillage">The Shell and the Children</a></li>
+        <li><a href="#oranger">The Children of the Orange Tree</a></li>
+        <li><a href="#fruits">The Two Wild Fruit</a></li>
+        <li><a href="#anguille">The Eel of the Wic&egrave;</a></li>
+      </ul>
+      <p class="intertitre"><br>
+        <a name="laiteron"></a><a href="../corpus/show_text_en.php?id=crdo-CAM_FLEURS_SOUND&idref=crdo-CAM_FLEURS"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Sow-thistle Flowers from Pw&ouml;paat</a><br>
+        New Caledonia,        Poyes, 1965, Célina Daulo, <a href="../../membres/rivierre.htm">Jean-Claude Rivierre</a></p>
+      <p class="ZonePrint">The two women &ldquo;Sow-thistle flowers from Pw&ouml;paat&rdquo; fish their eels, dig up their yams, then cook them once they arrive back home. Thereupon comes the ogress A-wii-d&egrave;l&egrave;-apulip who is determined to make away with their food&hellip;</p>
+      <p class="intertitre"><a name="crabe"></a><a href="../corpus/show_text_en.php?id=crdo-CAM_CRABE_SOUND&idref=crdo-CAM_CRABE"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Crab and the Little Girl from Pwa&eacute;&eacute;to</a><br>
+        New Caledonia,        Poyes, 1965, Célina Daulo, <a href="../../membres/rivierre.htm">Jean-Claude Rivierre</a></p>
+      <p class="ZonePrint">This is the story of a little girl who stayed home while her mother went off to work in the plantations. Mother Crab seized the opportunity to visit the girl, on the pretext of keeping her company. The little girl then had to find a way to get rid of her unwanted and somewhat sadistic guest...</p>
+      <p class="intertitre"><a name="tortue"></a><a href="../corpus/show_text_en.php?id=crdo-CAM_TORTUE_SOUND&idref=crdo-CAM_TORTUE"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Tortoise and the Two Fisher Women</a> <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a><br>
+        New Caledonia, Poyes, 1965 Marie Daulo, <a href="../../membres/rivierre.htm">Jean-Claude Rivierre</a></p>
+      <p class="ZonePrint">Two fisher women whose torch has gone out hope to find fire at the abode of Mother Tortoise. But she sends them away, and the two women have to find their way back home, feeling their way in the dark. For revenge, they smear the outside of Mother Tortoise&rsquo;s abode with black coal and burnt rubber. Plunged into darkness, Mother Tortoise is soon incapable of tending to the needs of her offspring...</p>
+      <p class="intertitre"><a name="ecailles"></a><a href="../corpus/show_text_en.php?id=crdo-CAM_ECAIL_SOUND&idref=crdo-CAM_ECAIL"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Scales of the Fish from Tiw&eacute;caal&egrave;</a> <br>
+        New Caledonia, Vieux-Touho, 1965, Bernadette Tyèn, <a href="../../membres/rivierre.htm">Jean-Claude Rivierre</a></p>
+      <p class="ZonePrint">This is the story of two young women: Ik&eacute; and Kaapo. Ik&eacute; goes to join Kaapo, her older sister, married to a chief on the west coast. The festivities which accompany her child&rsquo;s birth take a turn for the worse and the two women flee back home, on the east coast. The elder sister Kaapo dies but continues to haunt her sister&rsquo;s dwelling in the form of a ghost or a fish in the well. In the two episodes which make up this story, the younger sister is saved from her torments by the Mwak&eacute;n divinity, auxiliary of the masters of the earth in the Touho region.</p>
+      <p class="intertitre"><a name="large"></a><a href="../corpus/show_text_en.php?id=crdo-CAM_DUI_SOUND&idref=crdo-CAM_DUI"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Dui Dupaan and the Girl from the Sea</a><br>
+        New Caledonia,
+        Tiwa&eacute;, 1966, Jean-Baptiste Bova, <a href="../../membres/rivierre.htm">Jean-Claude Rivierre</a></p>
+      <p class="ZonePrint">This Cemuhi legend, told in Tiwa&eacute; in 1966 by Jean-Baptiste Bova, a member of the Clan of the Masters of the Earth in the Pwei Region, in the Touho back country. Using simple images, she broaches the general theme of how the chiefdoms are organized in the region. This is done in two main ways, here figured as two characters in the story: on one side the oldest occupants (Dui Dupaan and Pabu-w&ouml;l&egrave; &ldquo;Moon&rsquo;s grandsons&rdquo;), and on the other the newcomers, welcomed as the new chiefs (&ldquo;Shining finger&rdquo; and H&icirc;&ecirc; Bwanu &ldquo;Sun&rsquo;s son&rdquo;). Thus one sees an eminent member of the founders&rsquo; group take a wife no less prestigious from the world of the sea. The land man, here from the Grande Terre, lures a sea woman, most probably from the Loyalty Islands, by playing the flute. The matrimonial relations here serve to express the links between the founders of a territory and people from away. The high ranking characters here form an alliance to establish political order which is both locally anchored and open to the outside world.</p>
+      <p class="intertitre"><a name="coquillage"></a><a href="../corpus/show_text_en.php?id=crdo-CAM_COQUI_SOUND&idref=crdo-CAM_COQUI"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Shell and the Children</a> <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a><br>
+        New Caledonia,        Ty&eacute;, 1966, Sébastien Pwagu, <a href="../../membres/rivierre.htm">Jean-Claude Rivierre</a></p>
+      <p class="ZonePrint">T&egrave;c&egrave;iu&rsquo;s two sisters hide the pretty (turbo) shell they found in the recesses of their bed... Jealous of the intruder, Benjamin took advantage of his sisters&rsquo; absence to roast it and eat it. Then, incapable of bearing their reproaches, he goes down to the river to drown himself. &ldquo;Since I am not allowed to touch your turbos then have them as your consolation&rdquo; his dirge seems to say, as he slowly sinks into the river&rsquo;s waters.</p>
+      <p class="intertitre"><a name="oranger"></a><a href="../corpus/show_text_en.php?id=crdo-CAM_ORANG_SOUND&idref=crdo-CAM_ORANG"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Children of the Orange Tree</a><br>
+        New Caledonia,        Ty&eacute;, 1966, Sébastien Pwagu, <a href="../../membres/rivierre.htm">Jean-Claude Rivierre</a></p>
+      <p class="ZonePrint">A brother and sister, children of the Vieux-Touho orange tree, land on an islet in the lagoon and settle down to live there with an old woman. The chief of Vieux-Touho happens by while out fishing and falls in love with the young woman. He takes her back home to his village, Vieux-Touho. A son is born to them but, when his father is away he gets into mischief, for which is father is very angry. His invectives rain on the child, but also on the mother (the daughter of the orange tree) who is taken to task for her inferior social status and her plant origins. The child and mother return to their islet in the lagoon, but the chief of Vieux-Touho comes in pursuit...</p>
+      <p class="intertitre"><a name="fruits"></a><a href="../corpus/show_text_en.php?id=crdo-CAM_FRUITS_SOUND&idref=crdo-CAM_FRUITS"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Two Wild Fruit</a> <br>
+        New Caledonia, Kokingone, 1971, Maurice Kodèm, <a href="../../membres/rivierre.htm">Jean-Claude Rivierre</a></p>
+      <p class="ZonePrint">Two girls from Ucidaan (on the shores of Kokingone) leave home to go walking and to explore the area. They follow a creek upstream and settle down to live there, away from their brothers and their paternal family. While they are out fishing, they inadvertently swallow an Ochrosia fruit which had fallen into their net. They each conceive a boy to whom they give birth and then raise. Once grown up the two boys are equipped with slingshots and assegais with which they go to hunt towards the shore... The rest of the story relates how these two hunters bring death and desolation to their uncles. Cursed and rejected by their mothers, they end up regaining their original plant form in the tree whence they had sprung.</p>
+      <p class="intertitre"><a name="anguille"></a><a href="../corpus/show_text_en.php?id=crdo-CAM_ANGUI_SOUND&idref=crdo-CAM_ANGUI"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Eel of the Wic&egrave;</a><br>
+        New Caledonia,        Noum&eacute;a, 1977, Tyéu Bwaawi, <a href="../../membres/rivierre.htm">Jean-Claude Rivierre</a></p>
+      <p class="ZonePrint">A child left in its cradle near the Wic&egrave; water course (a place on the left bank of the Tipij&eacute;, upstream towards Paou&eacute; and Pamal&eacute;) is swallowed by an eel. Made uncomfortable by the child, the eel swims to the Tipij&eacute;, then on to the river&rsquo;s mouth where it then swam along the coast and up to the Hiengh&egrave;ne Valley. It swam upriver but, stuck in the rocks, became immobilized just beyond Gavatch and perished under stones thrown by a group of youths who caught sight of it. Inside the eel, the inhabitants of the place found the dead child. The different parts of the eel were eaten there and then, but the jaw was sent to Wic&egrave;.</p>
+      </div>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sort order for Japhug -->
+<SortOrder>
+	<rules level="1">
+		<rule str="" rank="0"/>
+		<rule str="a" rank="1"/> <!--rule str="æ" rank="1.1"/-->
+		<rule str="ɤ" rank="2"/>
+		<rule str="b" rank="3"/> <rule str="β" rank="3.1"/>
+		<rule str="C" rank="4"/> <rule str="c" rank="4"/>
+		<rule str="ɕ" rank="5"/>
+		<rule str="d" rank="6"/>
+		<!--rule str="e" rank="7"/-->
+		<rule str="f" rank="8"/>
+		<rule str="G" rank="9"/> <rule str="g" rank="9"/>
+		<rule str="ɣ" rank="10"/>
+		<!--rule str="ɢ" rank="11"/-->
+		<!--rule str="H" rank="12"/--> <rule str="h" rank="12"/> <rule str="ɦ" rank="12.1"/>
+		<rule str="i" rank="13"/>
+		<rule str="j" rank="14"/>
+		<rule str="ɟ" rank="15"/>
+		<rule str="K" rank="16"/> <rule str="k" rank="16"/>
+		<rule str="l" rank="17"/>
+		<rule str="ɬ" rank="18"/>
+		<rule str="M" rank="19"/> <rule str="m" rank="19"/>
+		<rule str="n" rank="20"/>
+		<!--rule str="ɳ" rank="21"/--> <rule str="ɲ" rank="21.1"/>
+		<rule str="ŋ" rank="22"/>
+		<rule str="ɴ" rank="23"/>
+		<rule str="o" rank="24"/>
+		<rule str="p" rank="25"/>
+		<rule str="q" rank="26"/>
+		<rule str="R" rank="27"/> <rule str="r" rank="27"/>
+		<!--rule str="ʀ" rank="28"/--> <rule str="ʁ" rank="28.1"/>
+		<rule str="S" rank="29"/> <rule str="s" rank="29"/>
+		<rule str="ʂ" rank="30"/>
+		<rule str="T" rank="31"/> <rule str="t" rank="31"/>
+		<!--rule str="u" rank="32"/-->
+		<rule str="ɯ" rank="33"/>
+		<!--rule str="v" rank="34"/-->
+		<rule str="w" rank="35"/>
+		<rule str="x" rank="36"/>
+		<rule str="χ" rank="37"/>
+		<!--rule str="y" rank="38"/-->
+		<rule str="Z" rank="39"/> <rule str="z" rank="39"/>
+		<!--rule str="ʐ" rank="40"/-->
+		<rule str="ʑ" rank="41"/>
+		<!--rule str="ʕ" rank="42"/--> <!--rule str="ʔ" rank="42.1"/-->
+		<!-- Special characters -->
+		<rule str="¹" rank="43.1"/>
+		<rule str="²" rank="43.2"/>
+		<rule str="³" rank="43.3"/>
+		<rule str="⁴" rank="43.4"/>
+		<rule str=" " rank="43.5"/>
+		<rule str="_" rank="43.6"/>
+		<rule str="-" rank="43.7"/>
+	</rules>
+</SortOrder>

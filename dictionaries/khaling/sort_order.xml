@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sort order for Khaling -->
+<SortOrder>
+	<rules level="1">
+		<rule str="" rank="0"/>
+		<!--
+		<rule str="A" rank="1"/> <rule str="a" rank="1"/> <rule str="æ" rank="1.1"/>
+		<rule str="i" rank="2"/>
+		<rule str="u" rank="3"/> <rule str="ʉ" rank="3.1"/> <rule str="ʌ" rank="3.2"/>
+		<rule str="e" rank="4"/>
+		<rule str="ɛ" rank="5"/>
+		<rule str="o" rank="6"/> <rule str="ɵ" rank="6.1"/>
+		-->
+		<!--rule str="ʕ" rank="7"/--> <rule str="ʔ" rank="7.1"/>
+		<rule str="k" rank="8"/>
+		<rule str="g" rank="9"/>
+		<rule str="ŋ" rank="10"/>
+		<rule str="ʦ" rank="11"/>
+		<rule str="ʣ" rank="12"/>
+		<rule str="t" rank="13"/>
+		<rule str="d" rank="14"/>
+		<rule str="n" rank="15"/>
+		<rule str="p" rank="16"/>
+		<rule str="b" rank="17"/>
+		<rule str="m" rank="18"/>
+		<!--rule str="f" rank="19"/-->
+		<rule str="j" rank="20"/>
+		<rule str="r" rank="21"/>
+		<rule str="l" rank="22"/>
+		<!--rule str="q" rank="23"/-->
+		<rule str="w" rank="24"/>
+		<rule str="s" rank="25"/>
+		<!--rule str="c" rank="26"/-->
+		<!--rule str="h" rank="27"/--> <rule str="ɦ" rank="27.1"/>
+		<!--
+		<rule str="v" rank="28"/>
+		<rule str="χ" rank="29"/>
+		<rule str="y" rank="30"/>
+		<rule str="z" rank="31"/>
+		-->
+		<!-- Special characters -->
+		<rule str=" " rank="32"/>
+		<rule str="-" rank="32.1"/>
+		<rule str="(" rank="32.2"/>
+		<rule str=")" rank="32.3"/>
+	</rules>
+</SortOrder>

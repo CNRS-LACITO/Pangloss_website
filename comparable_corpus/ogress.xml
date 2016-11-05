@@ -1,0 +1,1148 @@
+<similarities>
+<files>
+<file id="crdo-KLR_SOLME_DHANA" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/klr/crdo-KLR_SOLME_DHANA.xml" lang="Khaling" sound="crdo-KLR_SOLME_DHANA_SOUND" title="Solme Lamalit" speaker="Dhana"/>
+<file id="crdo-KLR_SOLME_DHANMAYA" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/klr/crdo-KLR_SOLME_DHANMAYA.xml" lang="Khaling" sound="crdo-KLR_SOLME_DHANMAYA_SOUND" title="Solme Lamalit" speaker="Dhan Maya"/>
+<file id="crdo-TDH_EAGLE_STORY" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/tdh/crdo-TDH_EAGLE_STORY.xml" lang="Thulung/Mukli" sound="crdo-TDH_EAGLE_STORY_SOUND" title="Eagle story" speaker="Bishnu"/>
+<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/tdh/crdo-TDH-MUKLI_VULTURE_CHANDRAKALA.xml" lang="Thulung/Mukli" sound="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA_SOUND" title="Vulture" speaker="Chandrakala"/>
+</files>
+<similarity id="1">
+<color>#EAF7FB</color>
+<event>Three brothers, the eldest being naive.</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S2"/>
+		<sentence id="S3"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S2"/>
+		<sentence id="S4"/>
+	</file>
+</similarity>
+<similarity id="2">
+<color>#EAFFEF</color>
+<event>The eldest brother had a good wife.</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S5"/>
+		<sentence id="S6"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S4"/>
+		<sentence id="S5"/>
+	</file>
+</similarity>
+<similarity id="3">
+<color>#FFEEFD</color>
+<event>He had two children, a girl and a boy.</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S7"/>
+	</file>
+</similarity>
+<similarity id="4">
+<color>#F3F8F4</color>
+<event>The younger brothers were jealous of his family.</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S10"/>
+		<sentence id="S11"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S6"/>
+	</file>
+</similarity>
+<similarity id="5">
+<color>#F1ECFF</color>
+<event>They pretended to beat their wives/brother's wife.</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S12"/>
+		<sentence id="S13"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S8"/>
+	</file>
+</similarity>
+<similarity id="6">
+<color>#FFFFE3</color>
+<event>The eldest brother beat his wife for real, injuring her.</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S24"/>
+		<sentence id="S25"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S9"/>
+	</file>
+</similarity>
+<similarity id="7">
+<color>#F9FDFF</color>
+<event>She could not take care of the housework, the children, herself.</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S28"/>
+		<sentence id="S29"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S10"/>
+	</file>
+</similarity>
+<similarity id="8">
+<color>#FFECEC</color>
+<event>She developed lice, which attracted a mythical vulture.</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S30"/>
+		<sentence id="S31"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S11"/>
+	</file>
+</similarity>
+<similarity id="9">
+<color>#E6FCFF</color>
+<event>Grandmother or mother and 2 kids</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S1"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S1"/>
+		<sentence id="S2"/>
+	</file>
+</similarity>
+<similarity id="10">
+<color>#E0EAF8</color>
+<event>Vulture carries off mother to his nest</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S2"/>
+		<sentence id="S3"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S3"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S34"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S13"/>
+	</file>
+</similarity>
+<similarity id="11">
+<color>#EAF7FB</color>
+<event>2 kids go searching for her</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S4"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S4"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S39"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S15"/>
+		<sentence id="S16"/>
+	</file>
+</similarity>
+<similarity id="12">
+<color>#EAFFEF</color>
+<event>2 kids ask people if they have seen mother</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S6"/>
+		<sentence id="S7"/>
+		<sentence id="S8"/>
+		<sentence id="S9"/>
+		<sentence id="S10"/>
+		<sentence id="S11"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S5"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S39"/>
+		<sentence id="S40"/>
+		<sentence id="S41"/>
+		<sentence id="S48"/>
+		<sentence id="S49"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S18"/>
+		<sentence id="S21"/>
+	</file>
+</similarity>
+<similarity id="13">
+<color>#FFEEFD</color>
+<event>woman/man gives them spool of thread</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S12"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S5"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S58"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S22"/>
+	</file>
+</similarity>
+<similarity id="14">
+<color>#F3F8F4</color>
+<event>"woman says to throw into tree, where it catches is where mother is"</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S13"/>
+		<sentence id="S14"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S6"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S61"/>
+		<sentence id="S62"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S23"/>
+	</file>
+</similarity>
+<similarity id="15">
+<color>#F1ECFF</color>
+<event>thread catches on tree</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S15"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S6"/>
+		<sentence id="S8"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S67"/>
+		<sentence id="S68"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S26"/>
+	</file>
+</similarity>
+<similarity id="16">
+<color>#FFFFE3</color>
+<event>kids see mother/kids call up to mother/kids make noise</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S16"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S8"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S69"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S27"/>
+	</file>
+</similarity>
+<similarity id="17">
+<color>#F9FDFF</color>
+<event>"mother spits to see if the children will lick it, if so, they are hers"</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S73"/>
+		<sentence id="S74"/>
+		<sentence id="S75"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S28"/>
+		<sentence id="S29"/>
+	</file>
+</similarity>
+<similarity id="18">
+<color>#FFECEC</color>
+<event>mother calls down to kids</event>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S9"/>
+		<sentence id="S10"/>
+	</file>
+</similarity>
+<similarity id="19">
+<color>#E6FCFF</color>
+<event>mother hauls kids up with spool of thread/sash</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S18"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S11"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S80"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S32"/>
+	</file>
+</similarity>
+<similarity id="20">
+<color>#E0EAF8</color>
+<event>mother feeds kids </event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S20"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S13"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S81"/>
+	</file>
+</similarity>
+<similarity id="21">
+<color>#EAF7FB</color>
+<event>mother worries about eagle eating kids</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S21"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S13"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S83"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S31"/>
+	</file>
+</similarity>
+<similarity id="22">
+<color>#EAFFEF</color>
+<event>mother hides kids under ash</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S22"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S14"/>
+	</file>
+</similarity>
+<similarity id="23">
+<color>#FFEEFD</color>
+<event>eagle returns and smells human</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S23"/>
+		<sentence id="S24"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S15"/>
+		<sentence id="S16"/>
+	</file>
+</similarity>
+<similarity id="24">
+<color>#F3F8F4</color>
+<event>mother responds she is human so smells human</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S26"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S17"/>
+	</file>
+</similarity>
+<similarity id="25">
+<color>#F1ECFF</color>
+<event>mother gives kids food for trip (unspecified food, or salt to eat with greens along roadside)</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S28"/>
+		<sentence id="S30"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S18"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S33"/>
+		<sentence id="S34"/>
+	</file>
+</similarity>
+<similarity id="26">
+<color>#FFFFE3</color>
+<event>tells them to take smooth road, not bumpy road, at fork</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S32"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S19"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S87"/>
+		<sentence id="S88"/>
+		<sentence id="S89"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S36"/>
+	</file>
+</similarity>
+<similarity id="27">
+<color>#F9FDFF</color>
+<event>they arrive at fork</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S40"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S92"/>
+	</file>
+</similarity>
+<similarity id="28">
+<color>#FFECEC</color>
+<event>boy/older sibling says to take smooth road</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S42"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S22"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S39"/>
+	</file>
+</similarity>
+<similarity id="29">
+<color>#E6FCFF</color>
+<event>girl/younger sibling insists that mother said to take bumpy || elder child insists on bumpy road</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S41"/>
+		<sentence id="S43"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S22"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S94"/>
+		<sentence id="S95"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S38"/>
+	</file>
+</similarity>
+<similarity id="30">
+<color>#E0EAF8</color>
+<event>they go with girl's idea</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S46"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S22"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S96"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S40"/>
+	</file>
+</similarity>
+<similarity id="31">
+<color>#EAF7FB</color>
+<event>arrive in ogre country</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S46"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S23"/>
+	</file>
+</similarity>
+<similarity id="32">
+<color>#EAFFEF</color>
+<event>ogress invites them in/Children ask for shelter</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S49"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S26"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S107"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S43"/>
+	</file>
+</similarity>
+<similarity id="33">
+<color>#FFEEFD</color>
+<event>ogress feeds them</event>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S27"/>
+	</file>
+</similarity>
+<similarity id="34">
+<color>#F3F8F4</color>
+<event>ogress puts boy/older child to sleep above rack</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S52"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S29"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S52"/>
+		<sentence id="S54"/>
+	</file>
+</similarity>
+<similarity id="35">
+<color>#F1ECFF</color>
+<event>ogress puts girl/younger child to sleep in her lap/in shelf basket</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S53"/>
+		<sentence id="S56"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S30"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S52"/>
+	</file>
+</similarity>
+<similarity id="36">
+<color>#FFFFE3</color>
+<event>ogress heats fire pincers red hot</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S56"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S32"/>
+	</file>
+</similarity>
+<similarity id="37">
+<color>#F9FDFF</color>
+<event>ogress plunges pincers in girl's brain to remove it</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S57"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S32"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S56"/>
+	</file>
+</similarity>
+<similarity id="38">
+<color>#FFECEC</color>
+<event>ogress licks brain</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S58"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S33"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S56"/>
+	</file>
+</similarity>
+<similarity id="39">
+<color>#E6FCFF</color>
+<event>ogress kills girl (no details)</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S112"/>
+	</file>
+</similarity>
+<similarity id="40">
+<color>#E0EAF8</color>
+<event>ogress prepares girl's meat as meal</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S64"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S34"/>
+	</file>
+</similarity>
+<similarity id="41">
+<color>#EAF7FB</color>
+<event>ogress feeds girl's meat to boy</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S64"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S35"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S68"/>
+	</file>
+</similarity>
+<similarity id="42">
+<color>#EAFFEF</color>
+<event>boy asks for sister</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S60"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S36"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S63"/>
+	</file>
+</similarity>
+<similarity id="43">
+<color>#FFEEFD</color>
+<event>ogress replies she's gone for nettles/water/firewood</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S61"/>
+		<sentence id="S62"/>
+		<sentence id="S63"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S37"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S64"/>
+		<sentence id="S66"/>
+	</file>
+</similarity>
+<similarity id="44">
+<color>#F3F8F4</color>
+<event>boy pretends to eat </event>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S39"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S70"/>
+	</file>
+</similarity>
+<similarity id="45">
+<color>#F1ECFF</color>
+<event>boy takes sister's flesh to perform burial rites</event>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S71"/>
+	</file>
+</similarity>
+<similarity id="46">
+<color>#FFFFE3</color>
+<event>boy again asks for sister</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S63"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S40"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S65"/>
+	</file>
+</similarity>
+<similarity id="47">
+<color>#F9FDFF</color>
+<event>at night, boy goes to bed</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S67"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S43"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S118"/>
+		<sentence id="S124"/>
+		<sentence id="S125"/>
+	</file>
+</similarity>
+<similarity id="48">
+<color>#FFECEC</color>
+<event>boy hides</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S68"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S44"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S133"/>
+		<sentence id="S141"/>
+	</file>
+</similarity>
+<similarity id="49">
+<color>#E6FCFF</color>
+<event>boys finds gourd</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S68"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S45"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S130"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S57"/>
+	</file>
+</similarity>
+<similarity id="50">
+<color>#E0EAF8</color>
+<event>boy urinates in gourd and places in his sleeping spot</event>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S45"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S131"/>
+		<sentence id="S132"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S58"/>
+	</file>
+</similarity>
+<similarity id="51">
+<color>#EAF7FB</color>
+<event>ogress again heats fire pincers red hot</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S69"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S46"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S136"/>
+	</file>
+</similarity>
+<similarity id="52">
+<color>#EAFFEF</color>
+<event>ogress plunges pincers in boy's brain (=gourd)</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S70"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S46"/>
+		<sentence id="S47"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S137"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S59"/>
+	</file>
+</similarity>
+<similarity id="53">
+<color>#FFEEFD</color>
+<event>ogress licks boy's brain</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S71"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S47"/>
+		<sentence id="S48"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S138"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S60"/>
+	</file>
+</similarity>
+<similarity id="54">
+<color>#F3F8F4</color>
+<event>ogress comments on girl brain tasting better than boy brain, which is bitter</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S72"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S48"/>
+		<sentence id="S49"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S139"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S61"/>
+	</file>
+</similarity>
+<similarity id="55">
+<color>#F1ECFF</color>
+<event>ogress realizes next day that boy still alive</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S74"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S145"/>
+		<sentence id="S146"/>
+	</file>
+</similarity>
+<similarity id="56">
+<color>#FFFFE3</color>
+<event>boys eats peas/lentils and scatters skins</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S76"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S50"/>
+		<sentence id="S51"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S153"/>
+	</file>
+</similarity>
+<similarity id="57">
+<color>#F9FDFF</color>
+<event>boy tells ogress that peas have been eaten by boar</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S77"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S51"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S155"/>
+		<sentence id="S156"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S72"/>
+	</file>
+</similarity>
+<similarity id="58">
+<color>#FFECEC</color>
+<event>boy announces he will kill boar</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S77"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S53"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S157"/>
+	</file>
+</similarity>
+<similarity id="59">
+<color>#E6FCFF</color>
+<event>boy tells grandmother to stay put</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S78"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S54"/>
+	</file>
+</similarity>
+<similarity id="60">
+<color>#E0EAF8</color>
+<event>boy tells grandmother to heat up resin</event>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S54"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S85"/>
+	</file>
+</similarity>
+<similarity id="61">
+<color>#EAF7FB</color>
+<event>boys tells grandather to accompany him </event>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S55"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S158"/>
+		<sentence id="S159"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S75"/>
+	</file>
+</similarity>
+<similarity id="62">
+<color>#EAFFEF</color>
+<event>boys tells grandfather boar is coming </event>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S56"/>
+		<sentence id="S57"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S165"/>
+		<sentence id="S166"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S76"/>
+	</file>
+</similarity>
+<similarity id="63">
+<color>#FFEEFD</color>
+<event>boys shoots grandfather</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S81"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S58"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S167"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S77"/>
+	</file>
+</similarity>
+<similarity id="64">
+<color>#F3F8F4</color>
+<event>boy returns to tell grandmother about boar</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S83"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S60"/>
+	</file>
+</similarity>
+<similarity id="65">
+<color>#F1ECFF</color>
+<event>boy brings grandfather's privates (pretending they are from boar) to hang above door</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S168"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S78"/>
+		<sentence id="S81"/>
+	</file>
+</similarity>
+<similarity id="66">
+<color>#FFFFE3</color>
+<event>boy has grandmother spread out grains in courtyard</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S172"/>
+		<sentence id="S173"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S84"/>
+	</file>
+</similarity>
+<similarity id="67">
+<color>#F9FDFF</color>
+<event>boy coats grandmother's face in resin</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S87"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S61"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S184"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S91"/>
+	</file>
+</similarity>
+<similarity id="68">
+<color>#FFECEC</color>
+<event>boy collects grain for himself</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S186"/>
+		<sentence id="S195"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S90"/>
+	</file>
+</similarity>
+<similarity id="69">
+<color>#E6FCFF</color>
+<event>grandmother chases boy</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S88"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S62"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S196"/>
+	</file>
+</similarity>
+<similarity id="70">
+<color>#E0EAF8</color>
+<event>boy flees</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S89"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S63"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S91"/>
+	</file>
+</similarity>
+<similarity id="71">
+<color>#EAF7FB</color>
+<event>boy throws down grain (to make ogress slip during pursuit)</event>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S198"/>
+		<sentence id="S199"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S97"/>
+		<sentence id="S98"/>
+		<sentence id="S99"/>
+	</file>
+</similarity>
+<similarity id="72">
+<color>#EAFFEF</color>
+<event>boy has eggs with him</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S92"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S64"/>
+	</file>
+</similarity>
+<similarity id="73">
+<color>#FFEEFD</color>
+<event>boy throws egg as grandmother approaches</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S93"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S66"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S202"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S101"/>
+	</file>
+</similarity>
+<similarity id="74">
+<color>#F3F8F4</color>
+<event>eggs becomes bamboo grove</event>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S67"/>
+	</file>
+</similarity>
+<similarity id="75">
+<color>#F1ECFF</color>
+<event>boy has comb and brush with him</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S89"/>
+	</file>
+</similarity>
+<similarity id="76">
+<color>#FFFFE3</color>
+<event>boy throws comb and brush</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S89"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S68"/>
+	</file>
+</similarity>
+<similarity id="77">
+<color>#F9FDFF</color>
+<event>comb and brush become bamboo grove</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S89"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S68"/>
+	</file>
+</similarity>
+<similarity id="78">
+<color>#FFECEC</color>
+<event>grandmother gets stuck</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S90"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S68"/>
+		<sentence id="S69"/>
+	</file>
+</similarity>
+<similarity id="79">
+<color>#E6FCFF</color>
+<event>boy flees again</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S90"/>
+		<sentence id="S91"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S70"/>
+	</file>
+</similarity>
+<similarity id="80">
+<color>#E0EAF8</color>
+<event>grandmother is about to catch him</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S92"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S70"/>
+	</file>
+</similarity>
+<similarity id="81">
+<color>#EAF7FB</color>
+<event>boy arrives at river</event>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S71"/>
+	</file>
+</similarity>
+<similarity id="82">
+<color>#EAFFEF</color>
+<event>boy throws egg and bridge or river appears/boy throws eggs, first dries river, second makes it reappear</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S93"/>
+		<sentence id="S94"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S73"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S203"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S101"/>
+	</file>
+</similarity>
+<similarity id="83">
+<color>#FFEEFD</color>
+<event>boy crosses bridge/arrives on other side of river</event>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S74"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S204"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S100"/>
+	</file>
+</similarity>
+<similarity id="84">
+<color>#F3F8F4</color>
+<event>bridge collapses</event>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S75"/>
+	</file>
+</similarity>
+<similarity id="85">
+<color>#F1ECFF</color>
+<event>grandmother asks for instructions about crossing river</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S95"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S77"/>
+		<sentence id="S78"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S205"/>
+		<sentence id="S206"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S102"/>
+	</file>
+</similarity>
+<similarity id="86">
+<color>#FFFFE3</color>
+<event>boy responds to spread out clothes and cross river</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S96"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S80"/>
+		<sentence id="S81"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S207"/>
+		<sentence id="S208"/>
+		<sentence id="S209"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S103"/>
+	</file>
+</similarity>
+<similarity id="87">
+<color>#F9FDFF</color>
+<event>grandmother drowns</event>
+	<file id="crdo-TDH-MUKLI_VULTURE_CHANDRAKALA">
+		<sentence id="S97"/>
+	</file>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S81"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANA">
+		<sentence id="S210"/>
+		<sentence id="S211"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S105"/>
+	</file>
+</similarity>
+<similarity id="88">
+<color>#FFECEC</color>
+<event>story ends</event>
+	<file id="crdo-TDH_EAGLE_STORY">
+		<sentence id="S82"/>
+	</file>
+	<file id="crdo-KLR_SOLME_DHANMAYA">
+		<sentence id="S107"/>
+	</file>
+</similarity>
+</similarities>

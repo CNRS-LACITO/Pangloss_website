@@ -1,0 +1,803 @@
+<similarities>
+<files>
+<file id="crdo-TDH_MIYAKMA" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/tdh/crdo-TDH-MIYAKMA.xml" lang="Thulung/Deusa" sound="crdo-TDH_MIYAKMA_SOUND" speaker="Lakpa" title="Miyakma"/>
+<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/tdh/crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA.xml" lang="Thulung/Mukli" sound="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA_SOUND" speaker="Chandrakala" title="Miyakma"/>
+<file id="crdo-KKT_ORIGIN" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/kkt/crdo-KKT_ORIGIN.xml" lang="Koyi" sound="crdo-KKT_ORIGIN_SOUND" speaker="Phanindra" title="Origin"/>
+<file id="crdo-KKT_NAJEPMA_MILA" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/kkt/crdo-KKT_NAJEPMA_MILA.xml" lang="Koyi" sound="crdo-KKT_NAJEPMA_MILA_SOUND" speaker="Mila" title="Najepma"/>
+<file id="crdo-KLR_ORIGIN_DHANA" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/klr/crdo-KLR_ORIGIN_DHANA.xml" lang="Khaling" sound="crdo-KLR_ORIGIN_DHANA_SOUND" speaker="Dhana" title="Origin"/>
+</files>
+<similarity id="1">
+<color>#EAF7FB</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S2"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S24"/>
+	</file>
+</similarity>
+<similarity id="2">
+<color>#EAFFEF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S18"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S8"/>
+	</file>
+</similarity>
+<similarity id="3">
+<color>#FFEEFD</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S82"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S23"/>
+	</file>
+</similarity>
+<similarity id="4">
+<color>#F3F8F4</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S3"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S34"/>
+	</file>
+</similarity>
+<similarity id="5">
+<color>#F1ECFF</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S6"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S4"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S41"/>
+	</file>
+</similarity>
+<similarity id="6">
+<color>#FFFFE3</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S56"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S18"/>
+	</file>
+</similarity>
+<similarity id="7">
+<color>#F9FDFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S12"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S6"/>
+	</file>
+</similarity>
+<similarity id="8">
+<color>#FFECEC</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S10"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S5"/>
+	</file>
+</similarity>
+<similarity id="9">
+<color>#E6FCFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S9"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S3"/>
+	</file>
+</similarity>
+<similarity id="10">
+<color>#E0EAF8</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S1"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S8"/>
+		<sentence id="S9"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S5"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S42"/>
+	</file>
+</similarity>
+<similarity id="11">
+<color>#EAF7FB</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S46"/>
+		<sentence id="S47"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S44"/>
+	</file>
+</similarity>
+<similarity id="12">
+<color>#EAFFEF</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S3"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S10"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S6"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S43"/>
+		<sentence id="S44"/>
+	</file>
+</similarity>
+<similarity id="13">
+<color>#FFEEFD</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S12"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S51"/>
+		<sentence id="S52"/>
+		<sentence id="S53"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S49"/>
+		<sentence id="S50"/>
+	</file>
+</similarity>
+<similarity id="14">
+<color>#F3F8F4</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S7"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S11"/>
+		<sentence id="S12"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S16"/>
+		<sentence id="S17"/>
+	</file>
+</similarity>
+<similarity id="15">
+<color>#F1ECFF</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S15"/>
+		<sentence id="S16"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S62"/>
+	</file>
+</similarity>
+<similarity id="16">
+<color>#FFFFE3</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S13"/>
+		<sentence id="S14"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S58"/>
+		<sentence id="S59"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S59"/>
+		<sentence id="S60"/>
+		<sentence id="S61"/>
+	</file>
+</similarity>
+<similarity id="17">
+<color>#F9FDFF</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S17"/>
+		<sentence id="S18"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S78"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S63"/>
+	</file>
+</similarity>
+<similarity id="18">
+<color>#FFECEC</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S8"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S18"/>
+		<sentence id="S19"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S85"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S24"/>
+	</file>
+</similarity>
+<similarity id="19">
+<color>#E6FCFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S82"/>
+		<sentence id="S83"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S65"/>
+	</file>
+</similarity>
+<similarity id="20">
+<color>#E0EAF8</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S81"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S22"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S64"/>
+	</file>
+</similarity>
+<similarity id="21">
+<color>#EAF7FB</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S19"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S66"/>
+	</file>
+</similarity>
+<similarity id="22">
+<color>#EAFFEF</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S20"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S86"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S67"/>
+	</file>
+</similarity>
+<similarity id="23">
+<color>#FFEEFD</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S12"/>
+		<sentence id="S13"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S21"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S87"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S25"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S68"/>
+	</file>
+</similarity>
+<similarity id="24">
+<color>#F3F8F4</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S92"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S27"/>
+	</file>
+</similarity>
+<similarity id="25">
+<color>#F1ECFF</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S11"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S22"/>
+	</file>
+</similarity>
+<similarity id="26">
+<color>#FFFFE3</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S15"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S25"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S94"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S70"/>
+		<sentence id="S71"/>
+	</file>
+</similarity>
+<similarity id="27">
+<color>#F9FDFF</color>
+</similarity>
+<similarity id="28">
+<color>#FFECEC</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S16"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S26"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S95"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S28"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S72"/>
+	</file>
+</similarity>
+<similarity id="29">
+<color>#E6FCFF</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S27"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S96"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S29"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S74"/>
+	</file>
+</similarity>
+<similarity id="30">
+<color>#E0EAF8</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S17"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S29"/>
+	</file>
+</similarity>
+<similarity id="31">
+<color>#EAF7FB</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S35"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S106"/>
+		<sentence id="S107"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S77"/>
+	</file>
+</similarity>
+<similarity id="32">
+<color>#EAFFEF</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S33"/>
+		<sentence id="S34"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S101"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S32"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S76"/>
+	</file>
+</similarity>
+<similarity id="33">
+<color>#FFEEFD</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S32"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S75"/>
+	</file>
+</similarity>
+<similarity id="34">
+<color>#F3F8F4</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S18"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S33"/>
+		<sentence id="S35"/>
+	</file>
+</similarity>
+<similarity id="35">
+<color>#F1ECFF</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S19"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S36"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S106"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S33"/>
+	</file>
+</similarity>
+<similarity id="36">
+<color>#FFFFE3</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S20"/>
+		<sentence id="S21"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S37"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S112"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S38"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S81"/>
+	</file>
+</similarity>
+<similarity id="37">
+<color>#F9FDFF</color>
+</similarity>
+<similarity id="38">
+<color>#FFECEC</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S111"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S36"/>
+	</file>
+</similarity>
+<similarity id="39">
+<color>#E6FCFF</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S22"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S40"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S35"/>
+	</file>
+</similarity>
+<similarity id="40">
+<color>#E0EAF8</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S40"/>
+		<sentence id="S41"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S80"/>
+	</file>
+</similarity>
+<similarity id="41">
+<color>#EAF7FB</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S25"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S115"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S39"/>
+	</file>
+</similarity>
+<similarity id="42">
+<color>#EAFFEF</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S26"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S42"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S40"/>
+	</file>
+</similarity>
+<similarity id="43">
+<color>#FFEEFD</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S27"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S43"/>
+	</file>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S116"/>
+		<sentence id="S119"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S43"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S85"/>
+	</file>
+</similarity>
+<similarity id="44">
+<color>#F3F8F4</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S30"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S46"/>
+	</file>
+</similarity>
+<similarity id="45">
+<color>#F1ECFF</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S31"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S45"/>
+		<sentence id="S46"/>
+	</file>
+</similarity>
+<similarity id="46">
+<color>#FFFFE3</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S124"/>
+		<sentence id="S125"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S96"/>
+	</file>
+</similarity>
+<similarity id="47">
+<color>#F9FDFF</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S32"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S47"/>
+	</file>
+</similarity>
+<similarity id="48">
+<color>#FFECEC</color>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S51"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S98"/>
+	</file>
+</similarity>
+<similarity id="49">
+<color>#E6FCFF</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S29"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S50"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S44"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S97"/>
+	</file>
+</similarity>
+<similarity id="50">
+<color>#E0EAF8</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S66"/>
+		<sentence id="S67"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S55"/>
+	</file>
+</similarity>
+<similarity id="51">
+<color>#EAF7FB</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S70"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S57"/>
+	</file>
+</similarity>
+<similarity id="52">
+<color>#EAFFEF</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S76"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S60"/>
+	</file>
+</similarity>
+<similarity id="53">
+<color>#FFEEFD</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S79"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S64"/>
+	</file>
+</similarity>
+<similarity id="54">
+<color>#F3F8F4</color>
+	<file id="crdo-TDH_MIYAKMA">
+		<sentence id="S85"/>
+	</file>
+	<file id="crdo-TDH-MUKLI_MIYAKMA_CHANDRAKALA">
+		<sentence id="S68"/>
+	</file>
+</similarity>
+<similarity id="55">
+<color>#F1ECFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S153"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S50"/>
+	</file>
+	<file id="crdo-KLR_ORIGIN_DHANA">
+		<sentence id="S105"/>
+	</file>
+</similarity>
+<similarity id="56">
+<color>#FFFFE3</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S155"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S51"/>
+	</file>
+</similarity>
+<similarity id="57">
+<color>#F9FDFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S157"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S52"/>
+	</file>
+</similarity>
+<similarity id="58">
+<color>#FFECEC</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S158"/>
+		<sentence id="S160"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S53"/>
+	</file>
+</similarity>
+<similarity id="59">
+<color>#E6FCFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S161"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S54"/>
+	</file>
+</similarity>
+<similarity id="60">
+<color>#E0EAF8</color>
+</similarity>
+<similarity id="61">
+<color>#EAF7FB</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S166"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S57"/>
+		<sentence id="S58"/>
+	</file>
+</similarity>
+<similarity id="62">
+<color>#EAFFEF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S174"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S60"/>
+	</file>
+</similarity>
+<similarity id="63">
+<color>#FFEEFD</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S176"/>
+		<sentence id="S177"/>
+		<sentence id="S178"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S62"/>
+	</file>
+</similarity>
+<similarity id="64">
+<color>#F3F8F4</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S180"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S63"/>
+	</file>
+</similarity>
+<similarity id="65">
+<color>#F1ECFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S179"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S64"/>
+	</file>
+</similarity>
+<similarity id="66">
+<color>#FFFFE3</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S183"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S65"/>
+		<sentence id="S66"/>
+	</file>
+</similarity>
+<similarity id="67">
+<color>#F9FDFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S184"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S67"/>
+	</file>
+</similarity>
+<similarity id="68">
+<color>#FFECEC</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S189"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S69"/>
+	</file>
+</similarity>
+<similarity id="69">
+<color>#E6FCFF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S191"/>
+		<sentence id="S199"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S71"/>
+	</file>
+</similarity>
+<similarity id="70">
+<color>#E0EAF8</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S202"/>
+		<sentence id="S203"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S73"/>
+	</file>
+</similarity>
+<similarity id="71">
+<color>#EAF7FB</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S204"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S74"/>
+	</file>
+</similarity>
+<similarity id="72">
+<color>#EAFFEF</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S207"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S75"/>
+	</file>
+</similarity>
+<similarity id="73">
+<color>#FFEEFD</color>
+	<file id="crdo-KKT_ORIGIN">
+		<sentence id="S209"/>
+		<sentence id="S210"/>
+	</file>
+	<file id="crdo-KKT_NAJEPMA_MILA">
+		<sentence id="S77"/>
+	</file>
+</similarity>
+</similarities>
