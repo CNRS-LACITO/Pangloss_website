@@ -14,7 +14,7 @@
 
 
       
-            <p class="intertitre"><a href="../../ALC/Languages/Na_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="a" border="0" height="15" width="15">Na</a>: a brief note<br>
+            <p class="intertitre"><a href="../../ALC/Languages/Na_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="a" border="0" height="15" width="15">Na</a>: a brief note <br>
               Na: Fieldwork blog (<a href="../fieldwork/Na_fw-Yongning_en.htm">Yongning 2006-2012</a>)</p>
 
 
