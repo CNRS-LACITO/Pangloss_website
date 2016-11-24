@@ -2886,7 +2886,7 @@ using a real example</th>
             <td>LH</td>
 
 
-            <td>ʐ&aelig;˩˥ 'panther'</td>
+            <td>ʐ&aelig;˩˥ 'leopard'</td>
 
 
           </tr>
