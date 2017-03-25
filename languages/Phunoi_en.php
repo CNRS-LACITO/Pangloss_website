@@ -32,7 +32,7 @@ About Phunoi (Phou Noy)</h2>
             <p style="text-align: justify;">Phunoi is a member
 of the Loloish subgroup of the
 Sino-Tibetan
-family. The Phunoi people&nbsp;live in Northern Thailand
+family. The Phunoi people&nbsp;live in Northern Laos
 and in&nbsp;areas straddling&nbsp;the Burma-Laos border. Michel
 Ferlus (1977b) notes that Phunoi is
 close to&nbsp;Pyen (spoken in Kengtung,

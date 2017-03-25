@@ -31,8 +31,7 @@ A propos du phou noy</h2>
             <p style="text-align: justify;">Le phou noy est une
 langue du groupe loloish
 de la famille des langues sino-tib&eacute;taines. Les Phou Noy
-(Phunoi)&nbsp;vivent au nord de la
-Tha&iuml;lande et dans des zones &agrave; cheval sur la
+(Phunoi)&nbsp;vivent au nord du Laos et dans des zones &agrave; cheval sur la
 fronti&egrave;re
 entre Birmanie et Laos. Michel Ferlus (1977b) rel&egrave;ve une
 forte proximit&eacute; entre le phou
