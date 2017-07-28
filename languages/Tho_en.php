@@ -943,7 +943,7 @@ từ <a href="https://halshs.archives-ouvertes.fr/halshs-01068533/"
  target="_blank">ở đ&acirc;y</a>).</p>
             <p></p>
             <p style="font-style: italic;">C&aacute;c
-tư liệu về tiếng Cuối Chăm đ&atilde; được số h&oacute;a
+tư liệu này đ&atilde; được số h&oacute;a
 v&agrave; bi&ecirc;n tập lại. Đ&acirc;y l&agrave; một
 phần của dự &aacute;n k&eacute;o d&agrave;i từ
 th&aacute;ng 9/2014 đến th&aacute;ng 2/2016, với ng&acirc;n
