@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sort order for Tamang -->
+<SortOrder>
+	<rules level="1">
+		<rule str="a" rank="1"/>
+		<rule str="b" rank="3"/> 
+		<rule str="c" rank="4"/>
+		<!--<rule str="d" rank="6"/>-->
+		<rule str="e" rank="7"/>
+		<!--<rule str="f" rank="8"/>-->
+		<!--<rule str="g" rank="9"/>-->
+		<rule str="h" rank="10"/>
+		<rule str="i" rank="13"/>
+		<rule str="j" rank="14"/>
+		<rule str="k" rank="16"/> 
+		<rule str="l" rank="17"/>
+		<rule str="m" rank="19"/>
+		<rule str="n" rank="20"/>
+        <rule str="ŋ" rank="21"/>
+		<rule str="o" rank="24"/>
+		<rule str="p" rank="25"/>
+		<!--<rule str="q" rank="26"/>-->
+		<rule str="r" rank="27"/>
+		<rule str="s" rank="28"/>
+		<rule str="t" rank="31"/>
+		<rule str="ʈ" rank="32"/>
+		<rule str="u" rank="33"/>
+		<!--<rule str="v" rank="34"/>-->
+		<rule str="w" rank="35"/>
+		<!--<rule str="x" rank="36"/>-->
+		<!--<rule str="y" rank="37"/>-->
+		<!--<rule str="z" rank="41"/>-->
+	</rules>
+</SortOrder>

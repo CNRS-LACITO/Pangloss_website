@@ -1,9 +1,5 @@
 <div>&nbsp;</div>
-<html>
-<head>
-<meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</head>
-<body>
+
 <html><head><meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
            <div class="page-header"><h1>Corpus thulung rai</h1></div>
            <div class="text-left">
@@ -16,15 +12,15 @@
       </p>
        <p align="left" class="intertitre">&nbsp;</p>
       <p class="intertitre"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-TDH_KAKCILIP_SOUND&idref=crdo-TDH_KAKCILIP">Kaktsilip</a><br>
-      Népal, Katmandou, 2009, Lakpa Thulung, <a href="../../membres/lahaussois.htm">Aim&eacute;e Lahaussois</a></p>
+      Népal, Katmandou, 2009, Lakpa Thulung, <a href="http://htl.linguist.univ-paris-diderot.fr/laboratoire/membres/lahaussois" target="_blank">Aim&eacute;e Lahaussois</a></p>
       <p class="intertitre">C'est l'histoire de Kaktsilip et de ses deux soeurs. Ces dernières, lassées de le nourrir, décident de se débarasser de leur fainéant de frère. Pendant qu'il est en train de dormir, elle le déposent dans une hutte de bambou et sautent dessus pour l'écraser, avant de s'enfuir. Kaktsilip qui, en fait, a survécu,
        essaie de pêcher pour se nourrir, mais sans succès, attrapant à chaque fois une pierre. Il la rapporte à la maison et découvre alors que c'est  une jeune femme, Wailungma. Ils se marient et  Wailungma lui apprend quelques techniques de survie. Wailungma entend parler des deux soeurs et demande à Kaktsilip de les faire venir. Il envoie plusieurs animaux pour les trouver (d'abord un pou, puis une puce qui sont tous deux écrasés par les deux soeurs) avant d'envoyer un coq près d'elles qui éveille leur curiosité avec son cri et les ramène à la maison de Kaktsilip. Les soeurs demandent pardon pour avoir tenté de le tuer, lui offrant sept côtes de porc (pour les septs côtes qu'elles lui avaient brisées dans la hutte) et sept marmites en cuivre comme cadeau de mariage. Depuis ce jour, le peuple thuling offre des côtes de porc et des marmites en cuivre comme cadeau de mariage.</p>
       <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-LAA_0001_SOUND&idref=crdo-LAA_0001"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Conversation</a><br>
-        N&eacute;pal, Katmandou, 2009, Bala Thulung, <a href="../../membres/lahaussois.htm">Aim&eacute;e Lahaussois</a></p>
+        N&eacute;pal, Katmandou, 2009, Bala Thulung, <a href="http://htl.linguist.univ-paris-diderot.fr/laboratoire/membres/lahaussois" target="_blank">Aim&eacute;e Lahaussois</a></p>
       <p>Voici une conversation enregistrée entre deux cousines originaires de Mukli et vivant actuellement à Kathmandu. Après s'être saluées, elles décrivent brièvement une guérison chamanique puis discutent d'un livre qu'elles sont en train d'écrire sur les traditions thulung et du mode d'emploi pour recueillir des informations. <br>
         L'enregistrement contient des salutations traditionnelles ainsi que les échanges sous forme de questions au sujet de la famille.</p>
       <p class="intertitre"><strong><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-TDH_MIYAKMA_SOUND&idref=crdo-TDH_MIYAKMA"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Miyakma</a></strong><br>
-        N&eacute;pal, Katmandou, 2010, Lakpa Thulung, <a href="../../membres/lahaussois.htm">Aim&eacute;e Lahaussois</a></p>
+        N&eacute;pal, Katmandou, 2010, Lakpa Thulung, <a href="http://htl.linguist.univ-paris-diderot.fr/laboratoire/membres/lahaussois" target="_blank">Aim&eacute;e Lahaussois</a></p>
       <p class="ZonePrint">C'est l'histoire de la première humaine, Miyakma et de la manière dont elle a donné naissance à une plante épineuse, un tigre, un ours, un singe, ainsi qu'un garçon et une fille. Comme il n'y a pas d'autres êtres humains autour d'eux, la sœur et le frère finissent par s'accoupler, provoquant la terrible colère de Khomda, le dieu qui les a engendrés. Pour les punir, il les envoie dans les boyaux de la terre. Après plusieurs générations sous terre, ils réussissent à remonter à la surface. Ils essaient d'échapper à la malédiction en faisant un sacrifice humain, mais réalisent qu'ils ont besoin d'une victime et surtout de son corps. Cela les conduit à inventer une &quot;culture de la mort&quot;, dans laquelles est donnée une valeur différente à chaque cadavre suivant que la personne est morte par accident ou d'un âge avancé. Cette &quot;culture de la mort&quot; existe encore aujourd'hui.</p>
       <p>&nbsp;</p>
       <p class="intertitre">Abr&eacute;viations anglaises utilis&eacute;es dans les corpus</p>

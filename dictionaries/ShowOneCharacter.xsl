@@ -57,7 +57,7 @@
   </xsl:template>
   <xsl:template name="index">
     <xsl:for-each select="//Lexicon/LexicalEntry">
-      <xsl:if test="starts-with(./Lemma/feat[@att='lexeme']//@val, $char)">
+      <xsl:if test="starts-with(translate(./Lemma/feat[@att='lexeme']//@val, '⁰¹²³⁴-', ''), $char)">
         <!-- Insert link -->
         <xsl:element name="a">
           <xsl:attribute name="href">
@@ -77,7 +77,7 @@
     </xsl:for-each>
   </xsl:template>
   <xsl:template match="//Lexicon/LexicalEntry">
-    <xsl:if test="starts-with(./Lemma/feat[@att='lexeme']//@val, $char)">
+    <xsl:if test="starts-with(translate(./Lemma/feat[@att='lexeme']//@val, '⁰¹²³⁴-', ''), $char)">
       <dl>
         <dt>
           <span class="lexeme">
@@ -275,6 +275,34 @@
                       <xsl:text>. </xsl:text>
                     </xsl:if>
                   </span>
+                  <!-- Déclarations diverses (noms scientifiques, etc.). -->
+                  <xsl:if test="./Definition/Statement/feat[@att='scientificName']">
+                  <p>
+                    <xsl:if test="($lang1='fra' or $lang2='fra') and $lang1!='eng' and $lang2!='eng'">
+                      <xsl:text>Nom scientifique : </xsl:text>
+                    </xsl:if>
+                    <xsl:if test="$lang1='eng' or $lang2='eng'">
+                      <xsl:text>Scientific name: </xsl:text>
+                    </xsl:if>
+                    <xsl:value-of select="./Definition/Statement/feat[@att='scientificName']//@val"/>
+                    <xsl:text> </xsl:text>
+                    <!-- Check if value has already been formatted in XML -->
+                    <xsl:choose>
+                      <xsl:when
+                        test="./Definition/Statement/feat[@att='scientificName']//ancestor::Statement/feat[@att='writtenForm']//@val/../span//@class">
+                        <xsl:copy-of
+                          select="./Definition/Statement/feat[@att='scientificName']//ancestor::Statement/feat[@att='writtenForm']//@val/../node()"
+                        />
+                      </xsl:when>
+                      <xsl:otherwise>
+                        <xsl:value-of
+                          select="./Definition/Statement/feat[@att='scientificName']//ancestor::Statement/feat[@att='writtenForm']//@val"
+                        />
+                      </xsl:otherwise>
+                    </xsl:choose>
+                    <xsl:text>. </xsl:text>
+                  </p>
+                  </xsl:if>
                   <!-- Semantic domain -->
                   <xsl:if
                     test="./SubjectField/feat[@att='language' and @val=$lang1]//ancestor::SubjectField/feat[@att='semanticDomain']//@val">

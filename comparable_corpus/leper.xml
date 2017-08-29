@@ -1,0 +1,17 @@
+<similarities>
+<files>
+<file id="crdo-KLR_KHAMNIME_PURNA" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/klr/crdo-KLR_KHAMNIME_PURNA.xml" lang="Khaling" sound="crdo-KLR_KHAMNIME_PURNA_SOUND" speaker="Purna" title="Khamnime"/>
+<file id="crdo-KLR_KHAMNIME_BIJIAME" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/klr/crdo-KLR_KHAMNIME_BIJIAME.xml" lang="Khaling" sound="crdo-KLR_KHAMNIME_BIJIAME_SOUND" speaker="Bijiame" title="Khamnime"/>
+<file id="crdo-TDH-MUKLI_FOUNDATION_CHANDRAKALA" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/tdh/crdo-TDH-MUKLI_FOUNDATION_CHANDRAKALA.xml" lang="Thulung" sound="crdo-TDH-MUKLI_FOUNDATION_CHANDRAKALA_SOUND" speaker="Chandrakala" title="Foundation rites"/>
+</files>
+<similarity id="1">
+<color>#EAF7FB</color>
+<event>Khamdime's daughter had married in Mukli</event>
+	<file id="crdo-KLR_KHAMNIME_PURNA">
+		<sentence id="S1"/>
+	</file>
+	<file id="crdo-KLR_KHAMNIME_BIJIAME">
+		<sentence id="S1"/>
+	</file>
+</similarity>
+</similarities>

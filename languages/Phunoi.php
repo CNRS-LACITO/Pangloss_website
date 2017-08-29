@@ -4,7 +4,6 @@
 <meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <body>
-<html><head><meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
            <div class="page-header"><h1>Corpus phou noy (phunoi) </h1></div>
            <div class="text-left">
             <p>&nbsp;</p>

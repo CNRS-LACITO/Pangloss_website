@@ -41,7 +41,7 @@
     
     <body>
         
-        <div class="row total">
+        <div  id="top" class="row total">
             <div class="col-md-1 col-lg-1"></div>
             <div class="container col-xs-12 col-sm-12 col-md-10 col-lg-10">
                 
@@ -67,18 +67,18 @@
                        <div class="row">
                        
                        
-                        <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://www.cnrs.fr" target="_blank"><img src="../images/logos/cnrs.jpg" alt="CNRS"  height="25"  border="0"/></a></div>
+                        <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://www.cnrs.fr" target="_blank"><img src="../images/logos/cnrs.jpg" alt="CNRS"  height="25"  border="0"/></a></div>-->
                             <div class="hidden-xs hidden-lg col-md-2 col-sm-4"><a href="http://www.cnrs.fr" target="_blank"><img src="../images/logos/cnrs.jpg" alt="CNRS"  height="35"  border="0"/></a></div>
                              <div class="hidden-xs hidden-sm hidden-md col-lg-2"><a href="http://www.cnrs.fr" target="_blank"><img src="../images/logos/cnrs.jpg" alt="CNRS"  height="45"  border="0"/></a></div>
                              
                              
                              
                              
-                             <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://lacito.vjf.cnrs.fr" target="_blank"><img src="../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito"  height="25"  border="0"/></a></div>
+                             <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://lacito.vjf.cnrs.fr" target="_blank"><img src="../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito"  height="25"  border="0"/></a></div>-->
                             <div class="hidden-xs hidden-lg  hidden-md col-sm-4"><a href="http://lacito.vjf.cnrs.fr" target="_blank"><img src="../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito"  height="30"  border="0"/></a></div>
                              <div class="hidden-xs hidden-sm col-md-2 col-lg-2"><a href="http://lacito.vjf.cnrs.fr" target="_blank"><img src="../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito"  height="36"  border="0"/></a></div>
                            
-                            <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../images/logos/cocoon2.png" alt="Cocoon"  height="20" border="0"/></a></div>
+                            <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../images/logos/cocoon2.png" alt="Cocoon"  height="20" border="0"/></a></div>-->
                             <div class="hidden-xs col-sm-4 hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../images/logos/cocoon2.png" alt="Cocoon"  height="25" border="0"/></a></div>
                             <div class="hidden-xs hidden-sm  col-md-2"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../images/logos/cocoon2.png" alt="Cocoon"  height="36" border="0"/></a></div>
                             
@@ -97,7 +97,9 @@
                         <div class="barre-navig-tot"> 
                         
                         <!-- navbar-header -->
+                        
                         <div class="navbar-header" >
+                             <div class="hidden-xs">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
@@ -105,17 +107,36 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
+                            </div>
+                            
+                             <div class="hidden-sm hidden-md hidden-lg">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+
+                               
+                            </button>
+                            </div>
                             
                          
                             
                          
-                  <div class="hidden-md hidden-lg" align="left" style="padding:5px">
+                  <div class="hidden-md hidden-lg hidden-sm" align="left" style="padding:5px">
+                  
+                    <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../images/icones/eng.gif"  height="30" width="30"/></a>
+                  </div>
+                  
+                  <div class="hidden-md hidden-lg hidden-xs" align="left" style="padding:5px">
                   
                     <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../images/icones/eng.gif"  height="35" width="35"/></a>
                   </div>
+                  
                             <div class="hidden-xs hidden-sm" align="left" style="padding:5px">
                               <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../images/icones/eng.gif" height="40" width="40"/></a>
                             </div>
+                            
+                            
                             
                             
                            <!-- /.navbar-header -->
@@ -181,6 +202,7 @@
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=ipa&dict=khaling&lang1=eng&lang2=*&langn=*&char=%CA%94"><span class="fa fa-bank blue"></span>Khaling</a></li>
                                         
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=*&dict=na&lang1=eng&lang2=cmn&langn=*&char=ɑ"><span class="fa fa-bank blue"></span>Na</a></li>
+                                        <li><a href="dictionaries/limbu/index.html">Limbu</a></li>
                                     </ul>
                                 </li>      
                                 
@@ -200,7 +222,7 @@
                                 <li class="dropdown"> 
                                    <a data-toggle="dropdown" href="#">Aide<b class="caret"></b></a>
                                     <ul class="dropdown-menu jqueryFadeIn">
-                                    <li><a href="http://lacito.vjf.cnrs.fr/pangloss/faq.html"><span class="fa fa-plus-square red"></span>FAQ</a></li>   
+                                    <li><a href="http://lacito.vjf.cnrs.fr/pangloss/FAQ.html"><span class="fa fa-plus-square red"></span>FAQ</a></li>   
                                     <li>
                                     <a href="javascript:writemail('gmail.com','pangloss.cnrs','',1);">Contact</a> 								</li>
                                     <li class="divider"></li>
@@ -226,11 +248,9 @@
                 
                <div class="row">
                <div class="col-xs-12 hidden-sm hidden-md hidden-lg">
-               		<div>&nbsp;</div>
-                    <div>&nbsp;</div>
+               	
         		</div>
         		<div class="hidden-xs col-sm-12 hidden-md hidden-lg">
-               		<div>&nbsp;</div>
                		<div>&nbsp;</div>
                     <div>&nbsp;</div>
                    
@@ -313,8 +333,8 @@
                             <div class="panel-title">
                                <p>Notre collection contient 2669 ressources multimédia, le plus souvent des enregistrements audio effectués sur le terrain par des linguistes. Les fonctions premières de Pangloss sont d'archiver ces enregistrements avec leurs métadonnées (consultables sous le titre de chaque ressource) et de les rendre accessibles en ligne. <br />
  La plupart de nos enregistrements audio sont des histoires orales [exemple <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA015_SOUND" target="_blank">d'Inde</a>], une petite partie sont des listes de mots ou autre type d'élicitation [exemples <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-TOU_LANG_LO_THO_VOC1_SOUND&amp;idref=crdo-TOU_LANG_LO_THO_VOC1" target="_blank">du Vietnam</a>, <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NRU_F4_TONE12_SOUND&amp;idref=crdo-NRU_F4_TONE12" target="_blank">de Yunnan</a>]; un certain nombre de nos ressources sont de nature musicale [exemples <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-LHT_AF021004_SOUND" target="_blank">du Vanuatu</a>, <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-KJG_CHANTS_6162A_SOUND" target="_blank">du Laos</a>]. <br />
-  L'ensemble de nos ressources de la Collection sont archivées et rendues accessibles à tous, même en l'absence de transcription ou  de traduction de la ressource audio (voir l'exemple <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-WAY_FLECHE_SOUND">de Guyane française</a>). Ces ressources purement audio sont identifiables grâce à l'icône <img src="../images/images_pangloss/haut_parleur_s.png" alt="" width="22" height="22" border="0" />. <br />
-  Sur les 2669 resources, environ un tiers  (917 pour être exact) sont aussi accompagnées de textes, appelé <strong><em>annotations</em></strong>; elles sont identifiables sur le site par l'icône <img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="" width="20" height="20" border="0" />. </p>
+  L'ensemble des ressources de la Collection sont archivées et rendues accessibles à tous, même en l'absence de transcription ou  de traduction de la ressource audio (voir l'exemple <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-WAY_FLECHE_SOUND">de Guyane française</a>). Ces ressources purement audio sont identifiables grâce à l'icône <img src="../images/images_pangloss/haut_parleur_s.png" alt="" width="22" height="22" border="0" />. <br />
+  Sur les 2669 resources, environ un tiers  (917 pour être exact) sont aussi accompagnées de textes, appelés <strong><em>annotations</em></strong>; elles sont identifiables sur le site par l'icône <img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="" width="20" height="20" border="0" />. </p>
                                <p>&nbsp;</p>
                                <p>Selon  ce que l'expert a été en mesure de fournir à ce stade, le texte annoté peut contenir : </p>
 <ul>
@@ -331,7 +351,7 @@
      [exemples  avec traduction en <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-ADY_KAHRAMAN_SOUND&amp;idref=crdo-ADY_KAHRAMAN" target="_blank">français</a>; en <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-LHT_AF020621_SOUND&amp;idref=crdo-LHT_AF020621" target="_blank">anglais</a>; en <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-VAY_HAYUA_SOUND&amp;idref=crdo-VAY_HAYUA" target="_blank">français &amp; anglais</a>; en <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NRU_F4_CARAVANS_SOUND&amp;idref=crdo-NRU_F4_CARAVANS" target="_blank">français &amp; mandarin</a>; in <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NEP_RAUT69_SOUND&amp;idref=crdo-NEP_RAUT69" target="_blank">anglais &amp; népali</a>]</li>
   <li>une transcription synchronisée, <br />
     des gloses interlinéaires, <br />
-    et une traduction libre dans une ou plisieurs langues <br />
+    et une traduction libre dans une ou plusieurs langues <br />
     [ex.  avec traductions en <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-ANE_OISEAU_SOUND&amp;idref=crdo-ANE_OISEAU" target="_blank">français</a>; en <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-KDK_MAGE_SOUND&amp;idref=crdo-KDK_MAGE" target="_blank">français &amp; anglais</a>; en <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NGE_HOUSE_SOUND&amp;idref=crdo-NGE_HOUSE" target="_blank">anglais</a>; en <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-SVM_POIVRONS_SOUND&amp;idref=crdo-SVM_POIVRONS" target="_blank">anglais, italien &amp; allemand</a>; en <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-MKD_CHAMPS_SOUND&amp;idref=crdo-MKD_CHAMPS" target="_blank">anglais, français &amp; grec</a>; en <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-JYA_LOBZANG_SOUND&amp;idref=crdo-JYA_LOBZANG" target="_blank">chinois mandarin</a>; etc.]</li>
 </ul>
 <p>En plus de ces corpus audio annotés, la Collection Pangloss accueille depuis peu une <a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/index.html" target="_blank">collection de dictionaires en ligne</a>.</p>
@@ -376,12 +396,15 @@
 
                 <!-- InstanceEndEditable -->
                 <!--End container-->
-                
-           
+              
+    
         </div> 
-        
+      
+       
         </div>
-        
+        <br/><br/><br/><br/>
+           <div align="left"  class="btn-group dropup"><a href="#top"><button type="button" class="btn btn-default">Haut de page  <span class="caret"></span></button></a></div>
+       <hr/>
       
         <!-- jQuery -->
         <script src="bootstrap-3.3.6-dist/js/jquery.js"></script>

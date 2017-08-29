@@ -10,7 +10,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         
         
-        <!-- InstanceBeginEditable name="title" -->Titre de la page<!-- InstanceEndEditable -->
+        <!-- InstanceBeginEditable name="title" --><!-- InstanceEndEditable -->
         
         <!-- Bootstrap Core CSS -->
         <link href="../bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet"/>
@@ -42,7 +42,7 @@
     
     <body>
         
-        <div class="row total">
+        <div id="top" class="row total">
             <div class="col-md-1 col-lg-1"></div>
             <div class="container col-xs-12 col-sm-12 col-md-10 col-lg-10">
                 
@@ -68,18 +68,18 @@
                        <div class="row">
                        
                        
-                        <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS" height="25"  border="0"/></a></div>
+                        <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://www.cnrs.fr" target="_blank"><img src="../images/logos/cnrs.jpg" alt="CNRS" height="25"  border="0"/></a></div>-->
                             <div class="hidden-xs hidden-lg col-md-2 col-sm-4"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS" height="35"  border="0"/></a></div>
                              <div class="hidden-xs hidden-sm hidden-md col-lg-2"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS" height="45"  border="0"/></a></div>
                              
                              
                              
                              
-                             <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="25"  border="0"/></a></div>
+                             <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="25"  border="0"/></a></div>-->
                             <div class="hidden-xs hidden-lg  hidden-md col-sm-4"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="30"  border="0"/></a></div>
                              <div class="hidden-xs hidden-sm col-md-2 col-lg-2"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="36"  border="0"/></a></div>
                            
-                            <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon" height="20" border="0"/></a></div>
+                            <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../images/logos/cocoon2.png" alt="Cocoon" height="20" border="0"/></a></div>-->
                             <div class="hidden-xs col-sm-4 hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon" height="25" border="0"/></a></div>
                             <div class="hidden-xs hidden-sm  col-md-2"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon" height="36" border="0"/></a></div>
                             
@@ -98,7 +98,8 @@
                         <div class="barre-navig-tot"> 
                         
                         <!-- navbar-header -->
-                        <div class="navbar-header" >
+                         <div class="navbar-header" >
+                             <div class="hidden-xs">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
@@ -106,15 +107,31 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
+                            </div>
+                            
+                           <div class="hidden-sm hidden-md hidden-lg">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+
+                               
+                            </button>
+                            </div>
                             
                          
                             
                          
-                  <div class="hidden-md hidden-lg" align="left" style="padding:10px">
+                  <div class="hidden-md hidden-lg hidden-sm" align="left" style="padding:5px">
+                  
+                    <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/fra.gif"  height="30" width="30"/></a>
+                  </div>
+                  
+                   <div class="hidden-md hidden-lg hidden-xs" align="left" style="padding:5px">
                   
                     <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/fra.gif"  height="35" width="35"/></a>
                   </div>
-                            <div class="hidden-xs hidden-sm" align="left" style="padding:10px">
+                            <div class="hidden-xs hidden-sm" align="left" style="padding:5px">
                               <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/fra.gif" height="40" width="40"/></a>
                             </div>
                             
@@ -151,14 +168,14 @@
                                
                                 <li class="dropdown"></li>
                                 <li class="dropdown"> 
-                                    <a data-toggle="dropdown" href="#">Corpora access<b class="caret"></b></a>
+                                    <a data-toggle="dropdown" href="#">Corpus access<b class="caret"></b></a>
                                     <ul class="dropdown-menu jqueryFadeIn">
-                                        <li class="dropdown-header">Corpora</li>
+                                        <li class="dropdown-header">Corpus</li>
                                         <li><a href="https://fusiontables.googleusercontent.com/fusiontables/embedviz?lat=24&amp;lng=30&amp;t=3&amp;z=2&amp;q=select+col1+from+1yKRHAtZg2VweVSBt0uMxexE0gl3RFmOaDAE-Ag8B&amp;viz=MAP&amp;h=false&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG" target="_blank"><span class="fa fa-bank blue"></span>Map of languages</a></li>
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/index_en.html"><span class="fa fa-bank blue"></span>List of languages</a></li> 
                                         <li class="divider"></li>
-                                        <li class="dropdown-header">Comparable corpora</li>
-                                        <li><a href="http://lacito.vjf.cnrs.fr/comparable_corpus/index_en.html"><span class="fa fa-bank blue"></span>Presentation</a></li>        
+                                        <li class="dropdown-header">Comparables corpus</li>
+                                        <li><a href="http://lacito.vjf.cnrs.fr/pangloss/comparable_corpus/index_en.html"><span class="fa fa-bank blue"></span>Presentation</a></li>        
                                     </ul>
                                 </li>
                                 <li class="dropdown"></li>   
@@ -172,6 +189,7 @@
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=*&dict=japhug&lang1=eng&lang2=fra&langn=cmn&char=a"><span class="fa fa-bank blue"><span class="fa fa-bank blue"></span>Japhug</a></li>
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=ipa&dict=khaling&lang1=eng&lang2=*&langn=*&char=%CA%94"><span class="fa fa-bank blue"></span>Khaling</a></li>
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order_inv.xml&alphabet=dev&dict=khaling&lang1=eng&lang2=*&langn=*&char=अ"><span class="fa fa-bank blue"></span>Na</a></li>
+                                        <li><a href="../dictionaries/limbu/index.html">Limbu</a></li>
                                     </ul>
                                 </li>      
                                 
@@ -191,7 +209,7 @@
                                 <li class="dropdown"> 
                                    <a data-toggle="dropdown" href="#">Help<b class="caret"></b></a>
                                     <ul class="dropdown-menu jqueryFadeIn">
-                                    <li><a href="http://lacito.vjf.cnrs.fr/pangloss/faq.html"><span class="fa fa-plus-square red"></span>FAQ</a></li>   
+                                    <li><a href="http://lacito.vjf.cnrs.fr/pangloss/FAQ.html"><span class="fa fa-plus-square red"></span>FAQ</a></li>   
                                     <li>
                                     <a href="javascript:writemail('gmail.com','pangloss.cnrs','',1);">Contact</a> 								</li>
                                      <li class="divider"></li>
@@ -214,14 +232,11 @@
                   
                 </nav>
                 
-              <div class="row">
+                <div class="row">
                <div class="col-xs-12 hidden-sm hidden-md hidden-lg">
-               		<div>&nbsp;</div>
-                    <div>&nbsp;</div>
-                    <div>&nbsp;</div>
+               	
         		</div>
         		<div class="hidden-xs col-sm-12 hidden-md hidden-lg">
-               		<div>&nbsp;</div>
                		<div>&nbsp;</div>
                     <div>&nbsp;</div>
                    
@@ -245,7 +260,7 @@
 <ul>
 <li>Depositors need to be aware that preparing data for archiving and online distribution is time-consuming, and is still little-recognized institutionally: time spent putting together a beautiful data set and making provisions for its long-time conservation hardly counts at all in career-building. </li>
 <li>If you nonetheless believe (as we do) that this is an important and worthwhile pursuit, it is best to take archiving goals into account from the earliest steps of data collection. The quality of the data benefits greatly from the efforts that go into the careful design of the data collection procedure.</li>
-<li>In order to facilitate conversion to logicall-structured text (XML) later, it is best to use simple formats, such as a plain text editor (e.g. Notepad++) or a software package such as Toolbox. If you painstakingly typeset glossed texts in a proprietary format such as MS-Word, you will probably have a terrible time converting it to logically structured text later.</li>
+<li>In order to facilitate conversion to logically-structured text (XML) later, it is best to use simple formats, such as a plain text editor (e.g. Notepad++) or a software package such as Toolbox. If you painstakingly typeset glossed texts in a proprietary format such as MS-Word, you will probably have a terrible time converting it to logically structured text later.</li>
 </ul>
 
 </div>
@@ -275,9 +290,9 @@
                                     <div id="materiel" class="panel-collapse collapse">
                    <ul>
                    <li class="panel">Technology evolves rapidly, and the local situations differ greatly from one fieldwork location to another. Will you have access to the power grid? This is not the case in many islands of Oceania, for instance. If there is electricity, are there risks of power outings? Some locations have frequent power outings, which can disrupt recording sessions. An Uninterruptible Power Supply may carry you through short power outings. What is the voltage? In case it is low and/or irregular, a voltage stabilizer may be necessary to avoid damage to electronic devices. Last but not least, are the sockets grounded? In the absence of grounding, using electric power from the grid is hazardous because the power differential, which can reach hundreds of volts, tends to leak into electronic devices such as microphones, causing serious electric shocks. A power stabilizer and/or a Uninterruptible Power Supply do not solve the problem of grounding.</li>
-                   <li class="panel">For recording a good audio signal, the <b>acoustics of the place of recording</b> matters most of all. Reverberation makes recordings unpleasant to listen to, and detracts a lot from audio quality. Clapping in one's hands is enough to get an idea of whethe a place is suitable for recording: the less reverberation there is, the better. A room that has wall-to-wall carpet and bookshelves on the walls (and thick curtains) is likely to dampen reverberation efficiently, yielding good results for recording. At the opposite extreme, a room with bare hard surfaces (cement walls, tiling, glass panes without curtains...). The second most important factor is the <b>quality and appropriateness of the microphones</b>. Recording in stereo is recommended, even for recording one speaker: stereo audio opens possibilities for signal processing later on.</li>
+                   <li class="panel">For recording a good audio signal, the <b>acoustics of the place of recording</b> matters most of all. Reverberation makes recordings unpleasant to listen to, and detracts a lot from audio quality. Clapping in one's hands is enough to get an idea of whether a place is suitable for recording: the less reverberation there is, the better. A room that has wall-to-wall carpet and bookshelves on the walls (and thick curtains) is likely to dampen reverberation efficiently, yielding good results for recording. At the opposite extreme, a room with bare hard surfaces (cement walls, tiling, glass panes without curtains...). The second most important factor is the <b>quality and appropriateness of the microphones</b>. Recording in stereo is recommended, even for recording one speaker: stereo audio opens possibilities for signal processing later on.</li>
                    <li class="panel">The recording device (at present, typically a solid-state recorder) should be chosen together with the microphones, so that the recording device provides a level of preamplification that is appropriate for the specific microphones that you will use. Other criteria for choice include solidity (how rugged the device needs to be, in view of the fieldwork location and your working habits), suitability for your purposes (if you want the recorder to be inconspicuous, for instance), and battery life when the device is operated on batteries (some devices consume the power of alkaline batteries within a very short time).</li>
-                   <li class="panel">The Lacito research centres has a wide range of <b>recorders</b> / <b>microphones</b>/ <b>video cameras</b> and other devices for recording during fieldwork. Lab members should contact <a href="../../membres/belingard.htm"><b>Anne Bélingard</b> </a> for further information. Reminder: remember to book well in advance (at the same time as you apply for travel authorization). Remember that audio and video equipment is in strong demand during the Summer holidays (July+August).</li></ul>
+                   <li class="panel">The Lacito research centres has a wide range of <b>recorders</b> / <b>microphones</b>/ <b>video cameras</b> and other devices for recording during fieldwork. Lab members should contact <a href="../../membres/belingard.htm"><b>Anne Bélingard</b> </a> for further information. Reminder: remember to book well in advance (at the same time as you apply for travel authorization). Remember that audio and video equipment is in great demand during the Summer holidays (July+August).</li></ul>
                </div>
                						</li>
                                    <li>
@@ -289,7 +304,7 @@
                    
               			<li class="panel">
                    		The recommended format for audio is <b>WAV</b> (and <b>FLAC</b> for very large audio files &gt; 2 Gb)</li>
-              			<li class="panel">The minimum quality is audio CD standard: sampling at <b>44,100 Hz</b> on <b>16 bits</b>. As of 2017, adopting 48,000 Hz / 24-bit is highly recommended. This allows you to leave a margin of security at recording (on the order of 12 decibels) while preserving possibilities for digital signal amplification (volume increase) after recording.</li>
+              			<li class="panel">The minimum quality is audio CD standard: sampling at <b>44,100 Hz</b> on <b>16 bits</b>. As of 2017, adopting 48,000 Hz / 24-bit is highly recommended. This allows you to leave a margin of security in recording (on the order of 12 decibels) while preserving possibilities for digital signal amplification (volume increase) after recording.</li>
 						<li class="panel"><b>An ounce of practice is worth a pound of teaching</b>. Take the time to test your equipment carefully before you leave for the field, and test it again thoroughly in the field before recording sessions, so as to be able to focus on elicitation tasks during the sessions.</li>                        
                         <h5><b><u>Video files:</u></b></h5>
                         
@@ -384,7 +399,7 @@
                                     	<div><a data-toggle="collapse" href="#structurer"><b >Data deposit without a proper set of metadata is virtually useless<b class="caret"></b></b></a></div>
                                     <div id="structurer" class="panel-collapse collapse">
                    <ul>
-                   <li class="panel">On principle, safekeeping a set of files is better than nothing BUT...</li>
+                   <li class="panel">In principle, safeguarding a set of files is better than nothing BUT...</li>
                    <li class="panel">
                    In practice, a <b>description of the files' contents</b> and a <b>set of explicit file naming conventions</b> have to be prepared by the person who records the corpus</li>, otherwise difficulties (sometimes insuperable) are encountered when trying to put together the pieces of the jig-saw puzzle.</ul>
                </div>
@@ -442,10 +457,10 @@
                 <!-- début explication format xml pangloss -->
                 <p>Annotation files as defined in the Pangloss Collection have four levels:
               <ul>
-                <li>Une balise <span style="color:blue"><b><i>TEXT</i></b></span> This covers all the information</li>
-                <li>Une balise <span style="color:blue"><b><i>S</i></b></span> (sentence) This indicates the division of the text into sentences</li>
-                <li>Une balise <span style="color:blue"><b><i>W</i></b></span> (word) This indicates the division of a sentence into words</li>
-                <li>Une balise <span style="color:blue"><b><i>M </i></b></span>(morpheme) This indicates the division of a word into morphemes</li>
+                <li><span style="color:blue"><b><i>TEXT</i></b></span> This covers all the information</li>
+                <li><span style="color:blue"><b><i>S</i></b></span> (sentence) This indicates the division of the text into sentences</li>
+                <li><span style="color:blue"><b><i>W</i></b></span> (word) This indicates the division of a sentence into words</li>
+                <li><span style="color:blue"><b><i>M </i></b></span>(morpheme) This indicates the division of a word into morphemes</li>
               </ul>
               <p><br/>
                 For each element, it is possible to add translations and glosses by means of a <span style="color:blue"><b><i>TRANSL</i></b></span> tag (translation). <br/>
@@ -465,7 +480,7 @@
                                      <li>
                                     	<div><a data-toggle="collapse" href="#outils"><b >Available tools and scripts<b class="caret"></b></b></a></div>
                                     <div id="outils" class="panel-collapse collapse">
-                   <div class="panel">See the section <b><a href="tools.html">"Forms and tools"</a></b></div>
+                   <div class="panel">See the section <b><a href="tools_en.html">"Tools, scripts, and forms"</a></b></div>
                </div>
                						</li>
                                 </ul>  
@@ -617,7 +632,7 @@
                                 <ul>
                                 <li><b>Data collection</b>: Since the beginning of the 2000's, Guillaume Jacques has been collecting and transcribing large amounts of recordings in the <a href="../corpus/list_rsc.php?lg=Japhug" target="_blank"><b>Japhug</b></a> (Rgyalrong) language</li>
                                  <li><b>Archiving and online deposit</b>: since 2012, Guillaume Jacques has deposited many documents. Only a fraction have interlinear glosses and text-to-sound alignment at sentence level; most have a complete transcription. These abundant data are now freely available to specialists of Sino-Tibetan languages, who with the help of an online <a href="../dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=*&dict=japhug&lang1=eng&lang2=fra&langn=cmn&char=a" target="_blank"><b>dictionary</b></a> are able to understand the texts</li>
-                                 <li><b>Perspective for enrichment</b>: Transcription and translation can only be carried out by a specialist of the langue (who, no matter how proficient, still needs to verify some points with a native language consultant). On the other hand, tasks such as sound-to-transcription alignment and lemmatization can be taken up by students as part of their training, or be entrusted to research assistants. Gradual enrichment of the collection is planned as a collective endeavor, aiming at full lemmatization. This distribution of tasks allows for a richer record in the end, as larger amounts of texts can be transcribed by the researcher, focusing on the task that requires his/her core skills.</li>
+                                 <li><b>Perspective for enrichment</b>: Transcription and translation can only be carried out by a specialist of the language (who, no matter how proficient, still needs to verify some points with a native language consultant). On the other hand, tasks such as sound-to-transcription alignment and lemmatization can be taken up by students as part of their training, or be entrusted to research assistants. Gradual enrichment of the collection is planned as a collective endeavor, aiming at full lemmatization. This distribution of tasks allows for a richer record in the end, as larger amounts of texts can be transcribed by the researcher, focusing on the task that requires his/her core skills.</li>
                                 </ul>    
                             </div>
                         </div>
@@ -723,7 +738,9 @@
         </div> 
         
         </div>
-        
+        <br/><br/><br/><br/>
+        <div  class="btn-group dropup"><a href="#top"><button type="button" class="btn btn-default">Back to top <span class="caret"></span></button></a></div>
+       <hr/>
       
         <!-- jQuery -->
         <script src="../bootstrap-3.3.6-dist/js/jquery.js"></script>

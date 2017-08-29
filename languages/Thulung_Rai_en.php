@@ -1,9 +1,5 @@
 <div>&nbsp;</div>
-<html>
-<head>
-<meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</head>
-<body>
+
 <html><head><meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
             <div class="page-header"><h1>Thulung Rai Corpus </h1></div>
             <div class="text-left">
@@ -16,13 +12,13 @@
       </a></p>
       <p class="intertitre">&nbsp;</p>
       <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-TDH_KAKCILIP_SOUND&idref=crdo-TDH_KAKCILIP"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Kaktsilip</a><br>
-        Népal, Katmandou, 2009, Lakpa Thulung, <a href="../../membres/lahaussois.htm">Aim&eacute;e Lahaussois</a></p>
+        Népal, Katmandou, 2009, Lakpa Thulung, <a href="http://htl.linguist.univ-paris-diderot.fr/laboratoire/membres/lahaussois" target="_blank">Aim&eacute;e Lahaussois</a></p>
       <p class="intertitre">This is the story of Kaktsilip and his two sisters. The latter, tired of feeding him, decide to leave their lazy brother. While he's sleeping, they put him in a bamboo hut, and jump on it, crushing Kaktsilip underneath, before they flee. Katsilip, who has in fact survived, tries to fish to feed himself, but is unsuccessful, repeatedly turning up only a stone. He brings the stone home, where he eventually discovers that it is a young girl, Wailungma. They marry, and Wailungma teaches Kaktsilip some survival skills. Wailungma learns of the two sisters, and asks Kaktsilip to call for them. He sends various animals to get them (first a louse, then a flea, both of which are crushed by the sisters) before the rooster he sends next arouses their curiosity with his call, and leads them back to Kaktsilip's house. The sisters beg forgiveness for having tried to kill Kaktsilip, offering him 7 pig ribs (for the 7 ribs of his they broke in the hut) and 7 copper pots as a wedding gift. To this day, Thulung people offer pig ribs and copper pots as a wedding present.</p>
       <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-LAA_0001_SOUND&idref=crdo-LAA_0001"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Conversation</a><br>
-        Nepal, Kathmandu, 2009, Bala Thulung, <a href="../../membres/lahaussois.htm">Aim&eacute;e Lahaussois</a></p>
+        Nepal, Kathmandu, 2009, Bala Thulung, <a href="http://htl.linguist.univ-paris-diderot.fr/laboratoire/membres/lahaussois" target="_blank">Aim&eacute;e Lahaussois</a></p>
       <p>Conversation recorded between two cousins from Mukli, both now living in Kathmandu, with greetings, a short description of a shamanistic healing, discussion of a book they are writing about Thulung cultural practices and how to collect data. Contains typical salutations and family-related questions.</p>
       <p class="intertitre"><strong><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-TDH_MIYAKMA_SOUND"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Miyakma</a></strong><br>
-        Nepal, Kathmandu, 2010, Lakpa Thulung, <a href="../../membres/lahaussois.htm">Aim&eacute;e Lahaussois</a></p>
+        Nepal, Kathmandu, 2010, Lakpa Thulung, <a href="http://htl.linguist.univ-paris-diderot.fr/laboratoire/membres/lahaussois" target="_blank">Aim&eacute;e Lahaussois</a></p>
       <p class="ZonePrint">This is the story of the first human, Miyakma, and how she gave birth to a thorny plant, a tiger, a bear, a monkey and a boy and a girl. Because there are no other humans around, the sister and brother eventually mate, bringing upon themselves the wrath of Khomda, the god who is their father. As a punishment, he sends them down into the bowels of the earth, and after many generations, they attempt to return above ground. They manage to escape by performing a human sacrifice, and realize that they need to dispose of the body of the victim. This leads them to create a &quot;death culture&quot;, dealing with corpses differently according to whether the person died by accident or of old age. This &quot;death culture&quot; survives to this day.</p>
       <p class="intertitre">&nbsp;</p>
       <p class="intertitre">Abbreviations used in corpus</p>
@@ -161,7 +157,7 @@
         </tr>
       </table>
       <p class="ZonePrint">&nbsp;</p>
-      <p class="intertitre"><a href="../../membres/lahaussois.htm">Aim&eacute;e Lahaussois</a></p>
+      <p class="intertitre"><a href="http://htl.linguist.univ-paris-diderot.fr/laboratoire/membres/lahaussois">Aim&eacute;e Lahaussois</a></p>
       </div>
 </body>
 </html>

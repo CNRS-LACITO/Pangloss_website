@@ -1,0 +1,150 @@
+<similarities>
+<files>
+<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/tdh/crdo-TDH-MUKLI_GP_UTTARKUMAR.xml" lang="Thulung" sound="crdo-TDH-MUKLI_GP_UTTARKUMAR_SOUND" speaker="Uttar Kumar" title="Ghumne Pani"/>
+<file id="crdo-TDH-DEUSA_DP_DALBAHADUR" xml="http://cocoon.huma-num.fr/exist/crdo/lahaussois/tdh/crdo-TDH-DEUSA_DP_DALBAHADUR.xml" lang="Thulung" sound="crdo-TDH-DEUSA_DP_DALBAHADUR_SOUND" speaker="Dal Bahadur" title="Darembu Popnar"/>
+</files>
+<similarity id="1">
+<color>#EAF7FB</color>
+<event>There were two brothers, Darim/Darembu and Popnar</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S2"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S1"/>
+	</file>
+</similarity>
+<similarity id="2">
+<color>#EAFFEF</color>
+<event>They were powerful</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S3"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S2"/>
+		<sentence id="S3"/>
+		<sentence id="S19"/>
+		<sentence id="S20"/>
+	</file>
+</similarity>
+<similarity id="3">
+<color>#FFEEFD</color>
+<event>There was a pond</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S1"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S5"/>
+	</file>
+</similarity>
+<similarity id="4">
+<color>#F3F8F4</color>
+<event>There were frogs living in the pond.</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S5"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S5"/>
+	</file>
+</similarity>
+<similarity id="5">
+<color>#F1ECFF</color>
+<event>The frogs were tended by a god/gods called Leledym</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S31"/>
+		<sentence id="S32"/>
+		<sentence id="S30"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S9"/>
+		<sentence id="S10"/>
+	</file>
+</similarity>
+<similarity id="6">
+<color>#FFFFE3</color>
+<event>Two brothers wanted to eat the frogs.</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S5"/>
+		<sentence id="S9"/>
+		<sentence id="S11"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S6"/>
+	</file>
+</similarity>
+<similarity id="7">
+<color>#F9FDFF</color>
+<event>They used their power to drain the pond.</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S3"/>
+		<sentence id="S4"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S7"/>
+	</file>
+</similarity>
+<similarity id="8">
+<color>#FFECEC</color>
+<event>When the pond was drained, they took the frogs.</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S5"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S7"/>
+	</file>
+</similarity>
+<similarity id="9">
+<color>#E6FCFF</color>
+<event>The god in charge of the frogs came to stop them</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S9"/>
+		<sentence id="S10"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S11"/>
+		<sentence id="S12"/>
+	</file>
+</similarity>
+<similarity id="10">
+<color>#E0EAF8</color>
+<event>They blew smoke at him</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S12"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S14"/>
+		<sentence id="S15"/>
+		<sentence id="S16"/>
+	</file>
+</similarity>
+<similarity id="11">
+<color>#EAF7FB</color>
+<event>The god left.</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S13"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S17"/>
+	</file>
+</similarity>
+<similarity id="12">
+<color>#EAFFEF</color>
+<event>The brothers took a large rock</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S20"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S21"/>
+	</file>
+</similarity>
+<similarity id="13">
+<color>#FFEEFD</color>
+<event>They threw it (and made a new pond.)</event>
+	<file id="crdo-TDH-MUKLI_GP_UTTARKUMAR">
+		<sentence id="S21"/>
+		<sentence id="S22"/>
+	</file>
+	<file id="crdo-TDH-DEUSA_DP_DALBAHADUR">
+		<sentence id="S21"/>
+	</file>
+</similarity>
+</similarities>

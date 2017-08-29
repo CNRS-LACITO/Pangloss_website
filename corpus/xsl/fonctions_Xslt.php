@@ -547,6 +547,7 @@ $chaine) );
 					$extent		 = $XML->extent;
 					$north		 = $XML->north;
 					$east		 = $XML->east;
+					$available		 = $XML->available;
 					
 					
 			//echo "$north et $east";
@@ -602,6 +603,7 @@ $lg_rect=str_replace("\'",'_',$lg_rect) ;
 					$xp->setParameter('', 'extent',  $extent);
 					$xp->setParameter('', 'north',  $north);
 					$xp->setParameter('', 'east',  $east);
+					$xp->setParameter('', 'available',  $available);
 					
 										
 				
@@ -1310,13 +1312,23 @@ if ($term!=""){
 				
 		
 				
+
+
+				
+				
+				
+				
 				$type = @Xpath_values($node, '//dc:format[xsi:type="dcterms:DCMIType"]');
 
 		
-				$idSound  = substr(@Xpath_first_value($node, '//dcterms:requires'), strlen('oai:crdo.risc.cnrs.fr:')-1);
+				$id_s  = @Xpath_values($node, '//dcterms:requires');
 
 
+				$idSound=split(";",$id_s);
+
+			
 		
+				
 				/*echo '<a href="', $href,'" title ="Ecouter ce texte" target="_blank" >';
 
 				echo '<img class="sansBordure" border=0 src="../../images/images_pangloss/haut_parleur_s.png"/></a>';*/
@@ -1331,7 +1343,10 @@ if ($term!=""){
 				echo '<img class="sansBordure" border=0 src="../../images/icones/video.png" height="25" width="25" /></a>';}
 
 				elseif  (strpos($href,'.xml') == true){
-				echo '<a href="show_text.php?id=', $idSound,'&amp;idref=', $id,'" title ="Ecouter ce texte" target="_blank" >';
+			
+			for ($k=0;$k<sizeof($idSound);$k++){ 	
+				echo '<a href="show_text.php?id=', substr($idSound[$k], strlen('oai:crdo.risc.cnrs.fr:')-1),'&amp;idref=', $id,'" title ="Ecouter ce texte" target="_blank" >';
+			}
 				echo '<img class="sansBordure" border=0 src="../../images/icones/Txt_Inter_parchemin.jpg" height="25" width="30" /></a>';}
 				
 				elseif  (strpos($href,'.pdf') == true){
@@ -1351,8 +1366,14 @@ if ($term!=""){
 				echo '<img class="sansBordure" border=0 src="../../images/icones/video.png" height="25" width="25" /></a>';}
 
 				elseif  (strpos($href[$k],'.xml') == true){
-				echo '<a href="show_text.php?id=', $idSound,'&amp;idref=', $id,'" title ="Ecouter ce texte" target="_blank" >';
+			
+			for ($k=0;$k<sizeof($idSound);$k++){ 	
+			
+				echo '<a href="show_text.php?id=', substr($idSound[$k], strlen('oai:crdo.risc.cnrs.fr:')-1),'&amp;idref=', $id,'" title ="Ecouter ce texte" target="_blank" >';
+			
+				
 				echo '<img class="sansBordure" border=0 src="../../images/icones/Txt_Inter_parchemin.jpg" height="25" width="30" /></a>';}
+			}
 				
 				elseif  (strpos($href[$k],'.pdf') == true){
 				echo '<a href="show_other.php?id=', $idSound,'&amp;idref=', $id,'" title ="Ecouter ce texte" target="_blank" >';

@@ -41,7 +41,7 @@
     
     <body>
         
-        <div class="row total">
+        <div id="top" class="row total">
             <div class="col-md-1 col-lg-1"></div>
             <div class="container col-xs-12 col-sm-12 col-md-10 col-lg-10">
                 
@@ -67,18 +67,18 @@
                        <div class="row">
                        
                        
-                        <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS" height="25"  border="0"/></a></div>
+                        <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://www.cnrs.fr" target="_blank"><img src="../images/logos/cnrs.jpg" alt="CNRS" height="25"  border="0"/></a></div>-->
                             <div class="hidden-xs hidden-lg col-md-2 col-sm-4"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS" height="35"  border="0"/></a></div>
                              <div class="hidden-xs hidden-sm hidden-md col-lg-2"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS" height="45"  border="0"/></a></div>
                              
                              
                              
                              
-                             <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="25"  border="0"/></a></div>
+                             <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="25"  border="0"/></a></div>-->
                             <div class="hidden-xs hidden-lg  hidden-md col-sm-4"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="30"  border="0"/></a></div>
                              <div class="hidden-xs hidden-sm col-md-2 col-lg-2"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="36"  border="0"/></a></div>
                            
-                            <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon" height="20" border="0"/></a></div>
+                            <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../images/logos/cocoon2.png" alt="Cocoon" height="20" border="0"/></a></div>-->
                             <div class="hidden-xs col-sm-4 hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon" height="25" border="0"/></a></div>
                             <div class="hidden-xs hidden-sm  col-md-2"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon" height="36" border="0"/></a></div>
                             
@@ -97,7 +97,8 @@
                         <div class="barre-navig-tot"> 
                         
                         <!-- navbar-header -->
-                        <div class="navbar-header" >
+                         <div class="navbar-header" >
+                             <div class="hidden-xs">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
@@ -105,15 +106,31 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
+                            </div>
+                            
+                           <div class="hidden-sm hidden-md hidden-lg">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+
+                               
+                            </button>
+                            </div>
                             
                          
                             
                          
-                  <div class="hidden-md hidden-lg" align="left" style="padding:10px">
+                  <div class="hidden-md hidden-lg hidden-sm" align="left" style="padding:5px">
+                  
+                    <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/fra.gif"  height="30" width="30"/></a>
+                  </div>
+                  
+                   <div class="hidden-md hidden-lg hidden-xs" align="left" style="padding:5px">
                   
                     <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/fra.gif"  height="35" width="35"/></a>
                   </div>
-                            <div class="hidden-xs hidden-sm" align="left" style="padding:10px">
+                            <div class="hidden-xs hidden-sm" align="left" style="padding:5px">
                               <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/fra.gif" height="40" width="40"/></a>
                             </div>
                             
@@ -150,14 +167,14 @@
                                
                                 <li class="dropdown"></li>
                                 <li class="dropdown"> 
-                                    <a data-toggle="dropdown" href="#">Corpora access<b class="caret"></b></a>
+                                    <a data-toggle="dropdown" href="#">Corpus access<b class="caret"></b></a>
                                     <ul class="dropdown-menu jqueryFadeIn">
-                                        <li class="dropdown-header">Corpora</li>
+                                        <li class="dropdown-header">Corpus</li>
                                         <li><a href="https://fusiontables.googleusercontent.com/fusiontables/embedviz?lat=24&amp;lng=30&amp;t=3&amp;z=2&amp;q=select+col1+from+1yKRHAtZg2VweVSBt0uMxexE0gl3RFmOaDAE-Ag8B&amp;viz=MAP&amp;h=false&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG" target="_blank"><span class="fa fa-bank blue"></span>Map of languages</a></li>
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/index_en.html"><span class="fa fa-bank blue"></span>List of languages</a></li> 
                                         <li class="divider"></li>
-                                        <li class="dropdown-header">Comparable corpora</li>
-                                        <li><a href="http://lacito.vjf.cnrs.fr/comparable_corpus/index_en.html"><span class="fa fa-bank blue"></span>Presentation</a></li>        
+                                        <li class="dropdown-header">Comparables corpus</li>
+                                        <li><a href="http://lacito.vjf.cnrs.fr/pangloss/comparable_corpus/index_en.html"><span class="fa fa-bank blue"></span>Presentation</a></li>        
                                     </ul>
                                 </li>
                                 <li class="dropdown"></li>   
@@ -171,6 +188,7 @@
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=*&dict=japhug&lang1=eng&lang2=fra&langn=cmn&char=a"><span class="fa fa-bank blue"><span class="fa fa-bank blue"></span>Japhug</a></li>
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=ipa&dict=khaling&lang1=eng&lang2=*&langn=*&char=%CA%94"><span class="fa fa-bank blue"></span>Khaling</a></li>
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order_inv.xml&alphabet=dev&dict=khaling&lang1=eng&lang2=*&langn=*&char=अ"><span class="fa fa-bank blue"></span>Na</a></li>
+                                        <li><a href="../dictionaries/limbu/index.html">Limbu</a></li>
                                     </ul>
                                 </li>      
                                 
@@ -190,7 +208,7 @@
                                 <li class="dropdown"> 
                                    <a data-toggle="dropdown" href="#">Help<b class="caret"></b></a>
                                     <ul class="dropdown-menu jqueryFadeIn">
-                                    <li><a href="http://lacito.vjf.cnrs.fr/pangloss/faq.html"><span class="fa fa-plus-square red"></span>FAQ</a></li>   
+                                    <li><a href="http://lacito.vjf.cnrs.fr/pangloss/FAQ.html"><span class="fa fa-plus-square red"></span>FAQ</a></li>   
                                     <li>
                                     <a href="javascript:writemail('gmail.com','pangloss.cnrs','',1);">Contact</a> 								</li>
                                      <li class="divider"></li>
@@ -213,14 +231,11 @@
                   
                 </nav>
                 
-              <div class="row">
+                <div class="row">
                <div class="col-xs-12 hidden-sm hidden-md hidden-lg">
-               		<div>&nbsp;</div>
-                    <div>&nbsp;</div>
-                    <div>&nbsp;</div>
+               	
         		</div>
         		<div class="hidden-xs col-sm-12 hidden-md hidden-lg">
-               		<div>&nbsp;</div>
                		<div>&nbsp;</div>
                     <div>&nbsp;</div>
                    
@@ -377,7 +392,9 @@ function CreateConcordanceOneWord($mot, $filesim, $file1, $file2, $file3, $file4
         </div> 
         
         </div>
-        
+        <br/><br/><br/><br/>
+        <div  class="btn-group dropup"><a href="#top"><button type="button" class="btn btn-default">Back to top <span class="caret"></span></button></a></div>
+       <hr/>
       
         <!-- jQuery -->
         <script src="../bootstrap-3.3.6-dist/js/jquery.js"></script>

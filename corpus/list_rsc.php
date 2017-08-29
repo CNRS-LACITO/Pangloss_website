@@ -42,7 +42,7 @@
     
     <body>
         
-        <div class="row total">
+        <div  id="top" class="row total">
             <div class="col-md-1 col-lg-1"></div>
             <div class="container col-xs-12 col-sm-12 col-md-10 col-lg-10">
                 
@@ -68,18 +68,18 @@
                        <div class="row">
                        
                        
-                        <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS"  height="25"  border="0"/></a></div>
+                        <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://www.cnrs.fr" target="_blank"><img src="../images/logos/cnrs.jpg" alt="CNRS"  height="25"  border="0"/></a></div>-->
                             <div class="hidden-xs hidden-lg col-md-2 col-sm-4"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS"  height="35"  border="0"/></a></div>
                              <div class="hidden-xs hidden-sm hidden-md col-lg-2"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS"  height="45"  border="0"/></a></div>
                              
                              
                              
                              
-                             <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://lacito.vjf.cnrs.fr" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito"  height="25"  border="0"/></a></div>
+                             <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://lacito.vjf.cnrs.fr" target="_blank"><img src="../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito"  height="25"  border="0"/></a></div>-->
                             <div class="hidden-xs hidden-lg  hidden-md col-sm-4"><a href="http://lacito.vjf.cnrs.fr" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito"  height="30"  border="0"/></a></div>
                              <div class="hidden-xs hidden-sm col-md-2 col-lg-2"><a href="http://lacito.vjf.cnrs.fr" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito"  height="36"  border="0"/></a></div>
                            
-                            <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon"  height="20" border="0"/></a></div>
+                            <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../images/logos/cocoon2.png" alt="Cocoon"  height="20" border="0"/></a></div>-->
                             <div class="hidden-xs col-sm-4 hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon"  height="25" border="0"/></a></div>
                             <div class="hidden-xs hidden-sm  col-md-2"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon"  height="36" border="0"/></a></div>
                             
@@ -98,7 +98,9 @@
                         <div class="barre-navig-tot"> 
                         
                         <!-- navbar-header -->
+                        
                         <div class="navbar-header" >
+                             <div class="hidden-xs">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
@@ -106,17 +108,36 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
+                            </div>
+                            
+                             <div class="hidden-sm hidden-md hidden-lg">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+
+                               
+                            </button>
+                            </div>
                             
                          
                             
                          
-                  <div class="hidden-md hidden-lg" align="left" style="padding:5px">
+                  <div class="hidden-md hidden-lg hidden-sm" align="left" style="padding:5px">
+                  
+                    <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/eng.gif"  height="30" width="30"/></a>
+                  </div>
+                  
+                  <div class="hidden-md hidden-lg hidden-xs" align="left" style="padding:5px">
                   
                     <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/eng.gif"  height="35" width="35"/></a>
                   </div>
+                  
                             <div class="hidden-xs hidden-sm" align="left" style="padding:5px">
                               <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/eng.gif" height="40" width="40"/></a>
                             </div>
+                            
+                            
                             
                             
                            <!-- /.navbar-header -->
@@ -182,6 +203,7 @@
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=ipa&dict=khaling&lang1=eng&lang2=*&langn=*&char=%CA%94"><span class="fa fa-bank blue"></span>Khaling</a></li>
                                         
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=*&dict=na&lang1=eng&lang2=cmn&langn=*&char=ɑ"><span class="fa fa-bank blue"></span>Na</a></li>
+                                        <li><a href="../dictionaries/limbu/index.html">Limbu</a></li>
                                     </ul>
                                 </li>      
                                 
@@ -201,7 +223,7 @@
                                 <li class="dropdown"> 
                                    <a data-toggle="dropdown" href="#">Aide<b class="caret"></b></a>
                                     <ul class="dropdown-menu jqueryFadeIn">
-                                    <li><a href="http://lacito.vjf.cnrs.fr/pangloss/faq.html"><span class="fa fa-plus-square red"></span>FAQ</a></li>   
+                                    <li><a href="http://lacito.vjf.cnrs.fr/pangloss/FAQ.html"><span class="fa fa-plus-square red"></span>FAQ</a></li>   
                                     <li>
                                     <a href="javascript:writemail('gmail.com','pangloss.cnrs','',1);">Contact</a> 								</li>
                                     <li class="divider"></li>
@@ -227,11 +249,9 @@
                 
                <div class="row">
                <div class="col-xs-12 hidden-sm hidden-md hidden-lg">
-               		<div>&nbsp;</div>
-                    <div>&nbsp;</div>
+               	
         		</div>
         		<div class="hidden-xs col-sm-12 hidden-md hidden-lg">
-               		<div>&nbsp;</div>
                		<div>&nbsp;</div>
                     <div>&nbsp;</div>
                    
@@ -246,9 +266,11 @@
                 
                 
                 <!-- InstanceBeginEditable name="content" -->
+<div class="hidden-xs">
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
+</div>
 
 <div class="col-md-4" align="right">
                  <div class="panel-group">      
@@ -262,7 +284,9 @@
         </div>
                 
                 </div>
-  <div>&nbsp;</div>              
+  <div class="hidden-xs">
+  <div>&nbsp;</div>      
+  </div>        
                 
  <div class="page-header">
   
@@ -427,24 +451,37 @@ $lg=str_replace("\'",'_',$lg) ;
 $aff=str_replace("\'","'",$aff) ;
 
 	
-		 		if (in_array($lg , array( 'Futunien', 'Wallisien', 'Chang_naga', 'Bulgaro-Macedonien', 'Sorabe_superieur_(courant)', 'Croate_du_Burgenland', 'Kurde central'))){
 			
 			 if ($lg == "Futunien"){
-					echo("<h2>Langue : <a href=\"../../ALC/Languages/East_Uvean_popup.htm\" target=\"_blank\" onClick=\"window.open(this.href,'popupLink','width=400,height=400,scrollbars=yes,resizable=yes',pop.focus(),1);return false\">".$aff."</a></h2>");
+					$lg1="East_Futunan";
 	 		}
 			else if ($lg == "Kurde_central"){
-					echo("<h2>Langue : <a href=\"../../ALC/Languages/Kurdish_popup.htm\" target=\"_blank\" onClick=\"window.open(this.href,'popupLink','width=400,height=400,scrollbars=yes,resizable=yes',pop.focus(),1);return false\">".$aff."</a></h2>");
+					$lg1="Kurdish";
 	 		}
 			else if ($lg == "Wallisien"){
-				echo("<h2>Langue : <a href=\"../../ALC/Languages/East_Uvean_popup.htm\" target=\"_blank\" onClick=\"window.open(this.href,'popupLink','width=400,height=400,scrollbars=yes,resizable=yes',pop.focus(),1);return false\">".$aff."</a></h2>");
+				$lg1="East_Uvean";
 	 		}
-		else {echo("<h2>Langue : ".$aff."</h2>");}
-	 }
-	 /* else if (in_array($lg , array( 'Muong', "Chang_Naga", "Sach", "Salang", "Aheu", "Arem", "Thavung", "Chut", "Cao_Lao_Ha", "Tho", "Pakatan", "Ruc", "Tai_Yo", "Tai_Paw", "Tai_Deng", "Tai_Don", "Tay_Khang", "Saek", " Maleng_Bro", "Phong_Na", "Maleng", "Malieng", "Malang", "Khung", "Kha_Phong", "Hung", "Cuoi_Cham", "Khaling", "Krom Khmer", "Cardamom Khmer", "Nyaheun", "Mang", "Makong dialect of Bru", "Ksing Mun", "Khang" ,"Palaong", "Mon", "Laven", "Phay", "Samre", "Chong Tratt", "Chong Lo", "Chong Heup","Pear", "Bru", "Na-nasu"))){
+			else if ($lg == "Bulgaro-Macedonien"){
+				$lg1="Bulgarian_Macedonian";
+	 		}
+			else if ($lg == "Croate_du_Burgenland"){
+				$lg1="Burgenland_Croatian";
+	 		}
+			else if ($lg == "Sorabe_superieur_(courant)"){
+				$lg1="Colloquial_Upper_Sorbian";
+	 		}
+			else if ($lg == "Chang_naga"){
+				$lg1="Chang_Naga";
+	 		}
+			else {$lg1=$lg;}
+		
+	
+	/*  else if (in_array($lg , array( 'Muong', "Chang_Naga", "Sach", "Salang", "Aheu", "Arem", "Thavung", "Chut", "Cao_Lao_Ha", "Tho", "Pakatan", "Ruc", "Tai_Yo", "Tai_Paw", "Tai_Deng", "Tai_Don", "Tay_Khang", "Saek", " Maleng_Bro", "Phong_Na", "Maleng", "Malieng", "Malang", "Khung", "Kha_Phong", "Hung", "Cuoi_Cham", "Khaling", "Krom Khmer", "Cardamom Khmer", "Nyaheun", "Mang", "Makong dialect of Bru", "Ksing Mun", "Khang" ,"Palaong", "Mon", "Laven", "Phay", "Samre", "Chong Tratt", "Chong Lo", "Chong Heup","Pear", "Bru", "Na-nasu"))){
 		echo("Langue : <b>$aff</b>");
 	}*/
 	 
-	else {
+	
+
 ?>
 		<div class="panel-group">      
             <div class="panel panel-default">        
@@ -462,7 +499,7 @@ $aff=str_replace("\'","'",$aff) ;
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <div class="panel-title">
-                               <?php include ('../languages/'.$lg.'.php'); 
+                               <?php include ('../languages/'.$lg1.'.php'); 
 					
 						
 						?>
@@ -473,7 +510,7 @@ $aff=str_replace("\'","'",$aff) ;
             </div>
         </div>
 <?php
-	}
+	
 
 	?>
   
@@ -487,7 +524,7 @@ $aff=str_replace("\'","'",$aff) ;
 </div>
 
  <div class="table text-left">
-  <table class="table-responsive" border="1">
+  <table class="table-responsive" border="0">
  	<tr>
  		<td><img src="../../images/images_pangloss/haut_parleur_s.png" width="20" height="22"/></td>
         <td>&nbsp;&nbsp;Accès à l'<b>enregistrement</b> </td>
@@ -516,7 +553,7 @@ $aff=str_replace("\'","'",$aff) ;
 		
 		$lg=  isset($_GET["lg"])    ? $_GET["lg"]    : "*";
 		$tri=  isset($_GET["tri"])    ? $_GET["tri"]    : "*";
-
+		
 		$lg=str_replace("\'","'",$lg) ;
 		
 	/*echo "$tri\n";
@@ -583,12 +620,15 @@ $aff=str_replace("\'","'",$aff) ;
 
       <!-- InstanceEndEditable -->
                 <!--End container-->
-                
-           
+              
+    
         </div> 
-        
+      
+       
         </div>
-        
+        <br/><br/><br/><br/>
+           <div align="left"  class="btn-group dropup"><a href="#top"><button type="button" class="btn btn-default">Haut de page  <span class="caret"></span></button></a></div>
+       <hr/>
       
         <!-- jQuery -->
         <script src="../bootstrap-3.3.6-dist/js/jquery.js"></script>

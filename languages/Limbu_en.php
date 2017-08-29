@@ -1,9 +1,3 @@
- <div>&nbsp;</div>
-<html>
-<head>
-<meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</head>
-<body>
 <html><head><meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
             <div class="page-header"><h1>Limbu Corpus </h1></div>
             <div class="text-left">
@@ -28,7 +22,7 @@
       <p class="intertitre"><a name="language"></a><strong>The language</strong></p>
       <p>The Limbu language belongs to the Tibeto-Burman family. It was classified by Shafer (1955) in the East Himalayish section of the Bodic Division of Sino-Tibetan. Limbu is the easternmost member of this group, also known as &quot;Kiranti&quot;. There are several Limbu dialects, but speakers consider them to be intercomprehensible, with a bit of effort.</p>
       <p class="intertitre"><a name="dico"></a><strong>Online dictionary</strong></p>      
-<p>A hypertext dictionary of the Mewa Khola dialect (a variety of the Tamar Khola dialect) (Michailovsky 2002) is available <a href="../../pangloss/dico" target="_blank">here</a>. The introduction to the printed version <a href="http://lacito.vjf.cnrs.fr/documents/publi/L22Ib.pdf" target="_blank">(pdf)</a> contains information on Limbu phonology and verbal morphology. Many of the example sentences in the dictionary are taken from the texts archived on this site. <!--)Clicking on these examples gives acces to the original recordings.--></p>
+<p>A hypertext dictionary of the Mewa Khola dialect (a variety of the Tamar Khola dialect) (Michailovsky 2002) is available <a href="../../pangloss/dictionaries/limbu" target="_blank">here</a>. The introduction to the printed version <a href="http://lacito.vjf.cnrs.fr/documents/publi/L22Ib.pdf" target="_blank">(pdf)</a> contains information on Limbu phonology and verbal morphology. Many of the example sentences in the dictionary are taken from the texts archived on this site. <!--)Clicking on these examples gives acces to the original recordings.--></p>
 <p class="intertitre"><a name="references"></a><strong>References</strong></p>
 <p>The following works on Limbu may be found useful:</p>
       <ul>
@@ -49,7 +43,7 @@
       <p>All texts have free, sentence-level English translations. The texts &quot;Untimely death&quot;, &quot;Ogre Kanayongba&quot;, &quot;Manioc&quot;, &quot;Father-in-law&quot;, &quot;Wife-stealing&quot;, and &quot;Paddy-dancing&quot; also have English morpheme glosses. French translation and glosses are provided for &quot;Untimely Death&quot;. Sentence-level French translation is provided for &quot;Father-in-Law&quot;.</p>
       <p>&nbsp;</p>
        <p class="intertitre"><a name="textsAppeal"></a><strong>An historic song</strong>
-<p>&quot;An Appeal&quot; (1956), expressing the concerns and the aspirations for his people of an important Limbu headman, is presented on a separate page <a href="Limbu_more1_en.htm">here</a>.
+<p>&quot;An Appeal&quot; (1956), expressing the concerns and the aspirations for his people of an important Limbu headman, is presented on a separate page <a href="http://lacito.vjf.cnrs.fr/pangloss/languages/Limbu_more1_en.php">here</a>.
       <p>&nbsp;</p>
       <p class="intertitre"><strong>About the transcription</strong></p>
       <p>The transcription is IPA-based, except that "y" is used for the palatal glide (IPA [j]). </p>

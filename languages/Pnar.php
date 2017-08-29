@@ -1,15 +1,12 @@
 <div>&nbsp;</div>
-<html>
-<head>
-<meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</head>
-<body>
+
 <html><head><meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
            <div class="page-header"><h1>Corpus pnar</h1></div>
             <div class="text-left">
       <p class="intertitre">&nbsp;</p>
       <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Pnar_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">pnar<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
             <p class="intertitre">&nbsp;</p>
+            <p class="intertitre">Tous les contes, rituels et récits parlés-chantés de ce corpus ont été transcrits, glosés  et traduits sur carnets de terrain mais ceux-ci ne sont pas encore numérisés.</p>
             <p class="intertitre">Le groupe dit khasian ou khasic est en fait un groupe qu'il convient de classer comme  pnaric-war-lyngam (PWL), voir Daladier (2011) et Daladier (2015).  Le Meghalaya a servi de terre de refuge à ce groupe aux environs du 15ème siècle après les conquêtes des royaumes Tai Ahom en Assam et Moghol au Bengladesh. Les wars et les lyngams ont rejoint le Meghalaya plus tardivement sur d'anciennes terres pnars. Ce groupe s'est réunifié en subissant l'influence du khasi à la suite de la colonisation britanique, le khasi standard oral et écrit ayant été imposé comme langue de scolarisation et d'évangélisation pour l'ensemble des populations des quatre langues du groupe. L'état du Megalaya a deux constitutions : l'une khasi et l'autre garo et la langue commune est l'anglais.
 Tous les locuteurs wars, pnars et Lyngam parlent khasi. Le khasi est en fait un dialecte tardif du pnar, voir Daladier (2011).  
 </p>

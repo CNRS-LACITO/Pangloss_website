@@ -32,22 +32,22 @@
     <xsl:template match="/">
 
 
-		<xsl:variable name="pangloss1">http://lacito.vjf.cnrs.fr/INTRANET/test_pangloss/pangloss/corpus/show_text.php?id=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file1]/@id"/>_SOUND&amp;idref=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file1]/@id"/></xsl:variable>
+		<xsl:variable name="pangloss1">http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file1]/@id"/>_SOUND&amp;idref=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file1]/@id"/></xsl:variable>
         
-        <xsl:variable name="pangloss2">http://lacito.vjf.cnrs.fr/INTRANET/test_pangloss/pangloss/corpus/show_text.php?id=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file2]/@id"/>_SOUND&amp;idref=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file2]/@id"/></xsl:variable>
+        <xsl:variable name="pangloss2">http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file2]/@id"/>_SOUND&amp;idref=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file2]/@id"/></xsl:variable>
         
-        <xsl:variable name="pangloss3">http://lacito.vjf.cnrs.fr/INTRANET/test_pangloss/pangloss/corpus/show_text.php?id=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file3]/@id"/>_SOUND&amp;idref=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file3]/@id"/></xsl:variable>
+        <xsl:variable name="pangloss3">http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file3]/@id"/>_SOUND&amp;idref=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file3]/@id"/></xsl:variable>
         
-        <xsl:variable name="pangloss4">http://lacito.vjf.cnrs.fr/INTRANET/test_pangloss/pangloss/corpus/show_text.php?id=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file4]/@id"/>_SOUND&amp;idref=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file4]/@id"/></xsl:variable>
+        <xsl:variable name="pangloss4">http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file4]/@id"/>_SOUND&amp;idref=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file4]/@id"/></xsl:variable>
         
-        <xsl:variable name="pangloss5">http://lacito.vjf.cnrs.fr/INTRANET/test_pangloss/pangloss/corpus/show_text.php?id=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file5]/@id"/>_SOUND&amp;idref=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file5]/@id"/></xsl:variable>
+        <xsl:variable name="pangloss5">http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file5]/@id"/>_SOUND&amp;idref=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file5]/@id"/></xsl:variable>
         
-        <xsl:variable name="pangloss6">http://lacito.vjf.cnrs.fr/INTRANET/test_pangloss/pangloss/corpus/show_text.php?id=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file6]/@id"/>_SOUND&amp;idref=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file6]/@id"/></xsl:variable>
+        <xsl:variable name="pangloss6">http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file6]/@id"/>_SOUND&amp;idref=<xsl:value-of select="document($filesim)//similarities/files/file[@id=$file6]/@id"/></xsl:variable>
                                        
 
 		<table class="table" height="100%" width="100%" border="1">
         <tr>
-        	<th>Similarity</th>
+        	<th>Event/Evènement</th>
 			<xsl:if test="$file1!=''">
             	<th> <a href="{$pangloss1}" target="_blank"><u><xsl:value-of select="$file1"/></u></a></th>
             </xsl:if>

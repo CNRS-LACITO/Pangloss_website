@@ -1,9 +1,3 @@
- <div>&nbsp;</div>
-<html>
-<head>
-<meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</head>
-<body>
 <html><head><meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
             <div class="page-header"><h1>An Appeal with folded hands (1956) </h1></div>
             <div class="text-left">

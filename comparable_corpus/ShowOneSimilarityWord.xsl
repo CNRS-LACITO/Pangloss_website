@@ -46,10 +46,10 @@
 				
 				<table width="100%" border="0" cellpadding="5" cellspacing="0" bordercolor="#000000">
 					<tbody>
-						<th align="center"><p><b>Similarity <xsl:value-of select="$nsim"/> </b><br/></p></th>
+						<th align="center"><p><b>Event/Evènement <xsl:value-of select="$nsim"/> </b><br/></p></th>
                         
                  <xsl:if test="document($filesim)//similarities/similarity[@id=$nsim]/event!=''">
-                 	<table border="1"><tr><td><b style="color:#0A5A63">Event: <xsl:value-of select="document($filesim)//similarities/similarity[@id=$nsim]/event"/></b></td></tr></table><br/>
+                 	<table border="1"><tr><td><b style="color:#0A5A63">Event/Evènement : <xsl:value-of select="document($filesim)//similarities/similarity[@id=$nsim]/event"/></b></td></tr></table><br/>
                  </xsl:if>
                  
                 <xsl:if test="document($filesim)//similarities/similarity[@id=$nsim]/file[@id=$file1]">

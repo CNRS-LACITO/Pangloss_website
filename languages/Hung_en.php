@@ -1,9 +1,5 @@
 <div>&nbsp;</div>
-<html>
-<head>
-<meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</head>
-<body>
+
 <html><head><meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
             <div class="page-header"><h1>Hung corpus (dialects: Toum, Ly H&agrave;, T&agrave;y Poọng, and Phong) &nbsp;</h1></div>
              <div class="text-left"> 

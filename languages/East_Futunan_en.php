@@ -1,21 +1,11 @@
-<div>&nbsp;</div>
-<html>
-<head>
-<meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</head>
-<body>
+
 <html><head><meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
             <div class="page-header"><h1><a name="up"></a>East Futunan Corpus (<span class="Style21">details in French</span>)</h1></div>
            <div class="text-left"> 
       <p class="intertitre">&nbsp;</p>
       <p class="intertitre"><a href="../../ALC/Languages/East_Futunan_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0">East Futunan</a>: a brief note </p>
       <p class="intertitre">&nbsp;</p>
-      <h4 align="left">Resources :</h4>
-      <p class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Futunien&aff=East Futunan" target="_blank"> All available resources here
-      </a></p>
-      <p class="intertitre">&nbsp;</p>
-      <p class="intertitre">Une bonne partie de ces récits ont été recueillis lors de mes premières enquêtes sur le futunien, en 1989 et 1990, à Ono, important village du royaume de Alo, auprès de merveilleux conteurs tels le regretté Kalepo Nau, alors ministre (Tu'i Asoa) de la culture pour le royaume d'Alo. D'autres récits ont été recueillis trois ans plus tard dans le village de Poi, situé sur la côte au vent.</p>
+<p class="intertitre">Une bonne partie de ces récits ont été recueillis lors de mes premières enquêtes sur le futunien, en 1989 et 1990, à Ono, important village du royaume de Alo, auprès de merveilleux conteurs tels le regretté Kalepo Nau, alors ministre (Tu'i Asoa) de la culture pour le royaume d'Alo. D'autres récits ont été recueillis trois ans plus tard dans le village de Poi, situé sur la côte au vent.</p>
       <ul class="liste-liens">
         <li><a href="#diables">I. Histoires de diables ou d'ogres séducteurs de jeunes filles</a></li>
         <li><a href="#sina">II. Les histoires de Sina et de Tilinau</a></li>

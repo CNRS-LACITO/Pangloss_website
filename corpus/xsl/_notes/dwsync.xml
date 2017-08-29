@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="fonctions_Xslt.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226583330000000" remote="131226583330000000" />
-<file name="textRsc.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606300000000" remote="131227704430000000" />
-<file name="listRsc.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226630430000000" remote="131227699160000000" />
-<file name="metadata_lacito_old.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606290000000" remote="131227704410000000" />
-<file name="metadata_lacito.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606280000000" remote="131227701790000000" />
-<file name="listRsc_lieu.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606260000000" remote="131227699160000000" />
-<file name="showOtherText.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606300000000" remote="131227704420000000" />
-<file name="showText.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227416907807257" remote="131227704430000000" />
-<file name="listLanguages.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606260000000" remote="131227699150000000" />
-<file name=".fonctions_Xslt.php.swp" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606260000000" remote="131227699140000000" />
-<file name="corpora_list.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606260000000" remote="131227699150000000" />
-<file name="showText.xsl" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131226606300000000" remote="131226606300000000" />
-<file name="fonctions_Xslt.php" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131226583330000000" remote="131226583330000000" />
-<file name="listRsc.xsl" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131226630430000000" remote="131226630430000000" />
+<file name="listRsc.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131280967400000000" remote="131280967400000000" />
+<file name="fonctions_Xslt.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131365658473999969" remote="131365658470000000" />
+<file name="listRsc_lieu.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131043441140000000" remote="131043441140000000" />
+<file name="showText.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131305900870000000" remote="131305900870000000" />
+<file name="textRsc.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131257103380000000" remote="131257103380000000" />
+<file name="showOtherText.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131257105090000000" remote="131257105090000000" />
+<file name="fonctions_Xslt.php" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131217866540000000" remote="131217866540000000" />
+<file name="corpora_list.xml" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131327462460000000" remote="131327462460000000" />
+<file name="listLanguages.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131280967400000000" remote="131280967400000000" />
+<file name="listLanguages.xsl" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131217886760000000" remote="131217886760000000" />
+<file name="fonctions_Xslt.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131365550470000000" remote="131365550470000000" />
+<file name=".fonctions_Xslt.php.swp" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967400000000" remote="131280967400000000" />
+<file name="corpora_list.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131327462460000000" remote="131327462460000000" />
+<file name="listLanguages.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967400000000" remote="131280967400000000" />
+<file name="listRsc.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967400000000" remote="131280967400000000" />
+<file name="listRsc_lieu.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967400000000" remote="131280967400000000" />
+<file name="showOtherText.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967450000000" remote="131280967450000000" />
+<file name="showText.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131305900870000000" remote="131305900870000000" />
+<file name="textRsc.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967450000000" remote="131280967450000000" />
+<file name="metadata_lacito.xml" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131407181393458523" remote="131407181390000000" />
+<file name="metadata_lacito.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131484083974371693" remote="131484084240000000" />
+<file name="metadata_lacito_old.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967440000000" remote="131280967440000000" />
 </dwsync>

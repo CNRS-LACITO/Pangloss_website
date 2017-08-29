@@ -54,6 +54,17 @@
       </xsl:call-template>
       </xsl:element>
     </xsl:if>
+    <xsl:if test="$dict='tamang'">
+
+      <!-- Display only meaningfull characters: rank value must be a float between 1 and 42 -->
+      <xsl:call-template name="loop">
+        <xsl:with-param name="rank" select="'1'"/>
+
+        <xsl:with-param name="max_rank" select="'42'"/>
+
+      </xsl:call-template>
+
+    </xsl:if>
     
 
   </xsl:template>

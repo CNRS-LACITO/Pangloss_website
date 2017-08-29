@@ -258,7 +258,7 @@
 										<xsl:variable name="num_sim" select="document('orphans.xml')//similarities/similarity[@id=$similarity]/file[@id=$f1_xml]/sentence"/>	
 										<tr>
 										<td class="segmentContent" width="600px" bgcolor="{$color}">
-											<p><b>Similarity <xsl:value-of select="$similarity"/></b><br/></p>
+											<p><b>Evènement <xsl:value-of select="$similarity"/></b><br/></p>
 											**Sentence <xsl:value-of select="$num_s"/>**<br/>
 										
 											
@@ -560,7 +560,7 @@
 												<xsl:variable name="num_sim" select="document('orphans.xml')//similarities/similarity[@id=$similarity]/file[@id=$f2_xml]/sentence"/>	
 												<tr>
 												<td class="segmentContent" width="600px" bgcolor="{$color}">
-													<p><b>Similarity <xsl:value-of select="$similarity"/></b><br/></p>
+													<p><b>Evènement <xsl:value-of select="$similarity"/></b><br/></p>
 													**Sentence <xsl:value-of select="$num_s"/>**<br/>
 													
 													
@@ -863,7 +863,7 @@
 												<xsl:variable name="num_sim" select="document('orphans.xml')//similarities/similarity[@id=$similarity]/file[@id=$f3_xml]/sentence"/>	
 												<tr>
 												<td class="segmentContent" width="600px" bgcolor="{$color}">
-													<p><b>Similarity <xsl:value-of select="$similarity"/></b><br/></p>
+													<p><b>Evènement <xsl:value-of select="$similarity"/></b><br/></p>
 													**Sentence <xsl:value-of select="$num_s"/>**<br/>
 													
 													

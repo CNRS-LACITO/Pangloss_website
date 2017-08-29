@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sort order for Khaling -->
+<SortOrder>
+	<rules level="1">
+		<rule str="" rank="0"/>
+                <rule str="अ"    ascii="a" rank="1" />
+                <rule str="आ"    ascii="aa" rank="2" />
+                <rule str="इ"    ascii="i" rank="3" />
+                <rule str="ई"    ascii="ee" rank="4" />
+                <rule str="उ"    ascii="u" rank="5" />
+                <rule str="ऊ"    ascii="oo" rank="6" />
+                <rule str="ए"    ascii="e" rank="7" />
+                <rule str="ऐ"    ascii="ai" rank="8" />
+                <rule str="ओ"    ascii="o" rank="9" />
+                <rule str="औ"    ascii="au" rank="10" />
+                <rule str="क"    ascii="k" rank="11" />
+                <rule str="ख"    ascii="kh" rank="12" />
+                <rule str="ग"    ascii="g" rank="13" />
+                <rule str="घ"    ascii="gh" rank="14" />
+                <rule str="ङ"    ascii="n" rank="15" />
+                <rule str="च"    ascii="h" rank="16" />
+                <rule str="छ"    ascii="ch" rank="17" />
+                <rule str="ज"    ascii="6/chh" rank="18" />
+                <rule str="झ"    ascii="j" rank="19" />
+                <rule str="त"    ascii="jh" rank="20" />
+                <rule str="थ"    ascii="y" rank="21" />
+                <rule str="द"    ascii="r" rank="22" />
+                <rule str="ध"    ascii="t" rank="23" />
+                <rule str="न"    ascii="th" rank="24" />
+                <rule str="प"    ascii="d" rank="25" />
+                <rule str="फ"    ascii="dh" rank="26" />
+                <rule str="ब"    ascii="n" rank="27" />
+                <rule str="भ"    ascii="l" rank="28" />
+                <rule str="म"    ascii="s" rank="29" />
+                <rule str="य"    ascii="ph/f" rank="30" />
+                <rule str="र"    ascii="b" rank="31" />
+                <rule str="ल"    ascii="bh/v" rank="32" />
+                <rule str="व"    ascii="m" rank="33" />
+                <rule str="स"    ascii="w" rank="34" />                                
+                <rule str="ह"    ascii="aa" rank="35" />
+          
+	</rules>
+</SortOrder>

@@ -50,7 +50,7 @@
     
     <body>
         
-        <div class="row total">
+        <div id="top" class="row total">
             <div class="col-md-1 col-lg-1"></div>
             <div class="container col-xs-12 col-sm-12 col-md-10 col-lg-10">
                 
@@ -76,18 +76,18 @@
                        <div class="row">
                        
                        
-                        <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS" height="25"  border="0"/></a></div>
+                        <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://www.cnrs.fr" target="_blank"><img src="../images/logos/cnrs.jpg" alt="CNRS" height="25"  border="0"/></a></div>-->
                             <div class="hidden-xs hidden-lg col-md-2 col-sm-4"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS" height="35"  border="0"/></a></div>
                              <div class="hidden-xs hidden-sm hidden-md col-lg-2"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS" height="45"  border="0"/></a></div>
                              
                              
                              
                              
-                             <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="25"  border="0"/></a></div>
+                             <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="25"  border="0"/></a></div>-->
                             <div class="hidden-xs hidden-lg  hidden-md col-sm-4"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="30"  border="0"/></a></div>
                              <div class="hidden-xs hidden-sm col-md-2 col-lg-2"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="36"  border="0"/></a></div>
                            
-                            <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon" height="20" border="0"/></a></div>
+                            <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../images/logos/cocoon2.png" alt="Cocoon" height="20" border="0"/></a></div>-->
                             <div class="hidden-xs col-sm-4 hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon" height="25" border="0"/></a></div>
                             <div class="hidden-xs hidden-sm  col-md-2"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon" height="36" border="0"/></a></div>
                             
@@ -106,7 +106,8 @@
                         <div class="barre-navig-tot"> 
                         
                         <!-- navbar-header -->
-                        <div class="navbar-header" >
+                         <div class="navbar-header" >
+                             <div class="hidden-xs">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
@@ -114,15 +115,31 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
+                            </div>
+                            
+                           <div class="hidden-sm hidden-md hidden-lg">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+
+                               
+                            </button>
+                            </div>
                             
                          
                             
                          
-                  <div class="hidden-md hidden-lg" align="left" style="padding:10px">
+                  <div class="hidden-md hidden-lg hidden-sm" align="left" style="padding:5px">
+                  
+                    <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/fra.gif"  height="30" width="30"/></a>
+                  </div>
+                  
+                   <div class="hidden-md hidden-lg hidden-xs" align="left" style="padding:5px">
                   
                     <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/fra.gif"  height="35" width="35"/></a>
                   </div>
-                            <div class="hidden-xs hidden-sm" align="left" style="padding:10px">
+                            <div class="hidden-xs hidden-sm" align="left" style="padding:5px">
                               <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/fra.gif" height="40" width="40"/></a>
                             </div>
                             
@@ -159,14 +176,14 @@
                                
                                 <li class="dropdown"></li>
                                 <li class="dropdown"> 
-                                    <a data-toggle="dropdown" href="#">Corpora access<b class="caret"></b></a>
+                                    <a data-toggle="dropdown" href="#">Corpus access<b class="caret"></b></a>
                                     <ul class="dropdown-menu jqueryFadeIn">
-                                        <li class="dropdown-header">Corpora</li>
+                                        <li class="dropdown-header">Corpus</li>
                                         <li><a href="https://fusiontables.googleusercontent.com/fusiontables/embedviz?lat=24&amp;lng=30&amp;t=3&amp;z=2&amp;q=select+col1+from+1yKRHAtZg2VweVSBt0uMxexE0gl3RFmOaDAE-Ag8B&amp;viz=MAP&amp;h=false&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG" target="_blank"><span class="fa fa-bank blue"></span>Map of languages</a></li>
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/index_en.html"><span class="fa fa-bank blue"></span>List of languages</a></li> 
                                         <li class="divider"></li>
-                                        <li class="dropdown-header">Comparable corpora</li>
-                                        <li><a href="http://lacito.vjf.cnrs.fr/comparable_corpus/index_en.html"><span class="fa fa-bank blue"></span>Presentation</a></li>        
+                                        <li class="dropdown-header">Comparables corpus</li>
+                                        <li><a href="http://lacito.vjf.cnrs.fr/pangloss/comparable_corpus/index_en.html"><span class="fa fa-bank blue"></span>Presentation</a></li>        
                                     </ul>
                                 </li>
                                 <li class="dropdown"></li>   
@@ -180,6 +197,7 @@
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=*&dict=japhug&lang1=eng&lang2=fra&langn=cmn&char=a"><span class="fa fa-bank blue"><span class="fa fa-bank blue"></span>Japhug</a></li>
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=ipa&dict=khaling&lang1=eng&lang2=*&langn=*&char=%CA%94"><span class="fa fa-bank blue"></span>Khaling</a></li>
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order_inv.xml&alphabet=dev&dict=khaling&lang1=eng&lang2=*&langn=*&char=अ"><span class="fa fa-bank blue"></span>Na</a></li>
+                                        <li><a href="../dictionaries/limbu/index.html">Limbu</a></li>
                                     </ul>
                                 </li>      
                                 
@@ -199,7 +217,7 @@
                                 <li class="dropdown"> 
                                    <a data-toggle="dropdown" href="#">Help<b class="caret"></b></a>
                                     <ul class="dropdown-menu jqueryFadeIn">
-                                    <li><a href="http://lacito.vjf.cnrs.fr/pangloss/faq.html"><span class="fa fa-plus-square red"></span>FAQ</a></li>   
+                                    <li><a href="http://lacito.vjf.cnrs.fr/pangloss/FAQ.html"><span class="fa fa-plus-square red"></span>FAQ</a></li>   
                                     <li>
                                     <a href="javascript:writemail('gmail.com','pangloss.cnrs','',1);">Contact</a> 								</li>
                                      <li class="divider"></li>
@@ -222,14 +240,11 @@
                   
                 </nav>
                 
-              <div class="row">
+                <div class="row">
                <div class="col-xs-12 hidden-sm hidden-md hidden-lg">
-               		<div>&nbsp;</div>
-                    <div>&nbsp;</div>
-                    <div>&nbsp;</div>
+               	
         		</div>
         		<div class="hidden-xs col-sm-12 hidden-md hidden-lg">
-               		<div>&nbsp;</div>
                		<div>&nbsp;</div>
                     <div>&nbsp;</div>
                    
@@ -247,15 +262,15 @@
                 <div>&nbsp;</div>
 
                 <div class="page-header">
-                  <h1>Pangloss Collection's corpora</h1></div>
+                  <h1>Languages featured in the Pangloss Collection</h1></div>
                 
                 
 
 <div class="row text-left">   
      
       
-  <div class="col-xs-9"> 
-    <h4 align="center"><div class="panel-heading" style="background-color:#FFFAE6">List by continent. <i><a href="corpora_list_en.php">Develop all</a></i></div></h4>        
+  <div class="col-xs-5"> 
+    <h4 align="center"><div class="panel-heading" style="background-color:#FFFAE6">List by continent. <i><a href="corpora_list_en.php">Languages list</a></i></div></h4>        
     <div class="panel-group">
     
    
@@ -265,7 +280,7 @@
                     
            <div class="panel-heading" style="background-color:#e5eecc">
               <h4 class="panel-title pays">
-                  <a data-toggle="collapse" href="#afrique"><b>Corpus of Africa<b class="caret"></b></b></a>
+                  <a data-toggle="collapse" href="#afrique"><b>Africa<b class="caret"></b></b></a>
               </h4>
            </div>
                     
@@ -281,9 +296,9 @@
                         
                <div id="cameroun" class="panel-collapse collapse">
                    <div class="panel-body langues"><a
- href="list_rsc.php?lg=Mankon">Mankon</a></div>
+ href="list_rsc_en.php?lg=Mankon">Mankon</a></div>
                    <div class="panel-body langues"><a
- href="list_rsc.php?lg=Ouldeme">Uldeme, Wuzlam</a></div>
+ href="list_rsc_en.php?lg=Ouldeme">Uldeme, Wuzlam</a></div>
                </div>
            </div>
                     
@@ -297,9 +312,9 @@
                         
                <div id="comores" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Ngazidja">Ngazidja</a></div>
+ href="list_rsc_en.php?lg=Ngazidja">Ngazidja</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Maore">Maore</a></div>
+ href="list_rsc_en.php?lg=Maore">Maore</a></div>
                </div>
            </div>
                     
@@ -314,11 +329,11 @@
                         
                 <div id="tanzanie" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Langi">Langi</a></div>
+ href="list_rsc_en.php?lg=Langi">Langi</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Mbugwe">Mbugwe</a></div>
+ href="list_rsc_en.php?lg=Mbugwe">Mbugwe</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Nyilamba">Nyilamba</a></div>
+ href="list_rsc_en.php?lg=Nyilamba">Nyilamba</a></div>
                 </div>
             </div>            
         </div>
@@ -328,7 +343,7 @@
     <div class="panel panel-default">
         <div class="panel-heading" style="background-color:#e5eecc">
             <h4 class="panel-title pays">
-                <a data-toggle="collapse" href="#amerique_nord"><b>Corpus of North America<b class="caret"></b></b></a>
+                <a data-toggle="collapse" href="#amerique_nord"><b>North America<b class="caret"></b></b></a>
             </h4>
         </div>
         <div id="amerique_nord" class="panel-collapse collapse">
@@ -342,7 +357,7 @@
                         
                <div id="mexique" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Ixcatec">Ixcatec</a></div>
+ href="list_rsc_en.php?lg=Ixcatec">Ixcatec</a></div>
                </div>
            </div>
         </div>
@@ -352,7 +367,7 @@
     <div class="panel panel-default">
         <div class="panel-heading" style="background-color:#e5eecc">
             <h4 class="panel-title pays">
-               <a data-toggle="collapse" href="#amerique_sud"><b>Corpus of South America<b class="caret"></b></b></a>
+               <a data-toggle="collapse" href="#amerique_sud"><b>South America<b class="caret"></b></b></a>
             </h4>
         </div>
         <div id="amerique_sud" class="panel-collapse collapse">
@@ -366,9 +381,9 @@
                         
                <div id="colombie" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Tanimuca">Tanimuca</a></div>
+ href="list_rsc_en.php?lg=Tanimuca">Tanimuca</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Yucuna">Yucuna</a></div>
+ href="list_rsc_en.php?lg=Yucuna">Yucuna</a></div>
                </div>
            </div>
            <!-- Langues de Guyane française -->
@@ -381,7 +396,7 @@
                       
                <div id="guyane_francaise" class="panel-collapse collapse">
                    <div class="panel-body langues"><a
- href="list_rsc.php?lg=Wayana">Wayana</a></div>
+ href="list_rsc_en.php?lg=Wayana">Wayana</a></div>
                </div>
            </div>
         </div>
@@ -391,7 +406,7 @@
     <div class="panel panel-default">
         <div class="panel-heading" style="background-color:#e5eecc">
             <h4 class="panel-title pays">
-                <a data-toggle="collapse" href="#asie"><b>Corpus of Asia<b class="caret"></b></b></a>
+                <a data-toggle="collapse" href="#asie"><b>Asia<b class="caret"></b></b></a>
             </h4>
         </div>
         <div id="asie" class="panel-collapse collapse">
@@ -405,11 +420,11 @@
                         
                <div id="birmanie" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Birman">Burmese</a></div>
+ href="list_rsc_en.php?lg=Birman">Burmese</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Mon">Môn</a></div>
+ href="list_rsc_en.php?lg=Mon">Môn</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Palaong">Palaong</a></div>
+ href="list_rsc_en.php?lg=Palaong">Palaong</a></div>
                </div>
            </div>
            <!-- Langues du Cambodge -->
@@ -422,23 +437,23 @@
                         
                <div id="cambodge" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Bru">Bru</a></div>
+ href="list_rsc_en.php?lg=Bru">Bru</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Chong Heup">Chong heup</a></div>
+ href="list_rsc_en.php?lg=Chong Heup">Chong heup</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Chong Lo">Chong lo</a></div>
+ href="list_rsc_en.php?lg=Chong Lo">Chong lo</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Chong Tratt">Chong tratt</a></div>
+ href="list_rsc_en.php?lg=Chong Tratt">Chong tratt</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Cardamom Khmer">Cardamom Khmer</a></div>
+ href="list_rsc_en.php?lg=Cardamom Khmer">Cardamom Khmer</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Krom Khmer">Krom Khmer</a></div>
+ href="list_rsc_en.php?lg=Krom Khmer">Krom Khmer</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Pear">Pear</a></div>
+ href="list_rsc_en.php?lg=Pear">Pear</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Samre">Samre</a></div>
+ href="list_rsc_en.php?lg=Samre">Samre</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Tampuan">Tampuan</a></div>
+ href="list_rsc_en.php?lg=Tampuan">Tampuan</a></div>
                </div>
            </div>
            <!-- Langues de Chine -->
@@ -451,15 +466,15 @@
                         
                <div id="chine" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Japhug">Japhug</a></div>
+ href="list_rsc_en.php?lg=Japhug">Japhug</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Laz%C3%A9">Lazé</a></div>
+ href="list_rsc_en.php?lg=Laz%C3%A9">Lazé</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Na">Na</a></div>
+ href="list_rsc_en.php?lg=Na">Na</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Naxi">Naxi</a></div>
+ href="list_rsc_en.php?lg=Naxi">Naxi</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Prinmi">Prinmi</a></div>
+ href="list_rsc_en.php?lg=Prinmi">Prinmi</a></div>
                </div>
            </div>
            <!-- Langues d'Inde -->
@@ -471,18 +486,21 @@
                </div>
                         
                <div id="inde" class="panel-collapse collapse">
+               		
+               		<div class="panel-body langues"><a
+ href="list_rsc_en.php?lg=Ao">Ao</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Car-Nicobarais">Car-Nicobarais</a></div>
+ href="list_rsc_en.php?lg=Car-Nicobarais">Car-Nicobarais</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Chang Naga">Chang Naga</a></div>
+ href="list_rsc_en.php?lg=Chang Naga">Chang Naga</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Lyngam">Lyngam</a></div>
+ href="list_rsc_en.php?lg=Lyngam">Lyngam</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Mizo">Mizo</a></div>
+ href="list_rsc_en.php?lg=Mizo">Mizo</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Pnar">Pnar</a></div>
+ href="list_rsc_en.php?lg=Pnar">Pnar</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=War">War</a></div>
+ href="list_rsc_en.php?lg=War">War</a></div>
                </div>
            </div>
            <!-- Langues d'Iran -->
@@ -495,7 +513,7 @@
                         
                <div id="iran" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Kurde%20central">Kurdish</a></div>
+ href="list_rsc_en.php?lg=Kurde%20central">Kurdish</a></div>
                </div>
            </div>
            <!-- Langues du Laos -->
@@ -508,28 +526,28 @@
                         
                <div id="laos" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Aheu">Aheu</a></div>
+ href="list_rsc_en.php?lg=Aheu">Aheu</a></div>
                     <div class="panel-body langues">Hung</div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Laven">Laven</a></div>
+ href="list_rsc_en.php?lg=Laven">Laven</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Malang">Malang</a></div>
+ href="list_rsc_en.php?lg=Malang">Malang</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Maleng+Br%C3%B4">Maleng Brô</a></div>
+ href="list_rsc_en.php?lg=Maleng+Br%C3%B4">Maleng Brô</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Nyaheun">Nyaheun</a></div>
+ href="list_rsc_en.php?lg=Nyaheun">Nyaheun</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Phay">Phay</a></div>
+ href="list_rsc_en.php?lg=Phay">Phay</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Pakatan">Pakatan</a></div>
+ href="list_rsc_en.php?lg=Pakatan">Pakatan</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Saek">Saek</a></div>
+ href="list_rsc_en.php?lg=Saek">Saek</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Salang">Salang</a></div>
+ href="list_rsc_en.php?lg=Salang">Salang</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Tay%20Khang">Tay Khang</a></div>
+ href="list_rsc_en.php?lg=Tay%20Khang">Tay Khang</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Thavung">Thavung</a></div>
+ href="list_rsc_en.php?lg=Thavung">Thavung</a></div>
                </div>
            </div>
            <!-- Langues du Népal -->
@@ -542,21 +560,23 @@
                         
                <div id="nepal" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Bahing">Bahing</a></div>
+ href="list_rsc_en.php?lg=Bahing">Bahing</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Hayu">Hayu</a></div>
+ href="list_rsc_en.php?lg=Hayu">Hayu</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Khaling">Khaling</a></div>
+ href="list_rsc_en.php?lg=Khaling">Khaling</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Koyi Rai">Koyi Rai</a></div>
+ href="list_rsc_en.php?lg=Koyi Rai">Koyi Rai</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Limbu">Limbu</a></div>
+ href="list_rsc_en.php?lg=Limbu">Limbu</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Nepali">Nepali</a></div>
+ href="list_rsc_en.php?lg=Nepali">Nepali</a></div>
+ 					<div class="panel-body langues"><a
+ href="list_rsc_en.php?lg=Ao">Newar</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Tamang">Tamang</a></div>
+ href="list_rsc_en.php?lg=Tamang">Tamang</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Thulung%20Rai">Thulung Rai</a></div>
+ href="list_rsc_en.php?lg=Thulung%20Rai">Thulung Rai</a></div>
                </div>
            </div>
            <!-- Langues de Thaïlande -->
@@ -569,9 +589,9 @@
                         
                <div id="thailande" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Kh%C3%BCn">Khün</a></div>
+ href="list_rsc_en.php?lg=Kh%C3%BCn">Khün</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Lahu">Lahu</a></div>
+ href="list_rsc_en.php?lg=Lahu">Lahu</a></div>
                </div>
            </div>
            <!-- Langues du Vietnam -->
@@ -584,48 +604,48 @@
                         
                <div id="vietnam" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Arem">Arem</a></div>
+ href="list_rsc_en.php?lg=Arem">Arem</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Cao+Lao+Hạ">Cao Lao Hạ (dialect of Vietnamese)</a></div>
+ href="list_rsc_en.php?lg=Cao+Lao+Hạ">Cao Lao Hạ (dialect of Vietnamese)</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Cuối+Chăm">Cuối Chăm</a></div>
+ href="list_rsc_en.php?lg=Cuối+Chăm">Cuối Chăm</a></div>
                     <div class="panel-body langues">Hung</div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Kháng">Kháng</a></div>
+ href="list_rsc_en.php?lg=Kháng">Kháng</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Kha Phong">Kha phong</a></div>
+ href="list_rsc_en.php?lg=Kha Phong">Kha phong</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Khmu">Khmu</a></div>
+ href="list_rsc_en.php?lg=Khmu">Khmu</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Ksing Mun">Ksing Mun</a></div>
+ href="list_rsc_en.php?lg=Ksing Mun">Ksing Mun</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Makong dialect of Bru">Mankong (dialect of Bru / Sô)</a></div>
+ href="list_rsc_en.php?lg=Makong dialect of Bru">Mankong (dialect of Bru / Sô)</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Malieng">Malieng</a></div>
+ href="list_rsc_en.php?lg=Malieng">Malieng</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Mảng">Mảng</a></div>
+ href="list_rsc_en.php?lg=Mảng">Mảng</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Mường">Mường</a></div>
+ href="list_rsc_en.php?lg=Mường">Mường</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Phong Nha">hong Nha (dialect of Vietnamese)</a></div>
+ href="list_rsc_en.php?lg=Phong Nha">Phong Nha (dialect of Vietnamese)</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Phunoi">Phunoi</a></div>
+ href="list_rsc_en.php?lg=Phunoi">Phunoi</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Rục">Rục</a></div>
+ href="list_rsc_en.php?lg=Rục">Rục</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Sách">Sách</a></div>
+ href="list_rsc_en.php?lg=Sách">Sách</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Tai Deng">Tai Deng</a></div>
+ href="list_rsc_en.php?lg=Tai Deng">Tai Deng</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Tai Don">Tai Don</a></a></div>
+ href="list_rsc_en.php?lg=Tai Don">Tai Don</a></a></div>
                     <div class="p*anel-body langues"><a
- href="list_rsc.php?lg=Tai Paw">Tai Paw</a></div>
+ href="list_rsc_en.php?lg=Tai Paw">Tai Paw</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Tai Yo">Tai Yo</a></div>
+ href="list_rsc_en.php?lg=Tai Yo">Tai Yo</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Thổ">Thổ</a></div>
+ href="list_rsc_en.php?lg=Thổ">Thổ</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Vietnamese">Vietnamese (Hanoi dialect)</a></div>
+ href="list_rsc_en.php?lg=Vietnamese">Vietnamese (Hanoi dialect)</a></div>
                     
                     
                </div>
@@ -638,7 +658,7 @@
      <div class="panel panel-default">
          <div class="panel-heading" style="background-color:#e5eecc">
              <h4 class="panel-title pays">
-                <a data-toggle="collapse" href="#europe"><b>Corpus of Europa<b class="caret"></b></b></a>
+                <a data-toggle="collapse" href="#europe"><b>Europe<b class="caret"></b></b></a>
              </h4>
          </div>
          <div id="europe" class="panel-collapse collapse">
@@ -652,7 +672,7 @@
                         
                <div id="allemagne" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Sorabe+supérieur+(courant)">Colloquial Upper Sorbian</a></div>  
+ href="list_rsc_en.php?lg=Sorabe+supérieur+(courant)">Colloquial Upper Sorbian</a></div>  
                </div>
            </div>
            <!-- Langues d'Autriche -->
@@ -665,7 +685,7 @@
                         
                <div id="autriche" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Croate du Burgenland">Burgenland Croatian</a></div>  
+ href="list_rsc_en.php?lg=Croate du Burgenland">Burgenland Croatian</a></div>  
                </div>
            </div>
            <!-- Langues de Grèce -->
@@ -678,11 +698,11 @@
                         
                <div id="grece" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Bulgaro-Macédonien">Bulgarian-Macedonian</a></div>  
+ href="list_rsc_en.php?lg=Bulgaro-Macédonien">Bulgarian-Macedonian</a></div>  
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Nashta">Nashta</a></div>  
+ href="list_rsc_en.php?lg=Nashta">Nashta</a></div>  
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Romani">Romani</a></div>  
+ href="list_rsc_en.php?lg=Romani">Romani</a></div>  
                </div>
            </div>
            <!-- Langues d'Italie -->
@@ -695,13 +715,13 @@
                         
                <div id="italie" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Na-našu&lieu=Acquaviva">Na-Našu<br/>
+ href="list_rsc_en.php?lg=Na-našu&lieu=Acquaviva">Na-Našu<br/>
 Acquaviva Collecroce</a></div>  
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Na-našu&lieu=Montemitro">Na-Našu<br/>
+ href="list_rsc_en.php?lg=Na-našu&lieu=Montemitro">Na-Našu<br/>
 Montemitro</a></div>  
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Na-našu&lieu=San+Felice">Na-Našu<br/>
+ href="list_rsc_en.php?lg=Na-našu&lieu=San+Felice">Na-Našu<br/>
 San Felice del Molise</a></div>  
                </div>
            </div>
@@ -713,7 +733,7 @@ San Felice del Molise</a></div>
      <div class="panel panel-default">
          <div class="panel-heading" style="background-color:#e5eecc">
              <h4 class="panel-title pays">
-                <a data-toggle="collapse" href="#caucase"><b>Corpus of Caucasia<b class="caret"></b></b></a>
+                <a data-toggle="collapse" href="#caucase"><b>Caucasus<b class="caret"></b></b></a>
              </h4>
          </div>
          <div id="caucase" class="panel-collapse collapse">
@@ -727,7 +747,7 @@ San Felice del Molise</a></div>
                         
                <div id="russie" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Bjedug">Bjedug</a></div>
+ href="list_rsc_en.php?lg=Bjedug">Bjedug</a></div>
                </div>
            </div>
            <!-- Langues de Serbie -->
@@ -740,7 +760,7 @@ San Felice del Molise</a></div>
                         
                <div id="serbie" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Abzakh">Abzakh</a></div>
+ href="list_rsc_en.php?lg=Abzakh">Abzakh</a></div>
                </div>
            </div>  
     	   <!-- Langues de Turquie -->
@@ -753,11 +773,11 @@ San Felice del Molise</a></div>
                         
                <div id="turquie" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Shapsug">Shapsug</a></div>
+ href="list_rsc_en.php?lg=Shapsug">Shapsug</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Laze">Laz</a></div>
+ href="list_rsc_en.php?lg=Laze">Laz</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Ubykh">Ubykh</a></div>
+ href="list_rsc_en.php?lg=Ubykh">Ubykh</a></div>
                </div>
            </div> 
          </div>
@@ -766,7 +786,7 @@ San Felice del Molise</a></div>
    <div class="panel panel-default">
        <div class="panel-heading" style="background-color:#e5eecc">
            <h4 class="panel-title pays">
-              <a data-toggle="collapse" href="#moyen_orient"><b>Corpus of Middle East<b class="caret"></b></b></a>
+              <a data-toggle="collapse" href="#moyen_orient"><b>Middle East<b class="caret"></b></b></a>
            </h4>
        </div>
        <div id="moyen_orient" class="panel-collapse collapse">
@@ -780,7 +800,7 @@ San Felice del Molise</a></div>
                         
                <div id="yemen" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Yemeni Arabic">Yemeni Arabic</a></div>
+ href="list_rsc_en.php?lg=Yemeni Arabic">Yemeni Arabic</a></div>
                </div>
            </div>
            
@@ -790,7 +810,7 @@ San Felice del Molise</a></div>
    <div class="panel panel-default">
        <div class="panel-heading" style="background-color:#e5eecc">
            <h4 class="panel-title pays">
-              <a data-toggle="collapse" href="#oceanie"><b>Corpus of Oceania<b class="caret"></b></b></a>
+              <a data-toggle="collapse" href="#oceanie"><b>Pacific<b class="caret"></b></b></a>
            </h4>
        </div>
   		<div id="oceanie" class="panel-collapse collapse">
@@ -798,19 +818,19 @@ San Felice del Molise</a></div>
             <div class="panel panel-default">
                <div class="panel-heading">
                    <div class="panel-title">
-                       <a data-toggle="collapse" href="#iles_salomon"><b>Salomon Isles<b class="caret"></b></b></a>
+                       <a data-toggle="collapse" href="#iles_salomon"><b>Solomon Islands<b class="caret"></b></b></a>
                    </div>
                </div>
                         
                <div id="iles_salomon" class="panel-collapse collapse">
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Lovono">Lovono</a></div>
+ href="list_rsc_en.php?lg=Lovono">Lovono</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Tanema">Tanema</a></div>
+ href="list_rsc_en.php?lg=Tanema">Tanema</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Teanu">Teanu</a></div>
+ href="list_rsc_en.php?lg=Teanu">Teanu</a></div>
                     <div class="panel-body langues"><a
- href="list_rsc.php?lg=Tikopia">Tikopia</a></div>
+ href="list_rsc_en.php?lg=Tikopia">Tikopia</a></div>
                </div>
            </div> 
       
@@ -824,37 +844,37 @@ San Felice del Molise</a></div>
                         
             <div id="nouvelle_caledonie" class="panel-collapse collapse">
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Ajië">Ajië</a></div>
+ href="list_rsc_en.php?lg=Ajië">Ajië</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Bwatoo">Bwatoo</a></div>
+ href="list_rsc_en.php?lg=Bwatoo">Bwatoo</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Cemuhî">Cèmuhî</a></div>
+ href="list_rsc_en.php?lg=Cemuhî">Cèmuhî</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Drehu">Drehu</a></div>
+ href="list_rsc_en.php?lg=Drehu">Drehu</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Fagauvea">Fagauvea</a></div>
+ href="list_rsc_en.php?lg=Fagauvea">Fagauvea</a></div>
  			   <div class="panel-body langues"><a
- href="list_rsc.php?lg=Haméa">Haméa</a></div>
+ href="list_rsc_en.php?lg=Haméa">Haméa</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Iaai">Iaai</a></div>
+ href="list_rsc_en.php?lg=Iaai">Iaai</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Kwênyii">Kwényïï</a></div>
+ href="list_rsc_en.php?lg=Kwênyii">Kwényïï</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Nêlêmwa">Nêlêmwa</a></div>
+ href="list_rsc_en.php?lg=Nêlêmwa">Nêlêmwa</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Nemi">Nemi</a></div>
+ href="list_rsc_en.php?lg=Nemi">Nemi</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Numèè">Numèè</a></div>
+ href="list_rsc_en.php?lg=Numèè">Numèè</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Paicî">Paicî</a></div>
+ href="list_rsc_en.php?lg=Paicî">Paicî</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Pije">Pije</a></div>
+ href="list_rsc_en.php?lg=Pije">Pije</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Xârâcùù">Xaracùù</a></div>
+ href="list_rsc_en.php?lg=Xârâcùù">Xârâcùù</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Xârâgurè">Xârâgurè</a></div>
+ href="list_rsc_en.php?lg=Xârâgurè">Xârâgurè</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Yuanga">Zuanga ou Yuanga</a></div>
+ href="list_rsc_en.php?lg=Yuanga">Zuanga ou Yuanga</a></div>
             </div>        
         </div>
         <!-- Langues de Papouasie-Nouvelle-Guinée -->
@@ -867,7 +887,7 @@ San Felice del Molise</a></div>
                         
             <div id="papouasie_nouvelle_guinee" class="panel-collapse collapse">
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Tok Pisin">Tok Pisin</a></div>
+ href="list_rsc_en.php?lg=Tok Pisin">Tok Pisin</a></div>
             </div>        
         </div>
         <!-- Langues du Vanuatu -->
@@ -880,41 +900,43 @@ San Felice del Molise</a></div>
                         
             <div id="vanuatu" class="panel-collapse collapse">
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Araki">Araki</a></div>
+ href="list_rsc_en.php?lg=Araki">Araki</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Bislama">Bislama</a></div>
+ href="list_rsc_en.php?lg=Bislama">Bislama</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Dorig">Dorig</a></div>
+ href="list_rsc_en.php?lg=Dorig">Dorig</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Hiw">Hiw</a></div>
+ href="list_rsc_en.php?lg=Hiw">Hiw</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Koro">Koro</a></div>
+ href="list_rsc_en.php?lg=Koro">Koro</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Lakon">Lakon</a></div>
+ href="list_rsc_en.php?lg=Lakon">Lakon</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Lehali">Lehali</a></div>
+ href="list_rsc_en.php?lg=Lehali">Lehali</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Lemerig">Lemerig</a></div>
+ href="list_rsc_en.php?lg=Lemerig">Lemerig</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Lo-Toga">Lo-toga</a></div>
+ href="list_rsc_en.php?lg=Lo-Toga">Lo-toga</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Löyöp">Löyöp</a></div>
+ href="list_rsc_en.php?lg=Löyöp">Löyöp</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Mota">Mota</a></div>
+ href="list_rsc_en.php?lg=Mota">Mota</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Mwerlap">Mwerlap</a></div>
+ href="list_rsc_en.php?lg=Mwerlap">Mwerlap</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Mwesen">Mwesen</a></div>
+ href="list_rsc_en.php?lg=Mwesen">Mwesen</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Mwotlap">Mwotlap</a></div>
+ href="list_rsc_en.php?lg=Mwotlap">Mwotlap</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Nume">Nume</a></div>
+ href="list_rsc_en.php?lg=Nume">Nume</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Olrat">Olrat</a></div>
+ href="list_rsc_en.php?lg=Olrat">Olrat</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Vera'a">Vera'a</a></div>
+ href="list_rsc_en.php?lg=Vera'a">Vera'a</a></div>
+ 			   <div class="panel-body langues"><a
+ href="list_rsc_en.php?lg=Volow">Volow</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Vurës">Vurës</a></div>
+ href="list_rsc_en.php?lg=Vurës">Vurës</a></div>
             </div>        
         </div>
         <!-- Langues de Wallis et Futuna -->
@@ -927,9 +949,9 @@ San Felice del Molise</a></div>
                         
             <div id="wallis_et_futuna" class="panel-collapse collapse">
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Futunien">East Futunan</a></div>
+ href="list_rsc_en.php?lg=Futunien">East Futunan</a></div>
                <div class="panel-body langues"><a
- href="list_rsc.php?lg=Wallisien">East Uvean</a></div>
+ href="list_rsc_en.php?lg=Wallisien">East Uvean</a></div>
             </div>        
         </div>
         
@@ -939,9 +961,21 @@ San Felice del Molise</a></div>
 
      </div>
 
-</div>
 
 </div>
+
+
+</div>
+     <div class="col-md-7 col-lg-7 hidden-xs hidden-sm">
+<iframe src="https://www.google.com/fusiontables/embedviz?q=select+col1+from+1yKRHAtZg2VweVSBt0uMxexE0gl3RFmOaDAE-Ag8B&amp;viz=MAP&amp;h=false&amp;lat=32&amp;lng=80&amp;t=3&amp;z=2&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG" width="100%" height="600" frameborder="1" align="right" scrolling="no"></iframe>
+</div>
+	<div class="col-sm-7 hidden-xs hidden-md hidden-lg">
+<iframe src="https://www.google.com/fusiontables/embedviz?q=select+col1+from+1yKRHAtZg2VweVSBt0uMxexE0gl3RFmOaDAE-Ag8B&amp;viz=MAP&amp;h=false&amp;lat=32&amp;lng=80&amp;t=3&amp;z=2&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG" width="100%" height="500" frameborder="1" align="right" scrolling="no"></iframe>
+</div>
+<div class="col-xs-7 hidden-sm hidden-md hidden-lg">
+<iframe src="https://www.google.com/fusiontables/embedviz?q=select+col1+from+1yKRHAtZg2VweVSBt0uMxexE0gl3RFmOaDAE-Ag8B&amp;viz=MAP&amp;h=false&amp;lat=32&amp;lng=80&amp;t=3&amp;z=2&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG" width="100%" height="300" frameborder="1" align="right" scrolling="no"></iframe>
+</div>
+
    
                 <!-- InstanceEndEditable -->
                 <!--End container-->
@@ -950,7 +984,9 @@ San Felice del Molise</a></div>
         </div> 
         
         </div>
-        
+        <br/><br/><br/><br/>
+        <div  class="btn-group dropup"><a href="#top"><button type="button" class="btn btn-default">Back to top <span class="caret"></span></button></a></div>
+       <hr/>
       
         <!-- jQuery -->
         <script src="../bootstrap-3.3.6-dist/js/jquery.js"></script>

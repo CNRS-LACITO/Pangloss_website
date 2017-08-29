@@ -1,40 +1,70 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="BackViewAllSimilarities.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698708121860" remote="131227698530000000" />
-<file name="ShowAllSimilarities.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226623560000000" remote="131227698700000000" />
-<file name="index_en.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698505591763" remote="131227698630000000" />
-<file name="info_similarity.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226621410000000" remote="131227698640000000" />
-<file name="info_similarity.htm" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606210000000" remote="131227698640000000" />
-<file name="ShowOneSentence.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698710000000" />
-<file name="urmother.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698730000000" />
-<file name="ViewAllSimilarities_test.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698740000000" />
-<file name="ViewAllSimilarities_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698506041769" remote="131227698740000000" />
-<file name="info_similarity_en.htm" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606210000000" remote="131227698640000000" />
-<file name="info_concordance_en.htm" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606210000000" remote="131227698640000000" />
-<file name="ShowAllSimilarities_en.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226623530000000" remote="131227698710000000" />
-<file name="CreateTabOfSimilarities.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606210000000" remote="131227698610000000" />
-<file name="styles.css" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226583320000000" remote="131226583320000000" />
-<file name="info_similarity_en.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226621410000000" remote="131227698640000000" />
-<file name="ShowOneSimilarityWord.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698730000000" />
-<file name="orphans.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606210000000" remote="131227698670000000" />
-<file name="mythology.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698708271857" remote="131227698650000000" />
-<file name="mythology_en.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698505741774" remote="131227698650000000" />
-<file name="ogress.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606210000000" remote="131227698660000000" />
-<file name="index.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698708421868" remote="131227698620000000" />
-<file name="orphans_old.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698670000000" />
-<file name="ViewAllSimilarities.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698708571873" remote="131227698730000000" />
-<file name="CreateConcordanceOneWord.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698708721870" remote="131227698610000000" />
-<file name="selection_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698505891771" remote="131227698680000000" />
-<file name="ConcordanceOneWord_xml.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606210000000" remote="131227698600000000" />
-<file name="info_concordance.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226621410000000" remote="131227698640000000" />
-<file name="BackViewAllSimilarities_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698505291782" remote="131227698570000000" />
-<file name="ViewOneSimilarity_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698740000000" />
-<file name="info_concordance_en.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226621410000000" remote="131227698640000000" />
-<file name="CreateConcordanceOneWord_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698505441766" remote="131227698610000000" />
-<file name="info_concordance.htm" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606210000000" remote="131227698640000000" />
-<file name="ShowOneSimilarity.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698720000000" />
-<file name="ViewOneSimilarity.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698740000000" />
-<file name="ConcordanceOneWord_tri.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606210000000" remote="131227698590000000" />
-<file name="CreateTab.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606210000000" remote="131227698610000000" />
-<file name="selection.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698708871867" remote="131227698680000000" />
+<file name="index.html" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131281002040438924" remote="131281002040000000" />
+<file name="selection.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131220530806104670" remote="131220530800000000" />
+<file name="ViewAllSimilarities.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131236055325502060" remote="131236055320000000" />
+<file name="BackViewAllSimilarities.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131226606072286117" remote="131226606070000000" />
+<file name="CreateTabOfSimilarities.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131184978840000000" remote="131184978840000000" />
+<file name="ViewOneSimilarity.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131184978894809495" remote="131184978890000000" />
+<file name="CreateConcordanceOneWord.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131281002040578932" remote="131281002040000000" />
+<file name="styles.css" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131117765120000000" remote="131117765120000000" />
+<file name="index_en.html" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131212831300000000" remote="131212831300000000" />
+<file name="ViewOneSimilarity_en.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131184978836706172" remote="131184978830000000" />
+<file name="ViewAllSimilarities_en.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131221374361508506" remote="131221374360000000" />
+<file name="selection_en.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131220537668657185" remote="131220537660000000" />
+<file name="BackViewAllSimilarities_en.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131184978818895153" remote="131184978810000000" />
+<file name="CreateConcordanceOneWord_en.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131220537667117097" remote="131220537660000000" />
+<file name="ConcordanceOneWord_tri.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131185049440000000" remote="131185049440000000" />
+<file name="ConcordanceOneWord_xml.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131184981960000000" remote="131184981960000000" />
+<file name="ShowOneSimilarityWord.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131185048940000000" remote="131185048940000000" />
+<file name="ShowOneSentence.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131100254850000000" remote="131100254850000000" />
+<file name="ShowAllSimilarities_en.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131225782113800170" remote="131225782110000000" />
+<file name="ShowAllSimilarities.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131281859528138476" remote="131281859520000000" />
+<file name="mythology.html" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131182505318404846" remote="131182505310000000" />
+<file name="urmother.xml" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131140910640000000" remote="131140910640000000" />
+<file name="ConcordanceOneWord_xml.xsl" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131184981960000000" remote="131184981960000000" />
+<file name="ViewAllSimilarities_test.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131207549190000000" remote="131207549190000000" />
+<file name="styles.css" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131117765120000000" remote="131226583320000000" />
+<file name="BackViewAllSimilarities.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974690000000" remote="131235974690000000" />
+<file name="BackViewAllSimilarities_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974780000000" remote="131235974780000000" />
+<file name="ConcordanceOneWord_tri.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974780000000" remote="131235974780000000" />
+<file name="ConcordanceOneWord_xml.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974800000000" remote="131235974800000000" />
+<file name="CreateConcordanceOneWord.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974800000000" remote="131235974800000000" />
+<file name="CreateConcordanceOneWord_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974810000000" remote="131235974810000000" />
+<file name="CreateTab.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235978570000000" remote="131235978570000000" />
+<file name="CreateTabOfSimilarities.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974810000000" remote="131235974810000000" />
+<file name="index.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974840000000" remote="131235974840000000" />
+<file name="index_en.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131236091940000000" remote="131236091940000000" />
+<file name="info_concordance.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974840000000" remote="131235974840000000" />
+<file name="info_similarity.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974860000000" remote="131235974860000000" />
+<file name="mythology.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974870000000" remote="131235974870000000" />
+<file name="mythology_en.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974880000000" remote="131235974880000000" />
+<file name="ogress.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974880000000" remote="131235974880000000" />
+<file name="orphans.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974880000000" remote="131235974880000000" />
+<file name="orphans_old.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974890000000" remote="131235974890000000" />
+<file name="selection.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131236101370000000" remote="131236101370000000" />
+<file name="selection_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131236101440000000" remote="131236101440000000" />
+<file name="ShowAllSimilarities.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131236101460000000" remote="131236101460000000" />
+<file name="ShowAllSimilarities_en.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131236101460000000" remote="131236101460000000" />
+<file name="ShowOneSentence.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974910000000" remote="131235974910000000" />
+<file name="ShowOneSimilarity.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235978460000000" remote="131235978460000000" />
+<file name="ShowOneSimilarityWord.xsl" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235980120000000" remote="131235980120000000" />
+<file name="urmother.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974930000000" remote="131235974930000000" />
+<file name="ViewAllSimilarities.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131236101460000000" remote="131236101460000000" />
+<file name="ViewAllSimilarities_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131236101460000000" remote="131236101460000000" />
+<file name="ViewAllSimilarities_test.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974940000000" remote="131235974940000000" />
+<file name="ViewOneSimilarity.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974940000000" remote="131235974940000000" />
+<file name="ViewOneSimilarity_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974940000000" remote="131235974940000000" />
+<file name="info_concordance.html" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131092693560000000" remote="131092693560000000" />
+<file name="info_concordance_en.html" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131226617119097959" remote="131226617110000000" />
+<file name="info_similarity.html" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131092693560000000" remote="131092693560000000" />
+<file name="info_similarity_en.html" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131165232020000000" remote="131165232020000000" />
+<file name="info_concordance_en.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974850000000" remote="131235974850000000" />
+<file name="info_similarity_en.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974870000000" remote="131235974870000000" />
+<file name="info_similarity.htm" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974860000000" remote="131235974860000000" />
+<file name="info_similarity_en.htm" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974860000000" remote="131235974860000000" />
+<file name="info_concordance_en.htm" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974850000000" remote="131235974850000000" />
+<file name="leper.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235491130000000" remote="131235974870000000" />
+<file name="info_concordance.htm" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974840000000" remote="131235974840000000" />
+<file name="GhumnePani.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131236101370000000" remote="131236101370000000" />
 </dwsync>

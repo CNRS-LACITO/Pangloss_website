@@ -43,7 +43,7 @@
     
     <body>
         
-        <div class="row total">
+        <div id="top" class="row total">
             <div class="col-md-1 col-lg-1"></div>
             <div class="container col-xs-12 col-sm-12 col-md-10 col-lg-10">
                 
@@ -69,18 +69,18 @@
                        <div class="row">
                        
                        
-                        <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS" height="25"  border="0"/></a></div>
+                        <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://www.cnrs.fr" target="_blank"><img src="../images/logos/cnrs.jpg" alt="CNRS" height="25"  border="0"/></a></div>-->
                             <div class="hidden-xs hidden-lg col-md-2 col-sm-4"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS" height="35"  border="0"/></a></div>
                              <div class="hidden-xs hidden-sm hidden-md col-lg-2"><a href="http://www.cnrs.fr" target="_blank"><img src="../../images/logos/cnrs.jpg" alt="CNRS" height="45"  border="0"/></a></div>
                              
                              
                              
                              
-                             <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="25"  border="0"/></a></div>
+                             <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="25"  border="0"/></a></div>-->
                             <div class="hidden-xs hidden-lg  hidden-md col-sm-4"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="30"  border="0"/></a></div>
                              <div class="hidden-xs hidden-sm col-md-2 col-lg-2"><a href="http://lacito.vjf.cnrs.fr/index_en.htm" target="_blank"><img src="../../images/logos/Logo-LACITO-CNRS_large.png" alt="Lacito" height="36"  border="0"/></a></div>
                            
-                            <div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon" height="20" border="0"/></a></div>
+                            <!--<div class="col-xs-4 hidden-sm hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../images/logos/cocoon2.png" alt="Cocoon" height="20" border="0"/></a></div>-->
                             <div class="hidden-xs col-sm-4 hidden-md hidden-lg"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon" height="25" border="0"/></a></div>
                             <div class="hidden-xs hidden-sm  col-md-2"><a href="http://cocoon.huma-num.fr" target="_blank"><img src="../../images/logos/cocoon2.png" alt="Cocoon" height="36" border="0"/></a></div>
                             
@@ -99,7 +99,8 @@
                         <div class="barre-navig-tot"> 
                         
                         <!-- navbar-header -->
-                        <div class="navbar-header" >
+                         <div class="navbar-header" >
+                             <div class="hidden-xs">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
@@ -107,15 +108,31 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
+                            </div>
+                            
+                           <div class="hidden-sm hidden-md hidden-lg">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+
+                               
+                            </button>
+                            </div>
                             
                          
                             
                          
-                  <div class="hidden-md hidden-lg" align="left" style="padding:10px">
+                  <div class="hidden-md hidden-lg hidden-sm" align="left" style="padding:5px">
+                  
+                    <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/fra.gif"  height="30" width="30"/></a>
+                  </div>
+                  
+                   <div class="hidden-md hidden-lg hidden-xs" align="left" style="padding:5px">
                   
                     <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/fra.gif"  height="35" width="35"/></a>
                   </div>
-                            <div class="hidden-xs hidden-sm" align="left" style="padding:10px">
+                            <div class="hidden-xs hidden-sm" align="left" style="padding:5px">
                               <a class="navbar-header" href="Javascript:version()"><img class="img-responsive" src="../../images/icones/fra.gif" height="40" width="40"/></a>
                             </div>
                             
@@ -152,14 +169,14 @@
                                
                                 <li class="dropdown"></li>
                                 <li class="dropdown"> 
-                                    <a data-toggle="dropdown" href="#">Corpora access<b class="caret"></b></a>
+                                    <a data-toggle="dropdown" href="#">Corpus access<b class="caret"></b></a>
                                     <ul class="dropdown-menu jqueryFadeIn">
-                                        <li class="dropdown-header">Corpora</li>
+                                        <li class="dropdown-header">Corpus</li>
                                         <li><a href="https://fusiontables.googleusercontent.com/fusiontables/embedviz?lat=24&amp;lng=30&amp;t=3&amp;z=2&amp;q=select+col1+from+1yKRHAtZg2VweVSBt0uMxexE0gl3RFmOaDAE-Ag8B&amp;viz=MAP&amp;h=false&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG" target="_blank"><span class="fa fa-bank blue"></span>Map of languages</a></li>
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/index_en.html"><span class="fa fa-bank blue"></span>List of languages</a></li> 
                                         <li class="divider"></li>
-                                        <li class="dropdown-header">Comparable corpora</li>
-                                        <li><a href="http://lacito.vjf.cnrs.fr/comparable_corpus/index_en.html"><span class="fa fa-bank blue"></span>Presentation</a></li>        
+                                        <li class="dropdown-header">Comparables corpus</li>
+                                        <li><a href="http://lacito.vjf.cnrs.fr/pangloss/comparable_corpus/index_en.html"><span class="fa fa-bank blue"></span>Presentation</a></li>        
                                     </ul>
                                 </li>
                                 <li class="dropdown"></li>   
@@ -173,6 +190,7 @@
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=*&dict=japhug&lang1=eng&lang2=fra&langn=cmn&char=a"><span class="fa fa-bank blue"><span class="fa fa-bank blue"></span>Japhug</a></li>
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order.xml&alphabet=ipa&dict=khaling&lang1=eng&lang2=*&langn=*&char=%CA%94"><span class="fa fa-bank blue"></span>Khaling</a></li>
                                         <li><a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/ViewOneCharacter.php?sortorder=sort_order_inv.xml&alphabet=dev&dict=khaling&lang1=eng&lang2=*&langn=*&char=अ"><span class="fa fa-bank blue"></span>Na</a></li>
+                                        <li><a href="../dictionaries/limbu/index.html">Limbu</a></li>
                                     </ul>
                                 </li>      
                                 
@@ -192,7 +210,7 @@
                                 <li class="dropdown"> 
                                    <a data-toggle="dropdown" href="#">Help<b class="caret"></b></a>
                                     <ul class="dropdown-menu jqueryFadeIn">
-                                    <li><a href="http://lacito.vjf.cnrs.fr/pangloss/faq.html"><span class="fa fa-plus-square red"></span>FAQ</a></li>   
+                                    <li><a href="http://lacito.vjf.cnrs.fr/pangloss/FAQ.html"><span class="fa fa-plus-square red"></span>FAQ</a></li>   
                                     <li>
                                     <a href="javascript:writemail('gmail.com','pangloss.cnrs','',1);">Contact</a> 								</li>
                                      <li class="divider"></li>
@@ -215,14 +233,11 @@
                   
                 </nav>
                 
-              <div class="row">
+                <div class="row">
                <div class="col-xs-12 hidden-sm hidden-md hidden-lg">
-               		<div>&nbsp;</div>
-                    <div>&nbsp;</div>
-                    <div>&nbsp;</div>
+               	
         		</div>
         		<div class="hidden-xs col-sm-12 hidden-md hidden-lg">
-               		<div>&nbsp;</div>
                		<div>&nbsp;</div>
                     <div>&nbsp;</div>
                    
@@ -237,10 +252,11 @@
                 
                 
                 <!-- InstanceBeginEditable name="content" -->
-                
+  <div class="hidden-xs">              
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
+</div>
 
 <div class="col-md-4" align="right">
                  <div class="panel-group">      
@@ -255,8 +271,10 @@
                 
                 </div>
 
+<div class="hidden-xs">
 <div>&nbsp;</div>
  <div class="page-header">
+ </div>
  
 	<?php
 	
@@ -418,24 +436,37 @@ $lg=str_replace("\'","_",$lg) ;
 
 $aff=str_replace("\'","'",$aff) ; 
 	 
-		if (in_array($lg , array( 'Futunien', 'Wallisien', 'Chang_naga', 'Bulgaro-Macedonien', 'Sorabe_superieur_(courant)', 'Croate_du_Burgenland', 'Kurde central'))){
+		
 			
 			 if ($lg == "Futunien"){
-					echo("<h2>Language : <a href=\"../../ALC/Languages/East_Uvean_popup.htm\" target=\"_blank\" onClick=\"window.open(this.href,'popupLink','width=400,height=400,scrollbars=yes,resizable=yes',pop.focus(),1);return false\">".$aff."</a></h2>");
+					$lg1="East_Futunan";
 	 		}
 			else if ($lg == "Kurde_central"){
-					echo("<h2>Language : <a href=\"../../ALC/Languages/Kurdish_popup.htm\" target=\"_blank\" onClick=\"window.open(this.href,'popupLink','width=400,height=400,scrollbars=yes,resizable=yes',pop.focus(),1);return false\">".$aff."</a></h2>");
+					$lg1="Kurdish";
 	 		}
 			else if ($lg == "Wallisien"){
-				echo("<h2>Language : <a href=\"../../ALC/Languages/East_Uvean_popup.htm\" target=\"_blank\" onClick=\"window.open(this.href,'popupLink','width=400,height=400,scrollbars=yes,resizable=yes',pop.focus(),1);return false\">".$aff."</a></h2>");
+				$lg1="East_Uvean";
 	 		}
-		else {echo("<h2>Language : ".$aff."</h2>");}
-	 }
+			else if ($lg == "Bulgaro-Macedonien"){
+				$lg1="Bulgarian_Macedonian";
+	 		}
+			else if ($lg == "Croate_du_Burgenland"){
+				$lg1="Burgenland_Croatian";
+	 		}
+			else if ($lg == "Sorabe_superieur_(courant)"){
+				$lg1="Colloquial_Upper_Sorbian";
+	 		}
+			else if ($lg == "Chang_naga"){
+				$lg1="Chang_Naga";
+	 		}
+			else {$lg1=$lg;}
+		
+	
 	/*  else if (in_array($lg , array( 'Muong', "Chang_Naga", "Sach", "Salang", "Aheu", "Arem", "Thavung", "Chut", "Cao_Lao_Ha", "Tho", "Pakatan", "Ruc", "Tai_Yo", "Tai_Paw", "Tai_Deng", "Tai_Don", "Tay_Khang", "Saek", " Maleng_Bro", "Phong_Na", "Maleng", "Malieng", "Malang", "Khung", "Kha_Phong", "Hung", "Cuoi_Cham", "Khaling", "Krom Khmer", "Cardamom Khmer", "Nyaheun", "Mang", "Makong dialect of Bru", "Ksing Mun", "Khang" ,"Palaong", "Mon", "Laven", "Phay", "Samre", "Chong Tratt", "Chong Lo", "Chong Heup","Pear", "Bru", "Na-nasu"))){
 		echo("Langue : <b>$aff</b>");
 	}*/
 	 
-	else {
+	
 ?>
 	<div class="panel-group">      
             <div class="panel panel-default">        
@@ -453,7 +484,7 @@ $aff=str_replace("\'","'",$aff) ;
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <div class="panel-title">
-                               <?php include ('../languages/'.$lg.'_en.php'); 
+                               <?php include ('../languages/'.$lg1.'_en.php'); 
 					
 						
 						?>
@@ -464,7 +495,7 @@ $aff=str_replace("\'","'",$aff) ;
             </div>
         </div>
 <?php
-	}
+	
 
 	?>
   
@@ -478,22 +509,22 @@ $aff=str_replace("\'","'",$aff) ;
 </div>
 
  <div class="table text-left">
-  <table class="table-responsive" border="1">
+  <table class="table-responsive" border="0">
  	<tr>
  		<td><img src="../../images/images_pangloss/haut_parleur_s.png" width="20" height="22"/></td>
-        <td> Click on this icon to access the <b>recording</b> </td>
+        <td> Audio ​​recording​ on​ly </td>
     </tr>
     <tr>
 		<td><img src="../../images/icones/Txt_Inter_parchemin.jpg" width="30" height="30"/></td>
-        <td> Click here to access the <b>text, with synchronized access</b>  to the sound file</td>
+        <td> ​Audio ​​recording​ ​​synchronized with textual annotation</td>
     </tr>
     <tr> 
 		<td><img src="../../images/icones/pdf_son2.png" width="25" height="25"/></td>
-        <td>Click here to access the <b>pdf file </b>  linked with sound file</td>
+        <td>Audio recor​​ding with<b> pdf file </b></td>
     </tr>
     <tr> 
 		<td><img src="../../images/icones/egg2.jpg" width="25" height="25"/></td>
-        <td>Click here to access the <b>EGG file</b></td>
+        <td>Audio recor​​ding with <b>EGG file</b></td>
     </tr>
   </table>
   </div>
@@ -507,7 +538,7 @@ $aff=str_replace("\'","'",$aff) ;
 		
 		$lg=  isset($_GET["lg"])    ? $_GET["lg"]    : "*";
 		$tri=  isset($_GET["tri"])    ? $_GET["tri"]    : "*";
-
+		
 		$lg=str_replace("\'","'",$lg) ;
 		
 	/*echo "$tri\n";
@@ -531,15 +562,15 @@ $aff=str_replace("\'","'",$aff) ;
 	
       echo "<div class=\"row text-left\">";
 	 
-	  echo "<div class=\"col-sm-2 col-xs-3\"><b><a href=\"list_rsc.php?lg=$lg&amp;tri=access\">Accès</a></b></div>";
+	  echo "<div class=\"col-sm-2 col-xs-3\"><b><a href=\"list_rsc_en.php?lg=$lg&amp;tri=access\">Access</a></b></div>";
      
-	  echo "<div class=\"col-sm-2 col-xs-3\"><b><a href=\"list_rsc.php?lg=$lg&amp;tri=extent\">Durée</a></b></div>";
+	  echo "<div class=\"col-sm-2 col-xs-3\"><b><a href=\"list_rsc_en.php?lg=$lg&amp;tri=extent\">Duration</a></b></div>";
 	
-	 echo "<div class=\"col-sm-4 col-xs-6\"><b><a href=\"list_rsc.php?lg=$lg&amp;tri=title\">Titre</a></b></div>";
+	 echo "<div class=\"col-sm-4 col-xs-6\"><b><a href=\"list_rsc_en.php?lg=$lg&amp;tri=title\">Title</a></b></div>";
 	 
-	 echo "<div class=\"col-sm-2 hidden-xs\"><b><a href=\"list_rsc.php?lg=$lg&amp;tri=researcher\">Chercheur(s)</a></b></div>";
+	 echo "<div class=\"col-sm-2 hidden-xs\"><b><a href=\"list_rsc_en.php?lg=$lg&amp;tri=researcher\">Researcher(s)</a></b></div>";
 	
-	echo "<div class=\"col-sm-2 hidden-xs\"><b><a href=\"list_rsc.php?lg=$lg&amp;tri=speaker\">Locuteur(s)</a></b></div>";
+	echo "<div class=\"col-sm-2 hidden-xs\"><b><a href=\"list_rsc_en.php?lg=$lg&amp;tri=speaker\">Speaker(s)</a></b></div>";
 	
 	echo "</div>";
    
@@ -547,10 +578,10 @@ $aff=str_replace("\'","'",$aff) ;
 	
 			
 			if ($lieu!="*"){
-				Xslt_list_texts_lieu($lg, 'fr', $lieu, $tri);
+				Xslt_list_texts_lieu($lg, 'en', $lieu, $tri);
 			}
 			else {
-				Xslt_list_texts($lg, 'fr', $tri);	
+				Xslt_list_texts($lg, 'en', $tri);	
 			}
 	
 	echo "</div>";	
@@ -577,7 +608,9 @@ $aff=str_replace("\'","'",$aff) ;
         </div> 
         
         </div>
-        
+        <br/><br/><br/><br/>
+        <div  class="btn-group dropup"><a href="#top"><button type="button" class="btn btn-default">Back to top <span class="caret"></span></button></a></div>
+       <hr/>
       
         <!-- jQuery -->
         <script src="../bootstrap-3.3.6-dist/js/jquery.js"></script>

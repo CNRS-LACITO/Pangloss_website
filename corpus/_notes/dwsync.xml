@@ -1,33 +1,55 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="list_en.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698506791769" remote="131227699010000000" />
-<file name="show_text_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698507091770" remote="131227699100000000" />
-<file name="index.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698709021857" remote="131227698960000000" />
-<file name="list_rsc.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227801332769082" remote="131227801950000000" />
-<file name="index_en.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698506491767" remote="131227698970000000" />
-<file name="getDocument.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698950000000" />
-<file name="list_all.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698709471863" remote="131227699000000000" />
-<file name="search_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698504841756" remote="131227699080000000" />
-<file name="corpora_list.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698709621860" remote="131227698810000000" />
-<file name="citation_corpus.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698800000000" />
-<file name="show_other.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698709771864" remote="131227699090000000" />
-<file name="list_save.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698709921862" remote="131227699040000000" />
-<file name="search.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698710071852" remote="131227699070000000" />
-<file name="index.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698710371881" remote="131227698960000000" />
-<file name="corpora_list_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698506191766" remote="131227698860000000" />
-<file name="citation_spec.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698810000000" />
-<file name="list_tri.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698710821852" remote="131227699070000000" />
-<file name="citation_resource.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698800000000" />
-<file name="list_rsc_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227801786387811" remote="131227801850000000" />
-<file name="list.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698711092251" remote="131227698990000000" />
-<file name="show_other_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698506941773" remote="131227699090000000" />
-<file name="list_temp.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698711202263" remote="131227699050000000" />
-<file name=".fonctions_Xslt.php.swp" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606220000000" remote="131227698800000000" />
-<file name="eastling_player.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698711422281" remote="131227698950000000" />
-<file name="show_text.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698711532286" remote="131227699090000000" />
-<file name="index_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131227698506641765" remote="131227698980000000" />
-<file name="sortorder.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131226606260000000" remote="131227699100000000" />
-<file name="search_en.php" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131226606260000000" remote="131226606260000000" />
-<file name="list_rsc_en.php" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131227698503627430" remote="131227698500000000" />
-<file name="list_rsc.php" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131227698709321901" remote="131227698700000000" />
+<file name="index.html" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131327465610000000" remote="131327465610000000" />
+<file name="list_rsc.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131279226474720387" remote="131279226470000000" />
+<file name="list_rsc_en.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131279226137611105" remote="131279226130000000" />
+<file name="show_text.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131279226471640210" remote="131279226470000000" />
+<file name="show_text_en.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131279226132860833" remote="131279226130000000" />
+<file name="eastling_player.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131281003360000000" remote="131281003360000000" />
+<file name="show_other_en.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131279143421135582" remote="131279143420000000" />
+<file name="show_other.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131279142243708237" remote="131279142240000000" />
+<file name="getDocument.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131169544720000000" remote="131169544720000000" />
+<file name="citation_corpus.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131043441260000000" remote="131043441260000000" />
+<file name="citation_resource.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131280967350000000" remote="131280967350000000" />
+<file name="citation_spec.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131043441120000000" remote="131043441120000000" />
+<file name="index_en.html" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131324221283913891" remote="131324221280000000" />
+<file name="search.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131280967370000000" remote="131280967370000000" />
+<file name="search_en.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131279143420975573" remote="131279143420000000" />
+<file name="index.html" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131217882800000000" remote="131217882800000000" />
+<file name="index_en.html" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131217883720000000" remote="131217883720000000" />
+<file name="search.php" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131188415026112375" remote="131188415020000000" />
+<file name="sortorder.xml" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131043441080000000" remote="131043441080000000" />
+<file name="list_tri.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131205864928487381" remote="131205864920000000" />
+<file name="corpora_list.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131281070457472155" remote="131281070450000000" />
+<file name="corpora_list_en.php" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131281001996496411" remote="131281001990000000" />
+<file name="corpora_list.php" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131217866220000000" remote="131217866220000000" />
+<file name="corpora_list_en.php" server="C:/Program Files/EasyPHP-12.1/www/lacito2/" local="131217884540000000" remote="131217884540000000" />
+<file name=".fonctions_Xslt.php.swp" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967350000000" remote="131280967350000000" />
+<file name="citation_corpus.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967350000000" remote="131280967350000000" />
+<file name="citation_resource.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967350000000" remote="131280967350000000" />
+<file name="citation_spec.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967360000000" remote="131280967360000000" />
+<file name="corpora_list.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131281034860000000" remote="131281034860000000" />
+<file name="corpora_list_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131281034760000000" remote="131281034760000000" />
+<file name="eastling_player.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967360000000" remote="131280967360000000" />
+<file name="getDocument.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967360000000" remote="131280967360000000" />
+<file name="index.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131327465610000000" remote="131327465610000000" />
+<file name="index_en.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131327465500000000" remote="131327465500000000" />
+<file name="list_rsc.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967370000000" remote="131280967370000000" />
+<file name="list_rsc_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967370000000" remote="131280967370000000" />
+<file name="list_tri.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967370000000" remote="131280967370000000" />
+<file name="search.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967370000000" remote="131280967370000000" />
+<file name="search_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967370000000" remote="131280967370000000" />
+<file name="show_other.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967370000000" remote="131280967370000000" />
+<file name="show_other_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967370000000" remote="131280967370000000" />
+<file name="show_text.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967370000000" remote="131280967370000000" />
+<file name="show_text_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967370000000" remote="131280967370000000" />
+<file name="sortorder.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131280967380000000" remote="131280967380000000" />
+<file name="list_en.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131229451060000000" remote="131229451060000000" />
+<file name="list_all.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131229451060000000" remote="131229451060000000" />
+<file name="list_save.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131229451080000000" remote="131229451080000000" />
+<file name="list.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131229451050000000" remote="131229451050000000" />
+<file name="list_temp.html" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131229451090000000" remote="131229451090000000" />
+<file name="list_en.html" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131229487060000000" remote="131229487060000000" />
+<file name="index.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131229451040000000" remote="131229451040000000" />
+<file name="index_en.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131229451040000000" remote="131229451040000000" />
 </dwsync>

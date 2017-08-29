@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sort order for Limbu and (roughly) Nepali translitteration -->
+<SortOrder>
+	<rules level="1">
+		<rule str="&#x0259;"	rank="5"/>	<!-- schwa -->
+		<rule str="a"	rank="6"/>
+		<rule str="a&#x0304;"	rank="7"/>	<!-- macron (nep) -->
+		<rule str="b"	rank="10"/>
+		<rule str="bh"	rank="11"/>
+		<rule str="c"	rank="12"/>
+		<rule str="ch"	rank="13"/>
+		<rule str="d"	rank="15"/>
+		<rule str="dh"	rank="16"/>
+		<rule str="d&#x0323;"	rank="17"/>	<!-- dot under (nep) -->
+		<rule str="d&#x0323;h"	rank="18"/>	<!-- dot under (nep) -->
+		<rule str="dz"	rank="19"/>
+		<rule str="dzh"	rank="20"/>
+		<rule str="e"	rank="21"/>
+		<rule str="&#x025b;"	rank="22"/>	<!-- open e (lim) -->
+		<rule str="g"	rank="25"/>
+		<rule str="gh"	rank="26"/>
+		<rule str="h"	rank="27"/>
+		<rule str="i"	rank="30"/>
+		<rule str="i&#x0304;"	rank="31"/>	<!-- macron (nep) -->
+		<rule str="&#x0269;"	rank="32"/>	<!-- lax i (hay) -->
+		<rule str="j"	rank="35"/>
+		<rule str="jh"	rank="36"/>
+		<rule str="k"	rank="38"/>
+		<rule str="kh"	rank="39"/>
+		<rule str="l"	rank="41"/>
+		<rule str="lh"	rank="42"/>
+		<rule str="m"	rank="43"/>
+		<rule str="n"	rank="45"/>
+		<rule str="n&#x0307;"	rank="46"/>	<!-- dot over (nep) -->
+		<rule str="&#x014b;"	rank="46"/>
+		<rule str="o"	rank="48"/>
+		<rule str="&#x0254;"	rank="49"/>	<!-- open o (lim) -->
+		<rule str="p"	rank="51"/>
+		<rule str="ph"	rank="52"/>
+		<rule str="r"	rank="54"/>
+		<rule str="s"	rank="56"/>
+		<rule str="t"	rank="58"/>
+		<rule str="th"	rank="59"/>
+		<rule str="t&#x0323;"	rank="60"/>	<!-- dot under (nep) -->
+		<rule str="t&#x0323;h"	rank="61"/>	<!-- dot under (nep) -->
+		<rule str="ts"	rank="62"/>
+		<rule str="tsh"	rank="63"/>
+		<rule str="u"	rank="65"/>
+		<rule str="u&#x0304;"	rank="66"/>	<!-- macron (nep) -->
+		<rule str="&#x028a;"	rank="67"/>	<!-- lax u (hay) -->
+		<rule str="v"	rank="68"/>
+		<rule str="w"	rank="70"/>
+		<rule str="x"	rank="71"/>
+		<rule str="y"	rank="72"/>
+		<rule str="z"	rank="73"/>
+		<rule str="&#x0294;"	rank="75"/>	<!-- glottal stop -->
+	</rules>
+	<rules level="2">
+		<rule str="a"	rank="1"/>
+		<rule str="e"	rank="1"/>
+		<rule str="&#x025b;"	rank="1"/>	<!-- open e -->
+		<rule str="i"	rank="1"/>
+		<rule str="&#x0269;"	rank="1"/>	<!-- lax i -->
+		<rule str="o"	rank="1"/>
+		<rule str="&#x0254;"	rank="1"/>	<!-- open o -->
+		<rule str="u"	rank="1"/>
+		<rule str="&#x028a;"	rank="1"/>	<!-- lax u -->
+			<!-- long vowels -->
+		<rule str="a&#x02D0;"	rank="2"/>
+		<rule str="e&#x02D0;"	rank="2"/>
+		<rule str="&#x025b;&#x02D0;"	rank="2"/>	<!-- open e -->
+		<rule str="i&#x02D0;"	rank="2"/>
+		<rule str="&#x0269;&#x02D0;"	rank="2"/>	<!-- lax i -->
+		<rule str="o&#x02D0;"	rank="2"/>
+		<rule str="&#x0254;&#x02D0;"	rank="2"/>	<!-- open o -->
+		<rule str="u&#x02D0;"	rank="2"/>
+		<rule str="&#x028a;&#x02D0;"	rank="2"/>	<!-- lax u -->
+			<!-- glottalized vowels (Limbu) -->
+		<rule str="a&#x02C0;"	rank="3"/>
+		<rule str="e&#x02C0;"	rank="3"/>
+		<rule str="&#x025b;&#x02C0;"	rank="3"/>	<!-- open e -->
+		<rule str="i&#x02C0;"	rank="3"/>
+		<rule str="o&#x02C0;"	rank="3"/>
+		<rule str="&#x0254;&#x02C0;"	rank="3"/>	<!-- open o -->
+		<rule str="u&#x02C0;"	rank="3"/>
+	</rules>
+</SortOrder>

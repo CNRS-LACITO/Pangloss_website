@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <corpora>
+	<corpus>
+        <language>Newar</language>
+        <language_fr>newar</language_fr>
+        <researcher>
+            <name>Boyd Michailovsky</name>
+			<page></page>
+        </researcher>
+		<family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+		<country>Nepal</country>
+		<country_fr>Népal</country_fr>
+		
+	</corpus>
+	<corpus>
+        <language>Volow</language>
+        <language_fr>volow</language_fr>
+        <researcher>
+            <name>Bernard Vienne</name>
+			<page></page>
+        </researcher>
+		<family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+	<corpus>
+        <language>Ao</language>
+        <language_fr>ao</language_fr>
+        <researcher>
+            <name>Alexander R. Coupe</name>
+			<page></page>
+        </researcher>
+		<family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+		<country>India</country>
+		<country_fr>Inde</country_fr>
+		
+	</corpus>
     <corpus>
         <language>Ngazidja</language>
         <language_fr>grand-comorien</language_fr>
@@ -828,7 +867,7 @@
 		
 	</corpus>
     <corpus>
-        <language>Phong Na</language>
+        <language>Phong Nha</language>
         <language_fr>phong nha (dialecte du vietnamien)</language_fr>
         <researcher>
             <name>Michel Ferlus</name>
@@ -1205,7 +1244,7 @@
 		</researcher>
         <family>Slavic</family>
 		<family_fr>Slave</family_fr>
-        <country>Italia</country>
+        <country>Italy</country>
 		<country_fr>Italie</country_fr>
 		
 	</corpus>
@@ -1423,6 +1462,19 @@
 		<country_fr>Nouvelle-Calédonie</country_fr>
 		
 	</corpus>
+	<corpus>
+	 	<language>Haméa</language>
+        <language_fr>haméa</language_fr>
+		<researcher>
+		    <name>Claire Moyse-Faurie</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/moyse.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
     <corpus>
         <language>Iaai</language>
         <language_fr>iaai</language_fr>
@@ -1518,7 +1570,7 @@
 		
 	</corpus>
     <corpus>
-        <language>Xaracuu</language>
+        <language>Xârâcùù</language>
         <language_fr>xârâcùù</language_fr>
 		<researcher>
 		    <name>Claire Moyse-Faurie</name>

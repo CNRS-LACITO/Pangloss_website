@@ -60,8 +60,11 @@ doctype-system="about:legacy-compat" indent="yes"/>
        
         <div style="margin-left: 5px;">
 	
-       <xsl:choose>
+      
+           			 <xsl:choose>
+                     <!-- site en français -->
 						<xsl:when test="$aff_lang='fr'">
+                       
                         
                             <h2 align="center"><b><xsl:value-of select="$title_fr"/></b>
                 			</h2>
@@ -70,7 +73,7 @@ doctype-system="about:legacy-compat" indent="yes"/>
             
                             <div class="panel-heading metadata text-center">
                             <h4 class="panel-title">
-                            <a data-toggle="collapse" href="#ressource"><b>A propos de cet enregistrement<b class="caret"></b></b></a>
+                            <a data-toggle="collapse" href="#ressource"><b>A propos de cet enregistrement <b class="caret"></b></b></a>
                             </h4>
                             </div>
                             <div id="ressource" class="panel-collapse collapse">
@@ -78,30 +81,30 @@ doctype-system="about:legacy-compat" indent="yes"/>
                             
                             <div class="row">
                             <div class="col-xs-6 aff_metadata">
-                            <p><b>Langue :</b> <span style="font-size:14px"><xsl:value-of select="$lg"/></span></p>
+                            <p><b>Langue : </b> <span style="font-size:14px"><xsl:value-of select="$lg"/></span></p>
                             <xsl:if test="not($title_fr=$alternative) and $alternative!=''">
-                            	<p><b>Autres titres :</b> <xsl:value-of select="$alternative"/></p>
+                            	<p><b> Autres titres :</b> <xsl:value-of select="$alternative"/></p>
                             </xsl:if>
                             <xsl:if test="$chercheurs!=''">
-                            	<p><b>Chercheur(s) :</b> <xsl:value-of select="$chercheurs"/></p>
+                            	<p><b> Chercheur(s) : </b> <xsl:value-of select="$chercheurs"/></p>
                             </xsl:if>
                             <xsl:if test="$locuteurs!=''">
-	                            <p><b>Locuteur(s) :</b> <xsl:value-of select="$locuteurs"/></p>
+	                            <p><b> Locuteur(s) : </b> <xsl:value-of select="$locuteurs"/></p>
                             </xsl:if>
                             <xsl:if test="$sponsor!=''">
-	                            <p><b>sponsor(s) :</b> <xsl:value-of select="$sponsor"/></p>
+	                            <p><b> Sponsor(s) : </b> <xsl:value-of select="$sponsor"/></p>
                             </xsl:if>
 	                        
                             
                             <!--<p><b>Lieu :</b> 1. <xsl:value-of select="$spatial_fr"/> 2. <xsl:value-of select="$spatial_en"/> 3. <xsl:value-of select="$spatial_autre"/></p>-->
                             
                              <xsl:if test="$created!=''">
-	                            <p><b>Date d'enregistrement :</b> <xsl:value-of select="$created"/></p>
+	                            <p><b>Date d'enregistrement : </b> <xsl:value-of select="$created"/></p>
                             </xsl:if>
                             
  
                             
-                             <p><b>Lieu d'enregistrement :</b> 
+                             <p><b>Lieu d'enregistrement : </b> 
                             		<xsl:choose>
                                     	<xsl:when test="$spatial_fr!=''">
                                         	<xsl:value-of select="$spatial_fr"/>
@@ -131,31 +134,41 @@ doctype-system="about:legacy-compat" indent="yes"/>
                            <table class="responsive">
                            <tr>
                            <td>
-                            Version <b>originale</b> (<xsl:value-of select="substring($extent, 3)"/>)  
+                            Fichier <b>original</b> (<xsl:value-of select="substring($extent, 3)"/>)  
                            </td>
                            <td>
-                            <xsl:if test="contains($url_sound_bis,'wav')"><a href="{$url_sound_bis}"><img src="../../images/icones/wav.gif"/></a></xsl:if>
-                            <xsl:if test="contains($url_sound_ter,'wav')"><a href="{$url_sound_ter}"><img src="../../images/icones/wav.gif"/></a></xsl:if>
+                            <xsl:if test="contains($url_sound_bis,'.wav')"><a href="{$url_sound_bis}"><img src="../../images/icones/wav.gif" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.wav')"><a href="{$url_sound_ter}"><img src="../../images/icones/wav.gif" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_bis,'.mp4')"><a href="{$url_sound_bis}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.mp4')"><a href="{$url_sound_ter}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
                            </td>
                             </tr>
                             <tr><td><br/></td></tr>
                             <tr>
                             <td>
-	                            Version <b>Wav/22Khz</b>
+	                            Fichier <b>Wav</b>
                             </td>
                             <td>
-                                 <a href="{$url_sound}"><img src="../../images/icones/wav.png"/></a>
+                             <xsl:if test="contains($url_sound_bis,'.wav')"><a href="{$url_sound_bis}"><img src="../../images/icones/wav.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.wav')"><a href="{$url_sound_ter}"><img src="../../images/icones/wav.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_bis,'.mp4')"><a href="{$url_sound_bis}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.mp4')"><a href="{$url_sound_ter}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
+                            
+                           
+                               
                                  
                             </td>
                             </tr>
                             <tr>
                             <tr><td><br/></td></tr>
                             <td>
-                            	Version <b>Mp3/44khz</b>  
+                            	Fichier <b>MP3</b>  
                             </td>
                             <td>
-                            <xsl:if test="contains($url_sound_bis,'mp3')"><a href="{$url_sound_bis}"><img src="../../images/icones/mp3.png"/></a></xsl:if>
-                            <xsl:if test="contains($url_sound_ter,'mp3')"><a href="{$url_sound_ter}"><img src="../../images/icones/mp3.png"/></a></xsl:if>
+                            <xsl:if test="contains($url_sound_bis,'.mp3')"><a href="{$url_sound_bis}"><img src="../../images/icones/mp3.png"/></a></xsl:if>
+                            <xsl:if test="contains($url_sound_ter,'.mp3')"><a href="{$url_sound_ter}"><img src="../../images/icones/mp3.png"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_bis,'.ogg')"><a href="{$url_sound_bis}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.ogg')"><a href="{$url_sound_ter}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
                             
                             </td>
                             </tr>
@@ -163,7 +176,7 @@ doctype-system="about:legacy-compat" indent="yes"/>
                                 <tr><td><br/></td></tr>
                                 <tr>
                                 <td>
-	                            	<b>Texte</b> au format xml
+	                            	Fichier <b>XML</b>
                                 </td>
                                 <td>
                                  <a href="{$url_text}"><img src="../../images/icones/xml.png"/></a>
@@ -176,22 +189,22 @@ doctype-system="about:legacy-compat" indent="yes"/>
                        </div>
                   </div>
                             <div class="col-lg-6 hidden-md hidden-sm hidden-xs">
-                      <a target="_blank" href="http://maps.google.com/maps?q={$north},{$east}" title="">
+                      <a href="https://www.google.fr/maps/place//@10.0999896,5.9299594,800m/data=!3m1!1e3" target="_blank" title="">
                                 <img alt="" src="http://maps.googleapis.com/maps/api/staticmap?center={$north},{$east}&amp;zoom=5&amp;size=300x300&amp;sensor=false&amp;maptype=hybrid&amp;language=fr&amp;markers={$north},{$east}"/>
                             </a>
                             </div>	
                             <div class="col-md-6 hidden-lg hidden-sm hidden-xs">
-                      <a target="_blank" href="http://maps.google.com/maps?q={$north},{$east}" title="">
+                      <a href="https://www.google.fr/maps/place//@10.0999896,5.9299594,800m/data=!3m1!1e3" target="_blank" title="">
                                 <img alt="" src="http://maps.googleapis.com/maps/api/staticmap?center={$north},{$east}&amp;zoom=5&amp;size=250x250&amp;sensor=false&amp;maptype=hybrid&amp;language=fr&amp;markers={$north},{$east}"/>
                             </a>
                             </div>	
                             <div class="col-sm-6 hidden-lg hidden-md hidden-xs">
-                      <a target="_blank" href="http://maps.google.com/maps?q={$north},{$east}" title="">
+                      <a href="https://www.google.fr/maps/place//@10.0999896,5.9299594,800m/data=!3m1!1e3" target="_blank" title="">
                                 <img alt="" src="http://maps.googleapis.com/maps/api/staticmap?center={$north},{$east}&amp;zoom=5&amp;size=200x200&amp;sensor=false&amp;maptype=hybrid&amp;language=fr&amp;markers={$north},{$east}"/>
                             </a>
                             </div>	
                             <div class="col-xs-6 hidden-lg hidden-md hidden-sm">
-                      <a target="_blank" href="http://maps.google.com/maps?q={$north},{$east}" title="">
+                      <a href="https://www.google.fr/maps/place//@10.0999896,5.9299594,800m/data=!3m1!1e3" target="_blank" title="">
                                 <img alt="" src="http://maps.googleapis.com/maps/api/staticmap?center={$north},{$east}&amp;zoom=5&amp;size=150x150&amp;sensor=false&amp;maptype=hybrid&amp;language=fr&amp;markers={$north},{$east}"/>
                             </a>
                             </div>
@@ -201,7 +214,10 @@ doctype-system="about:legacy-compat" indent="yes"/>
                             </div>
                             </div>
                         </xsl:when>
+                        
+                        <!-- Site en anglais -->
                         <xsl:otherwise> 
+                       
                         <h2 align="center"><b><xsl:value-of select="$title_en"/></b>
                 			</h2>
             
@@ -217,30 +233,30 @@ doctype-system="about:legacy-compat" indent="yes"/>
                             
                             <div class="row">
                             <div class="col-xs-6 aff_metadata">
-                            <p><b>Langue :</b> <span style="font-size:14px"><xsl:value-of select="$lg"/></span></p>
+                            <p><b>Language: </b> <span style="font-size:14px"><xsl:value-of select="$lg"/></span></p>
                             <xsl:if test="not($title_fr=$alternative) and $alternative!=''">
-                            	<p><b>Autres titres :</b> <xsl:value-of select="$alternative"/></p>
+                            	<p><b>Other title: </b> <xsl:value-of select="$alternative"/></p>
                             </xsl:if>
                             <xsl:if test="$chercheurs!=''">
-                            	<p><b>Chercheur(s) :</b> <xsl:value-of select="$chercheurs"/></p>
+                            	<p><b>Researcher(s): </b> <xsl:value-of select="$chercheurs"/></p>
                             </xsl:if>
                             <xsl:if test="$locuteurs!=''">
-	                            <p><b>Locuteur(s) :</b> <xsl:value-of select="$locuteurs"/></p>
+	                            <p><b>Speaker(s): </b> <xsl:value-of select="$locuteurs"/></p>
                             </xsl:if>
                             <xsl:if test="$sponsor!=''">
-	                            <p><b>sponsor(s) :</b> <xsl:value-of select="$sponsor"/></p>
+	                            <p><b>Sponsor(s): </b> <xsl:value-of select="$sponsor"/></p>
                             </xsl:if>
 	                        
                             
                             <!--<p><b>Lieu :</b> 1. <xsl:value-of select="$spatial_fr"/> 2. <xsl:value-of select="$spatial_en"/> 3. <xsl:value-of select="$spatial_autre"/></p>-->
                             
                              <xsl:if test="$created!=''">
-	                            <p><b>Date d'enregistrement :</b> <xsl:value-of select="$created"/></p>
+	                            <p><b>Date of recording: </b> <xsl:value-of select="$created"/></p>
                             </xsl:if>
                             
  
                             
-                             <p><b>Lieu d'enregistrement :</b> 
+                             <p><b>Recording place: </b> 
                             		<xsl:choose>
                                     	<xsl:when test="$spatial_fr!=''">
                                         	<xsl:value-of select="$spatial_fr"/>
@@ -259,7 +275,7 @@ doctype-system="about:legacy-compat" indent="yes"/>
                            </p>
                             <div class="panel-heading download text-center">
                             <h4 class="panel-title text-left">
-                            <a data-toggle="collapse" href="#telechargement"><b>Téléchargements <b class="caret"></b></b></a>
+                            <a data-toggle="collapse" href="#telechargement"><b>Downloads <b class="caret"></b></b></a>
                             </h4>
                             </div>
                             
@@ -270,42 +286,52 @@ doctype-system="about:legacy-compat" indent="yes"/>
                            <table class="responsive">
                            <tr>
                            <td>
-                            Version <b>originale</b> (<xsl:value-of select="substring($extent, 3)"/>)  
+                            <b>Original</b> file (<xsl:value-of select="substring($extent, 3)"/>)  
                            </td>
                            <td>
-                            <xsl:if test="contains($url_sound_bis,'wav')"><a href="{$url_sound_bis}"><img src="../../images/icones/wav.gif"/></a></xsl:if>
-                            <xsl:if test="contains($url_sound_ter,'wav')"><a href="{$url_sound_ter}"><img src="../../images/icones/wav.gif"/></a></xsl:if>
+                            <xsl:if test="contains($url_sound_bis,'.wav')"><a href="{$url_sound_bis}"><img src="../../images/icones/wav.gif" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.wav')"><a href="{$url_sound_ter}"><img src="../../images/icones/wav.gif" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_bis,'.mp4')"><a href="{$url_sound_bis}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.mp4')"><a href="{$url_sound_ter}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
                            </td>
                             </tr>
                             <tr><td><br/></td></tr>
                             <tr>
                             <td>
-	                            Version <b>Wav/22Khz</b>
+	                            <b>Wav</b> file
                             </td>
                             <td>
-                                 <a href="{$url_sound}"><img src="../../images/icones/wav.png"/></a>
+                             <xsl:if test="contains($url_sound_bis,'.wav')"><a href="{$url_sound_bis}"><img src="../../images/icones/wav.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.wav')"><a href="{$url_sound_ter}"><img src="../../images/icones/wav.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_bis,'.mp4')"><a href="{$url_sound_bis}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.mp4')"><a href="{$url_sound_ter}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
+                            
+                           
+                               
                                  
                             </td>
                             </tr>
                             <tr>
                             <tr><td><br/></td></tr>
                             <td>
-                            	Version <b>Mp3/44khz</b>  
+                            	<b>MP3</b> file
                             </td>
                             <td>
-                            <xsl:if test="contains($url_sound_bis,'mp3')"><a href="{$url_sound_bis}"><img src="../../images/icones/mp3.png"/></a></xsl:if>
-                            <xsl:if test="contains($url_sound_ter,'mp3')"><a href="{$url_sound_ter}"><img src="../../images/icones/mp3.png"/></a></xsl:if>
+                            <xsl:if test="contains($url_sound_bis,'.mp3')"><a href="{$url_sound_bis}"><img src="../../images/icones/mp3.png"/></a></xsl:if>
+                            <xsl:if test="contains($url_sound_ter,'.mp3')"><a href="{$url_sound_ter}"><img src="../../images/icones/mp3.png"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_bis,'.ogg')"><a href="{$url_sound_bis}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.ogg')"><a href="{$url_sound_ter}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
                             
                             </td>
                             </tr>
-                         		<xsl:if test="$url_text!=''">
+                         		<xsl:if test="contains($url_text,'.pdf')">
                                 <tr><td><br/></td></tr>
                                 <tr>
                                 <td>
-	                            	<b>Text</b> (xml format) 
+	                            	<b>PDF</b> file
                                 </td>
                                 <td>
-                                 <a href="{$url_text}"><img src="../../images/icones/xml.png"/></a>
+                                 <a href="{$url_text}"><img src="../../images/icones/pdf.gif" height="30" width="30"/></a>
                                 </td>
                                 </tr>
                             </xsl:if>

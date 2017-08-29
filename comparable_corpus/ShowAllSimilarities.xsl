@@ -136,6 +136,20 @@
             <br/>
         </p>
         </xsl:if>
+         <xsl:if test="contains($filesim, 'leper')='true'">
+        	<p>
+            <br/>
+            <h3 align="center">Proto-histoire Leper</h3>
+            <br/>
+        </p>
+        </xsl:if>
+        <xsl:if test="contains($filesim, 'GhumnePani')='true'">
+        	<p>
+            <br/>
+            <h3 align="center">Proto-histoire Ghumne Pani</h3>
+            <br/>
+        </p>
+        </xsl:if>
      
         
 
@@ -665,7 +679,7 @@
         <xsl:param name="xml" select="''"/>
         <xsl:param name="lang" select="''"/>
         <xsl:param name="speaker" select="''"/>
-        <xsl:param name="speaker" select="''"/>
+        <xsl:param name="title" select="''"/>
 
         <table border="0">
             
@@ -753,18 +767,18 @@ or ((document($filesim)//similarities/similarity[@id=$num_sim]/file[6][@id!=$fil
                                 <td class="segmentContent" width="600px" bgcolor="{$color}">
                                     <!--<a href="listen.php?similarity={$similarity}&amp;file={$f1_sound}"><img src="../outils/play.gif" alt="écouter"/></a>-->
                                     <!--<a href="#" onClick="window.open('http://crdo.risc.cnrs.fr/media-cut.php?start=11.7067&amp;end=19.6529&amp;file=DEPOT_HAYUB_22km.wav','Fiche','toolbar=no,status=no,width=200 ,height=120,scrollbars=yes,location=no,resize=yes,menubar=yes')">
-<p><b>Similarity <xsl:value-of select="$num_sim"/></b><br/></p>
+<p><b>Event <xsl:value-of select="$num_sim"/></b><br/></p>
 </a>-->
                                     <!--<xsl:value-of select="document($filesim)//similarities/similarity/file[@id=$file2]/sentence[@id=$id_s]/parent::node()/parent::node()/file/@id"/>-->
                                     <!--<a href="#" onClick="window.open('ViewOneSimilarity.php?similarity={$similarity}&amp;color={$color}','Fiche','toolbar=no,status=no,width=900 ,height=600,scrollbars=yes,location=no,resize=yes,menubar=yes')">
-<p><b>Similarity <xsl:value-of select="$num_sim"/></b><br/></p>
+<p><b>Event <xsl:value-of select="$num_sim"/></b><br/></p>
 </a>-->
                                     <!--<input type='hidden' name='who' value='".$who."'/>-->
                                     <a
                                         href="ViewOneSimilarity.php?file1={$file1}&amp;file2={$file2}&amp;file3={$file3}&amp;file4={$file4}&amp;file5={$file5}&amp;file6={$file6}&amp;filesim={$filesim}&amp;similarity={$similarity}&amp;color={$color}"
                                         target="_blank"
                                         onClick="window.open(this.href,'popup','width=900,height=600,scrollbars=yes,resizable=yes',1);return false">
-                                        <p><b>Similarités <xsl:value-of select="$num_sim"
+                                        <p><b>Evènement <xsl:value-of select="$num_sim"
                                             /></b><br/></p>
                                     </a> S<xsl:value-of select="$num_s"/><br/>
                                     <!-- <a href="javascript:boutonStop()">

@@ -1,9 +1,5 @@
    <div>&nbsp;</div>
-<html>
-<head>
-<meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</head>
-<body>
+
 <html><head><meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
            <div class="page-header"><h1>The six tones of sonorant-ending syllables of Hanoi Vietnamese, on the syllables /a/ and /ɗa/</h1></div>
             <div class="text-left">

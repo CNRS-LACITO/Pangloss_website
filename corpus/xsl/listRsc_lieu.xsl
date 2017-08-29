@@ -19,9 +19,9 @@
 	
 	<!-- ******************************************************** -->
 
-	<xsl:variable name="sizeTitle">35</xsl:variable>
-	<xsl:variable name="sizeResearcher">25</xsl:variable>
-    <xsl:variable name="sizeLocutor">25</xsl:variable>
+	<xsl:variable name="sizeTitle">200</xsl:variable>
+	<xsl:variable name="sizeResearcher">200</xsl:variable>
+    <xsl:variable name="sizeLocutor">200</xsl:variable>
     
 
 	<xsl:template match="/"> 

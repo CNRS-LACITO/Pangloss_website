@@ -28,7 +28,7 @@
     <i><a href="index.html">Liste par continent.</a></i> Développer tout
     </xsl:if>
     <xsl:if test="$aff_lang='en'">
-    <i><a href="index_en.html">List by continent.</a></i> Develop all
+    <i><a href="index_en.html">List by continent.</a></i> Show all
     </xsl:if>
     
     
@@ -45,10 +45,10 @@
         <th style="background-color:#e5eecc"><b><a href="corpora_list.php?tri=researcher">Chercheur</a></b></th>
       </xsl:if>
        <xsl:if test="$aff_lang='en'">
-    	<th style="background-color:#e5eecc"><b><a href="corpora_list.php?tri=language_fr">Corpora (Languages)</a></b></th>
-        <th style="background-color:#e5eecc"><b><a href="corpora_list.php?tri=family_fr">Family</a></b></th>
-        <th style="background-color:#e5eecc"><b><a href="corpora_list.php?tri=country_fr">Country</a></b></th>
-        <th style="background-color:#e5eecc"><b><a href="corpora_list.php?tri=researcher">Researcher</a></b></th>
+    	<th style="background-color:#e5eecc"><b><a href="corpora_list_en.php?tri=language">Corpora (Languages)</a></b></th>
+        <th style="background-color:#e5eecc"><b><a href="corpora_list_en.php?tri=family">Family</a></b></th>
+        <th style="background-color:#e5eecc"><b><a href="corpora_list_en.php?tri=country">Country</a></b></th>
+        <th style="background-color:#e5eecc"><b><a href="corpora_list_en.php?tri=researcher">Researcher</a></b></th>
       </xsl:if>
       
         <!--<xsl:value-of select="$tri"/>-->
@@ -98,7 +98,7 @@
         	<tr>
            <td>
             	<b><a style="color:#630"
- href="list_rsc.php?lg={$lg}"><xsl:value-of select="language"/></a></b>
+ href="list_rsc_en.php?lg={$lg}"><xsl:value-of select="language"/></a></b>
         	</td>
             <td>
             	<xsl:value-of select="family"/>

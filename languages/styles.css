@@ -1,0 +1,12 @@
+body         {background-color: FFFFFF;}
+p, li, dd, dt       {color:black ; font-size:12pt ; font-family:Arial;}
+ul           {list-style-type: circle;}
+h2   {line-height:14pt; color:steelblue;  font-family:Arial}
+h1, h3, h4   {color:steelblue;  font-family:Arial}
+A:Hover      {color:steelblue;  font-family:Arial}
+A            {color:royalblue;  font-family:Arial}
+table       {color:black ; font-size:10pt ; font-family:Arial; }
+td          {white-space:nowrap;vertical-align:top; border-style:none; padding-left:15pt}
+
+.maj        {color:black ; font-size:8pt;   font-family:Arial; text-align: right;}
+.bib        {color:black ; font-size:12pt ; font-family:Arial; text-indent: -1cm; margin-left: 2cm}
