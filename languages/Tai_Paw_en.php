@@ -12,7 +12,7 @@
 <div class="page-header">
 <h1>Tai Paw (Tay Pao, Tai Pao)</h1>
 </div>
-<div class="text-left"> <a href="Tai_en.htm#Vietnamese"><span
+<div class="text-left"> <a href="#Vietnamese"><span
  style="font-style: italic;">Giới
 thiệu bằng tiếng Việt / Presentation in Vietnamese</span></a><br>
 <br>

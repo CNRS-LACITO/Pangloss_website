@@ -13,7 +13,7 @@
 <h1>Tai Yo, also known as Tay Yo, Th&aacute;i Mường, Th&aacute;i
 Mương, and Th&aacute;i H&agrave;ng Tổng</h1>
 </div>
-<div class="text-left"> <a href="Tai_en.htm#Vietnamese"><span
+<div class="text-left"> <a href="#Vietnamese"><span
  style="font-style: italic;">Giới
 thiệu bằng tiếng Việt / Presentation in Vietnamese</span></a><br>
 <br>

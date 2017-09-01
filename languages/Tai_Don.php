@@ -6,12 +6,13 @@
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>Collection Pangloss -
-corpus Kh&uuml;n (Kh&oelig;n)</title>
+corpus Tai Deng</title>
 </head>
 <body>
 <div>&nbsp;</div>
 <div class="page-header">
-<h1>Kh&uuml;n (Kh&oelig;n, Tai Kh&uuml;n; en langue thai: ไทเขิน)</h1>
+<h1>Tai Don (aussi
+appel&eacute; Tai Blanc, Tay Donx, Th&aacute;i trắng)</h1>
 </div>
 <div class="text-left"> <a href="#Vietnamese"><span
  style="font-style: italic;">Giới
@@ -27,13 +28,49 @@ enregistrements n'&eacute;taient pas destin&eacute;s
 &agrave; l'origine &agrave; des applications telles qu'une
 analyse de phon&eacute;tique acoustique. La qualit&eacute;
 technique des enregistrements est in&eacute;gale. <br>
-<br>
-La langue kh&uuml;n appartient &agrave; la branche des langues tai du
-sud-ouest (Southwestern Tai de Li Fang-kuei).&nbsp;<br>
 </div>
 </div>
+<p>Pour conna&icirc;tre les
+noms des locuteurs, les lieux pr&eacute;cis d'enqu&ecirc;te et
+autres informations, voir les m&eacute;tadonn&eacute;es qui
+accompagnent chacun des documents.&nbsp; </p>
+Certains
+des manuscrits lus
+proviennent de biblioth&egrave;ques
+europ&eacute;ennes; d'autres ont &eacute;t&eacute;
+&eacute;tudi&eacute;s sur place, en r&eacute;alisant des
+photos des originaux et des enregistrements audio de lectures par des
+informateurs (consultants) tai. Les manuscrits tay d&egrave;ng
+proviennent des&nbsp;<a
+ href="http://anom.archivesnationales.culture.gouv.fr/" target="_blank">Archives
+d'Outre-Mer</a> &agrave;
+Aix-en-Provence, et des enqu&ecirc;tes de
+terrain de Michel Ferlus. Un d&eacute;veloppement informatique est
+actuellement en cours
+(2017) pour disposer d'outils permettant de rendre les
+enregistrements consultables avec un alignement temporel avec les
+manuscrits et leur annotation. Le
+d&eacute;veloppement informatique, initialement con&ccedil;u et
+assur&eacute; par Matthew Deo (initiateur du projet documentaire '<a
+ href="http://moon-light.fr/" target="_blank">Moon-light</a>'),
+va &ecirc;tre repris&nbsp;&agrave; partir de l'automne 2017
+par <a href="http://lacito.vjf.cnrs.fr/membres/guillaume.htm"
+ target="_blank">S&eacute;verine Guillaume</a>.
 <br>
-<br>
+<p>R&eacute;f&eacute;rences:&nbsp;</p>
+Ferlus, Michel et Trần Tr&iacute; D&otilde;i.
+Pr&eacute;sentation de l'&eacute;criture Lai Pao des Thai de
+Tương Dương (Nghệ An). En ligne : <a
+ href="https://halshs.archives-ouvertes.fr/halshs-00923025/"
+ target="_blank">https://halshs.archives-ouvertes.fr/halshs-00923025/</a>
+<p>Ferlus,
+Michel. 2008. The Thai
+dialects of Nghệ An, Vietnam (Tay Daeng, Tay Yo, Tay Muong). In Anthony
+Diller, Jerold A. Edmondson &amp; Luo Yongxian (eds.), <i>The
+Tai-Kadai languages</i>,
+298&ndash;316. London &amp; New York:
+Routledge.</p>
+<p></p>
 <p style="font-style: italic;">Ces
 donn&eacute;es&nbsp;ont
 &eacute;t&eacute;
@@ -53,15 +90,9 @@ par la&nbsp;<a href="http://www.bibliothequescientifiquenumerique.fr/"
  target="_blank">Biblioth&egrave;que Scientifique
 Num&eacute;rique</a><span style="font-style: italic;">
 (BSN), un programme du Minist&egrave;re de l'Enseignement
-Sup&eacute;rieur et de la Recherche (MESR, France)</span><i>.</i></p>
-<p style="font-style: italic;">Derni&egrave;re
-mise &agrave; jour : 2017.
-</p>
-<p><a href="../../membres/michaud.htm">Contact:
-Alexis
-Michaud</a></p>
-<p style="font-style: italic;"><span style="font-style: italic;"></span><span
- style="font-style: italic;"></span><span style="font-style: italic;"></span></p>
+Sup&eacute;rieur et de la Recherche (MESR, France)</span><i>.</i><span
+ style="font-style: italic;"></span><span style="font-style: italic;"></span><span
+ style="font-style: italic;"></span></p>
 <a href="http://www.bibliothequescientifiquenumerique.fr/"
  target="_blank"> <br>
 </a>
@@ -91,19 +122,11 @@ Michaud</a></p>
 <p style="font-style: italic;"><span style="font-style: italic;"></span></p>
 <br>
 <h2 align="center"><a name="Vietnamese"></a>Ngữ
-liệu tiếng&nbsp;Kh&uuml;n</h2>
-Hai t&agrave;i liệu ghi &acirc;m l&agrave;: <br>
-1. Đọc một trang bản thảo tiếng Kh&uuml;n. Kh&uuml;n thuộc nh&oacute;m
-Th&aacute;i T&acirc;y Nam. Bản
-thảo được đọc ở Chiang Rai, Thailand bởi một học giả người Wa, người
-đ&atilde;
-viết n&oacute; v&agrave; người n&agrave;y đến từ Ban Sem, Burma/Myanmar<br>
-2. Đọc bảng chữ c&aacute;i tiếng Kh&uuml;n. Kh&uuml;n thuộc nh&oacute;m
-Th&aacute;i T&acirc;y Nam<br>
+liệu tiếng
+Tai Deng (Tay Deng, Tai Daeng, Th&aacute;i Thanh)</h2>
 Số h&oacute;a c&aacute;c
 tư liệu n&agrave;y l&agrave; một
-phần của dự &aacute;n
-k&eacute;o d&agrave;i từ
+phần của dự &aacute;n k&eacute;o d&agrave;i từ
 th&aacute;ng 9/2014 đến th&aacute;ng 2/2016, với ng&acirc;n
 s&aacute;ch từ chương tr&igrave;nh Thư viện Khoa học Kỹ thuật
 số <a href="http://www.bibliothequescientifiquenumerique.fr/"
@@ -113,7 +136,12 @@ tr&igrave;nh của Bộ Gi&aacute;o dục đại học v&agrave;
 Nghi&ecirc;n cứu Ph&aacute;p.&nbsp;</span>
 <a href="http://www.bibliothequescientifiquenumerique.fr/"
  target="_blank"> <img src="../images/logos/bsn.png"
- alt="Digital Scientific Library" border="0" height="75"></a><br>
-<br>
+ alt="Digital Scientific Library" border="0" height="75"></a><span
+ style="text-decoration: underline;"><br>
+</span>&nbsp;<br>
+Derni&egrave;re mise &agrave; jour : 2017.
+<p><a href="../../membres/michaud.htm">Contact:
+Alexis
+Michaud</a></p>
 </body>
 </html>
