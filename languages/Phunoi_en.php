@@ -369,7 +369,7 @@ Education and Research</span><span style="font-style: italic;">.</span><span
               </tbody>
             </table>
             <br>
-            <p>Last updated 2016.</p>
+            <p>Last updated 2017.</p>
             <p>This page was
 written by Julien Heurdier. <a href="../../membres/michaud.htm">Contact:
 Alexis

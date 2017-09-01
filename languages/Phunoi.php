@@ -417,7 +417,7 @@ Sup&eacute;rieur et de la Recherche (MESR, France)</span><i>.</i></p>
             <p style="font-style: italic;"><span
  style="font-style: italic;"></span></p>
             <p>Derni&egrave;re
-mise &agrave; jour : 2016.</p>
+mise &agrave; jour : 2017.</p>
             <p>R&eacute;dacteur
 de la page : Julien Heurdier. <a href="../../membres/michaud.htm">Contact:
 Alexis
