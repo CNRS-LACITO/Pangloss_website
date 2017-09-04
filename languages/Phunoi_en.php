@@ -80,9 +80,9 @@ with an analysis of social dynamics (Bout&eacute; 2011).</p>
  style="line-height: 1.35; padding-left: 2em; text-indent: -2em;"
  class="csl-bib-body"> <span class="Z3988"
  title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Arem%2C%20a%20Vietic%20language&amp;rft.jtitle=Mon-Khmer%20Studies&amp;rft.volume=43&amp;rft.aufirst=Michel&amp;rft.aulast=Ferlus&amp;rft.au=Michel%20Ferlus&amp;rft.date=2014&amp;rft.pages=1-15&amp;rft.spage=1&amp;rft.epage=15"></span></div>
-            <h2><strong><a name="arcived_doc"></a>2.
+            <h2><a name="arcived_doc"></a>2.
 The
-archived documents</strong></h2>
+archived documents</h2>
             <p style="text-align: justify;">Ferlus's
 data
 on Phunoi mainly consist of vocabulary elicitation and narratives. In
