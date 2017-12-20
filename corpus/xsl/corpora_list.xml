@@ -218,8 +218,8 @@
 		    (CRLAO)
 		</researcher>
         <researcher>
-            <a href="http://ussh.vnu.edu.vn/profile/tran-tri-doi"
-                target="_blank">Trần Trí Dõi</a>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
             (Vietnam National University)
         </researcher>
         <family>Austroasiatic</family>
@@ -391,6 +391,11 @@
             <name>Michel Ferlus</name>
 			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
             (CRLAO)
+        </researcher>
+        <researcher>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
+            (Vietnam National University)
         </researcher>
         <family>Austroasiatic</family>
 		<family_fr>Austroasiatique</family_fr>
