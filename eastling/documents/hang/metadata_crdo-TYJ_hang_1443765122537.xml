@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://crdo.risc.cnrs.fr/schemas/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cocoon.huma-num.fr/schemas/ http://cocoon.huma-num.fr/schemas/metadata.xsd">
+  <crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2015-10-02" crdo:id="crdo-TYJ_hang_1443765122537">
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title>
+    <dcterms:alternative xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="fra">Lecture de dictons et proverbes</dcterms:alternative>
+    <dcterms:alternative xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="vie">Đọc thành ngữ và tục ngữ tiếng Thái Do</dcterms:alternative>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="recorder">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="interviewer">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:IMT">text/xml</dc:format>
+    <dc:source xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:DCMIType">Text</dc:type>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF">2015-10-02</dcterms:created>
+    <dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/"/>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537.xml</dc:identifier>
+    <dcterms:isFormatOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537.xhtml</dcterms:isFormatOf>
+    <dcterms:accessRights xmlns:dcterms="http://purl.org/dc/terms/">Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:isPartOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <crdo:collection>Lacito</crdo:collection>
+    <dcterms:available xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF"/>
+    <dcterms:license xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">CC-BY-SA</dcterms:license>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright (c) Ferlus, Michel</dc:rights>
+    <dcterms:requires xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_SOUND_PAGE1</dcterms:requires>
+    <dcterms:requires xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page1</dcterms:requires>
+    <dcterms:requires xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page2</dcterms:requires>
+    <dcterms:requires xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page3</dcterms:requires>
+    <dcterms:requires xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page4</dcterms:requires>
+    <dcterms:requires xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page5</dcterms:requires>
+    <dcterms:requires xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page6</dcterms:requires>
+  </crdo:item>
+  <crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2015-10-02" crdo:id="crdo-TYJ_hang_1443765122537_SOUND_PAGE1">
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="recorder">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="interviewer">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:IMT">audio/mpeg</dc:format>
+    <dc:source xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:DCMIType">Sound</dc:type>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF">2015-10-02</dcterms:created>
+    <dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/"/>
+    <dcterms:isRequiredBy xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537</dcterms:isRequiredBy>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_SOUND_PAGE1.mp3</dc:identifier>
+    <dcterms:isFormatOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_SOUND_PAGE1.mp3</dcterms:isFormatOf>
+    <dcterms:accessRights xmlns:dcterms="http://purl.org/dc/terms/">Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:isPartOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <crdo:collection>Lacito</crdo:collection>
+    <dcterms:available xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF"/>
+    <dcterms:license xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright (c) Ferlus, Michel</dc:rights>
+  </crdo:item>
+  <crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2015-10-02" crdo:id="crdo-TYJ_hang_1443765122537_IMAGE_page1">
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="recorder">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="interviewer">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:IMT">image/jpeg</dc:format>
+    <dc:source xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:DCMIType">Image</dc:type>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF">2015-10-02</dcterms:created>
+    <dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/"/>
+    <dcterms:isRequiredBy xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537</dcterms:isRequiredBy>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page1.jpg</dc:identifier>
+    <dcterms:isFormatOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page1.jpg</dcterms:isFormatOf>
+    <dcterms:accessRights xmlns:dcterms="http://purl.org/dc/terms/">Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:isPartOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <crdo:collection>Lacito</crdo:collection>
+    <dcterms:available xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF"/>
+    <dcterms:license xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright (c) Ferlus, Michel</dc:rights>
+  </crdo:item>
+  <crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2015-10-02" crdo:id="crdo-TYJ_hang_1443765122537_IMAGE_page2">
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="recorder">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="interviewer">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:IMT">image/jpeg</dc:format>
+    <dc:source xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:DCMIType">Image</dc:type>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF">2015-10-02</dcterms:created>
+    <dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/"/>
+    <dcterms:isRequiredBy xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537</dcterms:isRequiredBy>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page2.jpg</dc:identifier>
+    <dcterms:isFormatOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page2.jpg</dcterms:isFormatOf>
+    <dcterms:accessRights xmlns:dcterms="http://purl.org/dc/terms/">Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:isPartOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <crdo:collection>Lacito</crdo:collection>
+    <dcterms:available xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF"/>
+    <dcterms:license xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright (c) Ferlus, Michel</dc:rights>
+  </crdo:item>
+  <crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2015-10-02" crdo:id="crdo-TYJ_hang_1443765122537_IMAGE_page3">
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="recorder">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="interviewer">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:IMT">image/jpeg</dc:format>
+    <dc:source xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:DCMIType">Image</dc:type>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF">2015-10-02</dcterms:created>
+    <dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/"/>
+    <dcterms:isRequiredBy xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537</dcterms:isRequiredBy>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page3.jpg</dc:identifier>
+    <dcterms:isFormatOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page3.jpg</dcterms:isFormatOf>
+    <dcterms:accessRights xmlns:dcterms="http://purl.org/dc/terms/">Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:isPartOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <crdo:collection>Lacito</crdo:collection>
+    <dcterms:available xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF"/>
+    <dcterms:license xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright (c) Ferlus, Michel</dc:rights>
+  </crdo:item>
+  <crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2015-10-02" crdo:id="crdo-TYJ_hang_1443765122537_IMAGE_page4">
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="recorder">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="interviewer">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:IMT">image/jpeg</dc:format>
+    <dc:source xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:DCMIType">Image</dc:type>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF">2015-10-02</dcterms:created>
+    <dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/"/>
+    <dcterms:isRequiredBy xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537</dcterms:isRequiredBy>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page4.jpg</dc:identifier>
+    <dcterms:isFormatOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page4.jpg</dcterms:isFormatOf>
+    <dcterms:accessRights xmlns:dcterms="http://purl.org/dc/terms/">Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:isPartOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <crdo:collection>Lacito</crdo:collection>
+    <dcterms:available xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF"/>
+    <dcterms:license xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright (c) Ferlus, Michel</dc:rights>
+  </crdo:item>
+  <crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2015-10-02" crdo:id="crdo-TYJ_hang_1443765122537_IMAGE_page5">
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title>
+    <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+    <dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="recorder">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="interviewer">Michaud, Alexis</dc:contributor>
+    <dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:IMT">image/jpeg</dc:format>
+    <dc:source xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:DCMIType">Image</dc:type>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF">2015-10-02</dcterms:created>
+    <dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/"/>
+    <dcterms:isRequiredBy xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537</dcterms:isRequiredBy>
+    <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page5.jpg</dc:identifier>
+    <dcterms:isFormatOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page5.jpg</dcterms:isFormatOf>
+    <dcterms:accessRights xmlns:dcterms="http://purl.org/dc/terms/">Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:isPartOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <crdo:collection>Lacito</crdo:collection>
+    <dcterms:available xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF"/>
+    <dcterms:license xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright (c) Ferlus, Michel</dc:rights>
+  </crdo:item>
+  <crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2015-10-02" crdo:id="crdo-TYJ_hang_1443765122537_IMAGE_page6"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title><dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject><dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:ISO3166">VN</dcterms:spatial><dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial><dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial><dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor><dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor><dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor><dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="recorder">Michaud, Alexis</dc:contributor><dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="interviewer">Michaud, Alexis</dc:contributor><dc:contributor xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor><dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Laboratoire de langues et civilisations à tradition orale</dc:publisher><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:IMT">image/jpeg</dc:format><dc:source xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:source><dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:DCMIType">Image</dc:type><dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF">2015-10-02</dcterms:created><dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/"></dcterms:extent><dcterms:isRequiredBy xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537</dcterms:isRequiredBy><dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page6.jpg</dc:identifier><dcterms:isFormatOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-TYJ_hang_1443765122537_IMAGE_page6.jpg</dcterms:isFormatOf><dcterms:accessRights xmlns:dcterms="http://purl.org/dc/terms/">Freely available for non-commercial use</dcterms:accessRights><dcterms:isPartOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf><crdo:collection>Lacito</crdo:collection><dcterms:available xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF"></dcterms:available><dcterms:license xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license><dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright (c) Ferlus, Michel</dc:rights></crdo:item>
+</catalog>

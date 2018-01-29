@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crdo:catalog xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://crdo.risc.cnrs.fr/schemas/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/">
+  <crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2014-11-12" crdo:id="crdo-TWH_T19">
+    <dc:title  xml:lang="fr">Les abeillent entrent dans la maison</dc:title>
+    <dcterms:alternative xml:lang="en">Bees entering home</dcterms:alternative>
+    <dc:language  xsi:type="olac:language" olac:code="twh"/>
+    <dc:language  xsi:type="olac:language" olac:code="vie"/>
+    <dc:subject  xsi:type="olac:language" olac:code="twh">Tai Dón</dc:subject>
+    <dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+    <dcterms:spatial  xsi:type="dcterms:Point">east=103.40;north=22.58;</dcterms:spatial>
+    <dcterms:spatial  xml:lang="en">Phong Thổ, Lai Châu, Việt Nam</dcterms:spatial>
+    <dc:contributor  xsi:type="olac:role" olac:code="depositor">Ferlus, Michel</dc:contributor>
+    <dc:contributor  xsi:type="olac:role" olac:code="researcher">Ferlus, Michel</dc:contributor>
+    <dc:contributor  xsi:type="olac:role" olac:code="speaker">Nong Van Chom</dc:contributor>
+    <dc:contributor  xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor>
+    <dc:contributor  xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor>
+    <dc:contributor  xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher />
+    <dc:format  xsi:type="dcterms:IMT">text/xml</dc:format>
+    <dc:source />
+    <dc:type  xsi:type="dcterms:DCMIType">Text</dc:type>
+    <dcterms:created  xsi:type="dcterms:W3CDTF">2014-11-11</dcterms:created>
+    <dcterms:extent />
+    <dc:identifier  xsi:type="dcterms:URI">crdo-TWH_T19.xml</dc:identifier>
+    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TWH_T19.xhtml</dcterms:isFormatOf>
+    <dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <collection>Lacito</collection>
+    <dcterms:available  xsi:type="dcterms:W3CDTF"/>
+    <dcterms:license  xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+    <dc:rights >Copyright (c) Ferlus, Michel</dc:rights>
+    <dcterms:requires xsi:type="dcterms:URI">crdo-TWH_T19_IMAGE_page1</dcterms:requires>
+    <dcterms:requires xsi:type="dcterms:URI">crdo-TWH_T19_SOUND_rec</dcterms:requires>
+  </crdo:item>
+  <crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2015-03-18" crdo:id="crdo-TWH_T19_IMAGE_page1">
+    <dc:title  xml:lang="fr">Les abeillent entrent dans la maison</dc:title>
+    <dcterms:alternative  xml:lang="en">Bees entering home</dcterms:alternative>
+    <dc:language  xsi:type="olac:language" olac:code="twh"/>
+    <dc:language  xsi:type="olac:language" olac:code="vie"/>
+    <dc:subject  xsi:type="olac:language" olac:code="twh">Tai Dón</dc:subject>
+    <dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+    <dcterms:spatial  xsi:type="dcterms:Point">east=103.40494450000006;north=22.5776336;</dcterms:spatial>
+    <dcterms:spatial  xml:lang="en">Phong Thổ, Lai Châu, Việt Nam</dcterms:spatial>
+    <dc:contributor  xsi:type="olac:role" olac:code="depositor">Ferlus, Michel</dc:contributor>
+    <dc:contributor  xsi:type="olac:role" olac:code="researcher">Ferlus, Michel</dc:contributor>
+    <dc:contributor  xsi:type="olac:role" olac:code="speaker">Nong Van Chom</dc:contributor>
+    <dc:contributor  xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor>
+    <dc:contributor  xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor>
+    <dc:contributor  xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher />
+    <dc:format  xsi:type="dcterms:IMT">image/jpeg</dc:format>
+    <dc:source />
+    <dc:type  xsi:type="dcterms:DCMIType">Image</dc:type>
+    <dcterms:created  xsi:type="dcterms:W3CDTF">2014-11-11</dcterms:created>
+    <dcterms:extent />
+    <dcterms:isRequiredBy  xsi:type="dcterms:URI">crdo-TWH_T19</dcterms:isRequiredBy>
+    <dc:identifier  xsi:type="dcterms:URI">crdo-TWH_T19_IMAGE_page1.jpg</dc:identifier>
+    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TWH_T19_IMAGE_page1.jpg</dcterms:isFormatOf>
+    <dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <crdo:collection>Lacito</crdo:collection>
+    <dcterms:available  xsi:type="dcterms:W3CDTF"/>
+    <dcterms:license  xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+    <dc:rights >Copyright (c) Ferlus, Michel</dc:rights>
+  </crdo:item>
+  <crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2015-07-12" crdo:id="crdo-TWH_T19_SOUND_rec">
+      <dc:title  xml:lang="fr">Les abeillent entrent dans la maison</dc:title>
+      <dcterms:alternative xml:lang="en">Bees entering home</dcterms:alternative>
+      <dc:language  xsi:type="olac:language" olac:code="twh"></dc:language>
+      <dc:language  xsi:type="olac:language" olac:code="vie"></dc:language>
+      <dc:subject  xsi:type="olac:language" olac:code="twh">Tai Dón</dc:subject>
+      <dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+      <dcterms:spatial  xsi:type="dcterms:Point">east=103.40;north=22.58;</dcterms:spatial>
+      <dcterms:spatial  xml:lang="en">Phong Thổ, Lai Châu, Việt Nam</dcterms:spatial>
+      <dc:contributor  xsi:type="olac:role" olac:code="depositor">Ferlus, Michel</dc:contributor>
+      <dc:contributor  xsi:type="olac:role" olac:code="researcher">Ferlus, Michel</dc:contributor>
+      <dc:contributor  xsi:type="olac:role" olac:code="speaker">Nong Van Chom</dc:contributor>
+      <dc:contributor  xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor>
+      <dc:contributor  xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor>
+      <dc:contributor  xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+      <dc:publisher ></dc:publisher>
+      <dc:format  xsi:type="dcterms:IMT">audio/mpeg</dc:format>
+      <dc:source ></dc:source>
+      <dc:type  xsi:type="dcterms:DCMIType">Sound</dc:type>
+      <dcterms:created  xsi:type="dcterms:W3CDTF">2014-11-11</dcterms:created>
+      <dcterms:extent ></dcterms:extent>
+      <dcterms:isRequiredBy  xsi:type="dcterms:URI">crdo-TWH_T19</dcterms:isRequiredBy>
+      <dc:identifier  xsi:type="dcterms:URI">crdo-TWH_T19_SOUND_rec.mp3</dc:identifier>
+      <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TWH_T19_SOUND_rec.mp3</dcterms:isFormatOf>
+      <dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+      <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+      <crdo:collection>Lacito</crdo:collection>
+      <dcterms:available  xsi:type="dcterms:W3CDTF"></dcterms:available>
+      <dcterms:license  xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+      <dc:rights >Copyright (c) Ferlus, Michel</dc:rights>
+  </crdo:item>
+</crdo:catalog>

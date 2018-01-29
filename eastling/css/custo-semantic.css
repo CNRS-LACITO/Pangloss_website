@@ -1,0 +1,138 @@
+body{
+    min-height: 2000px;
+    margin:0px;
+}
+
+.ui.header{
+    font-weight: 400;
+}
+
+.ui.header .sub.header{
+    font-weight: 100;
+}
+
+.ui.input, .ui.selection{
+    font-weight: 200;
+}
+
+thead th{
+   font-weight: 400; 
+}
+
+//STEP 
+.ui.steps .step.active, .ui.active.step{
+    font-weight: 200 !important;
+}
+
+.ui-slider-handle{
+    border: 0px !important;
+    background: none !important;
+    text-decoration: none !important;
+}
+
+input:disabled{
+    border: 0px !important;
+}
+
+input, div:not(#mainmenu) .ui.dropdown{
+    background-color: rgb(250, 255, 189) !important;
+}
+    
+.ui.button{
+    font-family: "Arial";
+    font-weight:500;
+}
+//KO sur nth ou first (OK en jQuery)
+#newselection .inline.fields.transcriptions:nth(0) > .field > .button.remove{
+    display: none !important;
+}
+
+#newselection input, #newselection .dropdown{
+    font-size: 0.8rem;
+}
+
+#newselection .field{
+    margin-bottom: 0px;
+}
+
+input[disabled]{
+    background-color: inherit !important;
+}
+
+.logo{
+    display: inline-block !important;
+    margin-right: 0.2em !important;
+}
+
+//LECTEUR EASTLING TEST
+.transcription {
+    text-align: left;
+    display: block;
+    font-weight: bold;
+    font-size: 1rem;
+    color: #0E3263;
+}
+
+//AUTOCOMPLETE
+.results_autocomplete {
+    display: none !important;
+    position: absolute !important;
+    top: 100% !important;
+    left: 0 !important;
+    -webkit-transform-origin: center top !important;
+    -ms-transform-origin: center top !important;
+    transform-origin: center top !important;
+    background: #fff !important;
+    margin-top: .5em !important;
+    width: 18em !important;
+    border-radius: .28571429rem !important;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);
+    border: 1px solid #d4d4d5;
+    z-index: 998 !important;
+}
+
+.results_autocomplete .result {
+    cursor: pointer;
+    display: block;
+    overflow: hidden;
+    font-size: 1em;
+    padding: .85714286em 1.14285714em;
+    color: rgba(0,0,0,.87);
+    line-height: 1.33;
+    border-bottom: 1px solid rgba(34,36,38,.1);
+}
+
+
+[class*="translation_"]{
+    display: block !important;
+}
+
+#form-compo{
+    display: none;
+}
+
+#fieldset-preview .row{
+    padding:0;
+}
+
+#fieldset-preview .row .header{
+    margin-bottom: 0;
+}
+
+input.audio{
+    width: 80px !important;
+}
+
+#select-document tr.active .check{
+    color: green;
+}
+
+#selected-doc{
+    display: inline-block;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.ui.input.image{
+    overflow-y: scroll;
+}

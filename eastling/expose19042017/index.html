@@ -1,0 +1,510 @@
+<!doctype html>
+
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=1024" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <title>EASTLing</title>
+
+        <meta name="description" content="EASTLing for DOREMIFA" />
+        <meta name="author" content="Matthew DEO" />
+        <script src="./js/jquery-1.11.3.min.js"></script>
+
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" media="all" id="font-css" href="./css/fonts.css" >
+        <link rel="icon" type="image/x-icon" href="./img/logo/logo-east.svg">
+        <link rel="shortcut icon" href="./img/logo/logo-east.svg" />
+        <link rel="apple-touch-icon" href="./img/logo/logo-east.svg" />
+
+        <link rel="stylesheet" type="text/css" media="all" href="./css/semantic/packaged/css/semantic.css">
+        <link rel="stylesheet" type="text/css" media="all" href="./css/source-sans-pro/source-sans-pro.css">
+        <link rel="stylesheet" type="text/css" media="all" href="./css/semantic/uncompressed/collections/grid.css">
+        <link rel="stylesheet" type="text/css" media="all" href="./css/semantic/uncompressed/elements/step.css">
+
+        <link href="css/impress-demo.css" rel="stylesheet" />
+
+
+    </head>
+
+    <body class="impress-not-supported">
+
+        <div class="fallback-message">
+            <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+            <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+        </div>
+
+        <style>
+            body{
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#2c539e+0,1d3355+100 */
+background: #fff; /* Old browsers */
+background: url('./img/sky.jpg') no-repeat center;
+font-family: 'Cabin', sans-serif;
+color: #fff;
+            }
+            h1:not(.logo),h2,h3,h4{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700 !important;
+}
+h1:not(.logo){
+    font-size:5rem !important;
+}
+            .hint{
+                background: rgba(255,255,255,1);
+                color: #1E355A;
+            }
+            #nav{
+                font-size: 15px;
+                pointer-events: auto;
+                position: absolute;
+                width: 100%;
+                top: 50%;
+                z-index: 9999;
+            }
+            #nav a{
+                padding-bottom: 50px;
+                padding-top: 50px;
+                font-weight: 200;
+            }
+            #slide-back{float: left;}
+            #slide-next{float: right;}
+            #header-page {
+                font-size: 15px;
+                pointer-events: auto;
+                background-color: white;
+            }
+
+            #header-page a{
+                cursor: pointer;
+            }
+            /*
+            h1{
+                color: #fff !important;
+            }
+            */
+            #bored .sub.header{
+                color: #fff !important;
+            }
+            
+            .step{
+                font-size: 1.5rem !important;
+            }
+            img{
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .appear.hide{
+            /*max-height: 0;
+            display: none;
+            */
+            opacity: 0;
+            }
+
+            .appear.show{
+            overflow-y: hidden;
+            overflow-x: hidden;
+            /*max-height: 500px;  approximate max height */
+
+
+            -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+            }
+
+
+
+            @keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+@font-face{
+    font-family:TaiDonMuongSo;
+    font-style:normal;
+    font-weight:Regular;
+    src:url(./css/fonts/TaiDonMuongSo/TaiDonMuongSo-Regular.otf) format("opentype")
+}
+.taiso{
+  font-family: TaiDonMuongSo;
+}
+
+.ui.segment li{
+    color: #1C1C1C;
+    text-align: left;
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+
+            
+        </style>
+        <div id="impress">
+
+
+            <div id="bored" class="step" data-x="-3000" data-y="-1500" data-scale="20" style="height: 600px;">
+
+                <div class="ui grid middle center aligned"> 
+                    <!--<div class="column">-->
+                    <h1 class="ui header logo" style="font-family: 'Open Sans';letter-spacing: -1px;font-weight: 500;margin-top: 40px;">
+        <translate class="logotype">eastling</translate>
+        <i class="icon-plume" style="font-size: 8rem;color:#fff;"></i>
+        <div class="sub header">Easy Annotation &amp; Synchronization Tools for Linguists</div>
+    
+                    </h1> 
+                    <!--</div>-->
+
+                </div>
+
+            </div>
+
+            <div id="slide1" class="step" data-x="-3000" data-y="-1500" data-scale="1">
+
+                <div class="ui page">
+                    <h1 class="ui header">Origines</h1>
+                    <div class="ui divided relaxed list">
+                        
+                        	<i class="right icon"></i>
+                            Matthew DEO <span class="appear hide">> Moonlight</span><span class="appear hide">&nbsp;> Tai-Luc NGUYEN TAN & Michel FERLUS</span><span class="appear hide">&nbsp;> Pangloss / DOREMIFA</span>
+                            
+                        <div class="appear hide">
+                            <i class="right icon"></i>
+                            Lecture de manuscrits
+                        </div>
+
+                        
+                    </div>
+                    <div class="appear hide">
+
+                        <h2 class="ui header">Pas d'outil générique pour annoter les documents</h2>
+                        <!--
+                        <div class="ui divided list">
+                           
+                            <div class="item ui ">
+                                <i class="right triangle icon"></i>
+                                    erreurs de saisie/format XML
+                            </div>
+                            <div class="item ui ">
+                                <i class="right triangle icon"></i>
+                                        travail fastidieux
+                           </div>
+                        </div>
+                    -->
+                     </div>
+
+                    <div class="appear hide">
+                        <h2 class="ui header">Comment annoter les images ?</h2>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div id="slide2" class="step" data-x="0" data-y="-1500" data-scale="1">
+                <div class="ui page">
+                    <h1 class="ui header aligned center">EASTLing</h1>
+                    <h2 class="ui header aligned center"><b>E</b>asy <b>A</b>nnotation & <b>S</b>ynchronization <b>T</b>ool for <b>Ling</b>uists</h2>
+
+
+                    <div class="ui grid">
+                        <div class="eight wide column aligned center">
+                            <div class="ui raised segment appear hide">
+                            <div class="ui top attached label">Editeur</div>
+                            
+                                <ul>
+                                    <li>créer des documents avec enregistrements audio et images</li>
+                                    <li>saisir des annotations et les synchroniser avec le son et l'image</li>
+                                    <li>Pangloss-friendly</li>
+                                </ul>
+                            
+                            
+                          </div>
+
+                           
+                            </div>
+                        <div class="eight wide column aligned center">
+                            <div class="ui raised segment appear hide">
+                            <div class="ui top attached label">Lecteur</div>
+                            
+                                <ul>
+                                    <li>compatible avec Pangloss</li>
+                                    <li>affichage synchronisé image/son/annotation</li>
+                                </ul>
+                            
+                            
+                          </div>
+
+                           
+                        </div>
+
+                        <div class="sixteen wide column aligned center appear hide">
+                            <a href="http://lacito.vjf.cnrs.fr/test/pangloss/tools/eastling2/index.php/fr/site/login" target="_blank">Demo</a>
+                        </div>
+                    </div>
+
+                    
+                </div>
+
+
+            </div>
+
+            <div id="slide3" class="step" data-x="0" data-y="-1500" data-rotate-x="90" data-rotate-y="0" data-scale="30">
+
+                <div class="ui page">
+                    <h1 class="ui header">Perspectives</h1>
+                    <div class="ui divided relaxed list">
+                        <div class="item ui ">
+                            <div class="appear hide">
+                                <i class="right icon"></i>
+                                <b>Validation et mise en production</b>
+                                <div class="ui divided list">
+                                    <div class="item ui ">
+                                        <i class="right triangle icon"></i>
+                                        bêta-testeurs, bugfixing
+                                    </div>
+                                    <div class="item ui ">
+                                        <i class="right triangle icon"></i>
+                                        définir un processus de maintenance
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item ui ">
+                            <div class="appear hide">
+                                <i class="right icon"></i>
+                                <b>Fonctionnalités</b>
+                                <div class="ui divided list">
+                                    <div class="item ui ">
+                                        <i class="right triangle icon"></i>
+                                        features en suspens : création de compte, prise en charge du WAV, ...
+                                    </div>
+                                    <div class="item ui ">
+                                        <i class="right triangle icon"></i>
+                                        interopérabilité avec dictionnaires/glossaires pour faciliter la traduction
+                                    </div>
+                                    <div class="item ui ">
+                                        <i class="right triangle icon"></i>
+                                        faciliter le processus de dépôt dans Cocoon et Pangloss
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item ui ">
+                            <div class="appear hide">
+                                <i class="right icon"></i>
+    							<b>Ouverture à un public non scientifique</b> 
+                                <div class="ui divided list">
+                                    <div class="item ui ">
+                                        <i class="right triangle icon"></i>
+                                        intérêt double, à la fois pour les linguistes et pour les communautés minoritaires : multiplication des sources de données, support à la préservation et à la transmission
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div id="slide4" class="step" data-x="0" data-y="-1500" data-z="50000" data-rotate-x="90" data-rotate-y="0" data-scale="30">
+
+                <div class="ui page">
+                    <h1 class="ui header">Perspectives</h1>
+                    <div class="ui divided relaxed list">
+
+                        <div class="item ui ">
+                            <div class="">
+                                <div class="ui grid two columns">
+                                    <div class="eight wide column">
+                                        <img class="rounded ui image medium" src="./img/EA.png" />
+                                    </div>
+                                    <div class="eight wide column">
+                                     <img class="rounded ui image medium" src="./img/EA2.png" />
+                                 </div>
+
+                                </div>
+                               
+                            </div>
+                          
+                        </div>
+                        
+                    </div>
+                </div>
+
+
+            </div>
+
+
+            <div id="its-in-3d" class="step" data-x="15000" data-y="-1500" data-rotate-x="90" data-rotate-y="90" data-scale="10">
+                <div class="ui page">
+                    <b>
+                        <p><i class="taiso">ꪼꪒ ꪥꪮꪙ !</i>    Merci !</p>
+                    </b>
+                    <br>
+
+                    <div class="ui grid">
+                        <div class="ui four wide column">
+                            <i class="mail icon"></i>
+                            matthewdeo@gmail.com
+                        </div>
+
+                        <div class="ui sixteen wide column" style="background-color: rgba(255,255,255,0.5);">
+                            <div class="ui five column divided grid">
+                            <div class="row">
+                                <div class="column aligned middle">
+                                    <img class="ui image medium" src="./img/logo/logocnrs.png" />
+                                    <br>
+                                    <img class="ui image medium" src="./img/logo/anr.png" />
+
+                                </div>
+                                <div class="column aligned middle">
+                                    <img class="ui image medium" src="./img/logo/lacito.png" />
+                                    <img class="ui image medium" src="./img/logo/bsn.png" />
+                                </div>
+                                <div class="column aligned middle">
+                                    <img class="ui image medium" src="./img/logo/Grenoble_INP.png" />
+                                    <img class="ui image medium" src="./img/logo/labex.png" />
+
+                                </div>
+                                <div class="column aligned middle">
+                                    <img class="ui image medium" src="./img/logo/hust.png" />
+                                </div>
+                                <div class="column aligned middle">
+                                    <img class="ui image medium" src="./img/logo/mica.png" />
+                                    <img class="ui image medium" src="./img/logo/auco.png" />
+
+                                </div>
+                            </div>                            
+                        </div>
+                        </div>
+
+                    </div>
+
+                </div>     
+
+            </div>
+
+        </div>
+
+        <div class="hint">
+            <h2 class="ui header">Matthew DEO (matthewdeo@gmail.com)</h2>
+            DOREMIFA project - CNRS LACITO UMR 7107/MICA Hanoi<br><br>
+        </div>
+        <style>
+            .hint img{
+                max-height: 80px;
+            }
+
+            .hint h2{
+
+            }
+
+            #bored .header{
+                font-size: 50px;
+            }
+            #bored .sub.header{
+                font-size: 20px;
+            }
+        </style>
+
+        <script src="js/impress.js"></script>
+        <script>impress().init();</script>
+        <script>
+
+
+            $(document).ready(function () {
+
+                this.addEventListener("impress:stepenter", function (event) {
+                    event.target.classList.remove("past");
+                    event.target.classList.remove("future");
+                    event.target.classList.add("present");
+                }, false);
+
+                this.addEventListener("impress:stepleave", function (event) {
+                    event.target.classList.remove("present");
+                    event.target.classList.add("past");
+                }, false);
+
+
+
+                $(document).on('keyup',function(event){
+                    switch( event.keyCode ) {
+                    case 33: // pg up
+                    case 37: // left
+                    case 38: // up
+                            $('.active.step.present').find('.appear.show:last').removeClass('show').addClass('hide');
+                            break;
+                    case 9:  // tab
+                    case 32: // space
+                    case 34: // pg down
+                    case 39: // right
+                    case 40: // down
+                            $('.active.step.present').find('.appear.hide:first').removeClass('hide').addClass('show');
+                            break;
+                }
+
+                });
+
+            });
+
+
+        </script>
+        <!--
+            
+            The `impress()` function also gives you access to the API that controls the presentation.
+            
+            Just store the result of the call:
+            
+                var api = impress();
+            
+            and you will get three functions you can call:
+            
+                `api.init()` - initializes the presentation,
+                `api.next()` - moves to next step of the presentation,
+                `api.prev()` - moves to previous step of the presentation,
+                `api.goto( idx | id | element, [duration] )` - moves the presentation to the step given by its index number
+                        id or the DOM element; second parameter can be used to define duration of the transition in ms,
+                        but it's optional - if not provided default transition duration for the presentation will be used.
+            
+            You can also simply call `impress()` again to get the API, so `impress().next()` is also allowed.
+            Don't worry, it wont initialize the presentation again.
+            
+            For some example uses of this API check the last part of the source of impress.js where the API
+            is used in event handlers.
+            
+        -->
+
+    </body>
+</html>
+
+

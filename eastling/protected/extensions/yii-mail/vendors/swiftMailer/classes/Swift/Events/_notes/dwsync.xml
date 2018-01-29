@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="TransportChangeEvent.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267410000000" remote="131318267410000000" />
+<file name="TransportExceptionEvent.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267410000000" remote="131318267410000000" />
+<file name="TransportExceptionListener.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267410000000" remote="131318267410000000" />
+<file name="Event.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267400000000" remote="131318267400000000" />
+<file name="SimpleEventDispatcher.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267410000000" remote="131318267410000000" />
+<file name="ResponseEvent.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267410000000" remote="131318267410000000" />
+<file name="CommandEvent.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267400000000" remote="131318267400000000" />
+<file name="EventListener.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267410000000" remote="131318267410000000" />
+<file name="EventDispatcher.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267400000000" remote="131318267400000000" />
+<file name="ResponseListener.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267410000000" remote="131318267410000000" />
+<file name="EventObject.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267410000000" remote="131318267410000000" />
+<file name="CommandListener.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267400000000" remote="131318267400000000" />
+<file name="TransportChangeListener.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267410000000" remote="131318267410000000" />
+<file name="SendEvent.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267410000000" remote="131318267410000000" />
+<file name="SendListener.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267410000000" remote="131318267410000000" />
+</dwsync>

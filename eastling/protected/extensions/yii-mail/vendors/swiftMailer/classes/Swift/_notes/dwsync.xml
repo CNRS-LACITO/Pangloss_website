@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Message.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267380000000" remote="131318267380000000" />
+<file name="Encoding.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="Image.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="InputByteStream.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="StreamFilter.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267380000000" remote="131318267380000000" />
+<file name="CharacterStream.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="TransportException.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267380000000" remote="131318267380000000" />
+<file name="Filterable.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="Transport.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267380000000" remote="131318267380000000" />
+<file name="FailoverTransport.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="EmbeddedFile.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="ReplacementFilterFactory.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267380000000" remote="131318267380000000" />
+<file name="CharacterReader.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267360000000" remote="131318267360000000" />
+<file name="CharacterReaderFactory.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="SwiftException.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267380000000" remote="131318267380000000" />
+<file name="FileStream.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="Preferences.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267380000000" remote="131318267380000000" />
+<file name="OutputByteStream.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267380000000" remote="131318267380000000" />
+<file name="MailTransport.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="IoException.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="SmtpTransport.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267380000000" remote="131318267380000000" />
+<file name="Attachment.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267360000000" remote="131318267360000000" />
+<file name="DependencyContainer.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="SendmailTransport.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267380000000" remote="131318267380000000" />
+<file name="Encoder.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="Mailer.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="RfcComplianceException.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267380000000" remote="131318267380000000" />
+<file name="KeyCache.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="DependencyException.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="LoadBalancedTransport.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267370000000" remote="131318267370000000" />
+<file name="MimePart.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267380000000" remote="131318267380000000" />
+</dwsync>

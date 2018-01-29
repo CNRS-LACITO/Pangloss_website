@@ -1,0 +1,2555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "http://cocoon.huma-num.fr/schemas/Archive.dtd">
+<TEXT id="crdo-TYJ_IDIOMS" xml:lang="tyj">
+    <HEADER>
+        <TITLE xml:lang="eng">Idioms and provebs list for Tuong Duong dialect of the Tai Yo language</TITLE>
+        <SOUNDFILE href="crdo-TYJ_IDIOMS.wav"/>
+    </HEADER>
+    <S id="IDIOMS_S001">
+        <AUDIO start="4.946" end="9.381"/>
+        <FORM kindOf="ortho">Đày ki pết xỉ co cản; đày ki ngàn, ki ngỗng co nhang.</FORM>
+        <NOTE xml:lang="vie" message="“Đày ki pết, đày ki ngàn, ki ngỗng” ở đây ám chỉ “một người nào đó trúng được một quả về kinh tế kha khá; hoặc được thăng quan, tiến chức; hoặc tán tỉnh được người đẹp trong khi người khác không tiếp cận được; hoặc khi làm được một công việc gì đó là họ thao thao bất tuyệt, tự xưng “cho ta đây”, hoặc họ “giương cao mỏ” công thần trước mọi người, không coi ai ra gì. Họ cho rằng chỉ có họ mới làm được, mới có điều đó. “Co cản” (cổ khoang), “co nhang” (cổ dài) ở đây là ám chỉ sự tự hào, kiêu căng. Câu này dùng nói về những người  có hành vi như trên, tức là họ nói với thái độ kiêu căng, mũi họ hếch lên, miệng họ méo xệch, khua chân múa tay đắc chí."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 638 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Được ăn vịt thì cổ có khoang; được ăn ngan, ăn ngỗng thì cổ dài.</TRANSL>
+        <TRANSL xml:lang="vie">(Họ) được ăn vịt thì (tự hào) cổ khoang. Được ăn ngan, ăn ngỗng thì cổ họ dài ngoẵng.</TRANSL>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>ki</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>pết</FORM>
+            <TRANSL xml:lang="vie">vịt</TRANSL>
+        </W>
+        <W>
+            <FORM>xỉ</FORM>
+            <TRANSL xml:lang="vie">thì</TRANSL>
+        </W>
+        <W>
+            <FORM>co</FORM>
+            <TRANSL xml:lang="vie">cổ</TRANSL>
+        </W>
+        <W>
+            <FORM>cản</FORM>
+            <TRANSL xml:lang="vie">khoang</TRANSL>
+        </W>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>ki</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>ngàn</FORM>
+            <TRANSL xml:lang="vie">ngan</TRANSL>
+        </W>
+        <W>
+            <FORM>ki</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>ngỗng</FORM>
+            <TRANSL xml:lang="vie">ngỗng</TRANSL>
+        </W>
+        <W>
+            <FORM>co</FORM>
+            <TRANSL xml:lang="vie">cổ</TRANSL>
+        </W>
+        <W>
+            <FORM>nhang</FORM>
+            <TRANSL xml:lang="vie">dài_ngoẵng</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S002">
+        <AUDIO start="13.026" end="16.161"/>
+        <FORM kindOf="ortho">Xảng xòn pho mốc; xảng chốc pho hỏ.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này nói về nghệ thuật ngoại giao, giao tiếp. Khi vay mượn của người nào đó, nếu ai khéo mồm, khéo miệng là có thể lấy được ngay, còn nếu ăn nói vụng về thì khó lấy được của người ta. Ví dụ: Một người nào đó đi xin, chiều về người đó mang về nào là gạo, là thức ăn, là tiền. Bà con anh em, láng giềng nhìn người đó cảm phục. Họ nói: “Đúng rồi, pơ xảng xòn pho mốc, xảng chốc pho hỏ”, hoặc người đó tự khoe với mọi người rằng: “Ờ, xảng xòn pho mốc, xảng chốc pho hỏ”. Câu này không chỉ dùng trong trường hợp đi xin như ví dụ đã nêu mà nó còn dùng làm câu văn trích trong nhiều trường hợp trong giao tiếp khác."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 639 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Khéo xúc đủ nướng; khéo bốc đầy đùm.</TRANSL>
+        <TRANSL xml:lang="vie">Khéo xúc đủ nướng. Khéo bốc đầy đùm.</TRANSL>
+        <W>
+            <FORM>xảng</FORM>
+            <TRANSL xml:lang="vie">khéo</TRANSL>
+        </W>
+        <W>
+            <FORM>xòn</FORM>
+            <TRANSL xml:lang="vie">xúc</TRANSL>
+        </W>
+        <W>
+            <FORM>pho</FORM>
+            <TRANSL xml:lang="vie">đủ</TRANSL>
+        </W>
+        <W>
+            <FORM>mốc</FORM>
+            <TRANSL xml:lang="vie">nướng</TRANSL>
+        </W>
+        <W>
+            <FORM>xảng</FORM>
+            <TRANSL xml:lang="vie">khéo</TRANSL>
+        </W>
+        <W>
+            <FORM>chốc</FORM>
+            <TRANSL xml:lang="vie">bốc</TRANSL>
+        </W>
+        <W>
+            <FORM>pho</FORM>
+            <TRANSL xml:lang="vie">đầy</TRANSL>
+        </W>
+        <W>
+            <FORM>hỏ</FORM>
+            <TRANSL xml:lang="vie">đùm/gói</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S003">
+        <AUDIO start="25.867" end="31.602"/>
+        <FORM kindOf="ortho">Nắm ê, nắm ki xỉ đày; nắm ồm, nắm xày xỉ tái.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này nói về bản chất của một con người. Nếu một người nào đó có bản chất siêng năng, chăm chỉ, hay lam hay làm thì không giàu có cũng đủ hoặc cũng có đồng ra đồng vào, có của ăn của để; còn người nào lười nhác hay chơi bời hay ngủ thì muôn thuở sẽ thiếu thốn, vất vả. Như câu nói của nhà bác học Edison, đại ý là nếu trong một ngày, một người làm được được một đồng mà chỉ tiêu chín xu thì cuộc sống luôn đầy đủ; còn làm một đồng mà tiêu đồng mốt thì cuộc đời luôn luôn thiếu thốn. Từ đây, các cụ Thái tổng hợp kinh nghiệm và phát biểu rằng: “Nắm ê, nắm ki xỉ đày (Chăm làm chăm ăn thì được)”. Còn vế thứ hai cũng nói đến một thực tế, một quy luật là nếu ai đó đau ốm nhiều, hết bệnh này đến tật nọ thì cũng sớm mà chết. Và như thế, các cụ Thái cho rằng: “Nắm ồm, nằm xày xỉ tái (Chăm ốm, chăm sốt thì chết).” Câu thành ngữ có hai vế đối nhau hay. Đây là một lời khuyên đối với mọi người: Muốn cuộc sống sung túc, đầy đủ thì phải siêng năng, chăm chỉ; còn không muốn ốm đau thì phải siêng năng rèn luyện thân thể, tập luyện thể dục, thể thao hàng ngày, nhằm đẩy đuổi bệnh tật, sống thọ, sống lâu."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 640 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Chăm làm, chăm ăn thì được; chăm ốm, chăm sốt thì chết.</TRANSL>
+        <TRANSL xml:lang="vie">(Ai mà) chăm làm, chăm ăn thì được (sung túc). (Ai mà) chăm ốm, chăm sốt thì chết.</TRANSL>
+        <W>
+            <FORM>nắm</FORM>
+            <TRANSL xml:lang="vie">chăm_chỉ/siêng_năng</TRANSL>
+        </W>
+        <W>
+            <FORM>ê</FORM>
+            <TRANSL xml:lang="vie">làm</TRANSL>
+        </W>
+        <W>
+            <FORM>nắm</FORM>
+            <TRANSL xml:lang="vie">chăm_chỉ/siêng_năng</TRANSL>
+        </W>
+        <W>
+            <FORM>ki</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>xỉ</FORM>
+            <TRANSL xml:lang="vie">thì</TRANSL>
+        </W>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>nắm</FORM>
+            <TRANSL xml:lang="vie">chăm_chỉ/siêng_năng</TRANSL>
+        </W>
+        <W>
+            <FORM>ồm</FORM>
+            <TRANSL xml:lang="vie">ốm</TRANSL>
+        </W>
+        <W>
+            <FORM>nắm</FORM>
+            <TRANSL xml:lang="vie">chăm_chỉ/siêng_năng</TRANSL>
+        </W>
+        <W>
+            <FORM>xày</FORM>
+            <TRANSL xml:lang="vie">sốt</TRANSL>
+        </W>
+        <W>
+            <FORM>xỉ</FORM>
+            <TRANSL xml:lang="vie">thì</TRANSL>
+        </W>
+        <W>
+            <FORM>tái</FORM>
+            <TRANSL xml:lang="vie">chết</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S004">
+        <AUDIO start="40.449" end="42.469"/>
+        <FORM kindOf="ortho">Cưn hủng pán pí.</FORM>
+        <NOTE xml:lang="vie" message="Câu thành ngữ này là một sự ví von của các cụ Thái: Sống cho hết một đêm, cũng bằng sống cho qua một năm. Các sự kiện xảy ra trong một đêm cũng bằng các sự kiện xảy ra trong suốt một năm. Sống trải qua hết một năm sự căng thẳng, điêu đứng thế nào thì sống hết đêm cũng căng thẳng, điêu đứng như vậy. Một năm có 365 ngày cuộc sống trải nghiệm bao thăng trầm, suy tư, vất vả, có bao nhiêu vui buồn, thất vọng, bon chen... thì tất cả như được dồn vào một đêm trường căng thẳng. Chẳng hạn như những đêm chờ đợi thấp thỏm, những đêm túc trực, những đêm canh gác đợi hết phiên, sao mà dài đến thế. Có lẽ các cụ Thái ngày xưa cũng đã từng trải nghiệm những đêm trường căng thẳng nên mới có kết luận như vậy. Cái “đêm không ngủ” của Bác Hồ kính yêu ở chiến khu Việt Bắc thời chống Pháp là một minh chứng hùng hồn cho kết luận các cụ Thái là “cưn hủng pán pí.”. Việc Bác Hồ thương các cháu bộ đội mà Bác không ngủ được nên Bác “trông trời sáng mau mau”, như thế đã là căng thẳng lắm rồi. Còn bộ đội thì phải “đêm nay ngủ ngoài rừng, trải lá cây làm chiếu, manh áo phủ làm chăn” “trong đêm trường”,”mái lều sương phủ bạc” trong đêm đông giá lạnh, giõ bấc lùa phên liếp, “Trông trời sáng mau mau”. Bác cháu cùng trông trời sáng phần vì muốn nhanh vượt qua đêm đông giữa rừng lạnh lẽo, phần vì mong trời sáng mau để đi đánh giặc. Bao nhiêu điều diễn ra trong cái gọi là “Cưn hủng pán pí” ấy. Câu này gần nghĩa với câu thành ngữ tiếng Việt: “Đêm nằm bằng năm ở”."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 641 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Đêm sáng như năm.</TRANSL>
+        <TRANSL xml:lang="vie">Sống qua đêm như thể bằng năm.</TRANSL>
+        <W>
+            <FORM>cưn</FORM>
+            <TRANSL xml:lang="vie">đêm</TRANSL>
+        </W>
+        <W>
+            <FORM>hủng</FORM>
+            <TRANSL xml:lang="vie">sáng</TRANSL>
+        </W>
+        <W>
+            <FORM>pán</FORM>
+            <TRANSL xml:lang="vie">như/giống_như/như_thể</TRANSL>
+        </W>
+        <W>
+            <FORM>pí</FORM>
+            <TRANSL xml:lang="vie">năm</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S005">
+        <AUDIO start="60.116" end="63.356"/>
+        <FORM kindOf="ortho">Thám thắt cồn PHược cồn mên.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu thành ngữ này nói về tính cách tò mò của một người nào đó. Khi hỏi về một vấn đề gì đó là hỏi hết mọi cái trên trời, dưới biển, chuyện nhỏ, chuyện to. Ở đây cần giải thích thêm về từ “thắt”. Động từ “thắt” tức là dùng một sợi dây,vòng tròn lại, một đầu dây dùng răng cắn chặt, một đầu dây dùng một tay cầm chặt, kéo để vòng dây dần nhỏ vào, sợi dây cắt đứt mọt vật mềm mà ta cần cắt nó ra từng miếng mỏng để ăn, như kiểu dùng lưỡi dao sắc thái từng miếng một. Ví dụ: Dùng dây cắt bánh chưng, bánh tét ra từng miếng để cho dễ ăn. Kiểu hỏi như thế, tức “thám thắt cồn phược cồn mên” là dạng hỏi của người thông minh, hỏi đến nơi đến chốn, cái gì cũng muốn biết, muốn nắm cho tỏ tường. Điều này không phải mấy ai làm được. Đối với các em học sinh đang ngồi trên ghế nhà trường,  khi nghe giảng bài mà có những thắc mắc với thầy (cô) “thắt cồn phược cồn mên” là rất tốt, rất quý, thể hiện sự nắm vững kiến thức của các em."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 642 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Hỏi tận khu sắn, khu khoai.</TRANSL>
+        <TRANSL xml:lang="vie">(Hỏi gì mà) hỏi cắt đít sắn, đít khoai (như thế).</TRANSL>
+        <W>
+            <FORM>thám</FORM>
+            <TRANSL xml:lang="vie">hỏi</TRANSL>
+        </W>
+        <W>
+            <FORM>thắt</FORM>
+            <TRANSL xml:lang="vie">tận/sát</TRANSL>
+        </W>
+        <W>
+            <FORM>cồn</FORM>
+            <TRANSL xml:lang="vie">khu</TRANSL>
+        </W>
+        <W>
+            <FORM>PHược</FORM>
+            <TRANSL xml:lang="vie">sắn</TRANSL>
+        </W>
+        <W>
+            <FORM>cồn</FORM>
+            <TRANSL xml:lang="vie">khu</TRANSL>
+        </W>
+        <W>
+            <FORM>mên</FORM>
+            <TRANSL xml:lang="vie">khoai</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S006">
+        <AUDIO start="66.734" end="71.935"/>
+        <FORM kindOf="ortho">Khàu mương lở nẳm đín mương ã.</FORM>
+        <NOTE xml:lang="vie" message="Theo quan niệm của các cụ Thái xưa, giống lúa mường nào thì đem trỉa đất mường ấy mới tốt. Có lẽ các cụ quan niệm như: “Khoai đất lạ, mạ đất quen”, tức là khoai phải trồng ở những nơi đất lạ mới hợp, mới tốt; còn mạ trồng (gieo) ở nơi đất quen (đất cũ) mới hợp, mới tốt. Do đó, các cụ mới có câu: “Khàu mương lở nẳm đín mương ã”. Các cụ nghĩ rằng giống lúa mường nào trồng đất mường đó nó mới quen thổ, mới lên xanh tốt, chất lượng và giống lúa mới cao, mới tốt. Nói là nói giống lúa nhưng thực ra các cụ hàm ý nói về giống người. Các cụ hàm ý nói về chuyện dựng vợ, gả chồng cho con. Con gái mường nào là gả chồng mường đó chứ không gả đi xa, giống như “bế quan tỏa cảng” không cho con gái mình, mường mình “rơi” ra ngoài hay đi sang các mường khác làm vợ. Các cụ không nghĩ rằng bất cứ giống nào cũng thế, càng đi xa xét về phương diện địa lý, càng xa về phương diện giống nòi, dòng máu thì các thế hệ sau mới càng thông minhˌ phát triển. Thực ra quan niệm này của các cụ hơi quá, hơi hẹp hòi, ích kỉ. Quan niệm này nên được phế bỏ bởi vì quan niệm này đã quá lỗi thời theo kiểu “Môn đăng hộ đối” của giới thượng lưu, vua quan ngày xưa.  Bây giờ, câu “khàu mương lơ nẳm đím mương ã” đã không còn giá trị nguyên vẹn nữa. Trai gái ngày nay đã “phá đi lũy tre làng” lấy nhau tự do. Trai gái dân tộc này lấy trai gái dân tộc kia. Trai gái mường này lấy vợ, gả chồng các mường xa xôi khác là chuyện bình thường, thậm chí có nhiều cô gái còn vượt biên giới quốc gia đi làm dâu xứ người như: Trung Quốc, Hồng Kông,... kể cả các nước châu Âu xa xôi nữa."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 643 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Thóc mường nào trỉa đất mường đó.</TRANSL>
+        <TRANSL xml:lang="vie">Giống lúa mường nào đem trỉa ở đất mường đó.</TRANSL>
+        <W>
+            <FORM>khàu</FORM>
+            <TRANSL xml:lang="vie">thóc</TRANSL>
+        </W>
+        <W>
+            <FORM>mương</FORM>
+            <TRANSL xml:lang="vie">mường/bản_mường</TRANSL>
+        </W>
+        <W>
+            <FORM>lở</FORM>
+            <TRANSL xml:lang="vie">nào</TRANSL>
+        </W>
+        <W>
+            <FORM>nẳm</FORM>
+            <TRANSL xml:lang="vie">trỉa</TRANSL>
+        </W>
+        <W>
+            <FORM>đín</FORM>
+            <TRANSL xml:lang="vie">đất</TRANSL>
+        </W>
+        <W>
+            <FORM>mương</FORM>
+            <TRANSL xml:lang="vie">mường/bản_mường</TRANSL>
+        </W>
+        <W>
+            <FORM>ã</FORM>
+            <TRANSL xml:lang="vie">ấy/đó</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S007">
+        <AUDIO start="79.97" end="85.403"/>
+        <FORM kindOf="ortho">Dú khờ hòm bỏ nhõm cả đắm.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này gần với nghĩa câu thành ngữ tiếng Việt: “Gần mực thì đen, gần đèn thì rạng”. Ta hiểu câu này ở góc độ nghĩa bóng. “Dủ khờ hòm bỏ nhõm cả đắm” đó là cách nói khách quan của các cụ Thái ngày xưa. Thực ra đứng bên cạnh nồi nước chàm nếu không nhúng chân, nhúng tay vào thì không thể bị đen. Ánh đen của nước chàm phản chiếu lên người thì có thể, nhưng cái màu đen, ánh đen ấy cũng không phản chiếu vào quần áo một cách rõ ràng được. Tuy nhiên, ở đây, các cụ muốn nói về việc: Sống gần người xấu thì ắt cũng tiêm nhiễm tư tưởng, hành động, ý nghĩ xấu theo. Màu màu đen của nước chàm ám chỉ những phần tử có tư tưởng không trong sạch, không lành mạnh. Tư tưởng của họ luôn luôn núp trong bóng đen như màu nước chàm mà làm hại người khác. Những người tốt nếu ở gần những người “hòm” (chàm) như thế dù tốt nhưng rồi cũng sẽ có một ngày nào đó “bỏ nhõm cả đắm” (không nhuộm cũng đen), bởi do môi trường sinh hoạt tạo nên bắt buộc họ “bỏ nhõm cả đắm”."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 644 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Ở gần chàm không nhuộm cũng đen.</TRANSL>
+        <TRANSL xml:lang="vie">(Người tốt) ở gần chàm không nhuộm cũng đen.</TRANSL>
+        <W>
+            <FORM>dú</FORM>
+            <TRANSL xml:lang="vie">ở</TRANSL>
+        </W>
+        <W>
+            <FORM>khờ</FORM>
+            <TRANSL xml:lang="vie">gần</TRANSL>
+        </W>
+        <W>
+            <FORM>hòm</FORM>
+            <TRANSL xml:lang="vie">chàm</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>nhõm</FORM>
+            <TRANSL xml:lang="vie">nhuộm</TRANSL>
+        </W>
+        <W>
+            <FORM>cả</FORM>
+            <TRANSL xml:lang="vie">cũng</TRANSL>
+        </W>
+        <W>
+            <FORM>đắm</FORM>
+            <TRANSL xml:lang="vie">đen</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S008">
+        <AUDIO start="93.669" end="97.431"/>
+        <FORM kindOf="ortho">Ki bỏ hiệc; việc bỏ hõng; cán nắc cán ná bỏ bọc.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu thành ngữ này nói lên một sự tẩy chay, một sự ruồng bỏ, hai bên hằn thù, căm ghét nhau đến nỗi “không đội trời chung”. Có anh ở đó coi như không có. Dù là anh em, dù là bạn bè cũng chẳng hề đoái hoài đến nhau. Vì một sự mâu thuẫn, vì một bất đồng chính kiến nào đó giữa hai người, giữa hai gia đình, giữa hai bên... mà đâm ra xa lánh nhau. Sự xa lánh này như kiểu: “Từ nay tôi cạch đến già; Tôi chẳng dám cấy ruộng bà nữa đâu”. Trong cuộc sống thường nhật, dù khó khăn, thiếu thốn, vất vả, nhưng họ cũng không cần đến sự hỗ trợ của nhau, không cần đến sự giúp đỡ của nhau, đến nỗi: “Ăn không mời; Việc không gọi”.  Công việc dù có nặng nhọc, dầy mỏng đến đâu cũng chẳng cần đến sự giúp đỡ, có nhờ thì nhờ người khác mà thôi. Chúng ta không nên có những mối quan hệ quá căng thẳng và xích mích sâu sắc như thế, rút cục chỉ làm lợi cho những kẻ cơ hội có ý định xấu làm hại đất nước, làm hại cho nhân dân. Chúng ta không nên từ “cái bé xé ra to”, có gì cùng nhau nhẹ nhàng nói chuyện thanh minh, thông cảm lẫn nhau “chín bỏ làm mười”. Cùng nhau sống hòa bình, đoàn kết là sức mạnh để xây dựng bản mường, xây dựng mối tình cộng đồng dân cư bền vững, ấm cúng; khổ cùng gánh vác, vui sướng cùng nhau chung hưởng."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 645 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Ăn không mời; việc không gọi; công việc nặng, việc dày không bảo.</TRANSL>
+        <TRANSL xml:lang="vie">Ăn không thèm mời. Việc không thèm gọi.</TRANSL>
+        <W>
+            <FORM>ki</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>hiệc</FORM>
+            <TRANSL xml:lang="vie">gọi</TRANSL>
+        </W>
+        <W>
+            <FORM>việc</FORM>
+            <TRANSL xml:lang="vie">công_việc</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>hõng</FORM>
+            <TRANSL xml:lang="vie">giúp</TRANSL>
+        </W>
+        <W>
+            <FORM>cán</FORM>
+            <TRANSL xml:lang="vie">công_việc</TRANSL>
+        </W>
+        <W>
+            <FORM>nắc</FORM>
+            <TRANSL xml:lang="vie">nặng</TRANSL>
+        </W>
+        <W>
+            <FORM>cán</FORM>
+            <TRANSL xml:lang="vie">công_việc</TRANSL>
+        </W>
+        <W>
+            <FORM>ná</FORM>
+            <TRANSL xml:lang="vie">dày</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>bọc</FORM>
+            <TRANSL xml:lang="vie">bảo</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S009">
+        <AUDIO start="145.496" end="148.886"/>
+        <FORM kindOf="ortho">Xiếm xút mưa há bòng; tõng pảu mưa há chao.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này nói về hoàn cảnh của những người khi gặp khó khăn, vất vả, gặp bất trắc, éo le thì con đường duy nhất đối với họ là tìm về với họ hàng, quê quán, để có chỗ cậy nhờ, chỗ dựa, làm lại cuộc đời. “Tõng pảu” ở đây ám chỉ lúc không có ăn, vất vả thiếu đói, không có chỗ dựa, không biết bấu víu vào đâu. Những lúc như thế chỉ có con đường là tìm về với họ hàng. Đó như là một quy luật, cũng như một chiếc xuổng, con người đào mãi thì xuổng cùn, xuổng càng cùn thì càng rút ngắn về phía ống sắt tra cán. Con người hết phương kiếm sống thì về với họ hàng, tổ tiên như là chiếc xuổng cùn về phía ống sắt. Đây là cách nói ví von theo kiểu ngôn ngữ dân tộc, mà ngôn ngữ Thái là một điển hình. Các cụ dựa vào quy luật của tĩnh vật để liên hệ và nói về phương thức sống của loài người."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 646 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Xuổng cùn về với ống; bụng rỗng về với họ.</TRANSL>
+        <TRANSL xml:lang="vie">Chiếc xuổng khi cùn là cùn về phía ống tra cán. Người ta khi khó khăn, thiếu thốn thì tìm về với họ hàng.</TRANSL>
+        <W>
+            <FORM>xiếm</FORM>
+            <TRANSL xml:lang="vie">xuổng/cái_chòng</TRANSL>
+        </W>
+        <W>
+            <FORM>xút</FORM>
+            <TRANSL xml:lang="vie">cùn</TRANSL>
+        </W>
+        <W>
+            <FORM>mưa</FORM>
+            <TRANSL xml:lang="vie">về</TRANSL>
+        </W>
+        <W>
+            <FORM>há</FORM>
+            <TRANSL xml:lang="vie">với</TRANSL>
+        </W>
+        <W>
+            <FORM>bòng</FORM>
+            <TRANSL xml:lang="vie">ống</TRANSL>
+        </W>
+        <W>
+            <FORM>tõng</FORM>
+            <TRANSL xml:lang="vie">bụng</TRANSL>
+        </W>
+        <W>
+            <FORM>pảu</FORM>
+            <TRANSL xml:lang="vie">rỗng</TRANSL>
+        </W>
+        <W>
+            <FORM>mưa</FORM>
+            <TRANSL xml:lang="vie">về</TRANSL>
+        </W>
+        <W>
+            <FORM>há</FORM>
+            <TRANSL xml:lang="vie">với</TRANSL>
+        </W>
+        <W>
+            <FORM>chao</FORM>
+            <TRANSL xml:lang="vie">họ_hàng</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S010">
+        <AUDIO start="153.298" end="166.441"/>
+        <FORM kindOf="ortho">Tó chắm đín bỏ cố phay mày; côn khì hãy bỏ cúa dàn miểng tái.</FORM>
+        <NOTE xml:lang="vie" message="Câu trên so sánh giữa một người giang hồ với “gốc cây đã chặt xuống sát đất. Gốc cây chặt xuống sát đất thì không sợ lửa cháy. Cũng như con người, ai mà đã dấn thân vào kiếp giang hồ, vào sinh ra tử, đã nếm đủ mùi đời giữa cái bể trầm luân thì cũng chẳng ngại gì roi vọt, chết chóc. Thế nên, các cụ Thái mới dám khẳng định rằng: “Côn khì hãy bỏ cúa dàn miểng tái”. Hai vấn đề, hai sự việc được đem ra so sánh ở đây: một bên là cái gốc cây được chặt sát đất, không còn gì để đốt nữa và một bên là hạng người đã đi hết tận cùng của những sự nghiệt ngã của cuộc đời, đã chịu đựng đến tận ngưỡng của sự dã man, tàn ác rồi thì chẳng còn gì để sợ nữa. Trái tim trở thành đá, thành thép khi mà thân thể đã đầy sẹo ngang, sẹo dọc. Và hạng người “khì hãy” chẳng bao giờ từ bỏ được những cú lừa đảo, trộm cướp, thậm chí sẵn sàng thể hiện đôi pha chém giết “ngoạn mục” giữa đời. Đối với họ, cái chết là “con tép”, nghĩa là nhỏ bé, không là gì cả."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 647 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Gốc cây chặt sát đất không còn sợ lửa cháy; người giang hồ không còn sợ lửa cháy.</TRANSL>
+        <TRANSL xml:lang="vie">Gốc cây đã chặt sát đất chẳng sợ gì lửa cháy. Con người đã dấn thân vào làng giang hồ không sợ gì nơi chết.</TRANSL>
+        <W>
+            <FORM>tó(ca_tó)</FORM>
+            <TRANSL xml:lang="vie">gốc</TRANSL>
+        </W>
+        <W>
+            <FORM>chắm</FORM>
+            <TRANSL xml:lang="vie">sát</TRANSL>
+        </W>
+        <W>
+            <FORM>đín</FORM>
+            <TRANSL xml:lang="vie">đất</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>cố(cúa)</FORM>
+            <TRANSL xml:lang="vie">sợ</TRANSL>
+        </W>
+        <W>
+            <FORM>phay(phi)</FORM>
+            <TRANSL xml:lang="vie">lửa</TRANSL>
+        </W>
+        <W>
+            <FORM>mày</FORM>
+            <TRANSL xml:lang="vie">cháy</TRANSL>
+        </W>
+        <W>
+            <FORM>côn</FORM>
+            <TRANSL xml:lang="vie">người</TRANSL>
+        </W>
+        <W>
+            <FORM>khì_hãy</FORM>
+            <TRANSL xml:lang="vie">người_giang_hồ</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>cúa</FORM>
+            <TRANSL xml:lang="vie">sợ</TRANSL>
+        </W>
+        <W>
+            <FORM>dàn</FORM>
+            <TRANSL xml:lang="vie">biết</TRANSL>
+        </W>
+        <W>
+            <FORM>miểng</FORM>
+            <TRANSL xml:lang="vie">chỗ</TRANSL>
+        </W>
+        <W>
+            <FORM>tái</FORM>
+            <TRANSL xml:lang="vie">chết</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S011">
+        <AUDIO start="177.772" end="184.134"/>
+        <FORM kindOf="ortho">Đày ki nha lưm thủ; đày dủ nha lưm khun.</FORM>
+        <NOTE xml:lang="vie" message="Câu này là một lời khuyên răn con người ở góc độ đạo đức, đạo lý làm người. Các cụ Thái nhà ta bảo rằng ăn được bữa cơm ngon lành, hợp vệ sinh là nhờ đôi đũa nên không thể quên là nhờ đũa mà ta có bữa cơm ngon sạch được. Đối với đũa, vật vô tri vô giác ta còn đội ơn như thế huống hồ đối với con người. Đối với những người có công sinh thành, nuôi dưỡng mình lớn khôn, trưởng thành hay những người đã có công giúp đỡ, cưu mang ta trong những lúc khó khăn, thiếu thốn trên những chặng đường lập nghiệp lại càng phải khắc sâu những công đức, ân huệ của họ, coi họ là ân nhân muôn thuở, không được “ăn cháo đá bát”. Từ đó, ta mới mong vươn tới khoảng trời “chân, thiện, mĩ” và mới có thể sống cuộc sống thanh thản mãi đến tuổi già, bởi vì “ở hiền thì gặp lành” “ác giả ác báo”. Được ăn của người hôm trước, hôm sau đã quên thì thật sự không nên. Trong dân gian cho rằng: “Của biếu là của lo; của cho là của nợ”. Điều đó cũng có cái lý do, nguyên nhân xác đáng của nó, và hết sức chính xác khi ta đọc hai câu ấy lên mỗi lúc. “Của cho là của nợ” cái nợ sẽ là truyền kiếp lâu dài. Điều đó như là “ngàn năm bia miệng vẫn còn trơ trơ” giữa thời gian, giữa đời người. Vì vậy không nên quên cái ân huệ mà bà con, bạn bè, đồng chí, đồng nghiệp ban tặng."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 648 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Được ăn đừng quên đũa; được ở đừng quên ơn.</TRANSL>
+        <TRANSL xml:lang="vie">Khi được ăn thì đừng quên đũa. Khi được ở xin đừng quên ân huệ của người ban ơn.</TRANSL>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>ki(kin)</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>nha</FORM>
+            <TRANSL xml:lang="vie">đừng</TRANSL>
+        </W>
+        <W>
+            <FORM>lưm</FORM>
+            <TRANSL xml:lang="vie">quên</TRANSL>
+        </W>
+        <W>
+            <FORM>thủ</FORM>
+            <TRANSL xml:lang="vie">đũa</TRANSL>
+        </W>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>dủ</FORM>
+            <TRANSL xml:lang="vie">ở</TRANSL>
+        </W>
+        <W>
+            <FORM>nha</FORM>
+            <TRANSL xml:lang="vie">đừng</TRANSL>
+        </W>
+        <W>
+            <FORM>lưm</FORM>
+            <TRANSL xml:lang="vie">quên</TRANSL>
+        </W>
+        <W>
+            <FORM>khun</FORM>
+            <TRANSL xml:lang="vie">người_ban_ơn</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S012">
+        <AUDIO start="195.326" end="208.84"/>
+        <FORM kindOf="ortho">Đày ki khàu nha lưm xa na; đày non xút, non pha lưm xa cốc mon pổng ỏn.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này là lời nhắc nhở mọi người rằng: Nếu hôm nay mình có đời sống sung túc, có cuộc sống đầy đủ tiện nghi rồi thì đừng vội quên đi người đã có công nuôi dưỡng, giúp đỡ, cưu mang mình vượt qua thời kì mình khó khăn, vất vả, đói kém, thiếu thốn. Mình có cuộc sống vui sướng, đầy đủ là sự sẻ chia, tận tình “khó khăn cùng gánh vác, vui sướng cùng chung hưởng”. Biết đâu, khi người ta giúp mình, người ta cũng trong hoàn cảnh vô vàn khó khăn, thiếu thốn. Người ta giúp mình là xuất phát từ sự cảm thông sâu sắc, từ một tấm lòng bao dung bao la mới có hành động sẻ chia như vậy. Nếu ai đó được hưởng phú quý, vinh hoa mà lại quên mất cái lí do, nguyên nhân của nó thì thật đáng trách, thậm chí là đáng “nguyền rủa”. Những hạng người ấy là hạng “ăn cháo đá bát”, sống không có tình nghĩa. Họ cũng không nên tồn tại ở trên đời này mà làm xấu cho đời."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 649 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Được ăn cơm xin đừng quên đi ruộng; được ngủ màn, ngủ chăn đừng quên đi gốc dâu non lá.</TRANSL>
+        <TRANSL xml:lang="vie">Được ăn cơm xin đừng quên mất ruộng. Được ngủ màn, ngủ chăn ấm chớ quên đi gốc dâu đang mơn mởn lá non.</TRANSL>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>ki</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>khàu</FORM>
+            <TRANSL xml:lang="vie">cơm</TRANSL>
+        </W>
+        <W>
+            <FORM>nha</FORM>
+            <TRANSL xml:lang="vie">đừng</TRANSL>
+        </W>
+        <W>
+            <FORM>lưm</FORM>
+            <TRANSL xml:lang="vie">quên</TRANSL>
+        </W>
+        <W>
+            <FORM>xa</FORM>
+            <TRANSL xml:lang="vie">mất</TRANSL>
+        </W>
+        <W>
+            <FORM>na</FORM>
+            <TRANSL xml:lang="vie">ruộng</TRANSL>
+        </W>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>non</FORM>
+            <TRANSL xml:lang="vie">ngủ</TRANSL>
+        </W>
+        <W>
+            <FORM>xút</FORM>
+            <TRANSL xml:lang="vie">màn</TRANSL>
+        </W>
+        <W>
+            <FORM>non</FORM>
+            <TRANSL xml:lang="vie">ngủ</TRANSL>
+        </W>
+        <W>
+            <FORM>pha</FORM>
+            <TRANSL xml:lang="vie">chăn_bông/chăn_len</TRANSL>
+        </W>
+        <W>
+            <FORM>lưm</FORM>
+            <TRANSL xml:lang="vie">quên</TRANSL>
+        </W>
+        <W>
+            <FORM>xa</FORM>
+            <TRANSL xml:lang="vie">mất</TRANSL>
+        </W>
+        <W>
+            <FORM>cốc</FORM>
+            <TRANSL xml:lang="vie">gốc</TRANSL>
+        </W>
+        <W>
+            <FORM>mon</FORM>
+            <TRANSL xml:lang="vie">dâu</TRANSL>
+        </W>
+        <W>
+            <FORM>pổng</FORM>
+            <TRANSL xml:lang="vie">nhú/mọc</TRANSL>
+        </W>
+        <W>
+            <FORM>ỏn</FORM>
+            <TRANSL xml:lang="vie">mầm/lá_non</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S013">
+        <AUDIO start="218.639" end="226.395"/>
+        <FORM kindOf="ortho">Bỏ cứn nẵm lai co hở; bỏ pạc nhở xỉ pưởn đú ken.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này là một sự nhắc nhở mọi người rằng: Sống ở trên đời cần phải tu chí học tập để tinh thông mọi chuyện trên đời, tinh thông về thực tiễn, tinh thông về lý luận, về đối đáp, về luật lệ... Và đã thông thái rồi thì không nên quá hiền từ mà cho người ta chèn ép, khinh suất. Các cụ Thái xưa quan niệm rằng: “Bỏ pạc nhở xỉ pưởn đú ken” (Không nói lớn, không rộng miệng) thì người ta coi khinh, người ta chèn ép mọi thứ. Cũng như “không nuốt nước miếng” (“Bỏ cứn nắm lai”) thì “cổ khô” (“co hở”). Do đó, sống ở trên đời là phải có lý, có tình, không phải việc gì cũng đem ra  cãi cọ, tranh luận thắng thua, gây mất đoàn kết và cũng không phải khi nào “bỏ pạc nhở xỉ pưởn đú ken” cả. Khi cần nói to, khi cần rộng miệng mới nói to, rộng miệng. Khi cần ân cần, ôn tồn là phải ân cần, ôn tồn. Trong cuộc sống hàng ngày, các cụ thường sử dụng câu này để răn dạy con cháu trong giao tiếp, nói chuyện và tranh luận."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 650 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Không nuốt nước miếng cổ khô; không nói to thì người ta chèn ép.</TRANSL>
+        <TRANSL xml:lang="vie">Không nuốt nước miếng thì cổ khô. Không ăn to, nói lớn thì người ta khinh suất, chèn ép.</TRANSL>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>cứn</FORM>
+            <TRANSL xml:lang="vie">nuốt</TRANSL>
+        </W>
+        <W>
+            <FORM>nẵm</FORM>
+            <TRANSL xml:lang="vie">nước</TRANSL>
+        </W>
+        <W>
+            <FORM>lai</FORM>
+            <TRANSL xml:lang="vie">miếng</TRANSL>
+        </W>
+        <W>
+            <FORM>co</FORM>
+            <TRANSL xml:lang="vie">cổ</TRANSL>
+        </W>
+        <W>
+            <FORM>hở</FORM>
+            <TRANSL xml:lang="vie">khô</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>pạc</FORM>
+            <TRANSL xml:lang="vie">nói</TRANSL>
+        </W>
+        <W>
+            <FORM>nhở</FORM>
+            <TRANSL xml:lang="vie">to/lớn</TRANSL>
+        </W>
+        <W>
+            <FORM>xỉ</FORM>
+            <TRANSL xml:lang="vie">thì</TRANSL>
+        </W>
+        <W>
+            <FORM>pưởn</FORM>
+            <TRANSL xml:lang="vie">họ</TRANSL>
+        </W>
+        <W>
+            <FORM>đú_ken</FORM>
+            <TRANSL xml:lang="vie">chèn_ép</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S014">
+        <AUDIO start="232.014" end="241.673"/>
+        <FORM kindOf="ortho">Xồm cả làu; thàu cả mia; tá kía cả chũ; pủm pù cả phúa.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa của câu trên là một sự khẳng định rằng: “Với những cái như thế thì không còn gì hơn nữa” bởi vì “xồm cả làu, thàu cả mia, tá kía cả chũ, pủm pù cả phúa” là không thể thay được. Vậy thì, chua thì chua, vẫn là rượu cứ uống chẳng hề gì cả. Cũng như già thì già, thời trẻ vợ chồng cũng đã từng trải qua những giây phút duyên ái, khi thì dưới ánh trăng vằng vặc đêm rằm, khi thì bên dòng suối rì rào trong vắt, đã từng chụp ảnh với làn da mịn màng, hoa phấn của nhau. Người con gái chóng già hơn đàn ông, đó là thực tế. Không có lí do gì biện hộ cho sự chê bai, xa lánh khi vợ mình bước sang thời kì “hoa tàn” cả. Còn đối với “bồ”, dù xấu, dù đẹp thì cũng phải thích, phải yêu mới chấp nhận là “bồ”. Đã là “bồ” là chỉ có yêu thích và quan hệ tình dục vụng trộm hàng ngày. Dù họ có “mắt choẹt”, “mồm méo” cũng là “người tình yêu dấu”, cũng đã từng chia sẻ những giây phút khoái cảm, đê mê mà những người khác không làm thay được. Khi người ta nói rằng: “Cô chỉ là vợ của tôi, chứ không phải người yêu của tôi”. Khi có cô bồ kè kè bên cạnh hàng ngày, người ta sẽ dành tất cả tình thương yêu cho “bồ nhí”. Người có “bồ” sẽ biểu lộ tình cảm bản thân trước “cô bồ nhí” như là một đứa trẻ lên mười. Người ta sẽ bỏ qua tất cả, vượt qua tất cả những khuyết tật của người tình và chỉ đọng lại ở họ hai tiếng “tình yêu” bởi bỏ công đi tìm người tình mới, tìm cho được “bồ khác” là khó. Cũng như “già cũng vợ”, “dù có béo húp, lùn tịt thế nào đi nữa” cũng đã là chồng, đã từng yêu thương, đã từng ân ái. Giờ mà đi yêu người khác, nhận người khác là chồng, thứ nhất luật pháp không cho phép, thứ hai người ta cũng có vợ có chồng, cũng có đôi lứa nên điều đó là không thể, điều thứ ba là mất thời gian bỏ công bỏ sức đi tìm “người tình” vụng trộm khác. Rút cục, “pủm bù cả phúa” là việc dễ dàng, sẵn sàng nhất, muốn khi nào thì có khi đó, muốn sớm có sớm, muốn chiều có chiều. Thậm chí hài hước mà nói “đêm bảy, ngày ba, vô ra chưa kể” là  điều sẵn có trong tầm tay, cũng là điều dễ dàng chấp nhận."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 651 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Chua cũng rượu; già cũng vợ; mắt choẹt cũng bồ; béo lùn tịt cũng chồng.</TRANSL>
+        <TRANSL xml:lang="vie">Chua cũng là rượu (cứ uống). Già cũng là vợ (cứ chơi). Mắt choẹt cũng là bồ (cứ dùng). Béo húp lùn tịt cũng là chồng (cứ yêu).</TRANSL>
+        <W>
+            <FORM>xồm</FORM>
+            <TRANSL xml:lang="vie">chua</TRANSL>
+        </W>
+        <W>
+            <FORM>cả</FORM>
+            <TRANSL xml:lang="vie">cũng_là</TRANSL>
+        </W>
+        <W>
+            <FORM>làu</FORM>
+            <TRANSL xml:lang="vie">rượu</TRANSL>
+        </W>
+        <W>
+            <FORM>thàu</FORM>
+            <TRANSL xml:lang="vie">già</TRANSL>
+        </W>
+        <W>
+            <FORM>cả</FORM>
+            <TRANSL xml:lang="vie">cũng_là</TRANSL>
+        </W>
+        <W>
+            <FORM>mia</FORM>
+            <TRANSL xml:lang="vie">vợ</TRANSL>
+        </W>
+        <W>
+            <FORM>tá</FORM>
+            <TRANSL xml:lang="vie">mắt</TRANSL>
+        </W>
+        <W>
+            <FORM>kía</FORM>
+            <TRANSL xml:lang="vie">choẹt</TRANSL>
+        </W>
+        <W>
+            <FORM>cả</FORM>
+            <TRANSL xml:lang="vie">cũng_là</TRANSL>
+        </W>
+        <W>
+            <FORM>chũ</FORM>
+            <TRANSL xml:lang="vie">bồ</TRANSL>
+        </W>
+        <W>
+            <FORM>pủm</FORM>
+            <TRANSL xml:lang="vie">béo</TRANSL>
+        </W>
+        <W>
+            <FORM>pù</FORM>
+            <TRANSL xml:lang="vie">lùn</TRANSL>
+        </W>
+        <W>
+            <FORM>cả</FORM>
+            <TRANSL xml:lang="vie">cũng_là</TRANSL>
+        </W>
+        <W>
+            <FORM>phúa</FORM>
+            <TRANSL xml:lang="vie">chồng</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S015">
+        <AUDIO start="248.128" end="251.983"/>
+        <FORM kindOf="ortho">Mò xốm pang; nang xốm tão</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này, ở vế thứ nhất, gần nghĩa với câu thành ngữ tiếng Việt là: “Nồi tròn úp vung tròn”, còn nghĩa của vế thứ hai, cũng gần như tương tự nghĩa câu thứ nhất “nàng xứng chàng” mới coi là đẹp đôi. Câu này các tổ hòa giải thường dùng trong các cuộc giải quyết ly hôn, dùng trong đám hỏi, đám cưới để nói lên sự tương xứng giữa đôi trai gái sẽ kết duyên vợ chồng, uyên ương trăm năm. Câu này cũng được dùng trong nhiều trường hợp để nói về sự tương xứng giữa đôi bên. Ví dụ: so sánh giữa cột nhà với các linh kiện khác như: xà, hạ, kèo, thượng ốc,... hoặc so sánh giữa người đi xe máy với chiếc xe máy mà tương xứng thì cũng được ví “mò xốm pang, nang xốm tão” nghĩa là “con người xứng đáng được đi chiếc xe đạp”. Câu này còn được dùng trong nhiều trường hợp khác nữa."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 652 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Nồi xứng vung; nàng xứng chàng.</TRANSL>
+        <TRANSL xml:lang="vie">Họ đã nồi xứng vung, nàng xứng chàng rồi.</TRANSL>
+        <W>
+            <FORM>mò</FORM>
+            <TRANSL xml:lang="vie">nồi/xoong</TRANSL>
+        </W>
+        <W>
+            <FORM>xốm</FORM>
+            <TRANSL xml:lang="vie">xứng/vừa</TRANSL>
+        </W>
+        <W>
+            <FORM>pang</FORM>
+            <TRANSL xml:lang="vie">vung</TRANSL>
+        </W>
+        <W>
+            <FORM>nang</FORM>
+            <TRANSL xml:lang="vie">nàng</TRANSL>
+        </W>
+        <W>
+            <FORM>xốm</FORM>
+            <TRANSL xml:lang="vie">xứng/vừa</TRANSL>
+        </W>
+        <W>
+            <FORM>tão</FORM>
+            <TRANSL xml:lang="vie">chàng</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S016">
+        <AUDIO start="254.723" end="262.943"/>
+        <FORM kindOf="ortho">Cảy bỏ hắn nghến cả bỏ hũ; chũ bỏ cảo, bảo bỏ ma.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa của câu này nói về nguyên nhân dẫn đến chuyện ngoại tình. Chuyện ngoại tình giữa hai bên do đâu mà có? Để trả lời câu hỏi đó, các cụ Thái khẳng định rằng: “Cảy bỏ hắn, nghến cả bỏ hũ; chũ bỏ cảo, bảo bỏ ma”. Khẳng định như thế thật là triết lý, nghĩa là không còn gì để phân tích nữa. Nếu không nghe tiếng gáy của con gà thì con cáo chẳng biết đường nào mà tìm đến bắt gà. Điều này cũng như việc nếu cô không thích tôi, không đồng ý “cặp bồ” với tôi thì làm sao tôi có thể cặp bồ với cô được. Tôi cặp bồ được với cô là do cô đồng ý, là do cô chịu chơi, và cô thích yêu tôi. Đại thể tôi là con trai, mạnh dạn thì mạnh dạn thật đấy, nhưng thực ra cũng sẽ e dè trước thái độ cương quyết, cự tuyệt của người phụ nữ. Trước những lời tỏ tình của tôi, cô có thái độ cứng rắn: “Không! Tôi dứt khoát không!” thì tôi làm sao dám đến được với cô. Đằng này, tôi tán tỉnh, đề nghị mười điều, cô đều chấp nhận cả mười một điều, thì tôi cứ liều một phen xem sao. Mọi sự êm thấm cả, vậy là xong. Và đúng là: “Chũ bỏ cảo, bảo bỏ ma”. Câu này các tổ hòa giải về chuyện ngoại tình hay dùng để biện hộ cho người con trai, nhằm giảm nhẹ tội lỗi cho họ. Ngoài dùng cho  việc giải quyết chuyện ngoại tình, người ta còn dùng câu này vào nhiều trường hợp tương tự như chuyện người này được cho là phạm lỗi với người kia do sự rủ rê của bên kia."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 653 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Gà không gáy, cáo cũng không biết; bồ không loan, trai không về.</TRANSL>
+        <TRANSL xml:lang="vie">Không nghe tiếng gáy của gà, cáo không biết đường tìm đến. Người tình không gọi thì trai chẳng tìm đến chơi.</TRANSL>
+        <W>
+            <FORM>cảy</FORM>
+            <TRANSL xml:lang="vie">gà</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>hắn</FORM>
+            <TRANSL xml:lang="vie">gáy</TRANSL>
+        </W>
+        <W>
+            <FORM>nghến</FORM>
+            <TRANSL xml:lang="vie">cáo/chồn</TRANSL>
+        </W>
+        <W>
+            <FORM>cả</FORM>
+            <TRANSL xml:lang="vie">cũng</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>hũ</FORM>
+            <TRANSL xml:lang="vie">biết</TRANSL>
+        </W>
+        <W>
+            <FORM>chũ</FORM>
+            <TRANSL xml:lang="vie">bồ/người_tình</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>cảo</FORM>
+            <TRANSL xml:lang="vie">loan_tin/đánh_tiếng</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>ma</FORM>
+            <TRANSL xml:lang="vie">về</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S017">
+        <AUDIO start="287.277" end="290.017"/>
+        <FORM kindOf="ortho">Cảy bỏ luôn, xuốn cả bỏ hạt.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa của câu này tuy nói về con gà chực lăm le phá vườn, nhưng cái nghĩa bóng của nó là nói về chuyện con người. Các cụ Thái xưa, tức là tác giả dân gian, nói rằng vườn đang lành lặn, nếu con gà không lăm le, không liều mạng thì nó không thể vào được vườn. Con gà vào được vườn là tại nó cứ thường xuyên lăm le, quanh quẩn cái hàng rào, mỗi ngày phá một ít, chờ cơ hội, đủ điều kiện, vườn nát ra chỗ nào đó, thấy được là nó nhảy vào. Vấn đề là đơn giản vậy nhưng thực ra là nhằm nói đến chuyện con người một cách thấm thía, tế nhị. Vấn đề xảy ra thì thường hay đổ lỗi cho một phía, đổ lỗi cho người đàn ông, nào là tội “liều mạng”, tội “bám riết”, tội “quanh quẩn”, đến tội “phá phách”, đến khi vườn hỏng, vườn mục nát cũng tại con gà (tại người đàn ông). Ngẫm ra việc đỗ lỗi này cũng hơi oan cho cánh đàn ông. Lúc đầu, tôi đến với cô thật đấy, dĩ nhiên là tôi thích, tôi yêu cô tôi mới đến với cô. Đến với cô rồi, tôi tán tỉnh bâng quơ vài lời với cô, nếu cô không yêu tôiˌ không thích tôi thì cô cự tuyệt, từ chối ngay, làm sao mà tôi liều mạng, quanh quẩn, bám riết để “phá vườn” cô được. Đằng này, tôi mở miệng ra là cô ưng ngay, và cô tự làm cho “vườn” của cô (tình cảm, tình yêu của cô) chùng xuống, đồng thuận theo ý tôi, làm sao mà tôi lại không nhảy vào, không làm gì. Tôi cũng muốn biết cái “vườn” của cô có những gì trong đó, để tận hưởng. Phân tích ra, con gà nhảy được vào vườn đúng hơn là phải do hai phía: “Tại anh, tại ả, tại cả hai bên”. Câu này còn được các tổ hòa giải sử dụng làm câu trích trong các vụ tranh chấp dân sự như trâu, bò, lợn vào phá vườn tược, ruộng, rẫy để ăn lúa, ăn ngô hay còn dùng trong các vụ tranh chấp khác mang tính chất tương tự."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 654 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Gà không liều, vườn cũng không nát.</TRANSL>
+        <TRANSL xml:lang="vie">Gà (mà) không bám, không liều làm sao vườn nát được.</TRANSL>
+        <W>
+            <FORM>cảy</FORM>
+            <TRANSL xml:lang="vie">gà</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>luôn</FORM>
+            <TRANSL xml:lang="vie">thường_xuyên_phá</TRANSL>
+        </W>
+        <W>
+            <FORM>xuốn</FORM>
+            <TRANSL xml:lang="vie">vườn</TRANSL>
+        </W>
+        <W>
+            <FORM>cả</FORM>
+            <TRANSL xml:lang="vie">cũng</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>hạt</FORM>
+            <TRANSL xml:lang="vie">rách/nát</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S018">
+        <AUDIO start="294.986" end="304.971"/>
+        <FORM kindOf="ortho">Phã khằm đẹt khư phã khằm phốn; côn khằm tái khư côn khằm khồng.</FORM>
+        <NOTE xml:lang="vie" message="Đây là tục ngữ nói về hiện tượng thiên nhiên và con người. Các cụ xưa đã từng theo dõi hiện tượng thiên nhiên diễn ra hằng ngày, diễn ra hàng tháng, hàng năm. Từ hiện tượng thiên nhiên diễn ra lặp đi, lặp lại nhiều lần, các cụ rút ra rằng “Phã khằm đẹt khư phã khằm phốn” (trời sắp nắng như trời sắp mưa). Tất nhiên, theo dõi được hiện tượng thiên văn như thế này thì phải là những “nhà thiên văn” tâm huyết. Điều này cũng như việc các thầy thuốc theo dõi hiện tượng đời sống con người, rồi rút ra rằng “Người sắp chết như người sắp sống” (“Côn khằm tái khư côn khằm khồng”). Kết luận như thế là rất chính xác, nói chung, vài ngày trước khi con người ốm lâu sắp chết thì thường thấy vẻ mặt tươi tỉnh hơn, ăn uống được khỏe hơn, nhiều hơn, nói cười được tự nhiên hơn; họ muốn đi xem chỗ này, chỗ kia... Người nhà tưởng họ sắp khỏe lại nhưng thực ra là họ sắp đến giờ phút trút hơi thở cuối cùng của đời người, cũng như ngọn đèn sắp tắt thì bừng sáng lên trong khoảnh khắc vậy."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 655 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Trời sắp nắng như trời sắp mưa; người sắp chết như người sắp sống.</TRANSL>
+        <TRANSL xml:lang="vie">Trời sắp nắng như trời sắp mưa. Người sắp chết như thể người sắp sống.</TRANSL>
+        <W>
+            <FORM>phã</FORM>
+            <TRANSL xml:lang="vie">trời</TRANSL>
+        </W>
+        <W>
+            <FORM>khằm</FORM>
+            <TRANSL xml:lang="vie">sắp</TRANSL>
+        </W>
+        <W>
+            <FORM>đẹt</FORM>
+            <TRANSL xml:lang="vie">nắng</TRANSL>
+        </W>
+        <W>
+            <FORM>khư</FORM>
+            <TRANSL xml:lang="vie">như</TRANSL>
+        </W>
+        <W>
+            <FORM>phã</FORM>
+            <TRANSL xml:lang="vie">trời</TRANSL>
+        </W>
+        <W>
+            <FORM>khằm</FORM>
+            <TRANSL xml:lang="vie">sắp</TRANSL>
+        </W>
+        <W>
+            <FORM>phốn</FORM>
+            <TRANSL xml:lang="vie">mưa</TRANSL>
+        </W>
+        <W>
+            <FORM>côn</FORM>
+            <TRANSL xml:lang="vie">người</TRANSL>
+        </W>
+        <W>
+            <FORM>khằm</FORM>
+            <TRANSL xml:lang="vie">sắp</TRANSL>
+        </W>
+        <W>
+            <FORM>tái</FORM>
+            <TRANSL xml:lang="vie">chết</TRANSL>
+        </W>
+        <W>
+            <FORM>khư</FORM>
+            <TRANSL xml:lang="vie">như</TRANSL>
+        </W>
+        <W>
+            <FORM>côn</FORM>
+            <TRANSL xml:lang="vie">người</TRANSL>
+        </W>
+        <W>
+            <FORM>khằm</FORM>
+            <TRANSL xml:lang="vie">sắp</TRANSL>
+        </W>
+        <W>
+            <FORM>khồng</FORM>
+            <TRANSL xml:lang="vie">sống</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S019">
+        <AUDIO start="313.191" end="319.646"/>
+        <FORM kindOf="ortho">Non đắc nhăng hũ tửn; pã cả ửn nhăng hũ ma.</FORM>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 656 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Ngủ say còn biết dậy; đi nơi khác còn biết về.</TRANSL>
+        <TRANSL xml:lang="vie">Ngủ say còn biết dậy. Đi nơi khác còn biết về.</TRANSL>
+        <W>
+            <FORM>non</FORM>
+            <TRANSL xml:lang="vie">ngủ</TRANSL>
+        </W>
+        <W>
+            <FORM>đắc</FORM>
+            <TRANSL xml:lang="vie">say</TRANSL>
+        </W>
+        <W>
+            <FORM>nhăng</FORM>
+            <TRANSL xml:lang="vie">còn</TRANSL>
+        </W>
+        <W>
+            <FORM>hũ</FORM>
+            <TRANSL xml:lang="vie">biết</TRANSL>
+        </W>
+        <W>
+            <FORM>tửn</FORM>
+            <TRANSL xml:lang="vie">thức_dậy</TRANSL>
+        </W>
+        <W>
+            <FORM>pã</FORM>
+            <TRANSL xml:lang="vie">đi</TRANSL>
+        </W>
+        <W>
+            <FORM>cả_ửn</FORM>
+            <TRANSL xml:lang="vie">nơi_khác/chỗ_khác</TRANSL>
+        </W>
+        <W>
+            <FORM>nhăng</FORM>
+            <TRANSL xml:lang="vie">còn</TRANSL>
+        </W>
+        <W>
+            <FORM>hũ</FORM>
+            <TRANSL xml:lang="vie">biết</TRANSL>
+        </W>
+        <W>
+            <FORM>ma</FORM>
+            <TRANSL xml:lang="vie">về</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S020">
+        <AUDIO start="328.551" end="331.511"/>
+        <FORM kindOf="ortho">Mò tạch bỏ mi ái; côn tái bỏ hũ pạc.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này là nói về một vấn đề, một sự việc xảy ra, nhưng nhân chứng đã không còn tồn tại, không còn hiện hữu để đứng ra làm chứng, giải quyết vụ việc này nữa. Chẳng hạn như việc ăn trộm, ăn cắp các vật vô tri, vô giác, lấy rồi là thôi. Vật vô tri, vô giác đó không hề chỉ mặt được kẻ lấy trộm nó là tên gì, địa chỉ ở đâu. Điều này cũng tương tự như là “cái nồi vỡ rồi chẳng có ai dùng để nấu nướng gì cả, nên chẳng hề có hơi hám, mùi vị nữa. Cũng như người khi đã chết, tắt thở rồi thì không thể đứng ra làm chứng được. Do vậy, khi cơ quan pháp luật đứng ra giải quyết các vụ ấy có thể gặp khó khăn, nếu quan tòa không có nhiều biện pháp, tức là không có nhiều mẹo như “Bao Thanh Thiên thuở nào bên nước Tàu” thì khó mà làm công minh vụ việc, bởi vì “mò tạch bỏ mi ái, côn tái bỏ hũ pạc”. Khi nhân chứng không còn, mà sự việc nhiều đường lắt léo, mờ mịt thì việc lần tìm cho được tung tích, nguồn gốc sự thật quả là một chặng đường khó khăn, rắc rối."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 657 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Nồi vỡ không có hơi; người chết không biết nói.</TRANSL>
+        <TRANSL xml:lang="vie">(Sự việc như thể) nồi vỡ không có hơi, người chết không biết nói.</TRANSL>
+        <W>
+            <FORM>mò</FORM>
+            <TRANSL xml:lang="vie">nồi/xoong</TRANSL>
+        </W>
+        <W>
+            <FORM>tạch</FORM>
+            <TRANSL xml:lang="vie">vỡ/bể_ra</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>mi</FORM>
+            <TRANSL xml:lang="vie">có</TRANSL>
+        </W>
+        <W>
+            <FORM>ái</FORM>
+            <TRANSL xml:lang="vie">hơi</TRANSL>
+        </W>
+        <W>
+            <FORM>côn</FORM>
+            <TRANSL xml:lang="vie">người</TRANSL>
+        </W>
+        <W>
+            <FORM>tái</FORM>
+            <TRANSL xml:lang="vie">chết</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>hũ</FORM>
+            <TRANSL xml:lang="vie">biết</TRANSL>
+        </W>
+        <W>
+            <FORM>pạc</FORM>
+            <TRANSL xml:lang="vie">nói</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S021">
+        <AUDIO start="334.402" end="342.518"/>
+        <FORM kindOf="ortho">Nẵm bả bỏ tím tàu; khàu bả bỏ tím óm, tím háy</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này, vế thứ nhất nói về việc nước đựng trong ống khi đã đổ đi, nếu không múc nước ở nơi khác đổ vào thêm, chỉ có số nước ban đầu thì nước ấy không thể đầy lại ống như cũ. Nước đã bị đổ đi, ống sẽ bị vơi đi một phần, bởi không ai có thể lấy được hết số nước đã đổ xuống đất để cho lại ống. Điều đó là thực tế. Cũng như điều được nói đến ở vế thứ hai, đó là thóc gạo đã đổ xuống đất, thì không ai có thể nhặt được số thóc gạo ấy cho hết vào chóe, vào chum được. Do đó thóc gạo ấy cũng không đầy lại chóe, chum, đó cũng là điều bình thường. Song các cụ Thái xưa muốn mượn hai sự việc trên để nói về quan hệ tình người. Khi con người đã hục hặc nhau, đã có mâu thuẫn trong quan hệ đi lại, dù có hòa giải, dù có thanh minh, thông cảm bao nhiêu, tình cảm cũng không thể bình thường, vô tư lại như ban đầu nữa. Ít ra mỗi bên đều nở ý thức giữ kẹ hơn, thận trọng hơn trong giao tiếp, trong quan hệ đi lại hàng ngày. Cái “tình cảm con người, cái quan hệ con người” ví như “nước”, như “gạo đã đổ đi là không đầy lại được. Đó cũng là điều rất thực tế. Dù cho bao nhiêu chữ vàng cam kết với nhau để đi tới sự hòa hợp, đi tới sự tin cậy nhau, song chắc chắn mỗi bên sẽ có ý thức thận trọng hơn trong mối quan hệ xã giao của mình. Nhưng cái sự “bỏ tím tàu, bỏ tím óm, tím háy” mà vẫn còn nước lưu lại trong ống, vẫn còn gạo thóc trong chóe, trong chum, tuy không đầy như cũ nữa, vẫn tốt hơn không còn một giọt nước ở lại trong ống, vẫn tốt hơn khi không còn một hạt gạo, hạt thóc lưu lại trong chóe, trong chum. Qua quy luật thực tế từ việc đổ nước, gạo, các cụ Thái muốn con cháu nắm được cái quy luật tình cảm giữa người và người, để mà xử sự vấn đề cho hợp lí và êm đẹp hơn trong tình người, trong tình làng, nghĩa xóm. Cách sống này cũng sẽ tăng thêm tình đoàn kết, tương trợ, thân ái trong cộng đồng dân cư; xây dựng bản mường, quê hương ngày càng tươi đẹp và phát triển. Sống là phải có ý thức “mình vì mọi người, mọi người vì mình”. Sống không nên gây hằn thù, xa lánh nhau, mất đoàn kết, rạn nứt tình cảm rồi thì khó lấy lại cái đầy ắp của cái thuở ban đầu. Câu trên còn dùng vào nhiều trường hợp khác, chẳng hạn như khi giải quyết một vụ trâu của một gia đình nào vào ăn lúa của một nhà khác. Nếu có bắt nhà có trâu đền bù số tài sản bị thiệt cũng chỉ được một phần nào đó thôi, còn không thể bằng giá trị tài sản đã mất được, bởi “Nẵm bả bỏ tím tàu, khàu bả bỏ tím óm, tím háy”."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 658 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Nước đổ không đầy ống; gạo đổ không đầy chóc, đầy chum.</TRANSL>
+        <TRANSL xml:lang="vie">(Của đã mất như thể) nước đổ không đầy (lại) ống. Như gạo đổ không đầy (lại) chóe, lại chum.</TRANSL>
+        <W>
+            <FORM>nẵm</FORM>
+            <TRANSL xml:lang="vie">nước</TRANSL>
+        </W>
+        <W>
+            <FORM>bả</FORM>
+            <TRANSL xml:lang="vie">đổ</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>tím</FORM>
+            <TRANSL xml:lang="vie">đầy</TRANSL>
+        </W>
+        <W>
+            <FORM>tàu</FORM>
+            <TRANSL xml:lang="vie">ống</TRANSL>
+        </W>
+        <W>
+            <FORM>khàu</FORM>
+            <TRANSL xml:lang="vie">gạo</TRANSL>
+        </W>
+        <W>
+            <FORM>bả</FORM>
+            <TRANSL xml:lang="vie">đổ</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>tím</FORM>
+            <TRANSL xml:lang="vie">đầy</TRANSL>
+        </W>
+        <W>
+            <FORM>óm</FORM>
+            <TRANSL xml:lang="vie">chóe</TRANSL>
+        </W>
+        <W>
+            <FORM>tím</FORM>
+            <TRANSL xml:lang="vie">đầy</TRANSL>
+        </W>
+        <W>
+            <FORM>háy</FORM>
+            <TRANSL xml:lang="vie">chum</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S022">
+        <AUDIO start="347.881" end="361.744"/>
+        <FORM kindOf="ortho">Xiểu quáng tái; xã hái quáng nảu; bỏ tơ ài nõng cảu ma hớng.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa của câu thành ngữ này khẳng định mối tình cảm giữa những người bạn mới kết nghĩa tâm giao tuy bề ngoài có vẻ cởi mở, nhiệt tình, nhưng bên trong hàm chứa sự giả tạo, giữ kẽ, bon chen, thiếu lòng chân thành. Đó là mối tình cảm “xiểu quáng tái, xa hãi quáng nảu”. Dù thế nào đi nữa mối tình cảm đó sẽ không được lâu bền. Những người quan hệ trên sự lừa lọc, ăn nhau, thu vén lợi nhuận về cá nhân mình; có lợi thì làm, không được lợi thì sẽ không hiểu được ý nghĩa của tình bạn. Quan hệ với những người chỉ biết lấy kinh tế, lợi nhuận làm trọng là quan hệ “xiểu quáng tái, xa hãi quáng nảu” mà thôi. Chi bằng, coi trọng mối tình cảm anh em chân thành, thật thà được xây đắp từ lâu. Tuy đôi bên có khó khăn, vất vả, thiếu thốn nhưng ai cũng sẵn sàng sẻ chia, sẵn sàng chung lưng đấu cật gánh vác, vui sướng cùng chung hưởng. Tình cảm đó mới là bền lâu mãi mãi. Mối tình chân thành, thật thà mới là mối tình cảm anh em đi cùng năm tháng, mới để lại kỉ niệm, ấn tượng sâu đậm trong tâm trí mỗi người. Đấy cũng là tình cảm của những con người mang tâm hồn trong sáng, cao thượng, đáng quý, đáng trân trọng."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 659 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Bạn nai chết, đồng chí nai thối; không bằng anh em ân ái từ lâu.</TRANSL>
+        <TRANSL xml:lang="vie">(Mối tình bạn, dù thế nào cũng là) bạn nai chết, (tình) đồng chí nai thối. Cũng không bằng tình anh em chân thành từ lâu.</TRANSL>
+        <W>
+            <FORM>xiểu</FORM>
+            <TRANSL xml:lang="vie">bạn_tâm_giao</TRANSL>
+        </W>
+        <W>
+            <FORM>quáng</FORM>
+            <TRANSL xml:lang="vie">con_nai</TRANSL>
+        </W>
+        <W>
+            <FORM>tái</FORM>
+            <TRANSL xml:lang="vie">chết</TRANSL>
+        </W>
+        <W>
+            <FORM>xã_hái</FORM>
+            <TRANSL xml:lang="vie">đồng_chí</TRANSL>
+        </W>
+        <W>
+            <FORM>quáng</FORM>
+            <TRANSL xml:lang="vie">con_nai</TRANSL>
+        </W>
+        <W>
+            <FORM>nảu</FORM>
+            <TRANSL xml:lang="vie">thối</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>tơ</FORM>
+            <TRANSL xml:lang="vie">bằng</TRANSL>
+        </W>
+        <W>
+            <FORM>ài_nõng</FORM>
+            <TRANSL xml:lang="vie">anh_em</TRANSL>
+        </W>
+        <W>
+            <FORM>cảu</FORM>
+            <TRANSL xml:lang="vie">cũ</TRANSL>
+        </W>
+        <W>
+            <FORM>ma_hớng</FORM>
+            <TRANSL xml:lang="vie">từ_lâu</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S023">
+        <AUDIO start="366.481" end="380.691"/>
+        <FORM kindOf="ortho">Ắn đí nha cừ tỉ kẹp; ắn xẹp nha cừ hem cưn.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này là mượn việc cất giấu của quý, hiếm, ngon để khuyên răn người đời cần thận trọng, suy tính khi làm mọi việc. Các cụ Thái xưa khuyên rằng “ắn đí nha cừ tỉ kẹp, ắn xẹp nha cừ hen cưn”. Tại sao các cụ lại khuyên như vậy? Tất nhiên cái đẹp, của quý là phải cất giấu nơi bí mật, nơi kín đáo để phòng kẻ trộm. Và của ngon thì không nên để qua đêm vì để qua đêm của ngon ấy có thể sẽ hỏng, không ăn được nữa, như vậy sẽ lãng phí và tốn của. Cũng như của quý mà cất chỗ kín quá, đành rằng “cẩn tắc vô áy náy” nhưng khi quên mất nơi cất giấu thì cũng thành ra mất của, lãng phí, tốn công. Các cụ còn dùng câu này để nói về nhiều sự việc tương tự khác khi muốn khuyên răn mọi người rằng: Khi cất của, nhất là của quý, của ngon, nên cất nơi nào, nên cất ra sao là phải có sự chọn lọc, suy tính thận trọng, có như vậy mới không bị mất trộm, bị quên lãng, bị hư hỏng, ươn thối, không dùng được, lại tiếc nuối."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 660 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Của quý đừng để nơi chật; của ngon đừng để qua đêm.</TRANSL>
+        <TRANSL xml:lang="vie">Cất của quý không nên cất chỗ quá hẹp. Cất của ngon không nên để qua đêm.</TRANSL>
+        <W>
+            <FORM>ắn</FORM>
+            <TRANSL xml:lang="vie">cái/của</TRANSL>
+        </W>
+        <W>
+            <FORM>đí</FORM>
+            <TRANSL xml:lang="vie">đẹp/quý</TRANSL>
+        </W>
+        <W>
+            <FORM>nha</FORM>
+            <TRANSL xml:lang="vie">đừng</TRANSL>
+        </W>
+        <W>
+            <FORM>cừ</FORM>
+            <TRANSL xml:lang="vie">để/cất</TRANSL>
+        </W>
+        <W>
+            <FORM>tỉ</FORM>
+            <TRANSL xml:lang="vie">nơi/chốn</TRANSL>
+        </W>
+        <W>
+            <FORM>kẹp</FORM>
+            <TRANSL xml:lang="vie">chật/hẹp</TRANSL>
+        </W>
+        <W>
+            <FORM>ắn</FORM>
+            <TRANSL xml:lang="vie">cái/của</TRANSL>
+        </W>
+        <W>
+            <FORM>xẹp</FORM>
+            <TRANSL xml:lang="vie">ngon</TRANSL>
+        </W>
+        <W>
+            <FORM>nha</FORM>
+            <TRANSL xml:lang="vie">đừng/chớ</TRANSL>
+        </W>
+        <W>
+            <FORM>cừ</FORM>
+            <TRANSL xml:lang="vie">để/cất</TRANSL>
+        </W>
+        <W>
+            <FORM>hem</FORM>
+            <TRANSL xml:lang="vie">qua</TRANSL>
+        </W>
+        <W>
+            <FORM>cưn</FORM>
+            <TRANSL xml:lang="vie">đêm</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S024">
+        <AUDIO start="384.453" end="395.215"/>
+        <FORM kindOf="ortho">Má hảu má bỏ lon khốp; má khốp má bỏ hảu.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này nói về đặc tính của loài chó. Đúng như các cụ nói “má hảu má bỏ lon khốp”; “má khốp má bỏ hảu”. Trong thực tế, những con chó nào hay sủa, thấy cái gì cũng sủa thường là những con chó không hay cắn. Ngược lại, những con chó không hay sủa thường là những con chó hay cắn người một cách bất ngờ, khó tránh. Câu này đôi khi cũng được dùng để ám chỉ con người. Những người hay “sủa”, tức là những người hay nói, hay phê bình, góp ý người khác thì đa phần thường là những người có tấm lòng trong sáng, chân thành, muốn mọi người cùng tiến bộ. Còn hầu hết những kẻ “ít sủa”, tức là những con người ít phê bình người khác, có thể chưa hẳn đã là người “tốt”, đa số những người như thế là mang bụng dạ thâm hiểm. Nghĩa câu trên cũng dùng để đánh giá về tính chất, đặc điểm, hành động, suy nghĩ của hai hạng chó, hai hạng người hoàn toàn đối lập nhau."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 661 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Chó sủa chó không hay cắn; chó cắn chó không sủa.</TRANSL>
+        <TRANSL xml:lang="vie">Những con chó hay sủa thì không hay cắn. Còn những con chó hay cắn thì không sủa.</TRANSL>
+        <W>
+            <FORM>má</FORM>
+            <TRANSL xml:lang="vie">chó</TRANSL>
+        </W>
+        <W>
+            <FORM>hảu</FORM>
+            <TRANSL xml:lang="vie">sủa</TRANSL>
+        </W>
+        <W>
+            <FORM>má</FORM>
+            <TRANSL xml:lang="vie">chó</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>lon</FORM>
+            <TRANSL xml:lang="vie">hay</TRANSL>
+        </W>
+        <W>
+            <FORM>khốp</FORM>
+            <TRANSL xml:lang="vie">cắn</TRANSL>
+        </W>
+        <W>
+            <FORM>má</FORM>
+            <TRANSL xml:lang="vie">chó</TRANSL>
+        </W>
+        <W>
+            <FORM>khốp</FORM>
+            <TRANSL xml:lang="vie">cắn</TRANSL>
+        </W>
+        <W>
+            <FORM>má</FORM>
+            <TRANSL xml:lang="vie">chó</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>hảu</FORM>
+            <TRANSL xml:lang="vie">sủa</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S025">
+        <AUDIO start="403.017" end="414.302"/>
+        <FORM kindOf="ortho">Thén pắn hờ ki na côn hở; phã xở hờ tỉ nẳng côn neo.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này nói về số mệnh của mỗi con người. Trời sinh ra loài người, không có ai giống ai “mỗi cây mỗi hoa, mỗi nhà mỗi nóc”, từ tính cách, tâm sinh lý, đến hình thức, vị trí, chức vụ, nghề nghiệp,... Câu này gần nghĩa với câu thành ngữ “Mỗi người có một nhịp cầu riêng” trong tiếng Việt. Các cụ Thái xưa khẳng định rằng “Thén pắn hờ kin a côn hở, phã xở hờ ti nẳng côn neo”, cho nên cứ thế mà sống, cứ thế mà lao động, làm ăn, phấn đấu, mưu cầu cuộc sống. Sống chết, giàu nghèo đã có số. Trời, then đã định đoạt sẵn số phận cho mỗi người. Sống ở đời đừng nên băn khoăn, đừng “lấn sân” nhau. Mỗi người cứ sống và làm ăn chân chính, đàng hoàng. Nếu có ai đó sống vẩn đục, lèo lá, ắt là trời sẽ trừng phạt theo nguyên tắc của trời: “ác giả ác báo”, “ở hiền gặp lành”, “gieo gió thì gặt bão”."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 662 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Thén chia cho ăn ruộng người thửa; trời bỏ cho chỗ ngồi người cái.</TRANSL>
+        <TRANSL xml:lang="vie">Ông Then đã sắp xếp cho mỗi người ăn ruộng mỗi thửa. Ông Trời đã ấn định cho mỗi người ngồi mỗi vị trí khác nhau.</TRANSL>
+        <W>
+            <FORM>Thén</FORM>
+            <TRANSL xml:lang="vie">Thén</TRANSL>
+        </W>
+        <W>
+            <FORM>pắn</FORM>
+            <TRANSL xml:lang="vie">chia</TRANSL>
+        </W>
+        <W>
+            <FORM>hờ</FORM>
+            <TRANSL xml:lang="vie">cho</TRANSL>
+        </W>
+        <W>
+            <FORM>ki</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>na</FORM>
+            <TRANSL xml:lang="vie">ruộng</TRANSL>
+        </W>
+        <W>
+            <FORM>côn</FORM>
+            <TRANSL xml:lang="vie">người</TRANSL>
+        </W>
+        <W>
+            <FORM>hở</FORM>
+            <TRANSL xml:lang="vie">thửa_ruộng</TRANSL>
+        </W>
+        <W>
+            <FORM>phã</FORM>
+            <TRANSL xml:lang="vie">trời</TRANSL>
+        </W>
+        <W>
+            <FORM>xở</FORM>
+            <TRANSL xml:lang="vie">bỏ</TRANSL>
+        </W>
+        <W>
+            <FORM>hờ</FORM>
+            <TRANSL xml:lang="vie">cho</TRANSL>
+        </W>
+        <W>
+            <FORM>tỉ_nẳng</FORM>
+            <TRANSL xml:lang="vie">chỗ_ngồi</TRANSL>
+        </W>
+        <W>
+            <FORM>côn</FORM>
+            <TRANSL xml:lang="vie">người</TRANSL>
+        </W>
+        <W>
+            <FORM>neo</FORM>
+            <TRANSL xml:lang="vie">vị_trí_riêng</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S026">
+        <AUDIO start="417.611" end="431.717"/>
+        <FORM kindOf="ortho">Ngắm lặc xỉ pê hòi; ngắm pục cuồi, pục òi; lơ nõi đày ki.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu thành ngữ trên mang tính tả thực. Một người nào đó cứ chực đi ăn trộm, ăn cướp của người ta, “Đi đêm lắm sẽ gặp ma”, khi bị phát hiện sẽ bị xử phạt, đi tù hay bị phạt tiền. Nếu sự việc tái diễn nhiều lần, bị phạt nhiều lần thì kinh tế sẽ bị kiệt quệ “ngắm lặc xỉ pê hòi” (Chực đi ăn trộm thành đứa ở) là cái chắc. Ngược lại, “ngắm pục cuồi, pục òi lơ nõi đày ki” thì thực tế, không những chỉ “lơ nõi” (trẻ em) được ăn, mà cả người lớn cũng được ăn. Như vậy, lao động bằng sức lao động của mình để tạo ra sản phẩm, để sử dụng là chân chính và yên tâm nhất. “Ngắm lặc xỉ pê hòi, ngắm pụ cuồi, pục òi lơ nõi đày ki” là cái cớ để nói lên hai thái cực diễn ra hoàn toàn trái ngược nhau giữa cái thiện và cái ác. Câu này nói về hai hình thức lao động hoàn toàn trái ngược nhau, giữa một bên là lao động bằng cướp bóc, trộm cắp và một bên là lao động chân tay chính đáng. Nghĩa câu này cũng có khuyên răn mọi người hãy dùng sức lực chân tay, đầu óc của mình để lao động, tự làm, tự hưởng; chớ có ý nghĩ trộm cắp lưu manh mà chuốc vạ vào thân. Trộm cắp, lưu manh thường đồng nghĩa với tù tội, nghèo nàn, chết chóc."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 663 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Định trộm thì thành đứa ở; định trồng chuối, trồng mía; trẻ con được ăn.</TRANSL>
+        <TRANSL xml:lang="vie">Ăn trộm, ăn cướp đồng nghĩa với nghèo nàn, tù tội. Hay trồng chuối, trồng mía con trẻ sẽ được ăn chính đáng.</TRANSL>
+        <W>
+            <FORM>ngắm</FORM>
+            <TRANSL xml:lang="vie">có_ý_định</TRANSL>
+        </W>
+        <W>
+            <FORM>lặc</FORM>
+            <TRANSL xml:lang="vie">ăn_trộm/ăn_cắp</TRANSL>
+        </W>
+        <W>
+            <FORM>xỉ</FORM>
+            <TRANSL xml:lang="vie">thì</TRANSL>
+        </W>
+        <W>
+            <FORM>pê</FORM>
+            <TRANSL xml:lang="vie">trở_thành/trở_nên</TRANSL>
+        </W>
+        <W>
+            <FORM>hòi</FORM>
+            <TRANSL xml:lang="vie">người_ở</TRANSL>
+        </W>
+        <W>
+            <FORM>ngắm</FORM>
+            <TRANSL xml:lang="vie">có_ý_định</TRANSL>
+        </W>
+        <W>
+            <FORM>pục</FORM>
+            <TRANSL xml:lang="vie">trồng</TRANSL>
+        </W>
+        <W>
+            <FORM>cuồi</FORM>
+            <TRANSL xml:lang="vie">chuối</TRANSL>
+        </W>
+        <W>
+            <FORM>pục</FORM>
+            <TRANSL xml:lang="vie">trồng</TRANSL>
+        </W>
+        <W>
+            <FORM>òi</FORM>
+            <TRANSL xml:lang="vie">mía</TRANSL>
+        </W>
+        <W>
+            <FORM>lơ_nõi</FORM>
+            <TRANSL xml:lang="vie">trẻ_con</TRANSL>
+        </W>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>ki</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S027">
+        <AUDIO start="436.384" end="452.894"/>
+        <FORM kindOf="ortho">Mó dá xỉ pê phả nhạt; mó xả vạt quáng khì xở na.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này mang tính chế diễu đối với những người làm việc nhưng không giỏi chuyên môn. Câu này có ý nói người làm nghề nào là phải giỏi, phải chuyên sâuvề công việc của nghề đó. Đằng này, thầy chữa bệnh lại để bệnh đầy, còn thợ săn lại để nai đến ỉa lung tung vào ruộng. Nếu nai đến ỉa vào nương rẫy của thầy thuốc thì còn có lý, nhưng ở đây nai lại đến ỉa ngay vào ruộng của thợ săn thì thật là buồn cười. Nghệ thuật nói chữ của các cụ Thái xưa thật là tế nhị, dí dỏm mà sâu cay. Tuy chỉ đề cập đến thầy thuốc và thợ săn nhưng các cụ Thái muốn khuyên nhủ rằng đã làm nghề thì phải chuyên sâu, chú tâm và nên giỏi. Còn những người làm nghề nhưng không gắn bó, tu chí, chỉ hời hợt, “đứng núi này trông núi nọ” thì khó có thể giỏi giang được, chỉ đi làm đầy tớ, làm thuê cho người khác mà thôi."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 664 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Thầy y thì thân đầy bệnh; thầy săn để nai ỉa vào ruộng.</TRANSL>
+        <TRANSL xml:lang="vie">Thầy chữa bệnh mà để bệnh đầy người. Thợ săn giỏi sao lại để nai ỉa vào ruộng.</TRANSL>
+        <W>
+            <FORM>mó_dá</FORM>
+            <TRANSL xml:lang="vie">thầy_thuốc</TRANSL>
+        </W>
+        <W>
+            <FORM>xỉ</FORM>
+            <TRANSL xml:lang="vie">thì</TRANSL>
+        </W>
+        <W>
+            <FORM>pê</FORM>
+            <TRANSL xml:lang="vie">bị</TRANSL>
+        </W>
+        <W>
+            <FORM>phả_nhạt</FORM>
+            <TRANSL xml:lang="vie">bệnh_tật</TRANSL>
+        </W>
+        <W>
+            <FORM>mó_xả</FORM>
+            <TRANSL xml:lang="vie">thợ_săn</TRANSL>
+        </W>
+        <W>
+            <FORM>vạt</FORM>
+            <TRANSL xml:lang="vie">giỏi</TRANSL>
+        </W>
+        <W>
+            <FORM>quáng</FORM>
+            <TRANSL xml:lang="vie">nai</TRANSL>
+        </W>
+        <W>
+            <FORM>khì</FORM>
+            <TRANSL xml:lang="vie">ỉa</TRANSL>
+        </W>
+        <W>
+            <FORM>xở</FORM>
+            <TRANSL xml:lang="vie">bỏ</TRANSL>
+        </W>
+        <W>
+            <FORM>na</FORM>
+            <TRANSL xml:lang="vie">ruộng</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S028">
+        <AUDIO start="459.163" end="465.014"/>
+        <FORM kindOf="ortho">Lực một co hó; lực mó co kỉu.</FORM>
+        <NOTE xml:lang="vie" message="Trong câu này, “một” là một loại thầy mo, có thể là nam hoặc nữ, khài bằng một làn điệu thơ có nhạc công thổi sáo đệm theo phách nhịp, có tiết tấu nhanh, khoan thái, trầm bổng, nghe rất vui tai;  “mó” là một loại thầy khài, chỉ có thể là nam, không cần nhạc công, nhạc cụ đệm. “Lực một co hó, lực mó co kỉu” là biểu hiện của tình trạng của người thiếu sức khỏe, thiếu dinh dưỡng nên “cổ cong, cổ eo”, phát triển không bình thường. Trái lại là những người phát triển cân đối, xinh tươi, đẹp đẽ, tràn đầy sức sống. Ở đây, thầy bói, thầy cúng, thầy mo biết bao nhiêu phù phép, thịt xôi chẳng thiếu, ấy thế mà con thầy nào cũng “co hó, co kỉu” (cổ cong, cổ eo). Đây là sự chế diễu tế nhị, chua cay về tài ba của các bậc “thầy bói, thầy mo, thầy cúng,…”. Nhìn chung, các bậc thầy lang dân gian toàn chỉ trang bị lý thuyết suông, không có tính thực tế. Mục đích của việc khài, cúng, bói của các thầy là giúp cho con người trở nên khỏe mạnh, phát triển cân đối, đẩy đuổi các loại tà ma, bùa yểm, đem lại cuộc sống yên bình. Nhưng nực cười thay, chính con cháu của các thầy bói, thầy mo này lại “cổ cong, cổ eo”, nghĩa là phát triển mất cân đôi, xấu xí như dây rừng. Câu này thường được dùng để chế giễu các ông bà thầy bói, thầy mo về những việc làm vô nghĩa lý, vô tích sự, không thực tế của họ."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 665 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Con thầy bói cổ cong; con thầy mo cổ eo.</TRANSL>
+        <TRANSL xml:lang="vie">Con thầy bói (toàn là) cổ eo. Con thầy mo (toàn là) cổ cong.</TRANSL>
+        <W>
+            <FORM>lực</FORM>
+            <TRANSL xml:lang="vie">con</TRANSL>
+        </W>
+        <W>
+            <FORM>một</FORM>
+            <TRANSL xml:lang="vie">thầy_bói</TRANSL>
+        </W>
+        <W>
+            <FORM>co</FORM>
+            <TRANSL xml:lang="vie">cổ</TRANSL>
+        </W>
+        <W>
+            <FORM>hó</FORM>
+            <TRANSL xml:lang="vie">cong</TRANSL>
+        </W>
+        <W>
+            <FORM>lực</FORM>
+            <TRANSL xml:lang="vie">con</TRANSL>
+        </W>
+        <W>
+            <FORM>mó</FORM>
+            <TRANSL xml:lang="vie">thầy_mo</TRANSL>
+        </W>
+        <W>
+            <FORM>co</FORM>
+            <TRANSL xml:lang="vie">cổ</TRANSL>
+        </W>
+        <W>
+            <FORM>kỉu</FORM>
+            <TRANSL xml:lang="vie">teo/thắt_lại</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S029">
+        <AUDIO start="470.796" end="475.08"/>
+        <FORM kindOf="ortho">Tái bỏ hày, ồm xày bỏ moi.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này thể hiện sự ghét bỏ, sự đoạn tuyệt một cách dứt điểm, không đoái hoài đến một người nào đó “sống chết mặc bay”. Dù quan hệ máu mủ, ruột rà, thân quen, khăng khít nhưng vì một lý do, một hiềm khích, bất đồng cũng có thể khiến người đó bị ruồng bỏ, coi như không tồn tại. Đã cương quyết, xa lánh đến nỗi “Tái bỏ hày, ồm xày bỏ moi” thì coi như không còn quan hệ, không còn gì là tình cảm nữa”."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 666 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Chết không khóc, ốm sốt không chăm.</TRANSL>
+        <TRANSL xml:lang="vie">Mày chết tao không khóc, ốm đau tao không thèm coi.</TRANSL>
+        <W>
+            <FORM>tái</FORM>
+            <TRANSL xml:lang="vie">chết</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>hày</FORM>
+            <TRANSL xml:lang="vie">khóc</TRANSL>
+        </W>
+        <W>
+            <FORM>ồm</FORM>
+            <TRANSL xml:lang="vie">ốm</TRANSL>
+        </W>
+        <W>
+            <FORM>xày</FORM>
+            <TRANSL xml:lang="vie">sốt_rét</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>moi</FORM>
+            <TRANSL xml:lang="vie">coi/chăm_sóc</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S030">
+        <AUDIO start="479.956" end="492.426"/>
+        <FORM kindOf="ortho">Hõng há phã xỉ xúng; hõng há đín xóng tín nhẳm cừ.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này thể hiện sự tuyệt vọng, bất lực của con người trước một vấn đề nào đó trong cuộc sống. Trước sức mạnh tàn phá, trước thế lực lăm le lấn tới, mình hết phương cứu vãn, cầu cứu, không còn dựa vào đâu được, cứ thế phó mặc số phận đi đến bến bờ nào thì đến, không còn ai thương mình, đồng tình với mình. Một mình mình “đơn phương, độc mã”, chống cự, van lơn, cầu cứu, kêu trời thì trời quá cao, gọi đất thì hai chân dẫm mất rồi, cứ thế buông xuôi; còn kêu người thì không biết kêu ai toàn vì xung quanh toàn là những kẻ lăm le hại mình, nên đành để mặc số phận, nuốt đắng cay, ngậm ngùi vào trong."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 667 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Gọi với trời thì cao; gọi đất thì hai chân giậm để.</TRANSL>
+        <TRANSL xml:lang="vie">(Tình thế, thế này, biết kêu ai giúp đỡ) Kêu trời thì trời ở trên cao. Gọi đất giúp thì hai chân giậm mất rồi.</TRANSL>
+        <W>
+            <FORM>hõng</FORM>
+            <TRANSL xml:lang="vie">gọi</TRANSL>
+        </W>
+        <W>
+            <FORM>há</FORM>
+            <TRANSL xml:lang="vie">đến/với</TRANSL>
+        </W>
+        <W>
+            <FORM>phã</FORM>
+            <TRANSL xml:lang="vie">trời</TRANSL>
+        </W>
+        <W>
+            <FORM>xỉ</FORM>
+            <TRANSL xml:lang="vie">thì</TRANSL>
+        </W>
+        <W>
+            <FORM>xúng</FORM>
+            <TRANSL xml:lang="vie">cao</TRANSL>
+        </W>
+        <W>
+            <FORM>hõng</FORM>
+            <TRANSL xml:lang="vie">gọi</TRANSL>
+        </W>
+        <W>
+            <FORM>há</FORM>
+            <TRANSL xml:lang="vie">đến/với</TRANSL>
+        </W>
+        <W>
+            <FORM>đín</FORM>
+            <TRANSL xml:lang="vie">đất</TRANSL>
+        </W>
+        <W>
+            <FORM>xóng</FORM>
+            <TRANSL xml:lang="vie">hai</TRANSL>
+        </W>
+        <W>
+            <FORM>tín</FORM>
+            <TRANSL xml:lang="vie">chân</TRANSL>
+        </W>
+        <W>
+            <FORM>nhẳm</FORM>
+            <TRANSL xml:lang="vie">giậm</TRANSL>
+        </W>
+        <W>
+            <FORM>cừ</FORM>
+            <TRANSL xml:lang="vie">để</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S031">
+        <AUDIO start="495.525" end="502.039"/>
+        <FORM kindOf="ortho">Tá hến dặc đày; tõng mày dặc ki (dặc kín).</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này nói lên một điều rất thực tế, đó là khi nhìn thấy cái gì đẹp, cái quý thì ai cũng muốn lấy, muốn được, muốn vật đó thuộc về mình. Đối với những thứ vật chất liên quan đến sự sống con người thì lại càng quan trọng. Không có ăn thì đói, không đủ ăn thì gầy và không có cái ăn thì chết. Đã đói thì khi nào cũng ao ước được ăn, khi nào cũng muốn ăn.“Tá hến dặc đày; tõng mày dặc ki” là hai mặt của một vấn đề. Khi con người ta có cuộc sống đầy đủ, no ấm thì không sao nhưng khi người ta thiếu thốn, vất vả thì hai vấn đề trên thường đồng thời xảy ra. Đó là những thứ thuộc về ham muốn của con người."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 668 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Mắt thấy muốn được; lòng cháy muốn ăn.</TRANSL>
+        <TRANSL xml:lang="vie">Mắt thấy muốn được (muốn lấy). Bụng đói thì muốn ăn.</TRANSL>
+        <W>
+            <FORM>tá</FORM>
+            <TRANSL xml:lang="vie">mắt</TRANSL>
+        </W>
+        <W>
+            <FORM>hến</FORM>
+            <TRANSL xml:lang="vie">thấy</TRANSL>
+        </W>
+        <W>
+            <FORM>dặc</FORM>
+            <TRANSL xml:lang="vie">muốn</TRANSL>
+        </W>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>tõng</FORM>
+            <TRANSL xml:lang="vie">bụng/lòng</TRANSL>
+        </W>
+        <W>
+            <FORM>mày</FORM>
+            <TRANSL xml:lang="vie">cháy</TRANSL>
+        </W>
+        <W>
+            <FORM>dặc</FORM>
+            <TRANSL xml:lang="vie">muốn</TRANSL>
+        </W>
+        <W>
+            <FORM>ki/kín</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S032">
+        <AUDIO start="519.001" end="522.797"/>
+        <FORM kindOf="ortho">Xíp pỏ cã bỏ lừa ài pỏ na.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này nói về chuyện so sánh giữa hai nghề, đó là nghề đi buôn và nghề làm ruộng. Các cụ Thái xưa cho rằng “Xíp pỏ cã bỏ lừa, ài pỏ na” (Mười anh đi buôn không bằng anh làm ruộng). Nói về góc độ chắc chắn thì nghề sản xuất làm ruộng có phần chắc chắn hơn. Làm ruộng, nếu chịu khó đầu tư cộng với tính siêng năng cần cù là ít mất mùa hơn mà năng suất, hiệu quả lại cao. Vì thế nên người xưa mới có câu: “Nhất sĩ, nhì nông; Hết gạo chạy rông, nhất nông nhì sĩ”. Ở một góc độ khác, người ta lại bảo “Phi thương bất phú”, không có buôn bán thì không giàu có. Vậy thì tại sao lại “Xíp pỏ cả bỏ lừa ài pỏ na” được? Tác giả dân gian Thái thời xa xưa kết luận vấn đề có phần hơi chủ quan, một chiều. Các cụ thiếu đi sự phân tích cụ thể đối với từng nghề. Nói cho cùng, nghề đi buôn là nghề mưu cầu làm giàu, là nghề kiếm tiền; còn nghề làm ruộng là nghề kiếm lúa gạo, cơm ăn. Mỗi nghề đều có cái ưu thế riêng của nó. Nếu đi buôn mà lỗ thì đúng là không bằng làm ruộng."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 669 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Mười người buôn không bằng anh làm ruộng.</TRANSL>
+        <TRANSL xml:lang="vie">Mười người đi buôn không bằng anh làm ruộng.</TRANSL>
+        <W>
+            <FORM>xíp</FORM>
+            <TRANSL xml:lang="vie">mười</TRANSL>
+        </W>
+        <W>
+            <FORM>pỏ_cã</FORM>
+            <TRANSL xml:lang="vie">người_đi_buôn</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ_lừa</FORM>
+            <TRANSL xml:lang="vie">không_bằng</TRANSL>
+        </W>
+        <W>
+            <FORM>ài</FORM>
+            <TRANSL xml:lang="vie">anh</TRANSL>
+        </W>
+        <W>
+            <FORM>pỏ_na</FORM>
+            <TRANSL xml:lang="vie">người_làm_ruộng</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S033">
+        <AUDIO start="543.811" end="548.85"/>
+        <FORM kindOf="ortho">Căm càu cắm càu va; bỏ tỏ nẵm ma na tỏ lãu.</FORM>
+        <NOTE xml:lang="vie" message="Câu này được tác giả dân gian Thái thời xưa sử dụng lối so sánh bằng phương pháp ngoa ngữ. Giá trị thực của một nắm, một sải vàng có thể gấp hàng trăm lần một mùa làm ruộng, nhưng các cụ Thái cho rằng nó không bằng nước về ruộng một kho. Cách nói này thể hiện sự trân trọng đối với miếng cơm, hạt gạo và có ý ngợi ca nghề làm ruộng. Khi làm ruộng, người ta thường chú ý đến vai trò của các nhân tố: “Nhất nước, nhì phân, tam cần, tứ giống”. Nước mà đảm bảo thì chắc chắn mùa đó năng suất cao, bội thu. Được mùa thì cuộc sống của người dân ấm no, hạnh phúc. Đó là điều không ai có thể phủ nhận. Như vậy, câu này nên hiểu theo nghĩa bóng. Trong nhân gian, không mấy ai có một sải vàng để tiêu, đó là điều xa vời, viển vông. Còn việc “nước về ruộng” đó là niềm vui, nguồn động viên đối với người nông dân, đó là một thực tế."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 670 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Vàng chín nắm chín sải; không bằng nước về ruộng bằng kho.</TRANSL>
+        <TRANSL xml:lang="vie">Có vàng chín nắm, chín sải. Không bằng nước về ruộng bằng kho.</TRANSL>
+        <W>
+            <FORM>căm</FORM>
+            <TRANSL xml:lang="vie">vàng</TRANSL>
+        </W>
+        <W>
+            <FORM>càu</FORM>
+            <TRANSL xml:lang="vie">chín</TRANSL>
+        </W>
+        <W>
+            <FORM>cắm</FORM>
+            <TRANSL xml:lang="vie">nắm_tay</TRANSL>
+        </W>
+        <W>
+            <FORM>càu</FORM>
+            <TRANSL xml:lang="vie">chín</TRANSL>
+        </W>
+        <W>
+            <FORM>va</FORM>
+            <TRANSL xml:lang="vie">sải_tay</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>tỏ</FORM>
+            <TRANSL xml:lang="vie">bằng</TRANSL>
+        </W>
+        <W>
+            <FORM>nẵm</FORM>
+            <TRANSL xml:lang="vie">nước</TRANSL>
+        </W>
+        <W>
+            <FORM>ma</FORM>
+            <TRANSL xml:lang="vie">về</TRANSL>
+        </W>
+        <W>
+            <FORM>na</FORM>
+            <TRANSL xml:lang="vie">ruộng</TRANSL>
+        </W>
+        <W>
+            <FORM>tỏ</FORM>
+            <TRANSL xml:lang="vie">bằng</TRANSL>
+        </W>
+        <W>
+            <FORM>lãu</FORM>
+            <TRANSL xml:lang="vie">kho/kho_lúa</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S034">
+        <AUDIO start="553.076" end="555.816"/>
+        <FORM kindOf="ortho">Cái mó ma xở nghe.</FORM>
+        <NOTE xml:lang="vie" message="Ở đây, “Cái mó pa xở nghe” ý nói những người am hiểu luật lệ, thông thái phong tục, tập quán bản mường giải quyết còn không được thì làm sao những ông thầy “dởm” có thể giải quyết được. Qua câu này, các cụ Thái muốn khuyên rằng để giải quyết công việc thì phải có sự chọn lọc, phải có sự nhìn nhận tinh tế, chính xác. Nếu nhờ những người không hiểu biết, không có trình độ thì có thể chẳng những không giúp được việc gì mà còn làm hỏng việc thêm. Vì thế, khi nhờ vả người nào là phải hết sức thận trọng, không nên làm theo kiểu“bạ đâu chộp đấy”, phải “biết người biết ta”. “Cái mó pa xở nghe”, với nghĩa ấy được hiểulà nhờ người thì phải căn ke, chính xác, không thì lại “mất của lại hại mình”."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 671 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Quá thầy mo mới đến thầy dởm.</TRANSL>
+        <TRANSL xml:lang="vie">Thầy mo chính hàng không nhờ lại đi nhờ thầy dởm.</TRANSL>
+        <W>
+            <FORM>cái</FORM>
+            <TRANSL xml:lang="vie">quá</TRANSL>
+        </W>
+        <W>
+            <FORM>mó</FORM>
+            <TRANSL xml:lang="vie">thầy_mo</TRANSL>
+        </W>
+        <W>
+            <FORM>ma</FORM>
+            <TRANSL xml:lang="vie">đến</TRANSL>
+        </W>
+        <W>
+            <FORM>xở</FORM>
+            <TRANSL xml:lang="vie">với/nhờ</TRANSL>
+        </W>
+        <W>
+            <FORM>nghe</FORM>
+            <TRANSL xml:lang="vie">một_dạng_thầy_mo_nhưng_kém_hơn_ông_thầy_mo_về_một_số_mặt_nào_đó</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S035">
+        <AUDIO start="566.288" end="569.934"/>
+        <FORM kindOf="ortho">Tí lếch xở nà xỡ.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này hoàn toàn giống với nghĩa câu thành ngữ trong tiếng Việt “Múa rìu qua mắt thợ”. Câu này thường được dùng để  chỉ một ai đó vì không biết trước mặt mình là thợ nên mới “Tí lếch xở nà xỡ” (Rèn sắt bỏ mặt thợ). Đã là thợ thì họ thường rất giỏi về nghề nghiệp chuyên môn của họ. Vì thế nên những người ngoài lĩnh vực đó không mấy ai lại cả gan chê thợ làm không đẹp, không giỏi và đòi làm mẫu trước mặt họ."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 672 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Rèn sắt bỏ mặt thợ.</TRANSL>
+        <TRANSL xml:lang="vie">(Thật không dám) rèn sắt trước mặt thợ.</TRANSL>
+        <W>
+            <FORM>tí</FORM>
+            <TRANSL xml:lang="vie">rèn</TRANSL>
+        </W>
+        <W>
+            <FORM>lếch</FORM>
+            <TRANSL xml:lang="vie">sắt</TRANSL>
+        </W>
+        <W>
+            <FORM>xở</FORM>
+            <TRANSL xml:lang="vie">bỏ/bỏ_vào</TRANSL>
+        </W>
+        <W>
+            <FORM>nà</FORM>
+            <TRANSL xml:lang="vie">mặt</TRANSL>
+        </W>
+        <W>
+            <FORM>xỡ</FORM>
+            <TRANSL xml:lang="vie">thợ</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S036">
+        <AUDIO start="574.183" end="582.867"/>
+        <FORM kindOf="ortho">Vả đày xỉ vả lắc; mặc ki xỉ vả xẹp.</FORM>
+        <NOTE xml:lang="vie" message="Đại đa số những người hay nói, hay lý luận, hoặc ngoa mồm là những người hay tự xưng và cho là mình khôn ngoan hơn người. Những người khác nghe họ nói có khi chẳng thấy lọt tai nhưng họ thì vẫn cho mọi điều họ nói ra đều là đúng. Họ không hề hay biết rằng người nghe đang bĩu môi, chê cười cho lý thuyết suông của họ. Điều này cũng giống như kiểu ưng ăn thì cho rằng món ăn này ngon, và ngược lại, khi không ưng ăn thì cho là không ngon. Điều đó xuất phát từ cảm giác, sở thích của từng người. Câu này răn dạy, khuyến cáo mọi người rằng đừng tự cho mình giỏi giang, tế thế hơn người mà nên nhìn lại mình, dè dặt lời ăn tiếng nói để tránh sự chê cười của người đời."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 673 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Nói được thì nói khôn; ưng ăn thì nói ngon.</TRANSL>
+        <TRANSL xml:lang="vie">(Đừng nên) nói được thì cho mình là khôn. Ưng ăn thì cho là món này ngon.</TRANSL>
+        <W>
+            <FORM>vả</FORM>
+            <TRANSL xml:lang="vie">nói</TRANSL>
+        </W>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>xỉ</FORM>
+            <TRANSL xml:lang="vie">thì</TRANSL>
+        </W>
+        <W>
+            <FORM>vả</FORM>
+            <TRANSL xml:lang="vie">nói</TRANSL>
+        </W>
+        <W>
+            <FORM>lắc</FORM>
+            <TRANSL xml:lang="vie">khôn</TRANSL>
+        </W>
+        <W>
+            <FORM>mặc</FORM>
+            <TRANSL xml:lang="vie">ưng</TRANSL>
+        </W>
+        <W>
+            <FORM>ki/kín</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>xỉ</FORM>
+            <TRANSL xml:lang="vie">thì</TRANSL>
+        </W>
+        <W>
+            <FORM>vả</FORM>
+            <TRANSL xml:lang="vie">nói</TRANSL>
+        </W>
+        <W>
+            <FORM>xẹp</FORM>
+            <TRANSL xml:lang="vie">ngon</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S037">
+        <AUDIO start="600.77" end="603.463"/>
+        <FORM kindOf="ortho">Ê tám phãn, khì bè tám bết.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa đen của câu này nói về việc lấy cứt dê để làm mồi câu cá mà không biết có được hay không, không rõ cá có ăn cứt dê không. Tuy vậy, họ vẫn làm, được thì chớ, không được thì bỏ. Ý nghĩa sâu xa, tế nhị mà tác giả Thái gửi gắm trong câu này là nhằm đả kích những kẻ hồ đồ, chủ quan, thái quá trong cung cách làm việc. Họ làm mà không hề có sự suy nghĩ, tính toán trước sau, không cần biết kết quả hay dở thế nào, làm chừng chừng, được chăng hay chớ như kiểu lấy cứt dê làm mồi câu cá vậy. Qua câu này, các cụ Thái muốn khuyên răn con cháu rằng bất cứ công việc gì cũng cần phải cân nhắc lợi, hại trước khi thực hiện, để tránh hai mình, hại người."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 674 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Làm chừng chừng, cứt dê mồi câu.</TRANSL>
+        <TRANSL xml:lang="vie">Làm chừng chừng (như kiểu lấy) cứt dê mồi câu (ấy).</TRANSL>
+        <W>
+            <FORM>Ê</FORM>
+            <TRANSL xml:lang="vie">làm</TRANSL>
+        </W>
+        <W>
+            <FORM>tám_phãn</FORM>
+            <TRANSL xml:lang="vie">làm_chừng_chừng</TRANSL>
+        </W>
+        <W>
+            <FORM>khì</FORM>
+            <TRANSL xml:lang="vie">cứt/phân</TRANSL>
+        </W>
+        <W>
+            <FORM>bè</FORM>
+            <TRANSL xml:lang="vie">dê</TRANSL>
+        </W>
+        <W>
+            <FORM>tám</FORM>
+            <TRANSL xml:lang="vie">móc</TRANSL>
+        </W>
+        <W>
+            <FORM>bết</FORM>
+            <TRANSL xml:lang="vie">lưỡi_câu</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S038">
+        <AUDIO start="612.148" end="628.587"/>
+        <FORM kindOf="ortho">Dặc đày pán dặc kín; dặc nghín pán dặc hũ; dặc lìn xũ pán dặc ê mua.</FORM>
+        <NOTE xml:lang="vie" message="Tác giả dân gian Thái xưa thực hiện một phép so sánh giữa: “muốn được” với “muốn ăn”, “muốn nghe” với “muốn biết”,“muốn chơi bồ” với “muốn làm mùa”. Ba trạng thái muốn ấy hoàn toàn như nhau, ngang bằng nhau, đều háo hức tột bậc, mong muốn đến cháy ruột, cháy gan. Có thể nói phải trải qua sự rung cảm nội tâm, từng là người trong cuộc thì các cụ Thái mới có thể có sự so sánh chính xác đến vậy. Thấy của lạ, của ngon là muốn được, muốn ăn; nghe được thông tin lạ tai là muốn nghe, muốn biết; cũng như có bồ mà không được “chơi” là thèm khát. Thèm khát như thể suy nghĩ rằng không làm mùa để có lúa ăn thì đói. Vợ chỉ là người đàn bà nằm bên, mối tình đó là mối tình cũ rích, thường nhật. Bồ là của lạ, của hiếm, là một thứ “đặc sản” của tình yêu, tình yêu nồng cháy, không nhìn thấy nhau giờ phút nào là nhớ thương vời vợi."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 675 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Muốn được như muốn ăn; muốn nghe như muốn biết; muốn chơi bồ như muốn làm mùa.</TRANSL>
+        <TRANSL xml:lang="vie">(Trong cõi nhân gian, người ta) Muốn được như thể muốn ăn. Muốn nghe như thể muốn biết. Muốn chơi bồ như thể muốn làm mùa.</TRANSL>
+        <W>
+            <FORM>dặc/dạc</FORM>
+            <TRANSL xml:lang="vie">muốn</TRANSL>
+        </W>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>pán</FORM>
+            <TRANSL xml:lang="vie">như/bằng</TRANSL>
+        </W>
+        <W>
+            <FORM>dặc</FORM>
+            <TRANSL xml:lang="vie">muốn</TRANSL>
+        </W>
+        <W>
+            <FORM>kín</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>dặc</FORM>
+            <TRANSL xml:lang="vie">muốn</TRANSL>
+        </W>
+        <W>
+            <FORM>nghín</FORM>
+            <TRANSL xml:lang="vie">nghe</TRANSL>
+        </W>
+        <W>
+            <FORM>pán</FORM>
+            <TRANSL xml:lang="vie">như/bằng</TRANSL>
+        </W>
+        <W>
+            <FORM>dặc</FORM>
+            <TRANSL xml:lang="vie">muốn</TRANSL>
+        </W>
+        <W>
+            <FORM>hũ</FORM>
+            <TRANSL xml:lang="vie">biết</TRANSL>
+        </W>
+        <W>
+            <FORM>dặc</FORM>
+            <TRANSL xml:lang="vie">muốn</TRANSL>
+        </W>
+        <W>
+            <FORM>lìn</FORM>
+            <TRANSL xml:lang="vie">chơi</TRANSL>
+        </W>
+        <W>
+            <FORM>xũ</FORM>
+            <TRANSL xml:lang="vie">bồ</TRANSL>
+        </W>
+        <W>
+            <FORM>pán</FORM>
+            <TRANSL xml:lang="vie">như/bằng</TRANSL>
+        </W>
+        <W>
+            <FORM>dặc</FORM>
+            <TRANSL xml:lang="vie">muốn</TRANSL>
+        </W>
+        <W>
+            <FORM>ê</FORM>
+            <TRANSL xml:lang="vie">làm</TRANSL>
+        </W>
+        <W>
+            <FORM>mua</FORM>
+            <TRANSL xml:lang="vie">mùa</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S039">
+        <AUDIO start="633.87" end="653.584"/>
+        <FORM kindOf="ortho">Phi mày hảy chẳng hến nà nú; phi mày pu mày phá chẳng hến nà chon; phi mày còn phá lãn chẳng xỏng hến hau.</FORM>
+        <NOTE xml:lang="vie" message="Câu này được sử dụng trong trường hợp phải diễn ra cái này thì mới biết cái kia, hay nói cách khác là nếu không có cái này thì cái kia cũng không thể hiện ra để ta có thể thấy. Tập tính của lũ chuột là sống chui lủi kiếm ăn dưới đống cây khô mà người ta phát làm rẫy, còn lũ sóc thì chui lủi trên ngọn cây ở trên núi, trên lèn đá, bình thường ta không thể trông thấy được. Đến khi người ta đem lửa châm đốt đống cây khô, châm lửa đốt núi, đốt lèn thì lũ chuột, lũ sóc mới nhảy ra vì không chịu được nóng nên ta mới thấy chúng. Cũng như đôi trai gái đem lòng yêu thương nhau nhưng vì có một chướng ngại vật nào đó ngăn cản mà ở đây, các cụ cho vật cản đó là “còn phá lãn” (hòn đá tảng khổng lồ), hòn đá tảng khổng lồ này có cháy đi thì ta mới được nhìn rõ nhau. Ở đây, các cụ chỉ mới nói đến mức độ được nhìn thấy thôi, còn việc đến được với nhau, lấy được nhau lại là điều vô cùng khó, thậm chí không thể. Nếu không có những điều kiện khác tác động gián tiếp một cách mạnh mẽ thì khó có thể nhận ra được, ví như kẻ trộm, kẻ nhận hối lộ, kẻ tham ô, tham nhũng nếu không có nhân chứng, không tìm ra chứng cứ cụ thể, rõ ràng thì khó lòng quy kết tội cho những kẻ ấy ăn trộm, tham ô, nhận hối lộ, tham nhũng được, mà phải đợi đến khi “cháy nhà ra mặt chuột” họ mới chịu công nhận tội lỗi của mình."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 676 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Lửa cháy rẫy mới thấy mặt chuột; lửa cháy núi cháy lèn mới thấy mặt sóc; lửa cháy hòn đá tảng khổng lồ mới rõ thấy nhau.</TRANSL>
+        <TRANSL xml:lang="vie">Lửa có cháy rẫy thì mới thấy mặt chuột. Lửa có cháy núi cháy lèn mới thấy được mặt sóc. Lửa có cháy hòn đá tảng khổng lồ ta mới thấy nhau.</TRANSL>
+        <W>
+            <FORM>phi</FORM>
+            <TRANSL xml:lang="vie">lửa</TRANSL>
+        </W>
+        <W>
+            <FORM>mày</FORM>
+            <TRANSL xml:lang="vie">cháy</TRANSL>
+        </W>
+        <W>
+            <FORM>hảy</FORM>
+            <TRANSL xml:lang="vie">rẫy</TRANSL>
+        </W>
+        <W>
+            <FORM>chẳng</FORM>
+            <TRANSL xml:lang="vie">mới</TRANSL>
+        </W>
+        <W>
+            <FORM>hến</FORM>
+            <TRANSL xml:lang="vie">thấy</TRANSL>
+        </W>
+        <W>
+            <FORM>nà</FORM>
+            <TRANSL xml:lang="vie">mặt</TRANSL>
+        </W>
+        <W>
+            <FORM>nú</FORM>
+            <TRANSL xml:lang="vie">chuột</TRANSL>
+        </W>
+        <W>
+            <FORM>phi</FORM>
+            <TRANSL xml:lang="vie">lửa</TRANSL>
+        </W>
+        <W>
+            <FORM>mày</FORM>
+            <TRANSL xml:lang="vie">cháy</TRANSL>
+        </W>
+        <W>
+            <FORM>pu</FORM>
+            <TRANSL xml:lang="vie">núi</TRANSL>
+        </W>
+        <W>
+            <FORM>mày</FORM>
+            <TRANSL xml:lang="vie">cháy</TRANSL>
+        </W>
+        <W>
+            <FORM>phá</FORM>
+            <TRANSL xml:lang="vie">lèn</TRANSL>
+        </W>
+        <W>
+            <FORM>chẳng</FORM>
+            <TRANSL xml:lang="vie">mới</TRANSL>
+        </W>
+        <W>
+            <FORM>hến</FORM>
+            <TRANSL xml:lang="vie">thấy</TRANSL>
+        </W>
+        <W>
+            <FORM>nà</FORM>
+            <TRANSL xml:lang="vie">mặt</TRANSL>
+        </W>
+        <W>
+            <FORM>chon</FORM>
+            <TRANSL xml:lang="vie">một_loài_gặm_nhấm_họ_sóc</TRANSL>
+        </W>
+        <W>
+            <FORM>phi</FORM>
+            <TRANSL xml:lang="vie">lửa</TRANSL>
+        </W>
+        <W>
+            <FORM>mày</FORM>
+            <TRANSL xml:lang="vie">cháy</TRANSL>
+        </W>
+        <W>
+            <FORM>còn_phá</FORM>
+            <TRANSL xml:lang="vie">hòn_đá</TRANSL>
+        </W>
+        <W>
+            <FORM>lãn</FORM>
+            <TRANSL xml:lang="vie">to</TRANSL>
+        </W>
+        <W>
+            <FORM>chẳng</FORM>
+            <TRANSL xml:lang="vie">mới</TRANSL>
+        </W>
+        <W>
+            <FORM>xỏng</FORM>
+            <TRANSL xml:lang="vie">lộ</TRANSL>
+        </W>
+        <W>
+            <FORM>hến</FORM>
+            <TRANSL xml:lang="vie">thấy</TRANSL>
+        </W>
+        <W>
+            <FORM>hau</FORM>
+            <TRANSL xml:lang="vie">ta</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S040">
+        <AUDIO start="681.587" end="688.832"/>
+        <FORM kindOf="ortho">Tợp ma dặc mi pãn; mà ma dặc mi tối mi lừa.</FORM>
+        <NOTE xml:lang="vie" message="Câu thành ngữ này thể hiện được ngõ ngách sâu thẳm trong tâm lý và đây cũng là quy luật trường tồn trong đời sống con người. Ai ai cũng thế, nam như nữ, lớn lên đều nảy nở tình cảm: nhớ, thương, yêu, rồi sau đó trai gái muốn hòa nhập với nhau làm một. Câu này thường là câu nói đầu lưỡi của các ông mối, bà mối khi dẫn dắt đôi trai gái thành vợ, thành chồng. Đây là nguyện vọng thiết tha của trai gái ở tuổi mới lớn và tuổi trưởng thành. Trong cuộc sống riêng tư, không ai có thể sống độc thân suốt đời, ít ra cũng phải tìm lấy một người bạn đời, tìm lấy một người bạn đường để khi “tắt lửa tối đèn” cuộc đời đỡ cô đơn, hiu quạnh."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 677 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Lớn về muốn có bạn; trưởng thành muốn có đôi, có lứa.</TRANSL>
+        <TRANSL xml:lang="vie">(Ai cũng) lớn lên muốn có bạn. Tuổi trường thành thì muốn có lứa, có đôi.</TRANSL>
+        <W>
+            <FORM>tợp</FORM>
+            <TRANSL xml:lang="vie">lớn/to</TRANSL>
+        </W>
+        <W>
+            <FORM>ma</FORM>
+            <TRANSL xml:lang="vie">về/lại</TRANSL>
+        </W>
+        <W>
+            <FORM>dặc/dạc</FORM>
+            <TRANSL xml:lang="vie">muốn</TRANSL>
+        </W>
+        <W>
+            <FORM>mi</FORM>
+            <TRANSL xml:lang="vie">có</TRANSL>
+        </W>
+        <W>
+            <FORM>pãn</FORM>
+            <TRANSL xml:lang="vie">bạn</TRANSL>
+        </W>
+        <W>
+            <FORM>mà</FORM>
+            <TRANSL xml:lang="vie">trưởng_thành</TRANSL>
+        </W>
+        <W>
+            <FORM>ma</FORM>
+            <TRANSL xml:lang="vie">về/lại</TRANSL>
+        </W>
+        <W>
+            <FORM>dặc/dạc</FORM>
+            <TRANSL xml:lang="vie">muốn</TRANSL>
+        </W>
+        <W>
+            <FORM>mi</FORM>
+            <TRANSL xml:lang="vie">có</TRANSL>
+        </W>
+        <W>
+            <FORM>tối</FORM>
+            <TRANSL xml:lang="vie">đôi</TRANSL>
+        </W>
+        <W>
+            <FORM>mi</FORM>
+            <TRANSL xml:lang="vie">có</TRANSL>
+        </W>
+        <W>
+            <FORM>lừa</FORM>
+            <TRANSL xml:lang="vie">lứa</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S041">
+        <AUDIO start="697.504" end="712.795"/>
+        <FORM kindOf="ortho">Dàn mất xa xữa khàu vái; dàn tái xa neo khàu cuồi; dàn xuồi xa mủ neo hươn.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa của câu này nói lên sự ham muốn được trở thành anh em, thông gia với gia đình có truyền thống gia giáo. Truyền thống, dòng dõi vinh hoa, phú quý, gia giáo ấy nếu không được tiếp tục nối tiếp thì sợ rằng “Dàn mất xa xữa khàu vái, Dàn tái xa neo khàu cuồi, Dàn xuồi xa mủ neo hươn”. Dòng dõi đằng ấy được ví như những loại lúa quý của bản mường, đó là “xữa khàu vái”, đó là “neo khàu cuồi”, đó là “nòi gia giáo”. Nếu không lấy được con gái đằng ấy về nhà mình, e rằng rồi sẽ mất đi những của quý mà bấy lâu nay có được và gìn giữ. Đã mất đi là không lấy lại được nữa. Điều đó mà xảy ra là một thiệt thòi lớn. Do đó, phải liều lấy cho bằng được cái “xữa khàu vái, neo khàu cuồi, mủ neo hươn” của đằng ấy để tiếp tục đơm hoa, kết trái thành quan hệ anh em, quan hệ thông gia về lâu, về dài."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 678 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Sợ hết mất nòi lúa mây; sợ chết mất giống lúa chuối; sợ tóp mất bạn giống nhà.</TRANSL>
+        <TRANSL xml:lang="vie">Tôi sợ mất đi nòi lúa mấy. Sợ mất đi giống lúa chuối. Sợ chết mất giống nòi gia giáo nhà ta.</TRANSL>
+        <W>
+            <FORM>dàn</FORM>
+            <TRANSL xml:lang="vie">sợ</TRANSL>
+        </W>
+        <W>
+            <FORM>mất</FORM>
+            <TRANSL xml:lang="vie">hết</TRANSL>
+        </W>
+        <W>
+            <FORM>xa</FORM>
+            <TRANSL xml:lang="vie">mất</TRANSL>
+        </W>
+        <W>
+            <FORM>xữa</FORM>
+            <TRANSL xml:lang="vie">nòi/dòng_dõi</TRANSL>
+        </W>
+        <W>
+            <FORM>khàu</FORM>
+            <TRANSL xml:lang="vie">lúa</TRANSL>
+        </W>
+        <W>
+            <FORM>vái</FORM>
+            <TRANSL xml:lang="vie">mây</TRANSL>
+        </W>
+        <W>
+            <FORM>dàn</FORM>
+            <TRANSL xml:lang="vie">sợ</TRANSL>
+        </W>
+        <W>
+            <FORM>tái</FORM>
+            <TRANSL xml:lang="vie">chết</TRANSL>
+        </W>
+        <W>
+            <FORM>xa</FORM>
+            <TRANSL xml:lang="vie">mất</TRANSL>
+        </W>
+        <W>
+            <FORM>neo</FORM>
+            <TRANSL xml:lang="vie">giống</TRANSL>
+        </W>
+        <W>
+            <FORM>khàu</FORM>
+            <TRANSL xml:lang="vie">lúa</TRANSL>
+        </W>
+        <W>
+            <FORM>cuồi</FORM>
+            <TRANSL xml:lang="vie">chuối</TRANSL>
+        </W>
+        <W>
+            <FORM>dàn</FORM>
+            <TRANSL xml:lang="vie">sợ</TRANSL>
+        </W>
+        <W>
+            <FORM>xuồi</FORM>
+            <TRANSL xml:lang="vie">nhọn/tóp</TRANSL>
+        </W>
+        <W>
+            <FORM>xa</FORM>
+            <TRANSL xml:lang="vie">mất</TRANSL>
+        </W>
+        <W>
+            <FORM>mủ</FORM>
+            <TRANSL xml:lang="vie">giàu_sang/quyền_quý</TRANSL>
+        </W>
+        <W>
+            <FORM>neo</FORM>
+            <TRANSL xml:lang="vie">nòi</TRANSL>
+        </W>
+        <W>
+            <FORM>hươn</FORM>
+            <TRANSL xml:lang="vie">nhà</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S042">
+        <AUDIO start="723.592" end="733.309"/>
+        <FORM kindOf="ortho">Côn tộc ki lồm mò; côn khò ki cả tái; xái co tỏ đắm pã.</FORM>
+        <NOTE xml:lang="vie" message="Câu này đề cập đến hai loại người “côn tộc” và “côn khò” (người mồ côi, cô đơn, không nơi nương tựa và người lam lũ nghèo khó, khờ dại). Đối với hai loại người này, thường thì họ chỉ coi việc ăn là trên hết, ăn không dành phần cho ai. Nhưng cũng chính vì cái sự ăn uống này mà họ luôn “tộc”, “khò” (khốn, khó). Khi ăn, họ ăn như thể cuống họng của họ to bằng cái cán dao; dạ dày họ to bằng cái thúng nên ăn mãi không thấy no, thấy đủ. Họ không hề để ý đến sĩ diện bản thân, không nghĩ đến việc tiết kiệm hay làm giàu, có bao nhiêu ăn hết bấy nhiêu. Đó là cái sự ăn của “côn tộc, côn khò”."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 679 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Người khổ ăn cạn nồi; người khó ăn bằng chết; cuống họng bằng cán dao.</TRANSL>
+        <TRANSL xml:lang="vie">Người khốn (thì) ăn cạn nồi. Người khó ăn bằng chết. Cuống họng (của họ) bằng cán dao.</TRANSL>
+        <W>
+            <FORM>côn</FORM>
+            <TRANSL xml:lang="vie">người</TRANSL>
+        </W>
+        <W>
+            <FORM>tộc</FORM>
+            <TRANSL xml:lang="vie">nghèo_đói</TRANSL>
+        </W>
+        <W>
+            <FORM>ki</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>lồm</FORM>
+            <TRANSL xml:lang="vie">cạn</TRANSL>
+        </W>
+        <W>
+            <FORM>mò</FORM>
+            <TRANSL xml:lang="vie">nồi</TRANSL>
+        </W>
+        <W>
+            <FORM>côn</FORM>
+            <TRANSL xml:lang="vie">người</TRANSL>
+        </W>
+        <W>
+            <FORM>khò</FORM>
+            <TRANSL xml:lang="vie">mồ_côi/neo_đơn</TRANSL>
+        </W>
+        <W>
+            <FORM>ki</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>cả</FORM>
+            <TRANSL xml:lang="vie">bằng</TRANSL>
+        </W>
+        <W>
+            <FORM>tái</FORM>
+            <TRANSL xml:lang="vie">chết</TRANSL>
+        </W>
+        <W>
+            <FORM>xái</FORM>
+            <TRANSL xml:lang="vie">dây</TRANSL>
+        </W>
+        <W>
+            <FORM>co</FORM>
+            <TRANSL xml:lang="vie">cổ/họng</TRANSL>
+        </W>
+        <W>
+            <FORM>tỏ</FORM>
+            <TRANSL xml:lang="vie">bằng</TRANSL>
+        </W>
+        <W>
+            <FORM>đắm_pã</FORM>
+            <TRANSL xml:lang="vie">cán_dao</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S043">
+        <AUDIO start="736.514" end="747.764"/>
+        <FORM kindOf="ortho">Tỉ đày ki nha hờ pưởn hũ; tỉ đày cù nha hờ pưởn hến chớ.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này là một lời khuyên răn, mách nước, cũng là một lời dạy bảo rất chân thành. Tác giả dân gian chỉ giáo rằng nơi mà mình làm ăn được, có thể kiếm được “của ăn, của để” thì cứ thế mà làm ăn, chớ có dại dột mà oang oang nói ra cho người khác biết, mà mình mất phần. Ở đây, câu này dường như thể hiện một lối sống có phần hẹp hòi. Thay vì thể hiện tấm lòng “Thương người như thể thương thân”, chia sẻ kinh nghiệm, cung cách làm ăn cùng anh em, bạn bè để mọi người làm ăn khấm khá lên thì đằng này tác giả lại dạy “Tỉ đày kin ha hờ pưởn hũ”. Nhưng đọc kĩ câu này, ta cần phải hiểu nghĩa của câu từ một góc độ khác. Đó là nơi nào sẵn sàng chia sẻ, đỡ đần mình những lúc khó khăn, thiếu thốn, cho mình bữa rau, bữa cháo thì phải biết giữ gìn. Cần phải giữ gìn sự trong sáng, chân thành trong tình cảm giao tiếp; không nên để lộ ra những cái xấu để người khác có thể suy rộng ra cả con người mình, nhằm tránh làm đổ vỡ những cái tốt đẹp trong mối quan hệ bấy lâu."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 680 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Nơi được ăn đừng cho họ biết; nơi được nhờ đừng cho họ thấy lòng.</TRANSL>
+        <TRANSL xml:lang="vie">(Nơi nào mình) được ăn thì đừng để người ta biết bụng. (Nơi nào mình) được nhờ đừng để người ta thấy lòng.</TRANSL>
+        <W>
+            <FORM>tỉ</FORM>
+            <TRANSL xml:lang="vie">nơi/chôn</TRANSL>
+        </W>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>ki</FORM>
+            <TRANSL xml:lang="vie">ăn</TRANSL>
+        </W>
+        <W>
+            <FORM>nha</FORM>
+            <TRANSL xml:lang="vie">đừng</TRANSL>
+        </W>
+        <W>
+            <FORM>hờ</FORM>
+            <TRANSL xml:lang="vie">cho</TRANSL>
+        </W>
+        <W>
+            <FORM>pưởn</FORM>
+            <TRANSL xml:lang="vie">họ/người_ta</TRANSL>
+        </W>
+        <W>
+            <FORM>hũ</FORM>
+            <TRANSL xml:lang="vie">biết</TRANSL>
+        </W>
+        <W>
+            <FORM>tỉ</FORM>
+            <TRANSL xml:lang="vie">nơi/chốn</TRANSL>
+        </W>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>cù</FORM>
+            <TRANSL xml:lang="vie">ban_ơn/cưu_mang</TRANSL>
+        </W>
+        <W>
+            <FORM>nha</FORM>
+            <TRANSL xml:lang="vie">đừng</TRANSL>
+        </W>
+        <W>
+            <FORM>hờ</FORM>
+            <TRANSL xml:lang="vie">cho</TRANSL>
+        </W>
+        <W>
+            <FORM>pưởn</FORM>
+            <TRANSL xml:lang="vie">họ/người_ta</TRANSL>
+        </W>
+        <W>
+            <FORM>hến</FORM>
+            <TRANSL xml:lang="vie">thấy</TRANSL>
+        </W>
+        <W>
+            <FORM>chớ</FORM>
+            <TRANSL xml:lang="vie">lòng</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S044">
+        <AUDIO start="752.013" end="762.183"/>
+        <FORM kindOf="ortho">Nẵm lỗn, lỗn tỉ tẳm; phí xẵm, xẵm tỉ khồn.</FORM>
+        <NOTE xml:lang="vie" message="Câu này nói lên một quy luật rất thực tế trong đời sống con người, đó là nước luôn tràn từ chỗ cao xuống chỗ thấp. Còn vấn đề bắt ma chỗ nghèo mà không phải chỗ giàu là cách nói chữ của tác giả dân gian Thái trên cơ sở có tính lý do. Khi bị bệnh, người giàu có tiền của nên dễ dàng chạy chữa, bệnh gì cũng có thể qua khỏi, ma không bắt được. Ngược lại, người nghèo, không có tiền để thuốc thang thì chỉ nằm chờ chết, chờ ma bắt. Nghĩa bóng của câu này còn ám chỉ những kẻ có chức, có quyền, cậy thế, lộng hành, tham ô, tham nhũng, bất chấp mọi mối quan hệ, đục khoét, vơ vét của người nghèo, thu cái lợi về mình. Trong giải quyết sự vụ, họ chỉ cần có tiền đút lót, hối lộ là bất chấp công lý, tha bổng cho kẻ có tội; còn đối với những người nghèo, không có tiền cho chúng là chúng sẽ bất chấp công lý, luật lệ mà đòi tiền bạc, nhũng nhiễu cho khốn đốn. “Phí xẵm, xẵm tỉ khồn” là vậy."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 681 trong tác phẩm của Vi Khăm Mun."/>
+        <TRANSL xml:lang="vie">Nước tràn, tràn chỗ thấp; ma trị, trị chỗ nghèo.</TRANSL>
+        <TRANSL xml:lang="vie">Nước tràn, tràn chỗ thấp. Ma trị, trị chỗ nghèo.</TRANSL>
+        <W>
+            <FORM>nẵm</FORM>
+            <TRANSL xml:lang="vie">nước</TRANSL>
+        </W>
+        <W>
+            <FORM>lỗn</FORM>
+            <TRANSL xml:lang="vie">tràn</TRANSL>
+        </W>
+        <W>
+            <FORM>lỗn</FORM>
+            <TRANSL xml:lang="vie">tràn</TRANSL>
+        </W>
+        <W>
+            <FORM>tỉ</FORM>
+            <TRANSL xml:lang="vie">chỗ/nơi</TRANSL>
+        </W>
+        <W>
+            <FORM>tẳm</FORM>
+            <TRANSL xml:lang="vie">thấp</TRANSL>
+        </W>
+        <W>
+            <FORM>phí</FORM>
+            <TRANSL xml:lang="vie">ma</TRANSL>
+        </W>
+        <W>
+            <FORM>xẵm</FORM>
+            <TRANSL xml:lang="vie">trị</TRANSL>
+        </W>
+        <W>
+            <FORM>xẵm</FORM>
+            <TRANSL xml:lang="vie">trị</TRANSL>
+        </W>
+        <W>
+            <FORM>tỉ</FORM>
+            <TRANSL xml:lang="vie">chỗ/nơi</TRANSL>
+        </W>
+        <W>
+            <FORM>khồn</FORM>
+            <TRANSL xml:lang="vie">nghèo</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S045">
+        <AUDIO start="765.457" end="783.325"/>
+        <FORM kindOf="ortho">Đày hày, hày hờ ọc nẵm tá; đày há hờ mi cống khun mưa nà.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này muốn khuyên đã làm điều gì thì phải làm cho đến nơi đến chốn, không nên làm nửa vời rồi bỏ. Nghĩa của câu thứ nhất gần với nghĩa câu thành ngữ “Đã thương thì thương cho trót” trong tiếng Việt. Ở đây, khóc ám chỉ một hành động thật thà, chân thành. Khóc mà không ra nước mắt là khóc giả tạo, thiếu chân thành. Ở đây, không nói đến kiểucó khóc, có rơi nước mắt nhưng vẫn ẩn chứa sự giả tạo. Ta nói “Đày hày, hày hờ ọc nẵm tá” là nói đến cái thật, là tình cảm thật, không chút giấu giếm. Còn việc “Đày há, há hờ mi cống khun mưa nà” là sự biết đội ơn người đã giúp đỡ mình, người đã có nghĩa cử đẹp, cưu mang mình vượt qua thời gian khó, vất vả. Tác giả dân gian Thái khuyên mọi người đừng “chưa ăn đã quên”, mà cần phải biết ơn mãi mãi về sau, không được phũ phàng quên đi công ơn người khác."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 682 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Được khóc, khóc cho ra nước mắt; được nhờ cho có công ơn về sau.</TRANSL>
+        <TRANSL xml:lang="vie">(Có thương) có khóc thì khóc cho ra nước mắt. Được người ta giúp phải biết ơn mãi về sau.</TRANSL>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>hày</FORM>
+            <TRANSL xml:lang="vie">khéo</TRANSL>
+        </W>
+        <W>
+            <FORM>hày</FORM>
+            <TRANSL xml:lang="vie">khéo</TRANSL>
+        </W>
+        <W>
+            <FORM>hờ</FORM>
+            <TRANSL xml:lang="vie">cho</TRANSL>
+        </W>
+        <W>
+            <FORM>ọc</FORM>
+            <TRANSL xml:lang="vie">ra</TRANSL>
+        </W>
+        <W>
+            <FORM>nẵm</FORM>
+            <TRANSL xml:lang="vie">nước</TRANSL>
+        </W>
+        <W>
+            <FORM>tá</FORM>
+            <TRANSL xml:lang="vie">bắt</TRANSL>
+        </W>
+        <W>
+            <FORM>đày</FORM>
+            <TRANSL xml:lang="vie">được</TRANSL>
+        </W>
+        <W>
+            <FORM>há</FORM>
+            <TRANSL xml:lang="vie">nhờ_vả</TRANSL>
+        </W>
+        <W>
+            <FORM>hờ</FORM>
+            <TRANSL xml:lang="vie">cho</TRANSL>
+        </W>
+        <W>
+            <FORM>mi</FORM>
+            <TRANSL xml:lang="vie">có</TRANSL>
+        </W>
+        <W>
+            <FORM>cống_khun</FORM>
+            <TRANSL xml:lang="vie">công_ơn</TRANSL>
+        </W>
+        <W>
+            <FORM>mưa</FORM>
+            <TRANSL xml:lang="vie">về</TRANSL>
+        </W>
+        <W>
+            <FORM>nà</FORM>
+            <TRANSL xml:lang="vie">mặt</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S046">
+        <AUDIO start="791.127" end="794.715"/>
+        <FORM kindOf="ortho">Nộc cẫu hố tá mễ.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa đen của câu này nói về việc cú mèo con chê cười mắt mẹ nó to, tròn, xấu. Từ nghĩa đen này, tác giả dân gian Thái muốn ám chỉ những người vốn đã có tật hoặc có những hành vi, cử chỉ bất bình thường rồi, nhưng khi thấy một người nào đó cũng có tật hoặc hành vi, cử chỉ như mình thì lại đem điều đó ra để chế giễu, chê cười. Những người như vậy cứ thấy cái gì xấu là mở miệng ra chê mà không hề hay biết gì về cái xấu của mình, không tự nhìn nhận lại bản thân. Thực ra, họ mới là những người đáng chê cười, bởi việc họ làm chẳng khác nào tự mình cười chê mình. Như vậy, muốn cười người thì cần phải nhìn lại mình, sửa mình trước đã."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 683 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Chim cú mèo cười mắt mẹ.</TRANSL>
+        <TRANSL xml:lang="vie">(Đó là hiện tượng) cú mèo cười mắt mẹ.</TRANSL>
+        <W>
+            <FORM>nộc</FORM>
+            <TRANSL xml:lang="vie">chim</TRANSL>
+        </W>
+        <W>
+            <FORM>cẫu</FORM>
+            <TRANSL xml:lang="vie">cú_mèo</TRANSL>
+        </W>
+        <W>
+            <FORM>hố</FORM>
+            <TRANSL xml:lang="vie">cười</TRANSL>
+        </W>
+        <W>
+            <FORM>tá</FORM>
+            <TRANSL xml:lang="vie">mắt</TRANSL>
+        </W>
+        <W>
+            <FORM>mễ</FORM>
+            <TRANSL xml:lang="vie">mẹ</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S047">
+        <AUDIO start="805.895" end="825.992"/>
+        <FORM kindOf="ortho">Húa hảu tô bỏ chăm; hón đọc tô pê nám lảy lã</FORM>
+        <NOTE xml:lang="vie" message="Câu này có ý chế giễu những người không biết tự nhìn lại bản thân mình, luôn cho mình là trong sạch, không có khuyết điểm, nhưng thực tế thì “Hủa hảu pê nám” (đầu gối mọc gai), gai ở đây ý ám chỉ việc bản thân ẩn tàng nhiều khuyết điểm, thói hư, tật xấu. Đó là những con người lập dị, hợm mình, chủ quan. Mặc cho người đời cười chê, mặc cho người đời nguyền rủa, họ cứ đạp lên dư luận, đạp lên làn sóng chê bai, nguyền rủa để sống thản nhiên giữa đời. Họ không hề quan tâm đến sĩ diện hay danh dự của bản thân. Con người ta phải biết “có tật giật mình”, và khi đã biết tật mình rồi thì phải biết tự sửa chữa, cầu tiến bộ, có như vậy mới trở thành con người văn minh, mẫu mực."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 684 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Đầu gối mình không sờ; thân thể mình mọc gai vô số.</TRANSL>
+        <TRANSL xml:lang="vie">Tại sao đầu gối mình không sờ. Bản thân đã mọc gai đầy rẫy.</TRANSL>
+        <W>
+            <FORM>húa_hảu</FORM>
+            <TRANSL xml:lang="vie">đầu_gối</TRANSL>
+        </W>
+        <W>
+            <FORM>tô</FORM>
+            <TRANSL xml:lang="vie">mình</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>chăm</FORM>
+            <TRANSL xml:lang="vie">sờ</TRANSL>
+        </W>
+        <W>
+            <FORM>hón</FORM>
+            <TRANSL xml:lang="vie">bản_thân_mình</TRANSL>
+        </W>
+        <W>
+            <FORM>đọc</FORM>
+            <TRANSL xml:lang="vie">mục/nát</TRANSL>
+        </W>
+        <W>
+            <FORM>tô</FORM>
+            <TRANSL xml:lang="vie">mình</TRANSL>
+        </W>
+        <W>
+            <FORM>pê</FORM>
+            <TRANSL xml:lang="vie">mọc</TRANSL>
+        </W>
+        <W>
+            <FORM>nám</FORM>
+            <TRANSL xml:lang="vie">gai</TRANSL>
+        </W>
+        <W>
+            <FORM>lảy_lã</FORM>
+            <TRANSL xml:lang="vie">vô_số</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S048">
+        <AUDIO start="835.257" end="843.79"/>
+        <FORM kindOf="ortho">Chành nơ chớ; xớ nơ nhọt; xọt xền hến quam.</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này muốn khuyên rằng khi nghe bất cứ một sự việc gì xảy ra có liên quan đến bản thân mình, tốt xấu, hay dở gì nếu chưa tìm hiểu kĩ càng, thực hư câu chuyện thì không nên vội phản ứng. Khi nào “Chành nơ chớ, xớ nơ nhọt, xọt xền hến quam” (Rõ ở lòng, trong ở đọt, thấu hiểu thấy lời rồi), thì hãy tỏ thái độ, ý kiến. Nếu mọi tin thất thiệt, mọi lời dèm pha mới chỉ được nghe thấy một cách chưa rõ ràng mà đã vội bu lu, ba loa, chửi bới, phản ứng thì sẽ dễ gây mất lòng nhau, mất đoàn kết, có khi đôi bên hiểu sai sự thật. Ví như câu tiếng Việt: “Cưới vợ phải cưới liền tay, Chớ để lâu ngày lắm kẻ dèm pha”, câu này nói về kinh nghiệm lấy vợ. Kinh nghiệm cho thấy rằng sự việc mà đã có lời dèm pha là dễ hỏng việc, khiến hai bên hiểu lầm nhau. Do đó tuân thủ ý nghĩa của câu “Chành nơ chớ, xớ nơ nhọt, xọt xền hến quam” là rất quan trọng, đảm bảo thành công cho mọi vấn đề, cho mọi sự việc; không nên nóng vội, đốt cháy giai đoạn, dễ gây hỏng việc hay mất đoàn kết."/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 685 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Rõ ở lòng; trong ở đọt; thấu hiểu thấy lời.</TRANSL>
+        <TRANSL xml:lang="vie">(Sự việc gì hãy) rõ ở lòng. Trong như đọt. Thấu hiểu thấy lời (mới hay).</TRANSL>
+        <W>
+            <FORM>chành</FORM>
+            <TRANSL xml:lang="vie">rõ_ràng</TRANSL>
+        </W>
+        <W>
+            <FORM>nơ</FORM>
+            <TRANSL xml:lang="vie">ở_trong</TRANSL>
+        </W>
+        <W>
+            <FORM>chớ</FORM>
+            <TRANSL xml:lang="vie">lòng</TRANSL>
+        </W>
+        <W>
+            <FORM>xớ</FORM>
+            <TRANSL xml:lang="vie">trong_suốt</TRANSL>
+        </W>
+        <W>
+            <FORM>nơ</FORM>
+            <TRANSL xml:lang="vie">ở_trong</TRANSL>
+        </W>
+        <W>
+            <FORM>nhọt</FORM>
+            <TRANSL xml:lang="vie">đọt/ngọn</TRANSL>
+        </W>
+        <W>
+            <FORM>xọt_xền</FORM>
+            <TRANSL xml:lang="vie">rõ_ngọn_ngành</TRANSL>
+        </W>
+        <W>
+            <FORM>hến</FORM>
+            <TRANSL xml:lang="vie">thấy</TRANSL>
+        </W>
+        <W>
+            <FORM>quam</FORM>
+            <TRANSL xml:lang="vie">lời_nói.</TRANSL>
+        </W>
+    </S>
+    <S id="IDIOMS_S049">
+        <AUDIO start="848.213" end="862.598"/>
+        <FORM kindOf="ortho">Quai háu cóm bỏ lon à; xà há cẳm ạp nẵm bỏ háo</FORM>
+        <NOTE xml:lang="vie" message="Nghĩa câu này đề cập đến quy luật hiển nhiên của tạo hóa rằng sừng trâu đã cong chụm thì sẽ không thể nào mọc choãi ra phía ngoài được; còn màu da (đen, vàng, trắng, đỏ) cũng là do đặc trưng của nòi giống, chủng tộc không thể tẩy rửa đi như màu nghệ, màu sơn,... dính vào được. Qua đây, các cụ cũng muốn ám chỉ vấn đề sâu xa hơn là về giống nòi, dòng tộc. Các cụ cho rằng dòng tộc nào không có gen thông minh thì ít có sự đột biến để sinh ra con cháu thông minh. Và các dân tộc chậm phát triển thì nâng đỡ bao nhiêu cũng khó làm nên sự nghiệp lớn, bởi họ đã quen với cuộc sống đơn giản, thiếu ý chí và nghị lực phấn đấu. Do đó, các cụ nói “Quai háu cóm bỏ lon à, Xà há cẳm ạp nẵm bỏ háo” là rất chính xác. Nói vậy, tuy nhiên, thời đại của chúng ta là thời đại văn minh, thời đại khoa học tiên tiến, vì thế bất luận dân tộc nào, bất luận người nào, sống ở địa bàn nào cũng cần phải phấn đấu, học tập, nắm lấy tri thức khoa học để tự mình làm cho cuộc sống của mình, cuộc sống của dân tộc mình dần dần khá lên. Đó là điều có thể làm được, có thể phấn đấu được, mà cũng phải làm, cũng phải phấn đấu, không thể và cũng không nên làm cái kiểu “ngồi chờ ăn sung rụng, trái chín cây”, chờ sự hỗ trợ, tài trợ của nhà nước mãi được. "/>
+        <NOTE xml:lang="vie" message="Tục ngữ / thành ngữ số 686 trong tác phẩm của Vi Khăm Mun"/>
+        <TRANSL xml:lang="vie">Trâu sừng chụm không hay chạng; xá đùi thâm tắm nước không trắng.</TRANSL>
+        <TRANSL xml:lang="vie">(Theo quy luật trời đất thì) sừng trâu đã mọc chụm thì sẽ không chạng ra. Người ta đã bắp đùi tím thâm dù có tắm nước cũng không trắng.</TRANSL>
+        <W>
+            <FORM>quai</FORM>
+            <TRANSL xml:lang="vie">trâu</TRANSL>
+        </W>
+        <W>
+            <FORM>háu</FORM>
+            <TRANSL xml:lang="vie">sừng</TRANSL>
+        </W>
+        <W>
+            <FORM>cóm</FORM>
+            <TRANSL xml:lang="vie">cong/chụm</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ_lon</FORM>
+            <TRANSL xml:lang="vie">không_hay</TRANSL>
+        </W>
+        <W>
+            <FORM>à</FORM>
+            <TRANSL xml:lang="vie">chạng_ra</TRANSL>
+        </W>
+        <W>
+            <FORM>xà</FORM>
+            <TRANSL xml:lang="vie">chỉ_dân_tộc_kém_phát_triển</TRANSL>
+        </W>
+        <W>
+            <FORM>há</FORM>
+            <TRANSL xml:lang="vie">bắp_đùi</TRANSL>
+        </W>
+        <W>
+            <FORM>cẳm</FORM>
+            <TRANSL xml:lang="vie">tím_thâm</TRANSL>
+        </W>
+        <W>
+            <FORM>ạp</FORM>
+            <TRANSL xml:lang="vie">tắm</TRANSL>
+        </W>
+        <W>
+            <FORM>nẵm</FORM>
+            <TRANSL xml:lang="vie">nước</TRANSL>
+        </W>
+        <W>
+            <FORM>bỏ</FORM>
+            <TRANSL xml:lang="vie">không</TRANSL>
+        </W>
+        <W>
+            <FORM>háo</FORM>
+            <TRANSL xml:lang="vie">trắng</TRANSL>
+        </W>
+    </S>
+    <TRANSL xml:lang="vie">Được ăn vịt thì cổ có khoang; được ăn ngan, ăn ngỗng thì cổ dài. Khéo xúc đủ nướng; khéo bốc đầy đùm. Chăm làm, chăm ăn thì được; chăm ốm, chăm sốt thì chết. Đêm sáng như năm. Hỏi tận khu sắn, khu khoai. Thóc mường nào trỉa đất mường đó. Ở gần chàm không nhuộm cũng đen. Ăn không mời; việc không gọi; công việc nặng, việc dày không bảo. Xuổng cùn về với ống; bụng rỗng về với họ. Gốc cây chặt sát đất không còn sợ lửa cháy; người giang hồ không còn sợ lửa cháy. Được ăn đừng quên đũa; được ở đừng quên ơn. Được ăn cơm xin đừng quên đi ruộng; được ngủ màn, ngủ chăn đừng quên đi gốc dâu non lá. Không nuốt nước miếng cổ khô; không nói to thì người ta chèn ép. Chua cũng rượu; già cũng vợ; mắt choẹt cũng bồ; béo lùn tịt cũng chồng. Nồi xứng vung; nàng xứng chàng. Gà không gáy, cáo cũng không biết; bồ không loan, trai không về. Gà không liều, vườn cũng không nát. Trời sắp nắng như trời sắp mưa; người sắp chết như người sắp sống. Ngủ say còn biết dậy; đi nơi khác còn biết về. Nồi vỡ không có hơi; người chết không biết nói. Nước đổ không đầy ống; gạo đổ không đầy chóc, đầy chum. Bạn nai chết, đồng chí nai thối; không bằng anh em ân ái từ lâu. Của quý đừng để nơi chật; của ngon đừng để qua đêm. Chó sủa chó không hay cắn; chó cắn chó không sủa. Thén chia cho ăn ruộng người thửa; trời bỏ cho chỗ ngồi người cái. Định trộm thì thành đứa ở; định trồng chuối, trồng mía; trẻ con được ăn. Thầy y thì thân đầy bệnh; thầy săn để nai ỉa vào ruộng. Con thầy bói cổ cong; con thầy mo cổ eo. Chết không khóc, ốm sốt không chăm. Gọi với trời thì cao; gọi đất thì hai chân giậm để. Mắt thấy muốn được; lòng cháy muốn ăn. Mười người buôn không bằng anh làm ruộng. Vàng chín nắm chín sải; không bằng nước về ruộng bằng kho. Quá thầy mo mới đến thầy dởm. Rèn sắt bỏ mặt thợ. Nói được thì nói khôn; ưng ăn thì nói ngon. Làm chừng chừng, cứt dê mồi câu. Muốn được như muốn ăn; muốn nghe như muốn biết; muốn chơi bồ như muốn làm mùa. Lửa cháy rẫy mới thấy mặt chuột; lửa cháy núi cháy lèn mới thấy mặt sóc; lửa cháy hòn đá tảng khổng lồ mới rõ thấy nhau. Lớn về muốn có bạn; trưởng thành muốn có đôi, có lứa. Sợ hết mất nòi lúa mây; sợ chết mất giống lúa chuối; sợ tóp mất bạn giống nhà. Người khổ ăn cạn nồi; người khó ăn bằng chết; cuống họng bằng cán dao. Nơi được ăn đừng cho họ biết; nơi được nhờ đừng cho họ thấy lòng. Nước tràn, tràn chỗ thấp; ma trị, trị chỗ nghèo. Được khóc, khóc cho ra nước mắt; được nhờ cho có công ơn về sau. Chim cú mèo cười mắt mẹ. Đầu gối mình không sờ; thân thể mình mọc gai vô số. Rõ ở lòng; trong ở đọt; thấu hiểu thấy lời. Trâu sừng chụm không hay chạng; xá đùi thâm tắm nước không trắng. </TRANSL>
+    <TRANSL xml:lang="vie">(Họ) được ăn vịt thì (tự hào) cổ khoang. Được ăn ngan, ăn ngỗng thì cổ họ dài ngoẵng.
+Khéo xúc đủ nướng. Khéo bốc đầy đùm.
+(Ai mà) chăm làm, chăm ăn thì được (sung túc). (Ai mà) chăm ốm, chăm sốt thì chết.
+Sống qua đêm như thể bằng năm.
+(Hỏi gì mà) hỏi cắt đít sắn, đít khoai (như thế).
+Giống lúa mường nào đem trỉa ở đất mường đó.
+(Người tốt) ở gần chàm không nhuộm cũng đen.
+Ăn không thèm mời. Việc không thèm gọi.
+Chiếc xuổng khi cùn là cùn về phía ống tra cán. Người ta khi khó khăn, thiếu thốn thì tìm về với họ hàng.
+Gốc cây đã chặt sát đất chẳng sợ gì lửa cháy. Con người đã dấn thân vào làng giang hồ không sợ gì nơi chết.
+Khi được ăn thì đừng quên đũa. Khi được ở xin đừng quên ân huệ của người ban ơn.
+Được ăn cơm xin đừng quên mất ruộng. Được ngủ màn, ngủ chăn ấm chớ quên đi gốc dâu đang mơn mởn lá non.
+Không nuốt nước miếng thì cổ khô. Không ăn to, nói lớn thì người ta khinh suất, chèn ép.
+Chua cũng là rượu (cứ uống). Già cũng là vợ (cứ chơi). Mắt choẹt cũng là bồ (cứ dùng). Béo húp lùn tịt cũng là chồng (cứ yêu).
+Họ đã nồi xứng vung, nàng xứng chàng rồi.
+Không nghe tiếng gáy của gà, cáo không biết đường tìm đến. Người tình không gọi thì trai chẳng tìm đến chơi.
+Gà (mà) không bám, không liều làm sao vườn nát được.
+Trời sắp nắng như trời sắp mưa. Người sắp chết như thể người sắp sống.
+Ngủ say còn biết dậy. Đi nơi khác còn biết về.
+(Sự việc như thể) nồi vỡ không có hơi, người chết không biết nói.
+(Của đã mất như thể) nước đổ không đầy (lại) ống. Như gạo đổ không đầy (lại) chóe, lại chum.
+(Mối tình bạn, dù thế nào cũng là) bạn nai chết, (tình) đồng chí nai thối. Cũng không bằng tình anh em chân thành từ lâu.
+Cất của quý không nên cất chỗ quá hẹp. Cất của ngon không nên để qua đêm.
+Những con chó hay sủa thì không hay cắn. Còn những con chó hay cắn thì không sủa.
+Ông Then đã sắp xếp cho mỗi người ăn ruộng mỗi thửa. Ông Trời đã ấn định cho mỗi người ngồi mỗi vị trí khác nhau.
+Ăn trộm, ăn cướp đồng nghĩa với nghèo nàn, tù tội. Hay trồng chuối, trồng mía con trẻ sẽ được ăn chính đáng.
+Thầy chữa bệnh mà để bệnh đầy người. Thợ săn giỏi sao lại để nai ỉa vào ruộng.
+Con thầy bói (toàn là) cổ eo. Con thầy mo (toàn là) cổ cong.
+Mày chết tao không khóc, ốm đau tao không thèm coi.
+(Tình thế, thế này, biết kêu ai giúp đỡ) Kêu trời thì trời ở trên cao. Gọi đất giúp thì hai chân giậm mất rồi.
+Mắt thấy muốn được (muốn lấy). Bụng đói thì muốn ăn.
+Mười người đi buôn không bằng anh làm ruộng.
+Có vàng chín nắm, chín sải. Không bằng nước về ruộng bằng kho.
+Thầy mo chính hàng không nhờ lại đi nhờ thầy dởm.
+(Thật không dám) rèn sắt trước mặt thợ.
+(Đừng nên) nói được thì cho mình là khôn.Ưng ăn thì cho là món này ngon.
+Làm chừng chừng (như kiểu lấy) cứt dê mồi câu (ấy).
+(Trong cõi nhân gian, người ta) Muốn được như thể muốn ăn. Muốn nghe như thể muốn biết. Muốn chơi bồ như thể muốn làm mùa.
+Lửa có cháy rẫy thì mới thấy mặt chuột. Lửa có cháy núi cháy lèn mới thấy được mặt sóc. Lửa có cháy hòn đá tảng khổng lồ ta mới thấy nhau.
+(Ai cũng) lớn lên muốn có bạn. Tuổi trường thành thì muốn có lứa, có đôi.
+Tôi sợ mất đi nòi lúa mấy. Sợ mất đi giống lúa chuối. Sợ chết mất giống nòi gia giáo nhà ta.
+Người khốn (thì) ăn cạn nồi. Người khó ăn bằng chết. Cuống họng (của họ) bằng cán dao.
+(Nơi nào mình) được ăn thì đừng để người ta biết bụng. (Nơi nào mình) được nhờ đừng để người ta thấy lòng.
+Nước tràn, tràn chỗ thấp. Ma trị, trị chỗ nghèo.
+(Có thương) có khóc thì khóc cho ra nước mắt. Được người ta giúp phải biết ơn mãi về sau.
+(Đó là hiện tượng) cú mèo cười mắt mẹ.
+Tại sao đầu gối mình không sờ. Bản thân đã mọc gai đầy rẫy.
+(Sự việc gì hãy) rõ ở lòng. Trong như đọt. Thấu hiểu thấy lời (mới hay).
+(Theo quy luật trời đất thì) sừng trâu đã mọc chụm thì sẽ không chạng ra. Người ta đã bắp đùi tím thâm dù có tắm nước cũng không trắng.
+</TRANSL>
+    <TRANSL xml:lang="vie"/>
+</TEXT>

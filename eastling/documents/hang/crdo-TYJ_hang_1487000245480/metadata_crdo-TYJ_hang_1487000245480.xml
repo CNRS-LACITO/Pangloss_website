@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?><crdo:catalog xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://crdo.risc.cnrs.fr/schemas/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/"><crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2017-05-09" crdo:id="crdo-TYJ_hang_1487000245480"><dc:title  xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title><dcterms:alternative xml:lang="fra">Lecture de dictons et proverbes</dcterms:alternative><dcterms:alternative xml:lang="vie">Đọc thành ngữ và tục ngữ tiếng Thái Do</dcterms:alternative><dc:language xsi:type="olac:language" olac:code="vie"></dc:language><dc:subject  xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject><dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+                <dcterms:spatial  xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+                <dcterms:spatial  xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial><dc:contributor xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor><dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher><dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+			    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+			    <collection>Lacito</collection>
+			    <dcterms:available xsi:type="dcterms:W3CDTF"></dcterms:available>
+			    <dcterms:license xsi:type="dcterms:URI">CC-BY-SA</dcterms:license>
+			    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+                <dc:format  xsi:type="dcterms:IMT">text/xml</dc:format>
+                    <dc:source></dc:source>
+                    <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+                    <dcterms:created xsi:type="dcterms:W3CDTF">2017-05-09</dcterms:created>
+                    <dcterms:extent></dcterms:extent>
+                    <dc:identifier xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480.xml</dc:identifier>
+                    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480.xhtml</dcterms:isFormatOf><dcterms:requires xsi:type="dcterms:URI">page1</dcterms:requires><dcterms:requires xsi:type="dcterms:URI">page2</dcterms:requires><dcterms:requires xsi:type="dcterms:URI">page3</dcterms:requires><dcterms:requires xsi:type="dcterms:URI">page4</dcterms:requires><dcterms:requires xsi:type="dcterms:URI">page5</dcterms:requires><dcterms:requires xsi:type="dcterms:URI">page6</dcterms:requires><dcterms:requires xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_audio</dcterms:requires></crdo:item><crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2017-05-09" crdo:id="page1"><dc:title  xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title><dcterms:alternative xml:lang="fra">Lecture de dictons et proverbes</dcterms:alternative><dcterms:alternative xml:lang="vie">Đọc thành ngữ và tục ngữ tiếng Thái Do</dcterms:alternative><dc:language xsi:type="olac:language" olac:code="vie"></dc:language><dc:subject  xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject><dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+                <dcterms:spatial  xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+                <dcterms:spatial  xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial><dc:contributor xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor><dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher><dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+			    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+			    <collection>Lacito</collection>
+			    <dcterms:available xsi:type="dcterms:W3CDTF"></dcterms:available>
+			    <dcterms:license xsi:type="dcterms:URI">CC-BY-SA</dcterms:license>
+			    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+                <dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+                    <dc:source></dc:source>
+                    <dc:type xsi:type="dcterms:DCMIType">Image</dc:type>
+                    <dcterms:created xsi:type="dcterms:W3CDTF">2017-05-09</dcterms:created>
+                    <dcterms:extent></dcterms:extent>
+                    <dcterms:isRequiredBy xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480</dcterms:isRequiredBy>
+                    <dc:identifier xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_image_1487000509.jpg</dc:identifier>
+                    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_image_1487000509.jpg</dcterms:isFormatOf></crdo:item><crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2017-05-09" crdo:id="page2"><dc:title  xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title><dcterms:alternative xml:lang="fra">Lecture de dictons et proverbes</dcterms:alternative><dcterms:alternative xml:lang="vie">Đọc thành ngữ và tục ngữ tiếng Thái Do</dcterms:alternative><dc:language xsi:type="olac:language" olac:code="vie"></dc:language><dc:subject  xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject><dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+                <dcterms:spatial  xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+                <dcterms:spatial  xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial><dc:contributor xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor><dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher><dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+			    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+			    <collection>Lacito</collection>
+			    <dcterms:available xsi:type="dcterms:W3CDTF"></dcterms:available>
+			    <dcterms:license xsi:type="dcterms:URI">CC-BY-SA</dcterms:license>
+			    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+                <dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+                    <dc:source></dc:source>
+                    <dc:type xsi:type="dcterms:DCMIType">Image</dc:type>
+                    <dcterms:created xsi:type="dcterms:W3CDTF">2017-05-09</dcterms:created>
+                    <dcterms:extent></dcterms:extent>
+                    <dcterms:isRequiredBy xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480</dcterms:isRequiredBy>
+                    <dc:identifier xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_image_1487000526.jpg</dc:identifier>
+                    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_image_1487000526.jpg</dcterms:isFormatOf></crdo:item><crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2017-05-09" crdo:id="page3"><dc:title  xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title><dcterms:alternative xml:lang="fra">Lecture de dictons et proverbes</dcterms:alternative><dcterms:alternative xml:lang="vie">Đọc thành ngữ và tục ngữ tiếng Thái Do</dcterms:alternative><dc:language xsi:type="olac:language" olac:code="vie"></dc:language><dc:subject  xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject><dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+                <dcterms:spatial  xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+                <dcterms:spatial  xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial><dc:contributor xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor><dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher><dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+			    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+			    <collection>Lacito</collection>
+			    <dcterms:available xsi:type="dcterms:W3CDTF"></dcterms:available>
+			    <dcterms:license xsi:type="dcterms:URI">CC-BY-SA</dcterms:license>
+			    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+                <dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+                    <dc:source></dc:source>
+                    <dc:type xsi:type="dcterms:DCMIType">Image</dc:type>
+                    <dcterms:created xsi:type="dcterms:W3CDTF">2017-05-09</dcterms:created>
+                    <dcterms:extent></dcterms:extent>
+                    <dcterms:isRequiredBy xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480</dcterms:isRequiredBy>
+                    <dc:identifier xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_image_1487000546.jpg</dc:identifier>
+                    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_image_1487000546.jpg</dcterms:isFormatOf></crdo:item><crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2017-05-09" crdo:id="page4"><dc:title  xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title><dcterms:alternative xml:lang="fra">Lecture de dictons et proverbes</dcterms:alternative><dcterms:alternative xml:lang="vie">Đọc thành ngữ và tục ngữ tiếng Thái Do</dcterms:alternative><dc:language xsi:type="olac:language" olac:code="vie"></dc:language><dc:subject  xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject><dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+                <dcterms:spatial  xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+                <dcterms:spatial  xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial><dc:contributor xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor><dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher><dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+			    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+			    <collection>Lacito</collection>
+			    <dcterms:available xsi:type="dcterms:W3CDTF"></dcterms:available>
+			    <dcterms:license xsi:type="dcterms:URI">CC-BY-SA</dcterms:license>
+			    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+                <dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+                    <dc:source></dc:source>
+                    <dc:type xsi:type="dcterms:DCMIType">Image</dc:type>
+                    <dcterms:created xsi:type="dcterms:W3CDTF">2017-05-09</dcterms:created>
+                    <dcterms:extent></dcterms:extent>
+                    <dcterms:isRequiredBy xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480</dcterms:isRequiredBy>
+                    <dc:identifier xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_image_1487000568.jpg</dc:identifier>
+                    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_image_1487000568.jpg</dcterms:isFormatOf></crdo:item><crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2017-05-09" crdo:id="page5"><dc:title  xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title><dcterms:alternative xml:lang="fra">Lecture de dictons et proverbes</dcterms:alternative><dcterms:alternative xml:lang="vie">Đọc thành ngữ và tục ngữ tiếng Thái Do</dcterms:alternative><dc:language xsi:type="olac:language" olac:code="vie"></dc:language><dc:subject  xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject><dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+                <dcterms:spatial  xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+                <dcterms:spatial  xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial><dc:contributor xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor><dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher><dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+			    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+			    <collection>Lacito</collection>
+			    <dcterms:available xsi:type="dcterms:W3CDTF"></dcterms:available>
+			    <dcterms:license xsi:type="dcterms:URI">CC-BY-SA</dcterms:license>
+			    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+                <dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+                    <dc:source></dc:source>
+                    <dc:type xsi:type="dcterms:DCMIType">Image</dc:type>
+                    <dcterms:created xsi:type="dcterms:W3CDTF">2017-05-09</dcterms:created>
+                    <dcterms:extent></dcterms:extent>
+                    <dcterms:isRequiredBy xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480</dcterms:isRequiredBy>
+                    <dc:identifier xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_image_1487000585.jpg</dc:identifier>
+                    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_image_1487000585.jpg</dcterms:isFormatOf></crdo:item><crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2017-05-09" crdo:id="page6"><dc:title  xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title><dcterms:alternative xml:lang="fra">Lecture de dictons et proverbes</dcterms:alternative><dcterms:alternative xml:lang="vie">Đọc thành ngữ và tục ngữ tiếng Thái Do</dcterms:alternative><dc:language xsi:type="olac:language" olac:code="vie"></dc:language><dc:subject  xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject><dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+                <dcterms:spatial  xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+                <dcterms:spatial  xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial><dc:contributor xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor><dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher><dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+			    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+			    <collection>Lacito</collection>
+			    <dcterms:available xsi:type="dcterms:W3CDTF"></dcterms:available>
+			    <dcterms:license xsi:type="dcterms:URI">CC-BY-SA</dcterms:license>
+			    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+                <dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+                    <dc:source></dc:source>
+                    <dc:type xsi:type="dcterms:DCMIType">Image</dc:type>
+                    <dcterms:created xsi:type="dcterms:W3CDTF">2017-05-09</dcterms:created>
+                    <dcterms:extent></dcterms:extent>
+                    <dcterms:isRequiredBy xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480</dcterms:isRequiredBy>
+                    <dc:identifier xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_image_1487000605.jpg</dc:identifier>
+                    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_image_1487000605.jpg</dcterms:isFormatOf></crdo:item><crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2017-05-09" crdo:id="crdo-TYJ_hang_1487000245480_audio"><dc:title  xml:lang="eng">Reading of Tai Yo idioms and proverbs</dc:title><dcterms:alternative xml:lang="fra">Lecture de dictons et proverbes</dcterms:alternative><dcterms:alternative xml:lang="vie">Đọc thành ngữ và tục ngữ tiếng Thái Do</dcterms:alternative><dc:language xsi:type="olac:language" olac:code="vie"></dc:language><dc:subject  xsi:type="olac:language" olac:code="tyj">Tai Do</dc:subject><dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+                <dcterms:spatial  xsi:type="dcterms:Point">east=104.6496727;north=19.2909151;</dcterms:spatial>
+                <dcterms:spatial  xml:lang="en">Tương Dương, Nghệ An, Việt Nam</dcterms:spatial><dc:contributor xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">Vi, Khăm Mun</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor><dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher><dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+			    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+			    <collection>Lacito</collection>
+			    <dcterms:available xsi:type="dcterms:W3CDTF"></dcterms:available>
+			    <dcterms:license xsi:type="dcterms:URI">CC-BY-SA</dcterms:license>
+			    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+                <dc:format xsi:type="dcterms:IMT">audio/mpeg</dc:format>
+                    <dc:source></dc:source>
+                    <dc:type xsi:type="dcterms:DCMIType">Sound</dc:type>
+                    <dcterms:created xsi:type="dcterms:W3CDTF">2017-05-09</dcterms:created>
+                    <dcterms:extent></dcterms:extent>
+                    <dcterms:isRequiredBy xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480</dcterms:isRequiredBy>
+                    <dc:identifier xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_sound_1487000493.mp3</dc:identifier>
+                    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TYJ_hang_1487000245480_sound_1487000493.mp3</dcterms:isFormatOf></crdo:item></crdo:catalog>

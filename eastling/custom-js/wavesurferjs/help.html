@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)https://wavesurfer-js.org/docs/methods.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <title>wavesurfer.js</title>
+  <meta name="description" content="wavesurfer.js is an HTML 5 audio player and waveform visualizer, made with JavaScript and Web Audio.
+">
+
+  <link rel="alternate" type="application/rss+xml" title="wavesurfer.js" href="http://wavesurfer-js.org/feed.xml">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="./help_files/bootstrap.min.css" crossorigin="anonymous">
+  <link rel="stylesheet" href="./help_files/font-awesome.min.css">
+
+  <link rel="stylesheet" href="./help_files/ribbon.css">
+  <link rel="stylesheet" href="./help_files/style.css">
+
+  <!-- wavesurfer.js -->
+  <script async="" src="./help_files/analytics.js.download"></script><script src="./help_files/wavesurfer.min.js.download"></script>
+
+  <!-- highlight.js -->
+  <link rel="stylesheet" href="./help_files/default.min.css">
+  <script src="./help_files/highlight.min.js.download"></script>
+  <script src="./help_files/lisp.min.js.download"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50026819-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<script id="_carbonads_projs" type="text/javascript" src="./help_files/C6AILKT.json"></script><link rel="stylesheet" type="text/css" href="./help_files/dark-bottom.css"></head>
+
+
+  <body><div class="cc_banner-wrapper "><div class="cc_banner cc_container cc_container--open"><a href="https://wavesurfer-js.org/docs/methods.html#null" data-cc-event="click:dismiss" target="_blank" class="cc_btn cc_btn_accept_all">Got it!</a><p class="cc_message">This website uses cookies to ensure you get the best experience on our website </p><a class="cc_logo" target="_blank" href="http://silktide.com/cookieconsent">Cookie Consent plugin for the EU cookie law</a></div></div>
+    
+
+<header>
+  <h1><a href="https://wavesurfer-js.org/">wavesurfer.js</a></h1>
+</header>
+
+
+
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-2 col-md-3">
+          <aside>
+  <ul>
+  
+    
+    
+    <li class="">
+      <a href="https://wavesurfer-js.org/">
+        Overview
+      </a>
+
+      
+
+    </li>
+  
+    
+    
+    <li class="">
+      <a href="https://wavesurfer-js.org/docs/">
+        Documentation
+      </a>
+
+      
+        <ul>
+        
+          
+          
+          <li class="">
+            <a href="https://wavesurfer-js.org/docs/options.html">
+              Options
+            </a>
+          </li>
+        
+          
+          
+          <li class="active">
+            <a href="https://wavesurfer-js.org/docs/methods.html">
+              Methods
+            </a>
+          </li>
+        
+          
+          
+          <li class="">
+            <a href="https://wavesurfer-js.org/docs/events.html">
+              Events
+            </a>
+          </li>
+        
+        </ul>
+      
+
+    </li>
+  
+    
+    
+    <li class="">
+      <a href="https://wavesurfer-js.org/examples/">
+        Examples
+      </a>
+
+      
+
+    </li>
+  
+    
+    
+    <li class="">
+      <a href="https://wavesurfer-js.org/faq/">
+        FAQ
+      </a>
+
+      
+
+    </li>
+  
+    
+    
+    <li class="">
+      <a href="https://wavesurfer-js.org/plugins/">
+        Plugins
+      </a>
+
+      
+
+    </li>
+  
+    
+    
+    <li class="">
+      <a href="https://wavesurfer-js.org/projects/">
+        Projects
+      </a>
+
+      
+
+    </li>
+  
+    
+    
+    <li class="">
+      <a href="https://wavesurfer-js.org/blog/">
+        Blog
+      </a>
+
+      
+
+    </li>
+  
+  </ul>
+
+  
+    <script async="" type="text/javascript" src="./help_files/carbon.js.download" id="_carbonads_js"></script><div id="carbonads"><span><span class="carbon-wrap"><a href="https://srv.carbonads.net/ads/click/x/GTND423UCYBIVK7WC6B4YKQWCASDP27ECKAICZ3JCESIK2JLCYYDP27KC6BD52JMCE7IKK3EHJNCLSIZ?segment=placement:wavesurfer-jsorg;" class="carbon-img" target="_blank"><img src="./help_files/33269" alt="" border="0" height="100" width="130" style="max-width:130px;"></a><a href="https://srv.carbonads.net/ads/click/x/GTND423UCYBIVK7WC6B4YKQWCASDP27ECKAICZ3JCESIK2JLCYYDP27KC6BD52JMCE7IKK3EHJNCLSIZ?segment=placement:wavesurfer-jsorg;" class="carbon-text" target="_blank">Segment is the last integration you will need.</a></span><a href="http://carbonads.net/" class="carbon-poweredby" target="_blank">ads via Carbon</a></span></div>
+  
+</aside>
+
+        </div>
+
+        <div class="col-lg-10 col-md-9">
+          <section>
+  <h1>WaveSurfer Methods</h1>
+
+  <p>After creating an instance of the player (with <code>var wavesurfer = WaveSurfer.create({ ... })</code>), you can call the following methods on it:</p>
+
+  <ul>
+    <li><code>destroy()</code> – Removes events, elements and disconnects Web Audio nodes.</li>
+    <li><code>empty()</code> – Clears the waveform as if a zero-length audio is loaded.</li>
+    <li><code>getCurrentTime()</code> – Returns current progress in seconds.</li>
+    <li><code>getDuration()</code> – Returns the duration of an audio clip in seconds.</li>
+    <li><code>isPlaying()</code> – Returns true if currently playing, false otherwise.</li>
+    <li><code>load(url)</code> – Loads audio from URL via XHR. Returns XHR object.</li>
+    <li><code>loadBlob(url)</code> – Loads audio from a <code>Blob</code> or <code>File</code> object.</li>
+    <li><code>on(eventName, callback)</code> – Subscribes to an event.  See <a href="https://wavesurfer-js.org/docs/events.html">WaveSurfer Events</a> for the list of all events.</li>
+    <li><code>un(eventName, callback)</code> – Unsubscribes from an event.</li>
+    <li><code>unAll()</code> – Unsubscribes from all events.</li>
+    <li><code>pause()</code> – Stops playback.</li>
+    <li><code>play([start[, end]])</code> – Starts playback from the current position.  Optional <code>start</code> and <code>end</code> measured in seconds can be used to set the range of audio to play.</li>
+    <li><code>playPause()</code> – Plays if paused, pauses if playing.</li>
+    <li><code>seekAndCenter(progress)</code> – Seeks to a progress and centers view <code>[0..1]</code> (0 = beginning, 1 = end).</li>
+    <li><code>seekTo(progress)</code> – Seeks to a progress <code>[0..1]</code> (0 = beginning, 1 = end).</li>
+    <li><code>setFilter(filters)</code> - For inserting your own WebAudio nodes into the graph.  See <a href="https://wavesurfer-js.org/docs/methods.html#connecting-filters">Connecting Filters</a> below.</li>
+    <li><code>setPlaybackRate(rate)</code> – Sets the speed of playback (<code>0.5</code> is half speed, <code>1</code> is normal speed, <code>2</code> is double speed and so on).</li>
+    <li><code>setVolume(newVolume)</code> – Sets the playback volume to a new value <code>[0..1]</code> (0 = silent, 1 = maximum).</li>
+    <li><code>skip(offset)</code> – Skip a number of seconds from the current position (use a negative value to go backwards).</li>
+    <li><code>skipBackward()</code> - Rewind <code>skipLength</code> seconds.</li>
+    <li><code>skipForward()</code> - Skip ahead <code>skipLength</code> seconds.</li>
+    <li><code>stop()</code> – Stops and goes to the beginning.</li>
+    <li><code>toggleMute()</code> – Toggles the volume on and off.</li>
+    <li><code>toggleInteraction()</code> – Toggle mouse interaction.</li>
+    <li><code>toggleScroll()</code> – Toggles <code>scrollParent</code>.</li>
+    <li><code>zoom(pxPerSec)</code> – Horiontally zooms the waveform in and out. The
+      parameter is a number of horizontal pixels per second of audio. It
+      also changes the parameter <code>minPxPerSec</code> and enables the
+      <code>scrollParent</code> option.</li>
+  </ul>
+
+  <h2 id="connecting-filters">Connecting Filters</h2>
+
+  <p>You can insert your own Web Audio nodes into the graph using the method <code>setFilter()</code>. Example:</p>
+
+  <pre><code class="hljs cs"><span class="hljs-keyword">var</span> lowpass = wavesurfer.backend.ac.createBiquadFilter();
+wavesurfer.backend.setFilter(lowpass);</code></pre>
+</section>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="github-fork-ribbon-wrapper right">
+  <div class="github-fork-ribbon">
+    <a itemprop="isBasedOnUrl" href="https://github.com/katspaugh/wavesurfer.js">Fork me on GitHub</a>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="col-xs-12">
+    <a rel="license" href="https://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="./help_files/80x15.png"></a>
+  </div>
+
+  <div class="col-xs-10">
+    <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">wavesurfer.js</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/katspaugh/wavesurfer.js" property="cc:attributionName" rel="cc:attributionURL">katspaugh</a> is licensed under a&nbsp;<a style="white-space: nowrap" rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.
+  </div>
+
+  <div class="col-xs-2">
+    <a href="https://unsplash.com/photos/7G5dkthFyxA" title="Photo from Unsplash"><i class="fa fa-camera"></i></a>
+  </div>
+
+  <div class="col-xs-12 privacy">
+    <a href="https://wavesurfer-js.org/about/">About</a> |
+    <a href="https://wavesurfer-js.org/privacy-policy/">Privacy Policy</a> |
+    <a href="https://wavesurfer-js.org/contact-us/">Contact Us</a>
+
+    <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+    <script type="text/javascript">
+      window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"dark-bottom"};
+    </script>
+
+    <script type="text/javascript" src="./help_files/cookieconsent.min.js.download"></script>
+    <!-- End Cookie Consent plugin -->
+  </div>
+</footer>
+
+  
+
+</body></html>

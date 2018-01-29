@@ -1,0 +1,65 @@
+<catalog xmlns="http://crdo.risc.cnrs.fr/schemas/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cocoon.huma-num.fr/schemas/ http://cocoon.huma-num.fr/schemas/metadata.xsd">
+<crdo:item crdo:datestamp="2014-07-22" crdo:id="crdo-NRU_F5_HINAMI_SOUND">
+    <dc:title xml:lang="fr">Divination: les abeilles entrent dans la maison</dc:title>
+    <dc:title xml:lang="en">Divination: bees entering home</dc:title>
+    <dc:subject xsi:type="olac:language" olac:code="twh">Tai Don</dc:subject>
+    <dc:language xsi:type="olac:language" olac:code="twh"/>
+    <dcterms:spatial xml:lang="fr">Vietnam, province de Lai Chau, district de Phong Tho, Phong Tho</dcterms:spatial>
+    <dcterms:spatial xml:lang="en">Vietnam, Lai Chau province, Phong Tho district, Phong Tho</dcterms:spatial>
+    <dcterms:spatial xsi:type="dcterms:Point">east=103.367174; north=22.576744;</dcterms:spatial>
+    <dc:contributor xsi:type="olac:role" olac:code="depositor">Ferlus, Michel</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="researcher">Ferlus, Michel</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="speaker">NONG Van Chom</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+    <dc:type xsi:type="olac:linguistic-type" olac:code="primary_text"/>
+    <dc:format xsi:type="dcterms:IMT">audio/x-wav</dc:format>
+    <dc:source>natively digital</dc:source>
+    <dc:type xsi:type="dcterms:DCMIType">Sound</dc:type>
+    <dcterms:created xsi:type="dcterms:W3CDTF">2007-11-13</dcterms:created>
+    <dcterms:extent></dcterms:extent>
+    <dcterms:isRequiredBy xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI</dcterms:isRequiredBy>
+    <dc:identifier xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI.wav</dc:identifier>
+    <dcterms:isFormatOf xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI.mp3</dcterms:isFormatOf>
+    <dcterms:isFormatOf xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI.wav</dcterms:isFormatOf>
+    <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:isPartOf xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <crdo:collection>Lacito</crdo:collection>
+    <dcterms:available xsi:type="dcterms:W3CDTF">2014-07-22</dcterms:available>
+    <dcterms:spatial xsi:type="dcterms:ISO3166">CN</dcterms:spatial>
+    <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+</crdo:item>
+<crdo:item crdo:datestamp="2014-07-22" crdo:id="crdo-NRU_F5_HINAMI">
+    <dc:title xml:lang="fr">Divination: les abeilles entrent dans la maison</dc:title>
+    <dc:title xml:lang="en">Divination: bees entering home</dc:title>
+    <dc:subject xsi:type="olac:language" olac:code="twh">Tai Don</dc:subject>
+    <dc:language xsi:type="olac:language" olac:code="twh"/>
+    <dcterms:spatial xml:lang="fr">Vietnam, province de Lai Chau, district de Phong Tho, Phong Tho</dcterms:spatial>
+    <dcterms:spatial xml:lang="en">Vietnam, Lai Chau province, Phong Tho district, Phong Tho</dcterms:spatial>
+    <dcterms:spatial xsi:type="dcterms:Point">east=103.367174; north=22.576744;</dcterms:spatial>
+    <dc:contributor xsi:type="olac:role" olac:code="depositor">Ferlus, Michel</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="researcher">Ferlus, Michel</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="speaker">NONG Van Chom</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+    <dc:type xsi:type="olac:linguistic-type" olac:code="primary_text"/>
+    <dc:format xsi:type="dcterms:IMT">text/xml</dc:format>
+    <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+    <dcterms:conformsTo xsi:type="dcterms:URI"></dcterms:conformsTo>
+    <dc:identifier xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI.xml</dc:identifier>
+    <dcterms:isFormatOf xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI.xhtml</dcterms:isFormatOf>
+    <dcterms:requires xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI_SOUND</dcterms:requires>
+    <dcterms:isPartOf xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <crdo:collection>Lacito</crdo:collection>
+    <dcterms:available xsi:type="dcterms:W3CDTF">2014-07-22</dcterms:available>
+    <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+    <dcterms:spatial xsi:type="dcterms:ISO3166">CN</dcterms:spatial>
+    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+</crdo:item>
+</catalog>

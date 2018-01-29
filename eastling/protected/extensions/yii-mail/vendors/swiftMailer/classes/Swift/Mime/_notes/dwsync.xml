@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="SimpleHeaderSet.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267430000000" remote="131318267430000000" />
+<file name="Message.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267430000000" remote="131318267430000000" />
+<file name="ParameterizedHeader.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267430000000" remote="131318267430000000" />
+<file name="Header.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267430000000" remote="131318267430000000" />
+<file name="SimpleHeaderFactory.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267430000000" remote="131318267430000000" />
+<file name="EncodingObserver.php.new" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267420000000" remote="131318267420000000" />
+<file name="EmbeddedFile.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267420000000" remote="131318267420000000" />
+<file name="HeaderEncoder.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267430000000" remote="131318267430000000" />
+<file name="ContentEncoder.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267420000000" remote="131318267420000000" />
+<file name="SimpleMessage.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267430000000" remote="131318267430000000" />
+<file name="MimeEntity.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267430000000" remote="131318267430000000" />
+<file name="SimpleMimeEntity.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267430000000" remote="131318267430000000" />
+<file name="Attachment.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267420000000" remote="131318267420000000" />
+<file name="HeaderFactory.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267430000000" remote="131318267430000000" />
+<file name="CharsetObserver.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267420000000" remote="131318267420000000" />
+<file name="HeaderSet.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267430000000" remote="131318267430000000" />
+<file name="EncodingObserver.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267420000000" remote="131318267420000000" />
+<file name="MimePart.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267430000000" remote="131318267430000000" />
+</dwsync>

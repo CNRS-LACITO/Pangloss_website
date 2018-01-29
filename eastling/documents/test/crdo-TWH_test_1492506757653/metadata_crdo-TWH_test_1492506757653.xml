@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?><crdo:catalog xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://crdo.risc.cnrs.fr/schemas/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/"><crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2017-04-18" crdo:id="crdo-TWH_test_1492506757653"><dc:title  xml:lang="fra">démo</dc:title><dc:language xsi:type="olac:language" olac:code="vie"></dc:language><dc:subject  xsi:type="olac:language" olac:code="twh">Tai Dón</dc:subject><dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+                <dcterms:spatial  xsi:type="dcterms:Point">east=105.85;north=21.03;</dcterms:spatial>
+                <dcterms:spatial  xml:lang="en">Hàng Bạc, Hanoï, Vietnam</dcterms:spatial><dc:contributor xsi:type="olac:role" olac:code="depositor">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">loc</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor><dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher><dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+			    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+			    <collection>Lacito</collection>
+			    <dcterms:available xsi:type="dcterms:W3CDTF"></dcterms:available>
+			    <dcterms:license xsi:type="dcterms:URI">CC-BY-SA</dcterms:license>
+			    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+                <dc:format  xsi:type="dcterms:IMT">text/xml</dc:format>
+                    <dc:source></dc:source>
+                    <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+                    <dcterms:created xsi:type="dcterms:W3CDTF">2017-04-18</dcterms:created>
+                    <dcterms:extent></dcterms:extent>
+                    <dc:identifier xsi:type="dcterms:URI">crdo-TWH_test_1492506757653.xml</dc:identifier>
+                    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TWH_test_1492506757653.xhtml</dcterms:isFormatOf><dcterms:requires xsi:type="dcterms:URI">page1</dcterms:requires><dcterms:requires xsi:type="dcterms:URI">crdo-TWH_test_1492506757653_audio</dcterms:requires></crdo:item><crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2017-04-18" crdo:id="page1"><dc:title  xml:lang="fra">démo</dc:title><dc:language xsi:type="olac:language" olac:code="vie"></dc:language><dc:subject  xsi:type="olac:language" olac:code="twh">Tai Dón</dc:subject><dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+                <dcterms:spatial  xsi:type="dcterms:Point">east=105.85;north=21.03;</dcterms:spatial>
+                <dcterms:spatial  xml:lang="en">Hàng Bạc, Hanoï, Vietnam</dcterms:spatial><dc:contributor xsi:type="olac:role" olac:code="depositor">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">loc</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor><dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher><dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+			    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+			    <collection>Lacito</collection>
+			    <dcterms:available xsi:type="dcterms:W3CDTF"></dcterms:available>
+			    <dcterms:license xsi:type="dcterms:URI">CC-BY-SA</dcterms:license>
+			    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+                <dc:format xsi:type="dcterms:IMT">image/jpeg</dc:format>
+                    <dc:source></dc:source>
+                    <dc:type xsi:type="dcterms:DCMIType">Image</dc:type>
+                    <dcterms:created xsi:type="dcterms:W3CDTF">2017-04-18</dcterms:created>
+                    <dcterms:extent></dcterms:extent>
+                    <dcterms:isRequiredBy xsi:type="dcterms:URI">crdo-TWH_test_1492506757653</dcterms:isRequiredBy>
+                    <dc:identifier xsi:type="dcterms:URI">crdo-TWH_test_1492506757653_image_1492506817.jpg</dc:identifier>
+                    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TWH_test_1492506757653_image_1492506817.jpg</dcterms:isFormatOf></crdo:item><crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2017-04-18" crdo:id="crdo-TWH_test_1492506757653_audio"><dc:title  xml:lang="fra">démo</dc:title><dc:language xsi:type="olac:language" olac:code="vie"></dc:language><dc:subject  xsi:type="olac:language" olac:code="twh">Tai Dón</dc:subject><dcterms:spatial  xsi:type="dcterms:ISO3166">VN</dcterms:spatial>
+                <dcterms:spatial  xsi:type="dcterms:Point">east=105.85;north=21.03;</dcterms:spatial>
+                <dcterms:spatial  xml:lang="en">Hàng Bạc, Hanoï, Vietnam</dcterms:spatial><dc:contributor xsi:type="olac:role" olac:code="depositor">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="researcher">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="speaker">loc</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="recorder">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="interviewer">Ferlus, Michel</dc:contributor><dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor><dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher><dcterms:accessRights >Freely available for non-commercial use</dcterms:accessRights>
+			    <dcterms:isPartOf  xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf>
+			    <collection>Lacito</collection>
+			    <dcterms:available xsi:type="dcterms:W3CDTF"></dcterms:available>
+			    <dcterms:license xsi:type="dcterms:URI">CC-BY-SA</dcterms:license>
+			    <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
+                <dc:format xsi:type="dcterms:IMT">audio/mpeg</dc:format>
+                    <dc:source></dc:source>
+                    <dc:type xsi:type="dcterms:DCMIType">Sound</dc:type>
+                    <dcterms:created xsi:type="dcterms:W3CDTF">2017-04-18</dcterms:created>
+                    <dcterms:extent></dcterms:extent>
+                    <dcterms:isRequiredBy xsi:type="dcterms:URI">crdo-TWH_test_1492506757653</dcterms:isRequiredBy>
+                    <dc:identifier xsi:type="dcterms:URI">crdo-TWH_test_1492506757653_sound_1492506847.mp3</dc:identifier>
+                    <dcterms:isFormatOf  xsi:type="dcterms:URI">crdo-TWH_test_1492506757653_sound_1492506847.mp3</dcterms:isFormatOf></crdo:item></crdo:catalog>

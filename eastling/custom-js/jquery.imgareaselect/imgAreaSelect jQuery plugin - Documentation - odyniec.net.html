@@ -1,0 +1,884 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0052)http://odyniec.net/projects/imgareaselect/usage.html -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><script id="tinyhippos-injected">if (window.top.ripple) { window.top.ripple("bootstrap").inject(window, document); }</script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>imgAreaSelect jQuery plugin - Documentation - odyniec.net</title>
+    
+    
+    <meta name="keywords" content="imgareaselect,javascript,jquery,plugin,image,area,select,crop,cropper,usage,documentation,manual,Michal Wojciechowski,odyniec">
+    
+    <link rel="shortcut icon" href="http://odyniec.net/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="./imgAreaSelect jQuery plugin - Documentation - odyniec.net_files/prettify.css">
+    
+    
+    <link rel="stylesheet" type="text/css" href="./imgAreaSelect jQuery plugin - Documentation - odyniec.net_files/main.css">
+    
+    
+    
+    <link rel="stylesheet" type="text/css" href="./imgAreaSelect jQuery plugin - Documentation - odyniec.net_files/main(1).css">
+    
+    
+    
+    <link rel="stylesheet" type="text/css" href="./imgAreaSelect jQuery plugin - Documentation - odyniec.net_files/index.css">
+    
+    
+    
+    <link rel="stylesheet" type="text/css" href="./imgAreaSelect jQuery plugin - Documentation - odyniec.net_files/usage.css">
+    
+    
+    <script type="text/javascript" src="./imgAreaSelect jQuery plugin - Documentation - odyniec.net_files/prettify.js"></script>
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" media="screen"
+      href="/css/msie/ie6.css" />
+    <noscript>
+    <link rel="stylesheet" type="text/css" media="screen"
+      href="/css/msie/ie6-nojs.css" />
+    
+    </noscript>
+    <script type="text/javascript" src="/js/DD_belatedPNG_0.0.8a.js"></script>
+    <![endif]-->
+    <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/msie/ie7.css" />
+    <![endif]-->
+    
+  <script>window["_GOOG_TRANS_EXT_VER"] = "1";</script></head>
+
+  <body onload="prettyPrint();">
+
+	  <div id="root">
+	    <div id="header">
+	      <h1><a href="http://odyniec.net/">odyniec.net</a></h1>
+	
+	      <div id="nav">
+            
+ 	        <ul>
+	          
+                <li>
+            
+                <a href="http://odyniec.net/about/">About</a>
+              </li>
+              
+                <li>
+            
+                <a href="http://odyniec.net/blog/">Blog</a>
+              </li>
+	          
+                <li class="active">
+            
+                <a href="http://odyniec.net/projects/">Projects</a>
+              </li>
+	          
+                <li>
+            
+	            <a href="http://odyniec.net/writings/">Writings</a>
+	          </li>
+	          
+                <li>
+            
+                <a href="http://odyniec.net/contact/">Contact</a>
+              </li>
+	        </ul>
+	      </div> <!-- /#nav -->
+	    </div> <!-- /#header -->
+	    
+	    <div id="content" class="container">
+        <div class="container">
+ <a class="button home" href="http://odyniec.net/projects/imgareaselect/">imgAreaSelect Home</a>
+ <h1>imgAreaSelect Documentation</h1>
+</div>
+
+<p class="revision">
+ Last revised: Jun 14, 2011
+</p>
+
+<ol>
+ <li><a href="http://odyniec.net/projects/imgareaselect/usage.html#introduction">Introduction</a></li>
+ <li><a href="http://odyniec.net/projects/imgareaselect/usage.html#basic-usage">Basic Usage</a></li>
+ <li><a href="http://odyniec.net/projects/imgareaselect/usage.html#options">Options</a></li>
+ <li><a href="http://odyniec.net/projects/imgareaselect/usage.html#style-sheets">Style Sheets</a></li>
+ <li><a href="http://odyniec.net/projects/imgareaselect/usage.html#elements-and-classes">Elements and Classes</a></li>
+ <li><a href="http://odyniec.net/projects/imgareaselect/usage.html#callback-functions">Callback Functions</a></li>
+ <li><a href="http://odyniec.net/projects/imgareaselect/usage.html#keyboard-support">Keyboard Support</a></li>
+ <li><a href="http://odyniec.net/projects/imgareaselect/usage.html#api-methods">API Methods</a></li>
+</ol>
+
+<a name="introduction"></a>
+<h2>Introduction</h2>
+
+<p>
+ ImgAreaSelect is a jQuery plugin that lets the user select a rectangular area
+ of an image using a simple and intuitive click-and-drag interface.
+ The plugin can be used in web
+ applications to easily implement image cropping functionality, as well as
+ other features, like photo tagging, image editing functions, etc.
+</p>
+
+<a name="basic-usage"></a>
+<h2>Basic Usage</h2>
+
+<p>
+ The plugin is invoked by calling the <code>imgAreaSelect()</code> method on a
+ jQuery object that represents an <code>&lt;img&gt;</code> element: 
+</p>
+
+<pre class="prettyprint"><span class="tag">&lt;script</span><span class="pln"> </span><span class="atn">type</span><span class="pun">=</span><span class="atv">"text/javascript"</span><span class="tag">&gt;</span><span class="pln">
+$</span><span class="pun">(</span><span class="pln">document</span><span class="pun">).</span><span class="pln">ready</span><span class="pun">(</span><span class="kwd">function</span><span class="pln"> </span><span class="pun">()</span><span class="pln"> </span><span class="pun">{</span><span class="pln">
+    </span><em><span class="pln">$</span><span class="pun">(</span><span class="str">'img#photo'</span><span class="pun">).</span><span class="pln">imgAreaSelect</span><span class="pun">({</span><span class="pln">
+        handles</span><span class="pun">:</span><span class="pln"> </span><span class="kwd">true</span><span class="pun">,</span><span class="pln">
+        onSelectEnd</span><span class="pun">:</span><span class="pln"> someFunction
+    </span><span class="pun">});</span></em><span class="pln">
+</span><span class="pun">});</span><span class="pln">
+</span><span class="tag">&lt;/script&gt;</span></pre>
+
+<p>
+ If there is more than one element in the jQuery object, the plugin will be
+ enabled for all elements in the set. This applies to non-image elements as well,
+ as imgAreaSelect can actually be used with any block element (e.g., a 
+ <code>&lt;div&gt;</code> with a background image).
+</p>
+
+<p>
+ You can initialize the plugin either in the <code>$(document).ready()</code>
+ or <code>$(window).load()</code> event handler.
+</p>
+
+<!--?php /* Example with saving the x1, y1 values in hidden fields and submitting
+the form */ ?-->
+
+<a name="options"></a>
+<h2>Options</h2>
+
+<p>
+ The plugin is highly configurable through the use of options which are passed
+ to the <code>imgAreaSelect</code> method when the plugin is initialized.
+ The available options are:
+</p>
+
+<table class="list">
+ <thead>
+  <tr>
+   <th>Option</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><code>aspectRatio</code></td>
+   <td>
+    A string of the form "<i>width</i>:<i>height</i>" which represents
+    the aspect ratio to maintain<br>
+    <span class="default"><b>example:</b> <code>"4:3"</code></span>
+   </td>
+  </tr>
+  <tr>
+   <td><code>autoHide</code></td>
+   <td>
+    If set to <code>true</code>, selection area will disappear
+    when selection ends<br>
+    <span class="default"><b>default:</b> <code>false</code></span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a name="options-classPrefix"></a>
+    <code>classPrefix</code>
+   </td>
+   <td>
+    A string that is prepended to class names assigned to plugin
+    elements (<a href="http://odyniec.net/projects/imgareaselect/usage.html#elements-and-classes">see below for details</a>)<br>
+    <span class="default"><b>default:</b> <code>"imgareaselect"</code></span>
+   </td>
+  </tr>
+  <tr>
+   <td><code>disable</code></td>
+   <td>
+    If set to <code>true</code>, the plugin is disabled (the
+    selection area remains visible, unless <code>hide</code> is also
+    present)
+   </td>
+  </tr>
+  <tr>
+   <td><code>enable</code></td>
+   <td>
+    If set to <code>true</code>, the plugin is re-enabled
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a name="options-fadeSpeed"></a>
+    <code>fadeSpeed</code>
+   </td>
+   <td>
+    If set to a number greater than zero, showing or hiding the plugin is
+    done with a graceful fade in/fade out animation<br>
+    <span class="default"><b>default:</b> <code>false</code></span>
+   </td>
+  </tr>
+  <tr>
+   <td><code>handles</code></td>
+   <td>
+    If set to <code>true</code>, resize handles are shown on the
+    selection area; if set to <code>"corners"</code>, only corner
+    handles are shown<br>
+    <span class="default"><b>default:</b> <code>false</code></span>
+   </td>
+  </tr>
+  <tr>
+   <td><code>hide</code></td>
+   <td>
+    If set to <code>true</code>, selection area is hidden
+   </td>
+  </tr>
+  <tr>
+   <td><code>imageHeight</code></td>
+   <td>
+    True height of the image (if scaled with the CSS <code>width</code>
+    and <code>height</code> properties)
+   </td>
+  </tr>
+  <tr>
+   <td><code>imageWidth</code></td>
+   <td>
+    True width of the image (if scaled with the CSS <code>width</code>
+    and <code>height</code> properties)
+   </td>
+  </tr>
+  <tr>
+   <td><code>instance</code></td>
+   <td>
+    If set to <code>true</code>, the <code>imgAreaSelect()</code>
+    call returns a reference to an instance of imgAreaSelect bound to the
+    image, allowing you to use its API methods (<a href="http://odyniec.net/projects/imgareaselect/usage.html#api-methods">see
+    below</a>) 
+   </td>
+  </tr>
+  <tr>
+   <td><code>keys</code></td>
+   <td>
+    Enables/disables keyboard support (<a href="http://odyniec.net/projects/imgareaselect/usage.html#keyboard-support">see below
+    for details</a>)<br>
+    <span class="default"><b>default:</b> <code>false</code></span>
+   </td>
+  </tr>
+  <tr>
+   <td><code>maxHeight</code></td>
+   <td>
+    Maximum selection height (in pixels)
+   </td>
+  </tr>
+  <tr>
+   <td><code>maxWidth</code></td>
+   <td>
+    Maximum selection width (in pixels)
+   </td>
+  </tr>
+  <tr>
+   <td><code>minHeight</code></td>
+   <td>
+    Minimum selection height (in pixels)
+   </td>
+  </tr>
+  <tr>
+   <td><code>minWidth</code></td>
+   <td>
+    Minimum selection width (in pixels)
+   </td>
+  </tr>
+  <tr>
+   <td><code>movable</code></td>
+   <td>
+    Determines whether the selection area should be movable<br>
+    <span class="default"><b>default:</b> <code>true</code></span>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a name="options-parent"></a>
+    <code>parent</code>
+   </td>
+   <td>
+    A jQuery object or selector string that specifies the parent element that
+    the plugin will be appended to<br>
+    <span class="default"><b>default:</b> <code>"body"</code></span>
+   </td>
+  </tr>
+  <tr>
+   <td><code>persistent</code></td>
+   <td>
+    If set to <code>true</code>, clicking outside the selection area
+    will not start a new selection (ie. the user will only be able to
+    move/resize the existing selection area)<br>
+    <span class="default"><b>default:</b> <code>false</code></span>
+   </td>
+  </tr>
+  <tr>
+   <td><code>remove</code></td>
+   <td>
+    If set to <code>true</code>, the plugin is completely removed
+   </td>
+  </tr>
+  <tr>
+   <td><code>resizable</code></td>
+   <td>
+    Determines whether the selection area should be resizable<br>
+    <span class="default"><b>default:</b> <code>true</code></span>
+   </td>
+  </tr>
+  <tr>
+   <td><code>resizeMargin</code></td>
+   <td>
+    Width (in pixels) of the selection area margin where resize mode
+    is triggered
+   </td>
+  </tr>
+  <tr>
+   <td><code>show</code></td>
+   <td>
+    If set to <code>true</code>, selection area is shown
+   </td>
+  </tr>
+  <tr>
+   <td><code>x1</code><br><code>y1</code></td>
+   <td>
+    Coordinates of the top left corner of the initial selection area
+   </td>
+  </tr> 
+  <tr>
+   <td><code>x2</code><br><code>y2</code></td>
+   <td>
+    Coordinates of the bottom right corner of the initial selection area
+   </td>
+  </tr>
+  <tr>
+   <td><code>zIndex</code></td>
+   <td>
+    The z-index value to be assigned to plugin elements; normally,
+    imgAreaSelect figures it out automatically, but there are a few
+    cases when it's necessary to set it explicitly
+   </td>
+  </tr>
+  <tr>
+   <td><code>onInit</code></td>
+   <td>
+    Callback function called when the plugin is initialized
+    (<a href="http://odyniec.net/projects/imgareaselect/usage.html#callback-functions">see below</a>)
+   </td>
+  </tr>
+  <tr>
+   <td><code>onSelectStart</code></td>
+   <td>
+    Callback function called when selection starts
+    (<a href="http://odyniec.net/projects/imgareaselect/usage.html#callback-functions">see below</a>)
+   </td>
+  </tr>
+  <tr>
+   <td><code>onSelectChange</code></td>
+   <td>
+    Callback function called when selection changes
+    (<a href="http://odyniec.net/projects/imgareaselect/usage.html#callback-functions">see below</a>)
+   </td>
+  </tr>
+  <tr>
+   <td><code>onSelectEnd</code></td>
+   <td>
+    Callback function called when selection ends
+    (<a href="http://odyniec.net/projects/imgareaselect/usage.html#callback-functions">see below</a>)
+   </td>
+  </tr>
+ </tbody>
+</table>
+
+<a name="styling-options"></a>
+<h3>Styling Options (Deprecated)</h3>
+
+<p>
+ Prior to imgAreaSelect version 0.9, the default method of changing the plugin's
+ appearance
+ was with the use of "styling" options, which are listed below. These options are
+ now deprecated in favor of style sheets, but they are still supported (mainly
+ for backwards compatibility). If you intend to use these options with a recent
+ version of the plugin, you need to include the
+ <a href="http://odyniec.net/projects/imgareaselect/usage.html#style-sheets"><code>imgareaselect-deprecated.css</code>
+ style sheet</a> in your page.
+</p>
+
+<table class="list">
+ <thead>
+  <tr>
+   <th>Option</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    <code>borderColor1</code><br>
+    <code>borderColor2</code>
+   </td>
+   <td>
+    selection border colors
+   </td>
+  </tr>
+  <tr>
+   <td><code>borderOpacity</code></td>
+   <td>
+    selection border opacity
+   </td>
+  </tr>
+  <tr>
+   <td><code>borderWidth</code></td>
+   <td>
+    selection border width (in pixels)
+   </td>
+  </tr>
+  <tr>
+   <td><code>outerColor</code></td>
+   <td>
+    outer (unselected) area color
+   </td>
+  </tr>
+  <tr>
+   <td><code>outerOpacity</code></td>
+   <td>
+    outer area opacity
+   </td>
+  </tr>
+  <tr>
+   <td><code>selectionColor</code></td>
+   <td>
+    selection area color
+   </td>
+  </tr>
+  <tr>
+   <td><code>selectionOpacity</code></td>
+   <td>
+    selection area opacity
+   </td>
+  </tr>
+ </tbody>
+</table>
+
+<p>
+ Please note that these options might be removed in a future version of the
+ plugin, so it's strongly recommended to use style sheets instead.
+</p>
+
+<a name="style-sheets"></a>
+<h2>Style Sheets</h2>
+
+<p>
+ Three style sheets are distributed with the plugin: 
+</p>
+
+<ul>
+ <li><code><strong>imgareaselect-default.css</strong></code> – the
+  default style sheet,</li>
+ <li><code><strong>imgareaselect-animated.css</strong></code> – 
+  same as <code>imgareaselect-default.css</code>, except it makes the
+  selection area border animated,<!--?php /* marquee effect? */ ?--></li>
+ <li><code><strong>imgareaselect-deprecated.css</strong></code> – this
+  style sheet should only be applied if you want to use the 
+  deprecated <a href="http://odyniec.net/projects/imgareaselect/usage.html#styling-options">styling options</a>.
+</li></ul>
+
+<p>
+ You only need to include one of these in your page header. There are also four
+ GIF files in the <code>css</code> folder of the distribution package
+ (<code>border-h.gif</code>, <code>border-v.gif</code>,
+ <code>border-anim-h.gif</code>, and <code>border-anim-v.gif</code>).
+ These files are used to render the selection area border, and should be placed
+ in the same directory as the style sheet.
+</p>
+
+<a name="elements-and-classes"></a>
+<h2>Elements and Classes</h2>
+
+<p>
+ The plugin creates several <code>div</code> elements that represent
+ the selection area, the borders, the resize handles, and the outer
+ (unselected) area. These elements are assigned specific class names, so you
+ can access them easily with CSS or jQuery selectors.
+</p>
+
+<table class="list">
+ <thead>
+  <tr>
+   <th>Class Name</th>
+   <th>Assigned to</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><code>imgareaselect-selection</code></td>
+   <td>the selection area</td>
+  </tr>
+  <tr>
+   <td>
+    <code>imgareaselect-border1</code><br>
+    <code>imgareaselect-border2</code><br>
+    <code>imgareaselect-border3</code><br>
+    <code>imgareaselect-border4</code>
+   </td>
+   <td>the selection border, composed of four <code>div</code>s placed on
+    top of each other</td>
+  </tr>
+  <tr>
+   <td><code>imgareaselect-handle</code></td>
+   <td>the resize handles (four or eight <code>div</code>s, or none if handles
+    are not enabled)</td>
+  </tr>
+  <tr>
+   <td><code>imgareaselect-outer</code></td>
+   <td>the outer area, composed of
+    four <code>div</code>s</td>
+  </tr>
+ </tbody>
+</table>
+
+<p>
+ This picture should give you a basic idea of how the plugin elements are
+ positioned: 
+</p>
+
+<p style="text-align: center;">
+ <img alt="" src="./imgAreaSelect jQuery plugin - Documentation - odyniec.net_files/elements.png">
+</p>
+
+<p>
+ The default <code>"imgareaselect"</code> class name prefix can be changed to
+ something else using the 
+ <a href="http://odyniec.net/projects/imgareaselect/usage.html#options-classPrefix"><code>classPrefix</code> option</a>.
+ This might be useful when there
+ are multiple instances of imgAreaSelect on one page and you want to apply
+ different CSS styles to each of them.
+</p>
+
+<a name="callback-functions"></a>
+<h2>Callback Functions</h2>
+
+<p>
+ The callback functions (set with the <code>onInit</code>,
+ <code>onSelectStart</code>, 
+ <code>onSelectChange</code>, and <code>onSelectEnd</code> options)
+ are passed two arguments. First argument is a reference to the image that
+ the plugin is attached to, the second is an object representing the 
+ current selection. The object has six properties:
+</p>
+
+<table class="list">
+ <thead>
+  <tr>
+   <th>Property</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><code>x1</code><br><code>y1</code></td>
+   <td>
+    coordinates of the top left corner of the selected area
+   </td>
+  </tr> 
+  <tr>
+   <td><code>x2</code><br><code>y2</code></td>
+   <td>
+    coordinates of the bottom right corner of the selected area
+   </td>
+  </tr>
+  <tr>
+   <td><code>width</code></td>
+   <td>
+    selection width
+   </td>
+  </tr>
+  <tr>
+   <td><code>height</code></td>
+   <td>
+    selection height
+   </td>
+  </tr>
+ </tbody>
+</table>
+
+<p>
+ Here's an example of a callback function that will be executed on selection
+ end:
+</p>
+
+<pre class="prettyprint"><span class="pln">$</span><span class="pun">(</span><span class="str">'img#photo'</span><span class="pun">).</span><span class="pln">imgAreaSelect</span><span class="pun">({</span><span class="pln">
+    onSelectEnd</span><span class="pun">:</span><span class="pln"> </span><em><span class="kwd">function</span><span class="pln"> </span><span class="pun">(</span><span class="pln">img</span><span class="pun">,</span><span class="pln"> selection</span><span class="pun">)</span><span class="pln"> </span><span class="pun">{</span><span class="pln">
+        alert</span><span class="pun">(</span><span class="str">'width: '</span><span class="pln"> </span><span class="pun">+</span><span class="pln"> selection</span><span class="pun">.</span><span class="pln">width </span><span class="pun">+</span><span class="pln"> </span><span class="str">'; height: '</span><span class="pln"> </span><span class="pun">+</span><span class="pln"> selection</span><span class="pun">.</span><span class="pln">height</span><span class="pun">);</span><span class="pln">
+    </span><span class="pun">}</span></em><span class="pln">
+</span><span class="pun">});</span></pre>
+
+<a name="keyboard-support"></a>
+<h2>Keyboard Support</h2>
+
+<p>
+ When the <code>keys</code> option is set to <code>true</code>,
+ the selection area can be moved/resized using the keyboard. By default,
+ the following keys are used:
+</p>
+
+<table class="list">
+ <thead>
+  <tr>
+   <th>Key</th>
+   <th>Action</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>arrow&nbsp;keys</td>
+   <td>move selection area by 10 pixels</td>
+  </tr>
+  <tr>
+   <td><code>Shift</code>&nbsp;+&nbsp;arrow&nbsp;keys</td>
+   <td>move selection area by 1 pixel</td>
+  </tr>
+  <tr>
+   <td><code>Ctrl</code>&nbsp;+&nbsp;arrow&nbsp;keys</td>
+   <td>resize selection area by 10 pixels</td>
+  </tr>
+  <tr>
+   <td><code>Shift</code>&nbsp;+&nbsp;<code>Ctrl</code>&nbsp;+&nbsp;arrow&nbsp;keys</td>
+   <td>resize selection area by 1 pixel</td>
+  </tr>
+ </tbody>
+</table>
+
+<p>
+ You can override these key bindings by setting the <code>keys</code>
+ option to an object that defines the desired key settings. The object
+ may have the following properties:
+</p>
+
+<table class="list">
+ <thead>
+  <tr>
+   <th>Property</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><code>arrows</code></td>
+   <td>defines the behavior of the arrow keys</td>
+  </tr>
+  <tr>
+   <td><code>shift</code></td>
+   <td>defines the behavior of the Shift key</td>
+  </tr>
+  <tr>
+   <td><code>ctrl</code></td>
+   <td>defines the behavior of the Ctrl key</td>
+  </tr>
+  <tr>
+   <td><code>alt</code></td>
+   <td>defines the behavior of the Alt key</td>
+  </tr>
+ </tbody>
+</table>
+
+<p>
+ Each of these properties can be set to the number of pixels (≥1)
+ by which the selection area should
+ be moved/resized when the specific key is pressed, or the string
+ <code>"resize"</code>, which indicates that the key should switch to
+ resize mode. Example:
+</p>
+
+<pre class="prettyprint"><span class="pln">$</span><span class="pun">(</span><span class="str">'img#example'</span><span class="pun">).</span><span class="pln">imgAreaSelect</span><span class="pun">({</span><span class="pln">
+    </span><em><span class="pln">keys</span><span class="pun">:</span><span class="pln"> </span><span class="pun">{</span><span class="pln"> arrows</span><span class="pun">:</span><span class="pln"> </span><span class="lit">15</span><span class="pun">,</span><span class="pln"> ctrl</span><span class="pun">:</span><span class="pln"> </span><span class="lit">5</span><span class="pun">,</span><span class="pln"> shift</span><span class="pun">:</span><span class="pln"> </span><span class="str">'resize'</span><span class="pln"> </span><span class="pun">}</span></em><span class="pln">
+</span><span class="pun">});</span></pre>
+
+<p>
+ With these settings, pressing the arrow keys alone will move the
+ selection area by 15 pixels, holding Ctrl will move the area by 5
+ pixels, and holding Shift will switch to resizing.
+</p>
+
+<p>
+ If there is more than one instance of imgAreaSelect on the page initialized
+ with the <code>keys</code> option, only one
+ of them can be controlled with the keyboard at any moment. By default, any
+ user action (selection area resize/move) or reinvocation of the
+ <code>imgAreaSelect()</code>
+ method on a plugin instance makes it the keyboard-controlled one.
+</p>
+
+<a name="api-methods"></a>
+<h2>API Methods</h2>
+
+<p>
+ Several API methods are provided to make it easier to extend the
+ plugin and to integrate it with other web application components.
+</p>
+
+<p>
+ In order to use these methods, you need an instance of the plugin's object.
+ To get one, call the <code>imgAreaSelect()</code> method with the
+ <code>instance</code> option set to <code>true</code>:
+</p>
+
+<pre class="prettyprint"><span class="kwd">var</span><span class="pln"> ias </span><span class="pun">=</span><span class="pln"> $</span><span class="pun">(</span><span class="str">'#photo'</span><span class="pun">).</span><span class="pln">imgAreaSelect</span><span class="pun">({</span><span class="pln"> </span><em><span class="pln">instance</span><span class="pun">:</span><span class="pln"> </span><span class="kwd">true</span></em><span class="pln"> </span><span class="pun">});</span></pre>
+
+<p>
+ Now, you can use this object to call the public methods. For example, to set
+ a predefined selection area: 
+</p>
+ 
+<pre class="prettyprint"><span class="pln">ias</span><span class="pun">.</span><span class="pln">setSelection</span><span class="pun">(</span><span class="lit">50</span><span class="pun">,</span><span class="pln"> </span><span class="lit">50</span><span class="pun">,</span><span class="pln"> </span><span class="lit">150</span><span class="pun">,</span><span class="pln"> </span><span class="lit">200</span><span class="pun">,</span><span class="pln"> </span><span class="kwd">true</span><span class="pun">);</span><span class="pln">
+ias</span><span class="pun">.</span><span class="pln">setOptions</span><span class="pun">({</span><span class="pln"> show</span><span class="pun">:</span><span class="pln"> </span><span class="kwd">true</span><span class="pln"> </span><span class="pun">});</span><span class="pln">
+ias</span><span class="pun">.</span><span class="pln">update</span><span class="pun">();</span></pre>
+
+<p>
+ Note that you should only use the instance after the plugin has been fully
+ initialized, i.e. in the <code>onInit</code> callback function, or anytime
+ after <code>onInit</code> has been triggered.
+</p>
+
+<p>
+ The following methods are available:
+</p>
+
+<table class="list">
+ <thead>
+  <tr>
+   <th>Method</th>
+   <th>Description</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><code>getOptions</code></td>
+   <td>
+    <code>getOptions()</code>
+    <p>
+     Get current options
+    </p>
+    <p>
+     <strong>Returns:</strong><br>
+     An object containing the set of options currently in use
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td><code>setOptions</code></td>
+   <td>
+    <code>setOptions(newOptions)</code>
+    <p>
+     Set plugin options
+    </p>
+    <p>
+     <strong>Parameters:</strong><br>
+     <strong><code>newOptions</code></strong> – The new options object
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td><code>getSelection</code></td>
+   <td>
+    <code>getSelection([noScale])</code>
+    <p>
+     Get the current selection
+    </p>
+    <p>
+     <strong>Parameters:</strong><br>
+     <strong><code>noScale</code></strong> (optional) – If set to
+      <code>true</code>, scaling is not applied to the returned selection
+    </p>
+    <p>
+     <strong>Returns:</strong><br>
+     Selection object
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a name="api-methods-setSelection"></a>
+    <code>setSelection</code>
+   </td>
+   <td>
+    <code>setSelection(x1, y1, x2, y2, [noScale])</code>
+    <p>
+     Set the current selection
+    </p>
+    <p>
+     <strong>Parameters:</strong><br>
+     <strong><code>x1</code></strong> – X coordinate of the top left
+      corner of the selection area<br>
+     <strong><code>y1</code></strong> – Y coordinate of the top left
+      corner of the selection area<br>
+     <strong><code>x2</code></strong> – X coordinate of the bottom right
+      corner of the selection area<br>
+     <strong><code>y2</code></strong> – Y coordinate of the bottom right
+      corner of the selection area<br>
+     <strong><code>noScale</code></strong> (optional) – If set to
+      <code>true</code>, scaling is not applied to the new selection
+    </p>
+    <p>
+     Note: This method only sets the internal representation of selection
+     in the plugin instance, it does not update the visual interface.
+     If you want the new selection to be shown, call
+     <code>update()</code> right after <code>setSelection()</code>. Also make
+     sure that the <code>show</code> option is set to <code>true</code>. 
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td><code>cancelSelection</code></td>
+   <td>
+    <code>cancelSelection()</code>
+    <p>
+     Cancel the current selection
+    </p>
+    <p>
+     Note: This method hides the selection/outer area, so no call to
+     <code>update()</code> is necessary (as opposed to
+     <code>setSelection()</code>).
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td><code>update</code></td>
+   <td>
+    <code>update([resetKeyPress])</code>
+    <p>
+     Update plugin elements
+    </p>
+    <p>
+     <strong>Parameters:</strong><br>
+     <strong><code>resetKeyPress</code></strong> (optional) – If set to
+      <code>false</code>, this instance's <code>keypress</code> event handler
+      is not activated
+    </p>
+   </td>
+  </tr>
+ </tbody>
+</table>
+
+	    </div> <!-- /#content -->
+	    
+	    <div id="footer">
+	      <p class="copyright">
+	        © 2001-2014 Michał Wojciechowski
+	      </p>
+          <p class="information">
+            Powered by <a href="http://perldancer.org/">Perl Dancer</a>
+            and <a href="http://wordpress.org/">WordPress</a>
+          </p>
+	    </div> <!-- /#footer -->
+	  </div> <!-- /#root -->
+  
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="./imgAreaSelect jQuery plugin - Documentation - odyniec.net_files/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3683332-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</body></html>

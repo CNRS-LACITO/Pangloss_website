@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0042)http://odyniec.net/projects/imgareaselect/ -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <script id="tinyhippos-injected">
+        if (window.top.ripple) { window.top.ripple("bootstrap").inject(window, document); }</script>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>DOREMIFA - Outil de production de métadonnées</title>
+        <script>
+            window["_GOOG_TRANS_EXT_VER"] = "1";
+        </script>
+        <link rel="stylesheet" type="text/css" href="./css/imgareaselect-default.css" />
+        <script type="text/javascript" src="./js/jquery.min.js"></script>
+        <script type="text/javascript" src="./js/jquery.imgareaselect.pack.js"></script>
+    </head>
+
+  <body>
+
+	  <div id="root">
+	    
+	    <div id="content" class="container">
+        
+<script type="text/javascript">
+function preview(img, selection) {
+    if (!selection.width || !selection.height)
+        return;
+    
+    var scaleX = 100 / selection.width;
+    var scaleY = 100 / selection.height;
+
+    $('#preview img').css({
+        /*width: Math.round(scaleX * 300),
+        height: Math.round(scaleY * 300),
+        marginLeft: -Math.round(scaleX * selection.x1),
+        marginTop: -Math.round(scaleY * selection.y1)
+        */
+        width: Math.round(selection.width),
+        height: Math.round(selection.height),
+        marginLeft: -Math.round(selection.x1),
+        marginTop: -Math.round(selection.y1)
+    });
+
+    $('#x1').val(selection.x1);
+    $('#y1').val(selection.y1);
+    $('#x2').val(selection.x2);
+    $('#y2').val(selection.y2);
+    $('#w').val(selection.width);
+    $('#h').val(selection.height);  
+    
+    console.log(selection);
+}
+
+$(function () {
+    $('#doc-image').imgAreaSelect({ handles: true,
+        fadeSpeed: 200, onSelectChange: preview });
+});
+
+$(document).ready(function(){
+    $('#doc-image-send').click(function(){
+        $('#doc-image').attr('src',$('#doc-image-file').val());
+        $('#preview').attr('src',$('#doc-image-file').val());
+        $('#doc-image').parent().css('width',$('#doc-image').css('width'));
+        $('#doc-image').parent().css('height',$('#doc-image').css('height'));
+        
+    });
+});
+
+
+
+
+</script>
+
+<div class="container">
+
+<div>
+    <h1>DOREMIFA Metadata Production Tool</h1>
+</div>
+
+</div>
+
+    <div class="container">
+        <h2>Sélection document image</h2>
+        <input type="text" id="doc-image-file"></input>
+        <button id="doc-image-send">OK</button>
+    </div>                
+
+
+
+<div class="container demo">
+
+    <p class="instructions">
+      Click and drag on the image to select an area. 
+    </p>
+ 
+    <div class="frame" style="margin: 0 0.3em; /*width: 300px; height: 300px;*/overflow: auto">
+        <img id="doc-image" src="../../images/manuscrits/divinations/abeilles.jpg">
+    </div>
+ 
+  <div style="float: left; width: 50%;">
+    <p style="font-size: 110%; font-weight: bold; padding-left: 0.1em;">
+      Selection Preview
+    </p>
+  
+    <div class="frame" style="margin: 0 1em; width: 100px; height: 100px;">
+      <div id="preview" style="/*width: 100px; height: 100px;*/ overflow: hidden;">
+        <img src="../../images/manuscrits/divinations/abeilles.jpg">
+      </div>
+    </div>
+
+    <table style="margin-top: 1em;">
+      <thead>
+        <tr>
+          <th colspan="2" style="font-size: 110%; font-weight: bold; text-align: left; padding-left: 0.1em;">
+            Coordinates
+          </th>
+          <th colspan="2" style="font-size: 110%; font-weight: bold; text-align: left; padding-left: 0.1em;">
+            Dimensions
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="width: 10%;"><b>X<sub>1</sub>:</b></td>
+ 		      <td style="width: 30%;"><input type="text" id="x1" value="-"></td>
+ 		      <td style="width: 20%;"><b>Width:</b></td>
+   		    <td><input type="text" value="-" id="w"></td>
+        </tr>
+        <tr>
+          <td><b>Y<sub>1</sub>:</b></td>
+          <td><input type="text" id="y1" value="-"></td>
+          <td><b>Height:</b></td>
+          <td><input type="text" id="h" value="-"></td>
+        </tr>
+        <tr>
+          <td><b>X<sub>2</sub>:</b></td>
+          <td><input type="text" id="x2" value="-"></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><b>Y<sub>2</sub>:</b></td>
+          <td><input type="text" id="y2" value="-"></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+                
+
+
+<div style="position: absolute; overflow: hidden; z-index: 2;">
+    <div class="imgareaselect-selection" style="position: absolute; font-size: 0px;">
+        
+    </div>
+    <div class="imgareaselect-border1" style="position: absolute; font-size: 0px;">
+        
+    </div>
+    <div class="imgareaselect-border2" style="position: absolute; font-size: 0px;">
+        
+    </div>
+    <div class="imgareaselect-border3" style="position: absolute; font-size: 0px;"></div>
+    <div class="imgareaselect-border4" style="position: absolute; font-size: 0px;"></div>
+    <div class="imgareaselect-handle" style="position: absolute; font-size: 0px; z-index: 1; width: 5px; height: 5px;"></div>
+    <div class="imgareaselect-handle" style="position: absolute; font-size: 0px; z-index: 1; width: 5px; height: 5px;"></div>
+    <div class="imgareaselect-handle" style="position: absolute; font-size: 0px; z-index: 1; width: 5px; height: 5px;"></div>
+    <div class="imgareaselect-handle" style="position: absolute; font-size: 0px; z-index: 1; width: 5px; height: 5px;"></div>
+    <div class="imgareaselect-handle" style="position: absolute; font-size: 0px; z-index: 1; width: 5px; height: 5px;"></div>
+    <div class="imgareaselect-handle" style="position: absolute; font-size: 0px; z-index: 1; width: 5px; height: 5px;"></div>
+    <div class="imgareaselect-handle" style="position: absolute; font-size: 0px; z-index: 1; width: 5px; height: 5px;"></div>
+    <div class="imgareaselect-handle" style="position: absolute; font-size: 0px; z-index: 1; width: 5px; height: 5px;"></div>
+    
+</div>
+    
+    <div class="imgareaselect-outer" style="position: absolute; overflow: hidden; z-index: 0;"></div>
+    <div class="imgareaselect-outer" style="position: absolute; overflow: hidden; z-index: 0;"></div>
+    <div class="imgareaselect-outer" style="position: absolute; overflow: hidden; z-index: 0;"></div>
+    <div class="imgareaselect-outer" style="position: absolute; overflow: hidden; z-index: 0;"></div>
+    </body>
+</html>

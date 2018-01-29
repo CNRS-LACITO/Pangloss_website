@@ -1,0 +1,94 @@
+<html>
+    <head>  
+        <script src="../jquery-1.11.0.js"></script>
+        <script src="../jquery.maphilight.js"></script>
+        <script src="../eastlingplayer.js"></script>
+        <script src="../html5PlayerManager_md.js"></script>
+        <script src="../divtotable.js"></script>
+
+        <!--
+        <script src="http://lacito.vjf.cnrs.fr/z-outils/init.js"></script>
+        <script src="http://lacito.vjf.cnrs.fr/z-outils/deroulants/pangloss_menu_var.js"></script>
+        <script src="http://lacito.vjf.cnrs.fr/z-outils/deroulants/pangloss_menu9_com.js"></script>
+        <script src="http://lacito.vjf.cnrs.fr/z-outils/deroulants/pangloss_top_pos_var.js"></script>
+        <script src="http://lacito.vjf.cnrs.fr/pangloss/tools/showhide.js"></script>
+        
+        -->
+
+        <link rel="stylesheet" type="text/css" href="http://lacito.vjf.cnrs.fr/pangloss/tools/LacitoStyle.css">
+        <link rel="stylesheet" type="text/css" href="http://lacito.vjf.cnrs.fr/styles/styles.css">
+        <link rel="stylesheet" type="text/css" href="http://lacito.vjf.cnrs.fr/styles/xcharte.css">
+
+    </head>  
+
+    <body>
+
+        <div class="eastling">             
+
+            <!--<audio class="eastlingplayer" id="player" src="" controls></audio>-->
+
+        </div>
+
+        <script>
+            $(document).ready(function () {
+                // METTRE CETTE PARTIE DANS UN JS A PART
+                var strokeColor = "0055cc";
+                var strokeWidth = 4;
+                var fillColor = "ffffff";
+                var fillOpacity = 0.0;
+                
+                function word_highlight(dom,highlight,strokeWidth,strokeColor){
+                    if(highlight){
+                        dom.css('border-style','solid');
+                        dom.css('border-width',strokeWidth+'px');
+                        dom.css('border-color','#'+strokeColor);
+                    }else{
+                        dom.css('border-style','none');
+                        dom.css('border-width','0px');
+                    }
+                }
+                //////////////////
+                
+                
+                $('.eastling').eastlingplayer({
+                    metadatafile:"http://localhost/moon-light/documents/deo/metadata_crdo-TWH_T19.xml",
+                    strokeColor: strokeColor,
+                    strokeWidth: strokeWidth,
+                    fillColor: fillColor,
+                    fillOpacity: fillOpacity,
+                    callback:function(){
+                        
+                        $('.map').maphilight();
+                        
+                        $('.eastling').divtotable();
+                        
+                        //surlignage de la zone sur survol du mot
+                        $('.word').bind('mouseover',function(){
+                         var link = $(this).attr('link');                        
+                         $('#'+link).mouseover();
+                         word_highlight($(this),true,strokeWidth,strokeColor);
+                         
+                        }).bind('mouseout',function(){
+                            var link = $(this).attr('link');
+                            $('#'+link).mouseout();
+                            word_highlight($(this),false,'','');
+                            
+                        });
+                        
+                        $('area').bind('mouseover',function(){
+                            var link = $(this).attr('id');
+                            word_highlight($("[link='"+link+"']"),true,strokeWidth,strokeColor);
+                        }).bind('mouseout',function(){
+                            var link = $(this).attr('id');
+                            word_highlight($("[link='"+link+"']"),false,'','');
+                        });
+                                          
+                    
+                    }
+                });
+            });
+        </script> 
+    </body>
+</html>
+
+

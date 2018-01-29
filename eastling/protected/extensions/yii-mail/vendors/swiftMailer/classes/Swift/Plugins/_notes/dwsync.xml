@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AntiFloodPlugin.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267440000000" remote="131318267440000000" />
+<file name="BandwidthMonitorPlugin.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267440000000" remote="131318267440000000" />
+<file name="PopBeforeSmtpPlugin.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267440000000" remote="131318267440000000" />
+<file name="ThrottlerPlugin.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267440000000" remote="131318267440000000" />
+<file name="Logger.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267440000000" remote="131318267440000000" />
+<file name="Sleeper.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267440000000" remote="131318267440000000" />
+<file name="DecoratorPlugin.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267440000000" remote="131318267440000000" />
+<file name="Reporter.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267440000000" remote="131318267440000000" />
+<file name="Timer.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267440000000" remote="131318267440000000" />
+<file name="ReporterPlugin.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267440000000" remote="131318267440000000" />
+<file name="LoggerPlugin.php" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131318267440000000" remote="131318267440000000" />
+</dwsync>

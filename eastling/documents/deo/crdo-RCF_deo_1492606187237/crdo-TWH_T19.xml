@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEXT SYSTEM "http://cocoon.huma-num.fr/schemas/Archive.dtd">
+<TEXT id="crdo-TWH_T19" xml:lang="twh">
+    <HEADER/>
+    <S id="TWH_T19_S001">
+        <AREA image="page1" shape="rect" coords="207,33,969,119"/>
+        <AUDIO start="0" end="7.719344923154447"/>
+        <TRANSL xml:lang="eng">This is about bees entering home</TRANSL>
+        <TRANSL xml:lang="fra">Les abeilles entrent dans la maison</TRANSL>
+        <FORM kindOf="phone">an˨˨ ni˧˩ du˨˨ to˨˨ phɯŋ˨˧ to˨˨ tɔ˦˥ xau˨˧ hɤn˦</FORM>
+        <FORM kindOf="transliter">an niz dou two phungz two tox k'awz roen</FORM>
+        <W id="TWH_T19_W001">
+            <AREA image="page1" shape="rect" coords="224,40,326,113"/>
+            <AUDIO start="0.18000156548026056" end="0.4800041746140281"/>
+            <TRANSL xml:lang="fra">Appellatif numéral de la plupart des objets, (fait souvent double
+                emploi avec un autre appellatif)</TRANSL>
+            <FORM kindOf="phono">an˨˨</FORM>
+            <FORM kindOf="transliter">an</FORM>
+        </W>
+        <W id="TWH_T19_W002">
+            <AREA image="page1" shape="rect" coords="319,24,394,120"/>
+            <AUDIO start="0.45999406954817434" end="1.154985109409003"/>
+            <TRANSL xml:lang="fra">Ci (à la suite des pronoms démonstratifs et substantifs,
+                représentés en tẵy par l'appellatif numéral ou à défaut par le substantif
+                lui-même).</TRANSL>
+            <FORM kindOf="phono">ni˧˩</FORM>
+            <FORM kindOf="transliter">niz</FORM>
+        </W>
+        <W id="TWH_T19_W003">
+            <AREA image="page1" shape="rect" coords="368,22,444,127"/>
+            <AUDIO start="1.5399801458786706" end="2.194971701430962"/>
+            <TRANSL xml:lang="fra">Regarder attentivement de près. Lire (pour soi-même. Voir
+                án).</TRANSL>
+            <FORM kindOf="phono">du˨˨</FORM>
+            <FORM kindOf="transliter">dou</FORM>
+        </W>
+        <W id="TWH_T19_W004">
+            <AREA image="page1" shape="rect" coords="431,30,550,113"/>
+            <AUDIO start="2.194971701430962" end="3.339956939762831"/>
+            <TRANSL xml:lang="fra">Appellatif numéral de tous les êtres animés ou considérés
+                comme tels : personnes, animaux, génies, caractères d'écriture, cartes à
+                jouer.</TRANSL>
+            <FORM kindOf="phono">to˨˨</FORM>
+            <FORM kindOf="transliter">two</FORM>
+        </W>
+        <W id="TWH_T19_W005">
+            <AREA image="page1" shape="rect" coords="546,22,625,111"/>
+            <AUDIO start="3.4737052154195016" end="4.438623330813807"/>
+            <TRANSL xml:lang="eng">bee</TRANSL>
+            <TRANSL xml:lang="fra">Abeille.</TRANSL>
+            <FORM kindOf="phono">phɯŋ˨˧</FORM>
+            <FORM kindOf="transliter">phungz</FORM>
+        </W>
+        <W id="TWH_T19_W006">
+            <AREA image="page1" shape="rect" coords="625,32,734,119"/>
+            <AUDIO start="4.434942822709028" end="5.109934120415589"/>
+            <TRANSL xml:lang="fra">Appellatif numéral de tous les êtres animés ou considérés
+                comme tels : personnes, animaux, génies, caractères d'écriture, cartes à
+                jouer.</TRANSL>
+            <FORM kindOf="phono">to˨˨</FORM>
+            <FORM kindOf="transliter">two</FORM>
+        </W>
+        <W id="TWH_T19_W007">
+            <AREA image="page1" shape="rect" coords="713,28,777,107"/>
+            <AUDIO start="5.0899343782613204" end="6.019922388434804"/>
+            <TRANSL xml:lang="fra">Frelon.</TRANSL>
+            <FORM kindOf="phono">tɔ˦˥</FORM>
+            <FORM kindOf="transliter">tox</FORM>
+        </W>
+        <W id="TWH_T19_W008">
+            <AREA image="page1" shape="rect" coords="769,23,866,121"/>
+            <AUDIO start="6.014922452896236" end="6.489916329060112"/>
+            <TRANSL xml:lang="fra">Entrer, pénétrer. Monter (dans les expressions : monter en
+                voiture, monter en avion, etc.). Embarquer.</TRANSL>
+            <FORM kindOf="phono">xau˨˧</FORM>
+            <FORM kindOf="transliter">k'awz</FORM>
+        </W>
+        <W id="TWH_T19_W009">
+            <AREA image="page1" shape="rect" coords="862,34,962,111"/>
+            <AUDIO start="6.475056538372118" end="7.235063174536258"/>
+            <TRANSL xml:lang="eng">house</TRANSL>
+            <TRANSL xml:lang="fra">Maison, habitation.</TRANSL>
+            <FORM kindOf="phono">hɤn˦</FORM>
+            <FORM kindOf="transliter">roen</FORM>
+        </W>
+    </S>
+    <S id="TWH_T19_S002">
+        <AREA image="page1" shape="rect" coords="9,134,686,217"/>
+        <AUDIO start="8.690388328054894" end="17.820796318289787"/>
+        <TRANSL xml:lang="eng">the day of the rat there will be disorder at home</TRANSL>
+        <TRANSL xml:lang="fra">le jour du rat, il y aura du désordre dans la maison</TRANSL>
+        <FORM kindOf="phono">mɯ˧˩ caɯ˨˧ hin˨˨ cau˨˧ ci˧˥ dai˨˧ pod˧˥ yaa˨˧</FORM>
+        <FORM kindOf="transliter">muz caez hin cawz cix daiz pwod yaa</FORM>
+        <W id="TWH_T19_W010">
+            <AREA image="page1" shape="rect" coords="4,136,79,241"/>
+            <AUDIO start="9.145079535094348" end="10.2400890584326"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W011">
+            <AREA image="page1" shape="rect" coords="67,130,156,232"/>
+            <AUDIO start="10.190088623576973" end="11.030095929151521"/>
+            <TRANSL xml:lang="fra">Rat (utilisé uniquement dans le système de décompte du temps basé
+                sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">caɯ˨˧</FORM>
+            <FORM kindOf="transliter">caez</FORM>
+        </W>
+        <W id="TWH_T19_W012">
+            <AREA image="page1" shape="rect" coords="157,130,241,226"/>
+            <AUDIO start="11.028624872455682" end="12.087871329132216"/>
+            <TRANSL xml:lang="fra">Voir.</TRANSL>
+            <FORM kindOf="phono">hin˨˨</FORM>
+            <FORM kindOf="transliter">hin</FORM>
+        </W>
+        <W id="TWH_T19_W013">
+            <AREA image="page1" shape="rect" coords="233,150,324,215"/>
+            <AUDIO start="12.394840472462624" end="12.94483339379013"/>
+            <TRANSL xml:lang="fra">Patron, propriétaire, maître, chef de service. Deuxième personne
+                du singulier d'un inférieur vers un supérieur.</TRANSL>
+            <FORM kindOf="phono">cau˨˧</FORM>
+            <FORM kindOf="transliter">cawz</FORM>
+        </W>
+        <W id="TWH_T19_W014">
+            <AREA image="page1" shape="rect" coords="326,125,386,217"/>
+            <AUDIO start="12.94483339379013" end="13.229829725750747"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W015">
+            <AREA image="page1" shape="rect" coords="376,143,466,222"/>
+            <AUDIO start="13.240115149770276" end="13.940121237749068"/>
+            <TRANSL xml:lang="fra">Pouvoir (v.), possible, réalisable.</TRANSL>
+            <FORM kindOf="phono">dai˩˧</FORM>
+            <FORM kindOf="transliter">daiz</FORM>
+        </W>
+        <W id="TWH_T19_W016">
+            <AREA image="page1" shape="rect" coords="465,136,585,226"/>
+            <AUDIO start="14.891759008570103" end="15.951005465246636"/>
+            <TRANSL xml:lang="fra">malade, dérangé</TRANSL>
+            <FORM kindOf="transliter">pwod</FORM>
+        </W>
+        <W id="TWH_T19_W017">
+            <AREA image="page1" shape="rect" coords="581,146,680,217"/>
+            <AUDIO start="16.262548540739733" end="17.19717776721903"/>
+            <TRANSL xml:lang="fra">particule finale, renforce l'affirmation</TRANSL>
+            <FORM kindOf="transliter">jaax</FORM>
+        </W>
+    </S>
+    <S id="TWH_T19_S003">
+        <AREA image="page1" shape="rect" coords="0,216,890,301"/>
+        <AUDIO start="18.810840558194773" end="28.821287872789654"/>
+        <TRANSL xml:lang="eng">the day of the buffalo you will loose something</TRANSL>
+        <TRANSL xml:lang="fra">le jour du buffle, vous égarerez des biens</TRANSL>
+        <FORM kindOf="phono">mɯ˧˩ pau˩˧ hin˨˨ cau˩˧ ci˧˥ dai˩˧ se˨˨ χɔŋ˨˨ nɔi˧˩ nɯŋ˦˥˦
+            (na:˦˥˦)</FORM>
+        <FORM kindOf="transliter">muz pawz hin cawz cix daiz see k'ong noiz nungx (naax)</FORM>
+        <W id="TWH_T19_W019">
+            <AREA image="page1" shape="rect" coords="4,221,77,305"/>
+            <AUDIO start="18.040806149379783" end="20.570919206914752"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W020">
+            <AREA image="page1" shape="rect" coords="65,226,147,297"/>
+            <AUDIO start="20.419737188195786" end="21.239726634538613"/>
+            <TRANSL xml:lang="fra">Buffle (utilisé uniquement dans le système de décompte du temps
+                basé sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">pau˩˧</FORM>
+            <FORM kindOf="transliter">pawz</FORM>
+        </W>
+        <W id="TWH_T19_W021">
+            <AREA image="page1" shape="rect" coords="156,215,251,290"/>
+            <AUDIO start="21.371854978826548" end="22.244175590207224"/>
+            <TRANSL xml:lang="fra">Voir.</TRANSL>
+            <FORM kindOf="phono">hin˨˨</FORM>
+            <FORM kindOf="transliter">hin</FORM>
+        </W>
+        <W id="TWH_T19_W022">
+            <AREA image="page1" shape="rect" coords="243,226,341,283"/>
+            <AUDIO start="22.742644510996183" end="23.61496512237686"/>
+            <TRANSL xml:lang="fra">Patron, propriétaire, maître, chef de service. Deuxième personne
+                du singulier d'un inférieur vers un supérieur.</TRANSL>
+            <FORM kindOf="phono">cau˩˧</FORM>
+            <FORM kindOf="transliter">cawz</FORM>
+        </W>
+        <W id="TWH_T19_W023">
+            <AREA image="page1" shape="rect" coords="341,210,393,289"/>
+            <AUDIO start="23.739694458754553" end="24.104689761090082"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W024">
+            <AREA image="page1" shape="rect" coords="389,216,483,283"/>
+            <AUDIO start="24.089689954144784" end="24.769681202331522"/>
+            <TRANSL xml:lang="fra">Pouvoir (v.), possible, réalisable.</TRANSL>
+            <FORM kindOf="phono">dai˩˧</FORM>
+            <FORM kindOf="transliter">daiz</FORM>
+        </W>
+        <W id="TWH_T19_W025">
+            <AREA image="page1" shape="rect" coords="470,216,534,293"/>
+            <AUDIO start="24.649682746769155" end="25.334673930604325"/>
+            <TRANSL xml:lang="fra">Perdre, perdu (un objet).</TRANSL>
+            <FORM kindOf="phono">se˨˨</FORM>
+            <FORM kindOf="transliter">see</FORM>
+        </W>
+        <W id="TWH_T19_W026">
+            <AREA image="page1" shape="rect" coords="524,218,648,291"/>
+            <AUDIO start="25.314674188010596" end="26.04466479268165"/>
+            <TRANSL xml:lang="fra">Propriété, bien (meuble ou immeuble), chose appartenant
+                à.</TRANSL>
+            <FORM kindOf="phono">χɔŋ˨˨</FORM>
+            <FORM kindOf="transliter">k'ong</FORM>
+        </W>
+        <W id="TWH_T19_W027">
+            <AREA image="page1" shape="rect" coords="644,210,740,278"/>
+            <AUDIO start="26.709656233923088" end="27.059651729313323"/>
+            <TRANSL xml:lang="fra">Peu.</TRANSL>
+            <FORM kindOf="phono">nɔi˧˩</FORM>
+            <FORM kindOf="transliter">noiz</FORM>
+        </W>
+        <W id="TWH_T19_W028">
+            <AREA image="page1" shape="rect" coords="731,215,812,277"/>
+            <AUDIO start="27.049651858016457" end="27.80464214092967"/>
+            <TRANSL xml:lang="fra">Un (adj. numéral).</TRANSL>
+            <FORM kindOf="phono">nɯŋ˦˥˦</FORM>
+            <FORM kindOf="transliter">nungx</FORM>
+        </W>
+        <W id="TWH_T19_W018">
+            <AREA image="page1" shape="rect" coords="802,229,888,273"/>
+            <AUDIO start="" end=""/>
+            <TRANSL xml:lang="fra">particule finale</TRANSL>
+            <FORM kindOf="phono">(na:˦˥˦)</FORM>
+            <FORM kindOf="transliter">(naax)</FORM>
+        </W>
+    </S>
+    <S id="TWH_T19_S004">
+        <AREA image="page1" shape="rect" coords="1,285,790,380"/>
+        <AUDIO start="29.041527888007053" end="34.830536769337364"/>
+        <TRANSL xml:lang="eng">the day of the tiger, you will have an argument</TRANSL>
+        <TRANSL xml:lang="fra">le jour du tigre, vous aurez une dispute</TRANSL>
+        <FORM kindOf="phono">mɯ˧˩ ɲi˦ cau˩˧ ci˧˥ mi˦ ve˦ χa:˩˧ ho˨˨ kan˨˨ na:˦˥˦</FORM>
+        <FORM kindOf="transliter">muz gni cawz cix mi veek k'aaz hwo kan naax</FORM>
+        <W id="TWH_T19_W029">
+            <AREA image="page1" shape="rect" coords="14,293,78,371"/>
+            <AUDIO start="29.50462026139651" end="30.224610994770696"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W030">
+            <AREA image="page1" shape="rect" coords="69,295,167,396"/>
+            <AUDIO start="30.239610801715997" end="30.849602950824686"/>
+            <TRANSL xml:lang="fra">Tigre (utilisé uniquement dans le système de décompte du temps
+                basé sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">ɲi˦</FORM>
+            <FORM kindOf="transliter">gni</FORM>
+        </W>
+        <W id="TWH_T19_W031">
+            <AREA image="page1" shape="rect" coords="176,299,279,376"/>
+            <AUDIO start="30.854602886473117" end="31.219598188808643"/>
+            <TRANSL xml:lang="fra">Patron, propriétaire, maître, chef de service. Deuxième personne
+                du singulier d'un inférieur vers un supérieur.</TRANSL>
+            <FORM kindOf="phono">cau˩˧</FORM>
+            <FORM kindOf="transliter">cawz</FORM>
+        </W>
+        <W id="TWH_T19_W032">
+            <AREA image="page1" shape="rect" coords="271,279,335,360"/>
+            <AUDIO start="31.22959806010551" end="31.759591238839285"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W033">
+            <AREA image="page1" shape="rect" coords="309,291,386,366"/>
+            <AUDIO start="31.709591882354964" end="32.1695859620107"/>
+            <TRANSL xml:lang="fra">Avoir (v., sens de : posséder), en avoir ; il y en a.</TRANSL>
+            <FORM kindOf="phono">mi˦</FORM>
+            <FORM kindOf="transliter">mi</FORM>
+        </W>
+        <W id="TWH_T19_W034">
+            <AREA image="page1" shape="rect" coords="381,282,438,365"/>
+            <AUDIO start="32.1545861550654" end="32.53958119999466"/>
+            <TRANSL xml:lang="fra">Travail, besogne, occupation, question, affaire.</TRANSL>
+            <FORM kindOf="phono">ve˦</FORM>
+            <FORM kindOf="transliter">veeq</FORM>
+        </W>
+        <W id="TWH_T19_W035">
+            <AREA image="page1" shape="rect" coords="423,301,503,393"/>
+            <AUDIO start="32.684579333799185" end="33.139573477806486"/>
+            <TRANSL xml:lang="fra">Tuer.</TRANSL>
+            <FORM kindOf="phono">χa:˩˧</FORM>
+            <FORM kindOf="transliter">k'aaz</FORM>
+        </W>
+        <W id="TWH_T19_W036">
+            <AREA image="page1" shape="rect" coords="495,299,603,362"/>
+            <AUDIO start="33.144573413454914" end="33.56456800792319"/>
+            <TRANSL xml:lang="fra">Tête ; sommité, extrémité, partie renflée, (par extension, dans
+                certaines expressions).</TRANSL>
+            <FORM kindOf="phono">ho˨˨</FORM>
+            <FORM kindOf="transliter">hwo</FORM>
+        </W>
+        <W id="TWH_T19_W037">
+            <AREA image="page1" shape="rect" coords="596,294,702,361"/>
+            <AUDIO start="33.56956794357163" end="33.76456543386047"/>
+            <TRANSL xml:lang="fra">Réciproquement, l'un l'autre, les uns les autres.</TRANSL>
+            <FORM kindOf="phono">kan˨˨</FORM>
+            <FORM kindOf="transliter">kan</FORM>
+        </W>
+        <W id="TWH_T19_W038">
+            <AREA image="page1" shape="rect" coords="699,309,765,364"/>
+            <AUDIO start="33.729565884321445" end="34.289558676945816"/>
+            <TRANSL xml:lang="fra">particule finale</TRANSL>
+            <FORM kindOf="phono">na:˦˥˦</FORM>
+            <FORM kindOf="transliter">naax</FORM>
+        </W>
+    </S>
+    <S id="TWH_T19_S005">
+        <AREA image="page1" shape="rect" coords="12,371,989,444"/>
+        <AUDIO start="34.830536769337364" end="43.99646749811035"/>
+        <TRANSL xml:lang="eng">the days of the cat and snake, some of your relatives will
+            arrive</TRANSL>
+        <TRANSL xml:lang="fra">les jours du chat et du serpent, des parents arriveront</TRANSL>
+        <FORM kindOf="phono">mɯ˧˩ mau˩˧ kap˧˥ mɯ˧˩ saɤ˩˧ ci˧˥ mi˦ pi˦˥˦ nɔŋ˧˩ luŋ˦ ta:˨˨ ma:˦ hɔt˦
+            (na:˦˥˦)</FORM>
+        <FORM kindOf="transliter">muz hmawz kab muz saez cix mi 'pix nongz loung taa maa rod
+            (naax)</FORM>
+        <W id="TWH_T19_W040">
+            <AREA image="page1" shape="rect" coords="11,376,70,463"/>
+            <AUDIO start="35.53454265340535" end="36.16453454510777"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W041">
+            <AREA image="page1" shape="rect" coords="60,379,172,445"/>
+            <AUDIO start="36.144534802514045" end="36.77952662986489"/>
+            <TRANSL xml:lang="fra">Chat (utilisé uniquement dans le système de décompte du temps
+                basé sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">mau˩˧</FORM>
+            <FORM kindOf="transliter">hmawz</FORM>
+        </W>
+        <W id="TWH_T19_W042">
+            <AREA image="page1" shape="rect" coords="178,361,249,442"/>
+            <AUDIO start="37.55951659102027" end="38.04951028456659"/>
+            <TRANSL xml:lang="fra">Avec.</TRANSL>
+            <FORM kindOf="phono">ka(p)˧˥</FORM>
+            <FORM kindOf="transliter">ka(b)</FORM>
+        </W>
+        <W id="TWH_T19_W043">
+            <AREA image="page1" shape="rect" coords="234,374,292,438"/>
+            <AUDIO start="37.97951118548854" end="38.54950384940978"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W044">
+            <AREA image="page1" shape="rect" coords="290,373,381,439"/>
+            <AUDIO start="38.60950307719096" end="39.30949406797142"/>
+            <TRANSL xml:lang="fra">Serpent (utilisé uniquement dans le système de décompte du temps
+                basé sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">saɤ˩˧</FORM>
+            <FORM kindOf="transliter">saez</FORM>
+        </W>
+        <W id="TWH_T19_W045">
+            <AREA image="page1" shape="rect" coords="376,372,429,442"/>
+            <AUDIO start="39.54449104344772" end="40.00448512310345"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W046">
+            <AREA image="page1" shape="rect" coords="430,376,488,440"/>
+            <AUDIO start="39.99448525180659" end="40.404479974978"/>
+            <TRANSL xml:lang="fra">Avoir (v., sens de : posséder), en avoir ; il y en a.</TRANSL>
+            <FORM kindOf="phono">mi˦</FORM>
+            <FORM kindOf="transliter">mi</FORM>
+        </W>
+        <W id="TWH_T19_W047">
+            <AREA image="page1" shape="rect" coords="485,362,546,443"/>
+            <AUDIO start="40.40947991062643" end="40.65947669304803"/>
+            <TRANSL xml:lang="fra">Parent aîné.</TRANSL>
+            <FORM kindOf="phono">pi˦˥˦</FORM>
+            <FORM kindOf="transliter">'pix</FORM>
+        </W>
+        <W id="TWH_T19_W048">
+            <AREA image="page1" shape="rect" coords="539,373,647,438"/>
+            <AUDIO start="40.64447688610273" end="41.12447070835219"/>
+            <TRANSL xml:lang="fra">Parent cadet.</TRANSL>
+            <FORM kindOf="phono">nɔŋ˧˩</FORM>
+            <FORM kindOf="transliter">nongz</FORM>
+        </W>
+        <W id="TWH_T19_W049">
+            <AREA image="page1" shape="rect" coords="640,357,701,450"/>
+            <AUDIO start="41.109470901406894" end="41.59946459495322"/>
+            <TRANSL xml:lang="fra">Once (frère aîné du père ou de la mère).</TRANSL>
+            <FORM kindOf="phono">luŋ˦</FORM>
+            <FORM kindOf="transliter">loung</FORM>
+        </W>
+        <W id="TWH_T19_W050">
+            <AREA image="page1" shape="rect" coords="702,382,781,439"/>
+            <AUDIO start="41.62446427319538" end="42.17945713017132"/>
+            <TRANSL xml:lang="fra">Beau-père (du mari).</TRANSL>
+            <FORM kindOf="phono">ta:˨˨</FORM>
+            <FORM kindOf="transliter">taa</FORM>
+        </W>
+        <W id="TWH_T19_W051">
+            <AREA image="page1" shape="rect" coords="782,372,864,429"/>
+            <AUDIO start="42.22945648665564" end="42.60945159593646"/>
+            <TRANSL xml:lang="fra">Venir.</TRANSL>
+            <FORM kindOf="phono">ma:˦</FORM>
+            <FORM kindOf="transliter">maa</FORM>
+        </W>
+        <W id="TWH_T19_W052">
+            <AREA image="page1" shape="rect" coords="865,369,947,433"/>
+            <AUDIO start="42.5994517246396" end="43.049445932998466"/>
+            <TRANSL xml:lang="fra">Arriver, parvenir, atteindre (dans le temps et dans
+                l'espace).</TRANSL>
+            <FORM kindOf="phono">hɔt˦</FORM>
+            <FORM kindOf="transliter">rod</FORM>
+        </W>
+        <W id="TWH_T19_W039">
+            <AREA image="page1" shape="rect" coords="936,394,989,432"/>
+            <AUDIO start="0" end="0"/>
+            <TRANSL xml:lang="fra">particule finale</TRANSL>
+            <FORM kindOf="phono">(na:˦˥˦)</FORM>
+            <FORM kindOf="transliter">(naax)</FORM>
+        </W>
+    </S>
+    <S id="TWH_T19_S006">
+        <AREA image="page1" shape="rect" coords="16,438,989,533"/>
+        <AUDIO start="44.961302311665406" end="58.37250622008062"/>
+        <TRANSL xml:lang="eng">the day of the dragon, yet another 2 months and there will be pain
+            and illness at home</TRANSL>
+        <TRANSL xml:lang="fra">le jour du dragon, encore 2 mois et il y aura douleur et maladie à la
+            maison</TRANSL>
+        <FORM kindOf="phono">mɯ˧˩ si˨˨ hin˨˨ ɲaŋ˦ mi˦ sɔ(ŋ)˨˨ bɤ(n)˨˨ ko(ŋ)˨˨ hɤ(n)˦ hau˦ ci˧˥ mi˦
+            ce(p)˧˥ mi˦ t͡ʃai˩˧</FORM>
+        <FORM kindOf="transliter">muz si hin gnang mi so(ng) boe(n) kwong roen raw cix mi ceeb mi
+            chaiz</FORM>
+        <W id="TWH_T19_W053">
+            <AREA image="page1" shape="rect" coords="16,446,75,533"/>
+            <AUDIO start="45.50441433637852" end="46.06440712900289"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W054">
+            <AREA image="page1" shape="rect" coords="78,439,164,531"/>
+            <AUDIO start="46.054407257706025" end="46.85439696145513"/>
+            <TRANSL xml:lang="fra">Dragon (utilisé uniquement dans le système de décompte du temps
+                basé sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">si˨˨</FORM>
+            <FORM kindOf="transliter">si</FORM>
+        </W>
+        <W id="TWH_T19_W055">
+            <AREA image="page1" shape="rect" coords="166,443,254,522"/>
+            <AUDIO start="47.31439104111086" end="48.299378363851936"/>
+            <TRANSL xml:lang="fra">Voir.</TRANSL>
+            <FORM kindOf="phono">hin˨˨</FORM>
+            <FORM kindOf="transliter">hin</FORM>
+        </W>
+        <W id="TWH_T19_W056">
+            <AREA image="page1" shape="rect" coords="249,435,321,534"/>
+            <AUDIO start="48.72937282961708" end="49.18936690927281"/>
+            <TRANSL xml:lang="fra">Encore (avec les sens suivants : idée de reste : il y en a encore
+                ; idée de répétition, de supplément : donnez encore (dans ce cas est souvent employé
+                avec mắơ, voir ci-dessous) ; jusqu'à présent : pas encore).</TRANSL>
+            <FORM kindOf="phono">ɲaŋ˦</FORM>
+            <FORM kindOf="transliter">gnang</FORM>
+        </W>
+        <W id="TWH_T19_W057">
+            <AREA image="page1" shape="rect" coords="312,447,400,516"/>
+            <AUDIO start="49.17936703797594" end="49.844358479217384"/>
+            <TRANSL xml:lang="fra">Avoir (v., sens de : posséder), en avoir ; il y en a.</TRANSL>
+            <FORM kindOf="phono">mi˦</FORM>
+            <FORM kindOf="transliter">mi</FORM>
+        </W>
+        <W id="TWH_T19_W058">
+            <AREA image="page1" shape="rect" coords="390,440,448,526"/>
+            <AUDIO start="50.674347796857084" end="51.18934116864556"/>
+            <TRANSL xml:lang="fra">Deux.</TRANSL>
+            <FORM kindOf="phono">sɔ(ŋ)˨˨</FORM>
+            <FORM kindOf="transliter">so(ng)</FORM>
+        </W>
+        <W id="TWH_T19_W059">
+            <AREA image="page1" shape="rect" coords="442,443,499,519"/>
+            <AUDIO start="51.1643414904034" end="51.80933318905112"/>
+            <TRANSL xml:lang="fra">Mois lunaire (29 ou 30 jours).</TRANSL>
+            <FORM kindOf="phono">bɤ(n)˨˨</FORM>
+            <FORM kindOf="transliter">boe(n)</FORM>
+        </W>
+        <W id="TWH_T19_W060">
+            <AREA image="page1" shape="rect" coords="495,438,600,515"/>
+            <AUDIO start="52.009330614988386" end="52.83931993262809"/>
+            <TRANSL xml:lang="fra">Dans, dedans. (S'emploie aussi pour fixer une date : dans deux
+                jours.)</TRANSL>
+            <FORM kindOf="phono">ko(ŋ)˨˨</FORM>
+            <FORM kindOf="transliter">kwo(ng)</FORM>
+        </W>
+        <W id="TWH_T19_W061">
+            <AREA image="page1" shape="rect" coords="604,442,653,508"/>
+            <AUDIO start="53.02931748726849" end="53.44931208173677"/>
+            <TRANSL xml:lang="fra">Maison, habitation.</TRANSL>
+            <FORM kindOf="phono">hɤ(n)˦</FORM>
+            <FORM kindOf="transliter">roe(n)</FORM>
+        </W>
+        <W id="TWH_T19_W062">
+            <AREA image="page1" shape="rect" coords="651,465,748,506"/>
+            <AUDIO start="53.454312017385206" end="53.984305196118974"/>
+            <TRANSL xml:lang="fra">nous (locuteur compris), soi-même</TRANSL>
+            <FORM kindOf="phono">hau˦</FORM>
+            <FORM kindOf="transliter">raw</FORM>
+        </W>
+        <W id="TWH_T19_W063">
+            <AREA image="page1" shape="rect" coords="753,429,809,508"/>
+            <AUDIO start="54.80929457811024" end="55.19928955868793"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W064">
+            <AREA image="page1" shape="rect" coords="798,429,858,512"/>
+            <AUDIO start="55.18928968739107" end="55.7592823513123"/>
+            <TRANSL xml:lang="fra">Avoir (v., sens de : posséder), en avoir ; il y en a.</TRANSL>
+            <FORM kindOf="phono">mi˦</FORM>
+            <FORM kindOf="transliter">mi</FORM>
+        </W>
+        <W id="TWH_T19_W065">
+            <AREA image="page1" shape="rect" coords="849,426,908,515"/>
+            <AUDIO start="55.93428009900741" end="56.56927192635826"/>
+            <TRANSL xml:lang="fra">Souffrir, faire souffrir, faire mal, avoir mal.</TRANSL>
+            <FORM kindOf="phono">ce(p)˧˥</FORM>
+            <FORM kindOf="transliter">cee(b)</FORM>
+        </W>
+        <W id="TWH_T19_W066">
+            <AREA image="page1" shape="rect" coords="892,444,930,497"/>
+            <AUDIO start="56.5592720550614" end="56.94926703563909"/>
+            <TRANSL xml:lang="fra">Avoir (v., sens de : posséder), en avoir ; il y en a.</TRANSL>
+            <FORM kindOf="phono">mi˦</FORM>
+            <FORM kindOf="transliter">mi</FORM>
+        </W>
+        <W id="TWH_T19_W067">
+            <AREA image="page1" shape="rect" coords="930,464,988,510"/>
+            <AUDIO start="56.929267293045356" end="57.3592617588105"/>
+            <TRANSL xml:lang="fra">Malade, être malade.</TRANSL>
+            <FORM kindOf="phono">t͡ʃai˩˧</FORM>
+            <FORM kindOf="transliter">chaiz</FORM>
+        </W>
+    </S>
+    <S id="TWH_T19_S007">
+        <AREA image="page1" shape="rect" coords="8,526,978,605"/>
+        <AUDIO start="58.76351322751323" end="68.60567800453515"/>
+        <TRANSL xml:lang="eng">the day of the snake, some relatives will pay a visit</TRANSL>
+        <TRANSL xml:lang="fra">le jour du serpent, des membres de la famille viendront rendre une
+            visite </TRANSL>
+        <FORM kindOf="phono">mɯ˧˩ saɤ˩˧ ci˧˥ mi˦ pi˦˥˦ nɔŋ˧˩ luŋ˦ ta:˨˨ va:˩˧ fan˦ ma:˦ ja:(m)˨˨
+            (na:˦˥˦)</FORM>
+        <FORM kindOf="transliter">muz saez cix mi 'pix nongz loung taa hvaaz 'fan maa jaam
+            (naax)</FORM>
+        <W id="TWH_T19_W069">
+            <AREA image="page1" shape="rect" coords="18,516,82,606"/>
+            <AUDIO start="59.23423762697245" end="60.10922636544804"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W070">
+            <AREA image="page1" shape="rect" coords="70,529,191,603"/>
+            <AUDIO start="60.20422514276824" end="60.899216197900266"/>
+            <TRANSL xml:lang="fra">Serpent (utilisé uniquement dans le système de décompte du temps
+                basé sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">saɤ˩˧</FORM>
+            <FORM kindOf="transliter">saez</FORM>
+        </W>
+        <W id="TWH_T19_W071">
+            <AREA image="page1" shape="rect" coords="214,513,266,601"/>
+            <AUDIO start="60.95921542568146" end="61.304210985423246"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W072">
+            <AREA image="page1" shape="rect" coords="267,524,334,594"/>
+            <AUDIO start="61.304210985423246" end="61.79420467896958"/>
+            <TRANSL xml:lang="fra">Avoir (v., sens de : posséder), en avoir ; il y en a.</TRANSL>
+            <FORM kindOf="phono">mi˦</FORM>
+            <FORM kindOf="transliter">mi</FORM>
+        </W>
+        <W id="TWH_T19_W073">
+            <AREA image="page1" shape="rect" coords="332,519,403,589"/>
+            <AUDIO start="61.75420519378212" end="61.98920216925842"/>
+            <TRANSL xml:lang="fra">Parent aîné.</TRANSL>
+            <FORM kindOf="phono">pi˦˥˦</FORM>
+            <FORM kindOf="transliter">'pix</FORM>
+        </W>
+        <W id="TWH_T19_W074">
+            <AREA image="page1" shape="rect" coords="399,536,502,590"/>
+            <AUDIO start="61.97920229796156" end="62.38419708548453"/>
+            <TRANSL xml:lang="fra">Parent cadet.</TRANSL>
+            <FORM kindOf="phono">nɔŋ˧˩</FORM>
+            <FORM kindOf="transliter">nongz</FORM>
+        </W>
+        <W id="TWH_T19_W075">
+            <AREA image="page1" shape="rect" coords="498,511,557,605"/>
+            <AUDIO start="62.40419682807826" end="62.96418962070263"/>
+            <TRANSL xml:lang="fra">Once (frère aîné du père ou de la mère).</TRANSL>
+            <FORM kindOf="phono">luŋ˦</FORM>
+            <FORM kindOf="transliter">loung</FORM>
+        </W>
+        <W id="TWH_T19_W076">
+            <AREA image="page1" shape="rect" coords="560,536,644,588"/>
+            <AUDIO start="62.99918917024166" end="63.58918157675662"/>
+            <TRANSL xml:lang="fra">Beau-père (du mari).</TRANSL>
+            <FORM kindOf="phono">taa˨˨</FORM>
+            <FORM kindOf="transliter">taa</FORM>
+        </W>
+        <W id="TWH_T19_W077">
+            <AREA image="page1" shape="rect" coords="643,524,814,616"/>
+            <AUDIO start="64.28917256753708" end="65.16416130601266"/>
+            <TRANSL xml:lang="fra">Famille, proches.</TRANSL>
+            <FORM kindOf="phono">va:˩˧ fan˦</FORM>
+            <FORM kindOf="transliter">hvaaz 'fan</FORM>
+        </W>
+        <W id="TWH_T19_W078">
+            <AREA image="page1" shape="rect" coords="807,519,876,596"/>
+            <AUDIO start="66.4241450894175" end="66.94413839685441"/>
+            <TRANSL xml:lang="fra">Venir.</TRANSL>
+            <FORM kindOf="phono">ma:˦</FORM>
+            <FORM kindOf="transliter">maa</FORM>
+        </W>
+        <W id="TWH_T19_W079">
+            <AREA image="page1" shape="rect" coords="872,520,937,593"/>
+            <AUDIO start="66.89413904037009" end="67.66412913022859"/>
+            <TRANSL xml:lang="fra">Visiter (un parent, un ami), faire une visite (même
+                sens).</TRANSL>
+            <FORM kindOf="phono">ja:(m)˨˨</FORM>
+            <FORM kindOf="transliter">jaa(m)</FORM>
+        </W>
+        <W id="TWH_T19_W068">
+            <AREA image="page1" shape="rect" coords="928,536,981,581"/>
+            <AUDIO start="0" end="0"/>
+            <TRANSL xml:lang="fra">particule finale</TRANSL>
+            <FORM kindOf="phono">(na:˦˥˦)</FORM>
+            <FORM kindOf="transliter">(naax)</FORM>
+        </W>
+    </S>
+    <S id="TWH_T19_S008">
+        <AREA image="page1" shape="rect" coords="18,598,985,687"/>
+        <AUDIO start="68.70216981607459" end="77.2899410430839"/>
+        <TRANSL xml:lang="eng">the day of the horse, you will not feel good at home</TRANSL>
+        <TRANSL xml:lang="fra">le jour du cheval, vous ne vous sentirez pas bien chez vous</TRANSL>
+        <FORM kindOf="phono">mɯ˧˩ sa˦ ŋa:˧˩ ko(ŋ)˨˨ hɤ(n)˦ hau˦ ci˧˥ ju˧˥ bau˧˥ ha:(o)˩˧ ki(n)˨˨
+            bau˧˥ va:(n)˨˨ (na:˦˥˦)</FORM>
+        <FORM kindOf="transliter">muz sa ngaaz kwo(ng) roe(n) raw cix joux bawx haa(w)z kin bawx
+            hvaan (naax)</FORM>
+        <W id="TWH_T19_W081">
+            <AREA image="page1" shape="rect" coords="36,596,101,683"/>
+            <AUDIO start="69.15910988910973" end="69.67910319654663"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W082">
+            <AREA image="page1" shape="rect" coords="91,596,189,675"/>
+            <AUDIO start="69.61910396876546" end="70.63409090539714"/>
+            <TRANSL xml:lang="fra">Cheval (utilisé uniquement dans le système de décompte du temps
+                basé sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">sa˦ ŋa:˧˩</FORM>
+            <FORM kindOf="transliter">sa ngaaz</FORM>
+        </W>
+        <W id="TWH_T19_W083">
+            <AREA image="page1" shape="rect" coords="227,607,319,667"/>
+            <AUDIO start="71.084085113756" end="71.5390792577633"/>
+            <TRANSL xml:lang="fra">Dans, dedans. (S'emploie aussi pour fixer une date : dans deux
+                jours.)</TRANSL>
+            <FORM kindOf="phono">koŋ˨˨</FORM>
+            <FORM kindOf="transliter">kwong</FORM>
+        </W>
+        <W id="TWH_T19_W084">
+            <AREA image="page1" shape="rect" coords="321,596,365,671"/>
+            <AUDIO start="71.53407932211486" end="71.8840748175051"/>
+            <TRANSL xml:lang="fra">Maison, habitation.</TRANSL>
+            <FORM kindOf="phono">hɤn˦</FORM>
+            <FORM kindOf="transliter">roen</FORM>
+        </W>
+        <W id="TWH_T19_W085">
+            <AREA image="page1" shape="rect" coords="369,622,464,665"/>
+            <AUDIO start="71.90907449574726" end="72.41406799623888"/>
+            <TRANSL xml:lang="fra">Nous (personne à qui l'on parle comprise.)</TRANSL>
+            <FORM kindOf="phono">hau˦</FORM>
+            <FORM kindOf="transliter">raw</FORM>
+        </W>
+        <W id="TWH_T19_W086">
+            <AREA image="page1" shape="rect" coords="469,590,516,666"/>
+            <AUDIO start="72.4790671596685" end="72.79906304116813"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W087">
+            <AREA image="page1" shape="rect" coords="505,610,582,676"/>
+            <AUDIO start="72.7790632985744" end="73.3590558337925"/>
+            <TRANSL xml:lang="fra">Être (exprimant une idée de situation et non d'état, sauf deux
+                exceptions : yú di, yú hày). Y être, être présent, être situé.</TRANSL>
+            <FORM kindOf="phono">ju˧˥</FORM>
+            <FORM kindOf="transliter">joux</FORM>
+        </W>
+        <W id="TWH_T19_W088">
+            <AREA image="page1" shape="rect" coords="576,607,654,664"/>
+            <AUDIO start="73.43405486851898" end="74.09904630976041"/>
+            <TRANSL xml:lang="fra">Ne, ne pas, pas.</TRANSL>
+            <FORM kindOf="phono">bau˧˥</FORM>
+            <FORM kindOf="transliter">bawx</FORM>
+        </W>
+        <W id="TWH_T19_W089">
+            <AREA image="page1" shape="rect" coords="647,615,721,661"/>
+            <AUDIO start="74.16904540883847" end="74.83903678572835"/>
+            <TRANSL xml:lang="fra">Être bien portant.</TRANSL>
+            <FORM kindOf="phono">ha:o˩˧</FORM>
+            <FORM kindOf="transliter">haa(w)z</FORM>
+        </W>
+        <W id="TWH_T19_W090">
+            <AREA image="page1" shape="rect" coords="729,593,789,679"/>
+            <AUDIO start="74.9040343032739" end="75.48902676128627"/>
+            <TRANSL xml:lang="fra">manger</TRANSL>
+            <FORM kindOf="phono">kin˨˨</FORM>
+            <FORM kindOf="transliter">kin</FORM>
+        </W>
+        <W id="TWH_T19_W091">
+            <AREA image="page1" shape="rect" coords="768,601,859,657"/>
+            <AUDIO start="75.49402654282115" end="75.7490232547679"/>
+            <TRANSL xml:lang="fra">Ne, ne pas, pas.</TRANSL>
+            <FORM kindOf="phono">bau˧˥</FORM>
+            <FORM kindOf="transliter">bawx</FORM>
+        </W>
+        <W id="TWH_T19_W092">
+            <AREA image="page1" shape="rect" coords="844,618,924,656"/>
+            <AUDIO start="75.65902441525728" end="76.72901061832793"/>
+            <TRANSL xml:lang="fra">Assaisonné ; sucré, salé (sens général).</TRANSL>
+            <FORM kindOf="phono">va:n˨˨</FORM>
+            <FORM kindOf="transliter">hvaan</FORM>
+        </W>
+        <W id="TWH_T19_W080">
+            <AREA image="page1" shape="rect" coords="925,617,976,659"/>
+            <AUDIO start="0" end="0"/>
+            <TRANSL xml:lang="fra">particule finale</TRANSL>
+            <FORM kindOf="phono">(na:˦˥˦)</FORM>
+            <FORM kindOf="transliter">(naa)</FORM>
+        </W>
+    </S>
+    <S id="TWH_T19_S009">
+        <AREA image="page1" shape="rect" coords="6,671,986,748"/>
+        <AUDIO start="77.2899410430839" end="91.4742373393802"/>
+        <TRANSL xml:lang="eng">the day of the goat, friends will announce a business</TRANSL>
+        <TRANSL xml:lang="fra">le jour de la chèvre, des amis viendront proposer une
+            affaire</TRANSL>
+        <FORM kindOf="phono">mɯ˧˩ mo(t)˦ ci˧˥ mi˦ pi˦˥˦ nɔŋ˧˩ ma:˦ ka:o˦˥˦ vau˧˩ na:˩˧ ve˦ nɯŋ˦˥˦
+            (dɤi˩˧)</FORM>
+        <FORM kindOf="transliter">muz mwod cix mi 'pix nongz maa qaawx vawz hnaaz veeq nungx
+            (doeiz)</FORM>
+        <W id="TWH_T19_W094">
+            <AREA image="page1" shape="rect" coords="11,671,86,752"/>
+            <AUDIO start="77.56400000979161" end="78.32399021165381"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W095">
+            <AREA image="page1" shape="rect" coords="70,677,178,743"/>
+            <AUDIO start="78.30399046949954" end="79.62397345168125"/>
+            <TRANSL xml:lang="fra">Chèvre (utilisé uniquement dans le système de décompte du temps
+                basé sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">mot˦</FORM>
+            <FORM kindOf="transliter">mwod</FORM>
+        </W>
+        <W id="TWH_T19_W096">
+            <AREA image="page1" shape="rect" coords="233,666,290,746"/>
+            <AUDIO start="80.27896500723355" end="80.68395978585748"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W097">
+            <AREA image="page1" shape="rect" coords="287,669,363,738"/>
+            <AUDIO start="80.69395965693462" end="81.45394985879683"/>
+            <TRANSL xml:lang="fra">Avoir (v., sens de : posséder), en avoir ; il y en a.</TRANSL>
+            <FORM kindOf="phono">mi˦</FORM>
+            <FORM kindOf="transliter">mi</FORM>
+        </W>
+        <W id="TWH_T19_W098">
+            <AREA image="page1" shape="rect" coords="355,668,442,736"/>
+            <AUDIO start="81.74894605557228" end="82.11894128542625"/>
+            <TRANSL xml:lang="fra">Parent aîné.</TRANSL>
+            <FORM kindOf="phono">pi˦˥˦</FORM>
+            <FORM kindOf="transliter">'pix</FORM>
+        </W>
+        <W id="TWH_T19_W099">
+            <AREA image="page1" shape="rect" coords="422,677,558,738"/>
+            <AUDIO start="82.07394186557914" end="82.88893135836558"/>
+            <TRANSL xml:lang="fra">Parent cadet.</TRANSL>
+            <FORM kindOf="phono">nɔŋ˧˩</FORM>
+            <FORM kindOf="transliter">nongz</FORM>
+        </W>
+        <W id="TWH_T19_W100">
+            <AREA image="page1" shape="rect" coords="545,680,618,733"/>
+            <AUDIO start="82.78997430083145" end="83.85138422776518"/>
+            <TRANSL xml:lang="fra">Venir.</TRANSL>
+            <FORM kindOf="phono">ma:˦</FORM>
+            <FORM kindOf="transliter">maa</FORM>
+        </W>
+        <W id="TWH_T19_W101">
+            <AREA image="page1" shape="rect" coords="614,693,699,739"/>
+            <AUDIO start="86.58388372136669" end="87.8438674770856"/>
+            <TRANSL xml:lang="fra">Annoncer, faire une annonce.</TRANSL>
+            <FORM kindOf="phono">ka:o˦˥˦</FORM>
+            <FORM kindOf="transliter">qaawx</FORM>
+        </W>
+        <W id="TWH_T19_W102">
+            <AREA image="page1" shape="rect" coords="706,688,794,734"/>
+            <AUDIO start="88.29000755857899" end="89.15843386243387"/>
+            <TRANSL xml:lang="fra">Dire.</TRANSL>
+            <FORM kindOf="phono">vau˧˩</FORM>
+            <FORM kindOf="transliter">vawz</FORM>
+        </W>
+        <W id="TWH_T19_W103">
+            <AREA image="page1" shape="rect" coords="789,668,858,757"/>
+            <AUDIO start="89.07885155511168" end="89.7288431751254"/>
+            <TRANSL xml:lang="fra">Visage, face ; prochain.</TRANSL>
+            <FORM kindOf="phono">na:˩˧</FORM>
+            <FORM kindOf="transliter">hnaaz</FORM>
+        </W>
+        <W id="TWH_T19_W104">
+            <AREA image="page1" shape="rect" coords="850,670,914,733"/>
+            <AUDIO start="89.67884381973973" end="89.99383975866945"/>
+            <TRANSL xml:lang="fra">Travail, besogne, occupation, question, affaire.</TRANSL>
+            <FORM kindOf="phono">ve˦</FORM>
+            <FORM kindOf="transliter">veeq</FORM>
+        </W>
+        <W id="TWH_T19_W105">
+            <AREA image="page1" shape="rect" coords="898,680,964,729"/>
+            <AUDIO start="89.98883982313089" end="90.9888269308443"/>
+            <TRANSL xml:lang="fra">Un (adj. numéral).</TRANSL>
+            <FORM kindOf="phono">nɯŋ˦˥˦</FORM>
+            <FORM kindOf="transliter">nungx</FORM>
+        </W>
+        <W id="TWH_T19_W093">
+            <AREA image="page1" shape="rect" coords="931,698,986,745"/>
+            <AUDIO start="0" end="0"/>
+            <TRANSL xml:lang="fra">Avec ; près de (dans l’expression : aller près de
+                quelqu’un).</TRANSL>
+            <FORM kindOf="phono">(dɤi˩˧)</FORM>
+            <FORM kindOf="transliter">(doeiz)</FORM>
+        </W>
+    </S>
+    <S id="TWH_T19_S010">
+        <AREA image="page1" shape="rect" coords="7,745,979,835"/>
+        <AUDIO start="91.95669639707735" end="102.47430385487529"/>
+        <TRANSL xml:lang="eng">the day of the monkey, friends will come to quarrel</TRANSL>
+        <TRANSL xml:lang="fra">le jour du singe, des cousins/amis d'ailleurs viendront pour se
+            disputer</TRANSL>
+        <FORM kindOf="phono">mɯ˧˩ san˨˨ ci˧˥ mi˦ pi˦˥˦ nɔŋ˧˩ hɤ(n)˦ nɔ˦ ci˧˥ ma:˦ χa:˩˧ ho˨˨
+            dɤi˩˧</FORM>
+        <FORM kindOf="transliter">muz san cix mi 'pix nongz roen no cix maa k'aaz hwo doeiz</FORM>
+        <W id="TWH_T19_W106">
+            <AREA image="page1" shape="rect" coords="8,746,73,829"/>
+            <AUDIO start="92.7838037891899" end="93.57879353982207"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W107">
+            <AREA image="page1" shape="rect" coords="72,747,186,814"/>
+            <AUDIO start="93.57379360428351" end="94.11878657798732"/>
+            <TRANSL xml:lang="fra">Singe (utilisé uniquement dans le système de décompte du temps
+                basé sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">san˨˨</FORM>
+            <FORM kindOf="transliter">san</FORM>
+        </W>
+        <W id="TWH_T19_W108">
+            <AREA image="page1" shape="rect" coords="229,739,291,812"/>
+            <AUDIO start="94.05878735152451" end="94.39378303260851"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W109">
+            <AREA image="page1" shape="rect" coords="285,742,360,813"/>
+            <AUDIO start="94.36878335491568" end="94.73877858476965"/>
+            <TRANSL xml:lang="fra">Avoir (v., sens de : posséder), en avoir ; il y en a.</TRANSL>
+            <FORM kindOf="phono">mi˦</FORM>
+            <FORM kindOf="transliter">mi</FORM>
+        </W>
+        <W id="TWH_T19_W110">
+            <AREA image="page1" shape="rect" coords="346,739,408,814"/>
+            <AUDIO start="94.65377968061401" end="94.90877639308093"/>
+            <TRANSL xml:lang="fra">Parent aîné.</TRANSL>
+            <FORM kindOf="phono">pi˦˥˦</FORM>
+            <FORM kindOf="transliter">'pix</FORM>
+        </W>
+        <W id="TWH_T19_W111">
+            <AREA image="page1" shape="rect" coords="403,766,511,812"/>
+            <AUDIO start="94.89377658646524" end="95.56376794863321"/>
+            <TRANSL xml:lang="fra">Parent cadet.</TRANSL>
+            <FORM kindOf="phono">nɔŋ˧˩</FORM>
+            <FORM kindOf="transliter">nongz</FORM>
+        </W>
+        <W id="TWH_T19_W112">
+            <AREA image="page1" shape="rect" coords="506,750,576,812"/>
+            <AUDIO start="95.7937649834073" end="96.23875924633978"/>
+            <TRANSL xml:lang="fra">Maison, habitation.</TRANSL>
+            <FORM kindOf="phono">hɤ(n)˦</FORM>
+            <FORM kindOf="transliter">roe(n)</FORM>
+        </W>
+        <W id="TWH_T19_W113">
+            <AREA image="page1" shape="rect" coords="564,761,629,806"/>
+            <AUDIO start="96.25375905295547" end="96.8287516398907"/>
+            <TRANSL xml:lang="fra">Dehors, extérieur, en dehors, au dehors, à l'extérieur.</TRANSL>
+            <FORM kindOf="phono">nɔ˦</FORM>
+            <FORM kindOf="transliter">no</FORM>
+        </W>
+        <W id="TWH_T19_W114">
+            <AREA image="page1" shape="rect" coords="623,741,691,802"/>
+            <AUDIO start="97.72374010129421" end="98.14873462207242"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W115">
+            <AREA image="page1" shape="rect" coords="683,758,756,802"/>
+            <AUDIO start="98.13873475099528" end="98.55872933623492"/>
+            <TRANSL xml:lang="fra">Venir.</TRANSL>
+            <FORM kindOf="phono">ma:˦</FORM>
+            <FORM kindOf="transliter">maa</FORM>
+        </W>
+        <W id="TWH_T19_W116">
+            <AREA image="page1" shape="rect" coords="744,759,811,840"/>
+            <AUDIO start="98.64372824039056" end="99.14872172978583"/>
+            <TRANSL xml:lang="fra">Tuer.</TRANSL>
+            <FORM kindOf="phono">χa:˩˧</FORM>
+            <FORM kindOf="transliter">k'aaz</FORM>
+        </W>
+        <W id="TWH_T19_W117">
+            <AREA image="page1" shape="rect" coords="817,751,902,813"/>
+            <AUDIO start="99.123722052093" end="99.70871451010535"/>
+            <TRANSL xml:lang="fra">Tête ; sommité, extrémité, partie renflée, (par extension, dans
+                certaines expressions).</TRANSL>
+            <FORM kindOf="phono">ho˨˨</FORM>
+            <FORM kindOf="transliter">hwo</FORM>
+        </W>
+        <W id="TWH_T19_W118">
+            <AREA image="page1" shape="rect" coords="896,743,976,811"/>
+            <AUDIO start="99.72371431672104" end="100.56870342273889"/>
+            <TRANSL xml:lang="fra">Avec ; près de (dans l’expression : aller près de
+                quelqu’un).</TRANSL>
+            <FORM kindOf="phono">dɤi˩˧</FORM>
+            <FORM kindOf="transliter">doeiz</FORM>
+        </W>
+    </S>
+    <S id="TWH_T19_S011">
+        <AREA image="page1" shape="rect" coords="6,820,980,913"/>
+        <AUDIO start="102.184828420257" end="111.6410259511212"/>
+        <TRANSL xml:lang="eng">the day of the rooster, you will loose some domestic animals</TRANSL>
+        <TRANSL xml:lang="fra">le jour du coq, vous égarerez des animaux domestiques</TRANSL>
+        <FORM kindOf="phono">mɯ˧˩ hau˧˩ ko(ŋ)˨˨ (ja:o˧˥) hɤ(n)˦ mu˨˨ ma:˨˨ ma:˧˩ χua:i˦ ci˧˥ se˨˨
+            (na:˦˥˦)</FORM>
+        <FORM kindOf="transliter">muz rawz kwo(ng) (jaa(w)x) roe(n) hmou hmaa maaz q'waai cix see
+            (naax)</FORM>
+        <W id="TWH_T19_W121">
+            <AREA image="page1" shape="rect" coords="4,823,74,903"/>
+            <AUDIO start="102.91367319032688" end="103.70866294095904"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W122">
+            <AREA image="page1" shape="rect" coords="63,833,165,898"/>
+            <AUDIO start="103.6086642301877" end="104.52865236928405"/>
+            <TRANSL xml:lang="fra">Coq (utilisé uniquement dans le système de décompte du temps basé
+                sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">haw˧˩</FORM>
+            <FORM kindOf="transliter">rawz</FORM>
+        </W>
+        <W id="TWH_T19_W123">
+            <AREA image="page1" shape="rect" coords="186,820,281,881"/>
+            <AUDIO start="104.78864901728954" end="105.39364121745615"/>
+            <TRANSL xml:lang="fra">Dans, dedans. (S'emploie aussi pour fixer une date : dans deux
+                jours.)</TRANSL>
+            <FORM kindOf="phono">koŋ˨˨</FORM>
+            <FORM kindOf="transliter">kwong</FORM>
+        </W>
+        <W id="TWH_T19_W119">
+            <AREA image="page1" shape="rect" coords="278,819,368,896"/>
+            <AUDIO start="" end=""/>
+            <TRANSL xml:lang="fra">Tout, entièrement.</TRANSL>
+            <FORM kindOf="phono">(ja:o˧˥)</FORM>
+            <FORM kindOf="transliter">(jaa(w)x)</FORM>
+        </W>
+        <W id="TWH_T19_W124">
+            <AREA image="page1" shape="rect" coords="364,817,445,888"/>
+            <AUDIO start="105.35364173314763" end="106.00363335316135"/>
+            <TRANSL xml:lang="fra">Maison, habitation.</TRANSL>
+            <FORM kindOf="phono">hɤ(n)˦</FORM>
+            <FORM kindOf="transliter">roe(n)</FORM>
+        </W>
+        <W id="TWH_T19_W125">
+            <AREA image="page1" shape="rect" coords="413,844,499,913"/>
+            <AUDIO start="106.12863174162553" end="106.75862361948498"/>
+            <TRANSL xml:lang="fra">Porc, pourceau.</TRANSL>
+            <FORM kindOf="phono">mu˨˨</FORM>
+            <FORM kindOf="transliter">hmou</FORM>
+        </W>
+        <W id="TWH_T19_W126">
+            <AREA image="page1" shape="rect" coords="491,838,611,895"/>
+            <AUDIO start="106.80362303933208" end="107.68861162965845"/>
+            <TRANSL xml:lang="fra">Chien (appellation générale).</TRANSL>
+            <FORM kindOf="phono">ma:˨˨</FORM>
+            <FORM kindOf="transliter">hmaa</FORM>
+        </W>
+        <W id="TWH_T19_W127">
+            <AREA image="page1" shape="rect" coords="608,837,679,894"/>
+            <AUDIO start="107.56361324119429" end="108.33360331413363"/>
+            <TRANSL xml:lang="fra">Cheval (appellation générale).</TRANSL>
+            <FORM kindOf="phono">ma:˧˩</FORM>
+            <FORM kindOf="transliter">maaz</FORM>
+        </W>
+        <W id="TWH_T19_W128">
+            <AREA image="page1" shape="rect" coords="682,830,793,897"/>
+            <AUDIO start="108.32860337859506" end="109.19859216230573"/>
+            <TRANSL xml:lang="fra">Buffle.</TRANSL>
+            <FORM kindOf="phono">χua:i˦</FORM>
+            <FORM kindOf="transliter">q'waai</FORM>
+        </W>
+        <W id="TWH_T19_W129">
+            <AREA image="page1" shape="rect" coords="793,809,853,910"/>
+            <AUDIO start="109.82358410462662" end="110.0535811394007"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W130">
+            <AREA image="page1" shape="rect" coords="843,818,916,895"/>
+            <AUDIO start="110.00358178401503" end="111.04356837603699"/>
+            <TRANSL xml:lang="fra">Perdre, perdu (un objet).</TRANSL>
+            <FORM kindOf="phono">se˨˨</FORM>
+            <FORM kindOf="transliter">see</FORM>
+        </W>
+        <W id="TWH_T19_W120">
+            <AREA image="page1" shape="rect" coords="900,834,965,893"/>
+            <AUDIO start="0" end="0"/>
+            <TRANSL xml:lang="fra">particule finale</TRANSL>
+            <FORM kindOf="phono">(na:˦˥˦)</FORM>
+            <FORM kindOf="transliter">(naa)</FORM>
+        </W>
+    </S>
+    <S id="TWH_T19_S012">
+        <AREA image="page1" shape="rect" coords="6,895,983,982"/>
+        <AUDIO start="112.12348500881835" end="121.29020710506425"/>
+        <TRANSL xml:lang="eng">the day of the dog, friends will bring you some goods</TRANSL>
+        <TRANSL xml:lang="fra">le jour du chien, des amis vous apporteront quelques biens</TRANSL>
+        <FORM kindOf="phono">mɯ˧˩ me(t)˦ ci˧˥ mi˦ pi˦˥˦ nɔŋ˧˩ au˨˨ cɤ(ŋ)˦˥˦ saŋ˨˨ ma:˦ haɤ˩˧ nɔi˧˩
+            nɯŋ˦˥˦</FORM>
+        <FORM kindOf="transliter">muz mee(d) cix mi 'pix nongz aw xoe(ngx) sang maa haez noiz
+            nungx</FORM>
+        <W id="TWH_T19_W131">
+            <AREA image="page1" shape="rect" coords="7,889,77,967"/>
+            <AUDIO start="112.39855090698867" end="112.97854342946246"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W132">
+            <AREA image="page1" shape="rect" coords="70,898,150,959"/>
+            <AUDIO start="112.9435438806925" end="113.56853582301339"/>
+            <TRANSL xml:lang="fra">Chien (utilisé uniquement dans le système de décompte du temps
+                basé sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">me(t)˦</FORM>
+            <FORM kindOf="transliter">mee(d)</FORM>
+        </W>
+        <W id="TWH_T19_W133">
+            <AREA image="page1" shape="rect" coords="192,888,253,970"/>
+            <AUDIO start="113.77353318009463" end="114.20852757194997"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W134">
+            <AREA image="page1" shape="rect" coords="250,886,321,967"/>
+            <AUDIO start="114.17852795871858" end="114.83851944980944"/>
+            <TRANSL xml:lang="fra">Avoir (v., sens de : posséder), en avoir ; il y en a.</TRANSL>
+            <FORM kindOf="phono">mi˦</FORM>
+            <FORM kindOf="transliter">mi</FORM>
+        </W>
+        <W id="TWH_T19_W135">
+            <AREA image="page1" shape="rect" coords="313,890,388,970"/>
+            <AUDIO start="114.75852048119235" end="115.25351409951051"/>
+            <TRANSL xml:lang="fra">Parent aîné.</TRANSL>
+            <FORM kindOf="phono">pi˦˥˦</FORM>
+            <FORM kindOf="transliter">'pix</FORM>
+        </W>
+        <W id="TWH_T19_W136">
+            <AREA image="page1" shape="rect" coords="374,886,467,973"/>
+            <AUDIO start="115.21851455074054" end="115.84350649306141"/>
+            <TRANSL xml:lang="fra">Parent cadet.</TRANSL>
+            <FORM kindOf="phono">nɔŋ˧˩</FORM>
+            <FORM kindOf="transliter">nongz</FORM>
+        </W>
+        <W id="TWH_T19_W137">
+            <AREA image="page1" shape="rect" coords="451,916,537,964"/>
+            <AUDIO start="115.77850733106006" end="116.2885007559939"/>
+            <TRANSL xml:lang="fra">Prendre.</TRANSL>
+            <FORM kindOf="phono">au˨˨</FORM>
+            <FORM kindOf="transliter">ao</FORM>
+        </W>
+        <W id="TWH_T19_W138">
+            <AREA image="page1" shape="rect" coords="532,895,592,987"/>
+            <AUDIO start="116.29850062707104" end="116.70849534123354"/>
+            <TRANSL xml:lang="fra">Objets, choses, affaires (objets matériels).</TRANSL>
+            <FORM kindOf="phono">cɤ(ŋ)˦˥˦</FORM>
+            <FORM kindOf="transliter">xoe(ngx)</FORM>
+        </W>
+        <W id="TWH_T19_W139">
+            <AREA image="page1" shape="rect" coords="589,897,685,978"/>
+            <AUDIO start="116.70349540569497" end="117.44848580094147"/>
+            <TRANSL xml:lang="fra">Quoi, quelque chose.</TRANSL>
+            <FORM kindOf="phono">saŋ˨˨</FORM>
+            <FORM kindOf="transliter">sang</FORM>
+        </W>
+        <W id="TWH_T19_W140">
+            <AREA image="page1" shape="rect" coords="678,922,762,980"/>
+            <AUDIO start="117.57848412494423" end="118.40847342434635"/>
+            <TRANSL xml:lang="fra">Venir.</TRANSL>
+            <FORM kindOf="phono">ma:˦</FORM>
+            <FORM kindOf="transliter">maa</FORM>
+        </W>
+        <W id="TWH_T19_W141">
+            <AREA image="page1" shape="rect" coords="759,903,834,972"/>
+            <AUDIO start="118.36347400449925" end="119.04346523774439"/>
+            <TRANSL xml:lang="fra">Donner, donner à, à (à quelqu'un).</TRANSL>
+            <FORM kindOf="phono">haɤ˩˧</FORM>
+            <FORM kindOf="transliter">haez</FORM>
+        </W>
+        <W id="TWH_T19_W142">
+            <AREA image="page1" shape="rect" coords="836,913,928,973"/>
+            <AUDIO start="120.20845021823052" end="120.62844480347015"/>
+            <TRANSL xml:lang="fra">Peu.</TRANSL>
+            <FORM kindOf="phono">nɔj˧˩</FORM>
+            <FORM kindOf="transliter">noiz</FORM>
+        </W>
+        <W id="TWH_T19_W143">
+            <AREA image="page1" shape="rect" coords="922,926,976,972"/>
+            <AUDIO start="120.59344525470019" end="121.42843448964089"/>
+            <TRANSL xml:lang="fra">Un (adj. numéral).</TRANSL>
+            <FORM kindOf="phono">nɯŋ˦˥˦</FORM>
+            <FORM kindOf="transliter">nungx</FORM>
+        </W>
+    </S>
+    <S id="TWH_T19_S013">
+        <AREA image="page1" shape="rect" coords="11,958,909,1030"/>
+        <AUDIO start="121.67617435122197" end="130.2639455782313"/>
+        <TRANSL xml:lang="eng">the day of the pig, there will be a dispute at home</TRANSL>
+        <TRANSL xml:lang="fra">le jour du cochon, il y aura une dispute à la maison</TRANSL>
+        <FORM kindOf="phono">mɯ˧˩ kaɤ˧˩ ko(ŋ)˨˨ hɤ(n)˦ ci˧˥ mi˦ ve˦ ka:i˧˩ χa:m˦ kan˨˨ na:˦˥˦</FORM>
+        <FORM kindOf="transliter">muz qaez kwo(ng) roe(n) cix mi veeq qaaiz q'aam kan naax</FORM>
+        <W id="TWH_T19_W144">
+            <AREA image="page1" shape="rect" coords="9,961,80,1012"/>
+            <AUDIO start="122.16842494934882" end="122.85341611813251"/>
+            <TRANSL xml:lang="fra">Jour (temps de 0 heure à minuit, espace de temps de 24
+                heures).</TRANSL>
+            <FORM kindOf="phono">mɯ˧˩</FORM>
+            <FORM kindOf="transliter">muz</FORM>
+        </W>
+        <W id="TWH_T19_W145">
+            <AREA image="page1" shape="rect" coords="67,971,146,1022"/>
+            <AUDIO start="122.8234165049011" end="123.5234074803005"/>
+            <TRANSL xml:lang="fra">Cochon (utilisé uniquement dans le système de décompte du temps
+                basé sur les 12 animaux du zodiaque chinois).</TRANSL>
+            <FORM kindOf="phono">kaɤ˧˩</FORM>
+            <FORM kindOf="transliter">qaez</FORM>
+        </W>
+        <W id="TWH_T19_W146">
+            <AREA image="page1" shape="rect" coords="183,962,294,1020"/>
+            <AUDIO start="123.59340657784044" end="124.14339948708282"/>
+            <TRANSL xml:lang="fra">Dans, dedans. (S'emploie aussi pour fixer une date : dans deux
+                jours.)</TRANSL>
+            <FORM kindOf="phono">ko(ŋ)˨˨</FORM>
+            <FORM kindOf="transliter">kwo(ng)</FORM>
+        </W>
+        <W id="TWH_T19_W147">
+            <AREA image="page1" shape="rect" coords="271,964,356,1019"/>
+            <AUDIO start="124.09340013169717" end="124.72839194509518"/>
+            <TRANSL xml:lang="fra">Maison, habitation.</TRANSL>
+            <FORM kindOf="phono">hɤ(n)˦</FORM>
+            <FORM kindOf="transliter">roen</FORM>
+        </W>
+        <W id="TWH_T19_W148">
+            <AREA image="page1" shape="rect" coords="348,956,412,1024"/>
+            <AUDIO start="124.71839207401806" end="125.11338698156484"/>
+            <TRANSL xml:lang="fra">Signe du futur.</TRANSL>
+            <FORM kindOf="phono">ci˧˥</FORM>
+            <FORM kindOf="transliter">cix</FORM>
+        </W>
+        <W id="TWH_T19_W149">
+            <AREA image="page1" shape="rect" coords="405,965,489,1026"/>
+            <AUDIO start="125.07838743279488" end="125.39838330726319"/>
+            <TRANSL xml:lang="fra">Avoir (v., sens de : posséder), en avoir ; il y en a.</TRANSL>
+            <FORM kindOf="phono">mi˦</FORM>
+            <FORM kindOf="transliter">mi</FORM>
+        </W>
+        <W id="TWH_T19_W150">
+            <AREA image="page1" shape="rect" coords="472,963,542,1028"/>
+            <AUDIO start="125.3783835651089" end="126.1533735735868"/>
+            <TRANSL xml:lang="fra">Travail, besogne, occupation, question, affaire.</TRANSL>
+            <FORM kindOf="phono">ve˦</FORM>
+            <FORM kindOf="transliter">veeq</FORM>
+        </W>
+        <W id="TWH_T19_W151">
+            <AREA image="page1" shape="rect" coords="539,966,653,1028"/>
+            <AUDIO start="126.8233649357548" end="127.71335346161976"/>
+            <TRANSL xml:lang="fra">Contredire.</TRANSL>
+            <FORM kindOf="phono">ka:i˧˩</FORM>
+            <FORM kindOf="transliter">qaaiz</FORM>
+        </W>
+        <W id="TWH_T19_W152">
+            <AREA image="page1" shape="rect" coords="644,962,755,1024"/>
+            <AUDIO start="127.63835442854125" end="128.38834475932632"/>
+            <TRANSL xml:lang="fra">Parler (une langue).</TRANSL>
+            <FORM kindOf="phono">χa:m˦</FORM>
+            <FORM kindOf="transliter">q'aam</FORM>
+        </W>
+        <W id="TWH_T19_W153">
+            <AREA image="page1" shape="rect" coords="744,969,844,1018"/>
+            <AUDIO start="128.47834359902052" end="128.8733385065673"/>
+            <TRANSL xml:lang="fra">Réciproquement, l'un l'autre, les uns les autres.</TRANSL>
+            <FORM kindOf="phono">kan˨˨</FORM>
+            <FORM kindOf="transliter">kan</FORM>
+        </W>
+        <W id="TWH_T19_W154">
+            <AREA image="page1" shape="rect" coords="838,969,907,1021"/>
+            <AUDIO start="128.85333876441305" end="129.58332935304387"/>
+            <TRANSL xml:lang="fra">particule finale</TRANSL>
+            <FORM kindOf="phono">na:˦˥˦</FORM>
+            <FORM kindOf="transliter">naa</FORM>
+        </W>
+    </S>
+</TEXT>

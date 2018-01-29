@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!-- saved from url=(0077)https://s.codepen.io/katspaugh/fullembedgrid/GozaaG?type=embed&animations=run -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+
+
+    <title>CodePen - wavesurfer.js zoom</title>
+    
+    
+    
+    <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    
+    <script>
+  window.console = window.console || function(t) {};
+</script>
+
+    
+    
+    <script>
+  if (document.location.search.match(/type=embed/gi)) {
+    window.parent.postMessage("resize", "*");
+  }
+</script>
+
+  </head>
+
+  <body translate="no">
+
+    <!-- main wavesurfer.js lib -->
+<script src="./wavesurfer.min.js(2).download"></script>
+
+<div id="waveform"><wave style="display: block; position: relative; -webkit-user-select: none; height: 128px; overflow-x: auto; overflow-y: hidden;"><canvas width="1167" height="128" style="position: absolute; z-index: 1; left: 0px; top: 0px; bottom: 0px; width: 1167px;"></canvas><wave style="position: absolute; z-index: 2; left: 0px; top: 0px; bottom: 0px; overflow: hidden; width: 0px; display: block; box-sizing: border-box; border-right: 1px solid rgb(51, 51, 51);"><canvas width="1167" height="128" style="width: 1167px;"></canvas></wave></wave></div>
+
+<div style="text-align: center">
+  <button class="btn btn-primary" onclick="wavesurfer.playPause()">
+    <i class="glyphicon glyphicon-play"></i>
+    Play
+  </button>
+
+  <p class="row">
+    </p><div class="col-xs-1">
+      <i class="glyphicon glyphicon-zoom-in"></i>
+    </div>
+
+    <div class="col-xs-10">
+      <input id="slider" type="range" min="1" max="200" value="1" style="width: 100%">
+    </div>
+
+    <div class="col-xs-1">
+      <i class="glyphicon glyphicon-zoom-out"></i>
+    </div>
+  <p></p>
+</div>
+      <script src="./stopExecutionOnTimeout-53beeb1a007ec32040abaf4c9385ebfc.js.download"></script>
+
+    
+        <script>
+      var wavesurfer = WaveSurfer.create({
+    container: '#waveform',
+    waveColor: 'red',
+    progressColor: 'purple'
+});
+wavesurfer.load('https://ia902606.us.archive.org/35/items/shortpoetry_047_librivox/song_cjrg_teasdale_64kb.mp3');
+var slider = document.querySelector('#slider');
+slider.oninput = function () {
+    var zoomLevel = Number(slider.value);
+    wavesurfer.zoom(zoomLevel);
+};
+      //# sourceURL=pen.js
+    </script>
+
+    
+    
+  
+
+ 
+</body></html>

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<catalog xmlns="http://crdo.risc.cnrs.fr/schemas/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://cocoon.huma-num.fr/schemas/ http://cocoon.huma-num.fr/schemas/metadata.xsd">
+  <crdo:item crdo:datestamp="2014-07-22" crdo:id="crdo-NRU_F5_HINAMI_SOUND">
+    <dc:title xml:lang="en">Hinami: A passage sung in the traditional Na/Mosuo style 'Hinami': the style of the Lake</dc:title>
+    <dc:subject xsi:type="olac:language" olac:code="nru">Na</dc:subject>
+    <dc:language xsi:type="olac:language" olac:code="nru"/>
+    <dcterms:spatial xml:lang="fr">Chine, province du Yunnan, comt&#xE9; de Yongning, village de &#x251;&#x2E7;l&#x251;&#x2E7;-&#x281;w&#x264;&#x2E7;</dcterms:spatial>
+    <dcterms:spatial xml:lang="en">China, Yunnan province, Lijiang municipality, Yongning county, village of /&#x259;&#x2E7;l&#x251;&#x2E7;-&#x281;w&#x264;&#x2E7;/</dcterms:spatial>
+    <dcterms:spatial xml:lang="zh">&#x4E2D;&#x56FD;&#x4E91;&#x5357;&#x7701;&#x4E3D;&#x6C5F;&#x5E02;&#x5B81;&#x8497;&#x53BF;&#x6C38;&#x5B81;&#x4E61;&#x5E73;&#x9759;&#x6751;</dcterms:spatial>
+    <dcterms:spatial xsi:type="dcterms:Point">east=100.66098140008546; north=27.767422588239274;</dcterms:spatial>
+    <dc:contributor xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="speaker">Guo, Geiruo</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="speaker" xml:lang="nru">ki&#x2E7;zo#&#x2E5;</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="speaker" xml:lang="zh">&#x90ED;&#x7ED9;&#x82E5;</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="recorder">Michaud, Alexis</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="interviewer">Michaud, Alexis</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher>Laboratoire de langues et civilisations &#xE0; tradition orale</dc:publisher>
+    <dc:type xsi:type="olac:linguistic-type" olac:code="primary_text"/>
+    <dc:format xsi:type="dcterms:IMT">audio/x-wav</dc:format>
+    <dc:source>natively digital</dc:source>
+    <dc:type xsi:type="dcterms:DCMIType">Sound</dc:type>
+    <dcterms:created xsi:type="dcterms:W3CDTF">2007-11-13</dcterms:created>
+    <dcterms:extent>PT2M27S</dcterms:extent>
+    <dcterms:isRequiredBy xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-NRU_F5_HINAMI</dcterms:isRequiredBy>
+    <dc:identifier xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI.wav</dc:identifier>
+    <dcterms:isFormatOf xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI.mp3</dcterms:isFormatOf>
+    <dcterms:isFormatOf xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI.wav</dcterms:isFormatOf>
+    <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:isPartOf xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <crdo:collection>Lacito</crdo:collection>
+    <dcterms:available xsi:type="dcterms:W3CDTF">2014-07-22</dcterms:available>
+    <dcterms:spatial xsi:type="dcterms:ISO3166">CN</dcterms:spatial>
+    <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+    <dc:rights>Copyright (c) Michaud, Alexis</dc:rights>
+    <dcterms:requires xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI_IMAGE_image</dcterms:requires>
+  </crdo:item>
+  <crdo:item crdo:datestamp="2014-07-22" crdo:id="crdo-NRU_F5_HINAMI">
+    <dc:title xml:lang="en">Hinami: A passage sung in the traditional Na/Mosuo style 'Hinami': the style of the Lake</dc:title>
+    <dc:subject xsi:type="olac:language" olac:code="nru">Na</dc:subject>
+    <dc:language xsi:type="olac:language" olac:code="nru"/>
+    <dc:language xsi:type="olac:language" olac:code="fra">fran&#xE7;ais</dc:language>
+    <dc:language xsi:type="olac:language" olac:code="eng">English</dc:language>
+    <dc:language xsi:type="olac:language" olac:code="cmn">&#x4E2D;&#x6587;</dc:language>
+    <dcterms:spatial xml:lang="fr">Chine, province du Yunnan, comt&#xE9; de Yongning, village de &#x251;&#x2E7;l&#x251;&#x2E7;-&#x281;w&#x264;&#x2E7;</dcterms:spatial>
+    <dcterms:spatial xml:lang="en">China, Yunnan province, Lijiang municipality, Yongning county, village of /&#x259;&#x2E7;l&#x251;&#x2E7;-&#x281;w&#x264;&#x2E7;/</dcterms:spatial>
+    <dcterms:spatial xml:lang="zh">&#x4E2D;&#x56FD;&#x4E91;&#x5357;&#x7701;&#x4E3D;&#x6C5F;&#x5E02;&#x5B81;&#x8497;&#x53BF;&#x6C38;&#x5B81;&#x4E61;&#x5E73;&#x9759;&#x6751;</dcterms:spatial>
+    <dcterms:spatial xsi:type="dcterms:Point">east=100.66098140008546; north=27.767422588239274;</dcterms:spatial>
+    <dc:contributor xsi:type="olac:role" olac:code="depositor">Michaud, Alexis</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="researcher">Michaud, Alexis</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="speaker">Guo, Geiruo</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="speaker" xml:lang="nru">ki&#x2E7;zo#&#x2E5;</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="speaker" xml:lang="zh">&#x90ED;&#x7ED9;&#x82E5;</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="interviewer">Michaud, Alexis</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="annotator">Michaud, Alexis</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="translator">Michaud, Alexis</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="transcriber">Michaud, Alexis</dc:contributor>
+    <dc:contributor xsi:type="olac:role" olac:code="sponsor">Centre national de la recherche scientifique</dc:contributor>
+    <dc:publisher>Laboratoire de langues et civilisations &#xE0; tradition orale</dc:publisher>
+    <dc:type xsi:type="olac:linguistic-type" olac:code="primary_text"/>
+    <dc:format xsi:type="dcterms:IMT">text/xml</dc:format>
+    <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+    <dcterms:conformsTo xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-dtd_archive</dcterms:conformsTo>
+    <dc:identifier xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI.xml</dc:identifier>
+    <dcterms:isFormatOf xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI.xhtml</dcterms:isFormatOf>
+    <dcterms:requires xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-NRU_F5_HINAMI_SOUND</dcterms:requires>
+    <dcterms:isPartOf xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
+    <crdo:collection>Lacito</crdo:collection>
+    <dcterms:available xsi:type="dcterms:W3CDTF">2014-07-22</dcterms:available>
+    <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
+    <dcterms:license xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license>
+    <dcterms:spatial xsi:type="dcterms:ISO3166">CN</dcterms:spatial>
+    <dc:rights>Copyright (c) Michaud, Alexis</dc:rights>
+  </crdo:item>
+  <crdo:item xmlns:crdo="http://crdo.risc.cnrs.fr/schemas/" crdo:datestamp="2016-02-02" crdo:id="crdo-NRU_F5_HINAMI_IMAGE_image"><dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">Hinami: A passage sung in the traditional Na/Mosuo style 'Hinami': the style of the Lake</dc:title><dc:language xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:language" olac:code="nru"></dc:language><dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="olac:language" olac:code="nru">Na</dc:subject><dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="fr">Chine, province du Yunnan, comt&#xE9; de Yongning, village de &#x251;&#x2E7;l&#x251;&#x2E7;-&#x281;w&#x264;&#x2E7;</dcterms:spatial><dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">China, Yunnan province, Lijiang municipality, Yongning county, village of /&#x259;&#x2E7;l&#x251;&#x2E7;-&#x281;w&#x264;&#x2E7;/</dcterms:spatial><dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="zh">&#x4E2D;&#x56FD;&#x4E91;&#x5357;&#x7701;&#x4E3D;&#x6C5F;&#x5E02;&#x5B81;&#x8497;&#x53BF;&#x6C38;&#x5B81;&#x4E61;&#x5E73;&#x9759;&#x6751;</dcterms:spatial><dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:Point">east=100.66098140008546; north=27.767422588239274;</dcterms:spatial><dcterms:spatial xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:ISO3166">CN</dcterms:spatial><dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Laboratoire de langues et civilisations &#xE0; tradition orale</dc:publisher><dc:format xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:IMT">image/jpeg</dc:format><dc:source xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:source><dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:DCMIType">Image</dc:type><dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF">2007-11-13</dcterms:created><dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/"></dcterms:extent><dcterms:isRequiredBy xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI</dcterms:isRequiredBy><dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI_IMAGE_image.jpg</dc:identifier><dcterms:isFormatOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-NRU_F5_HINAMI_IMAGE_image.jpg</dcterms:isFormatOf><dcterms:accessRights xmlns:dcterms="http://purl.org/dc/terms/">Freely available for non-commercial use</dcterms:accessRights><dcterms:isPartOf xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">crdo-COLLECTION_LACITO</dcterms:isPartOf><crdo:collection>Lacito</crdo:collection><dcterms:available xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:W3CDTF">2014-07-22</dcterms:available><dcterms:license xmlns:dcterms="http://purl.org/dc/terms/" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc/2.5/</dcterms:license><dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Copyright (c) Ferlus, Michel</dc:rights></crdo:item>
+</catalog>

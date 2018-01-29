@@ -1,0 +1,409 @@
+<!doctype html>
+
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=1024" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <title>EASTLing</title>
+
+        <meta name="description" content="EASTLing for DOREMIFA" />
+        <meta name="author" content="Matthew DEO" />
+        <script src="./js/jquery-1.11.3.min.js"></script>
+
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" media="all" id="font-css" href="./css/fonts.css" >
+        <link rel="icon" type="image/x-icon" href="./img/logo/logo-east.svg">
+        <link rel="shortcut icon" href="./img/logo/logo-east.svg" />
+        <link rel="apple-touch-icon" href="./img/logo/logo-east.svg" />
+
+        <link rel="stylesheet" type="text/css" media="all" href="./css/semantic/packaged/css/semantic.css">
+        <link rel="stylesheet" type="text/css" media="all" href="./css/source-sans-pro/source-sans-pro.css">
+        <link rel="stylesheet" type="text/css" media="all" href="./css/semantic/uncompressed/collections/grid.css">
+        <link rel="stylesheet" type="text/css" media="all" href="./css/semantic/uncompressed/elements/step.css">
+
+        <link href="css/impress-demo.css" rel="stylesheet" />
+
+
+    </head>
+
+    <body class="impress-not-supported">
+
+        <div class="fallback-message">
+            <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+            <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+        </div>
+
+        <div id="header-page" class='ui page grid'>
+            <div class="ui ten wide column left aligned">
+                <svg style="vertical-align:middle;" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                     width="32px" height="32px" viewBox="0 0 575.5 576" enable-background="new 0 0 575.5 576" xml:space="preserve">
+                <g>
+                <path fill="#DE6262" fill-rule="evenodd" clip-rule="evenodd" d="M482.399,94.214c62.991,62.448,80.929,136.354,80.405,197.865
+                      c-0.282,33.197-6.627,63.997-19.27,96.191c-12.52,31.883-32.484,64.724-62.163,94.336c-63.136,62.994-134.95,80.169-197.166,79.765
+                      c-64.333-0.418-131.149-21.826-190.556-80.763c-30.905-30.66-51.523-66.079-63.514-99.438
+                      c-11.968-33.296-17.956-65.959-16.921-97.758C15.31,220.04,33.813,153.709,93.307,93.829
+                      c31.146-31.349,67.738-52.237,100.137-64.155C258.467,5.754,323.448,7.75,387.393,32.022
+                      C419.015,44.026,451.948,64.027,482.399,94.214z M398.656,105.362c-36.762-22.217-75.326-30.9-111.492-30.339
+                      c-48.457,0.751-102.848,14.539-152.878,64.895c-22.271,22.416-37.106,48.739-46.141,73.206
+                      c-9.306,25.203-13.153,49.744-12.98,74.977c0.336,49.091,15.684,106.396,64.866,153.548
+                      c45.985,44.089,98.482,59.286,147.833,59.442c48.488,0.152,104.976-14.97,152.878-64.896
+                      c45.006-46.906,60.044-99.016,60.462-148.125c0.403-47.554-16.055-106.137-65.536-153.578
+                      C424.907,124.178,411.182,112.933,398.656,105.362z"/>
+                <path  fill="#DE6262" fill-rule="evenodd" clip-rule="evenodd" d="M466.994,287.262c-58.275,25.187-119.379,48.507-178.751,73.175
+                       c-59.741-23.691-119.431-48.586-179.19-71.877c58.408-25.658,119.611-48.707,179.102-73.497
+                       C347.748,239.58,407.368,263.503,466.994,287.262z M299.844,239.742c-1.274,31.951-0.852,63.975-0.125,96.013
+                       c39.084-16.175,79.935-31.771,117.914-48.278C378.37,271.566,339.088,256.095,299.844,239.742z"/>
+                </g>
+                <path fill="none" enable-background="new    " d="z"/>
+                </svg>
+                <b style="color:#DE6262 !important;">EASTLing</b><span> : Demonstration</span>
+
+                <a id="music-switch" href="#"><i class="ui icon mute"></i>Music</a>
+
+            </div>
+
+            <div class="ui four wide column right aligned">
+                Music: <a href="http://www.bensound.com" target="_blank">http://www.bensound.com</a>
+            </div>
+
+        </div>
+        <div id="nav">
+            <a id="slide-back" href="#"><i class="ui icon left arrow"></i></a>
+            <a id="slide-next" href="#"><i class="ui icon right arrow"></i></a>
+        </div>
+        <style>
+            body{
+
+                background: -webkit-linear-gradient(90deg, #DE6262 10%, #FFB88C 90%); /* Chrome 10+, Saf5.1+ */
+                background:    -moz-linear-gradient(90deg, #DE6262 10%, #FFB88C 90%); /* FF3.6+ */
+                background:     -ms-linear-gradient(90deg, #DE6262 10%, #FFB88C 90%); /* IE10 */
+                background:      -o-linear-gradient(90deg, #DE6262 10%, #FFB88C 90%); /* Opera 11.10+ */
+                background:         linear-gradient(90deg, #DE6262 10%, #FFB88C 90%); /* W3C */
+
+            }
+            .hint{
+                background: rgba(255,255,255,0.5);
+                color: #DE6262;
+            }
+            #nav{
+                font-size: 15px;
+                pointer-events: auto;
+                position: absolute;
+                width: 100%;
+                top: 50%;
+                z-index: 9999;
+            }
+            #nav a{
+                padding-bottom: 50px;
+                padding-top: 50px;
+                font-weight: 200;
+            }
+            #slide-back{float: left;}
+            #slide-next{float: right;}
+            #header-page {
+                font-size: 15px;
+                pointer-events: auto;
+                background-color: white;
+            }
+
+            #header-page a{
+                cursor: pointer;
+            }
+            h1{
+                color: #fff !important;
+            }
+            h1 .sub.header{
+                color: #eee !important;
+            }
+            .step{
+                color: #eee !important;
+            }
+        </style>
+        <div id="impress">
+
+            <div id="bored" class="step" data-x="-3000" data-y="-1500">
+
+                <div class="ui grid middle aligned"> 
+                    <!--<div class="column">-->
+                    <h1 class="ui header">
+
+                        <svg style="vertical-align:middle;" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                             width="72px" height="72px" viewBox="0 0 575.5 576" enable-background="new 0 0 575.5 576" xml:space="preserve">
+                        <g>
+                        <path fill="#FFFFFF" fill-rule="evenodd" clip-rule="evenodd" d="M482.399,94.214c62.991,62.448,80.929,136.354,80.405,197.865
+                              c-0.282,33.197-6.627,63.997-19.27,96.191c-12.52,31.883-32.484,64.724-62.163,94.336c-63.136,62.994-134.95,80.169-197.166,79.765
+                              c-64.333-0.418-131.149-21.826-190.556-80.763c-30.905-30.66-51.523-66.079-63.514-99.438
+                              c-11.968-33.296-17.956-65.959-16.921-97.758C15.31,220.04,33.813,153.709,93.307,93.829
+                              c31.146-31.349,67.738-52.237,100.137-64.155C258.467,5.754,323.448,7.75,387.393,32.022
+                              C419.015,44.026,451.948,64.027,482.399,94.214z M398.656,105.362c-36.762-22.217-75.326-30.9-111.492-30.339
+                              c-48.457,0.751-102.848,14.539-152.878,64.895c-22.271,22.416-37.106,48.739-46.141,73.206
+                              c-9.306,25.203-13.153,49.744-12.98,74.977c0.336,49.091,15.684,106.396,64.866,153.548
+                              c45.985,44.089,98.482,59.286,147.833,59.442c48.488,0.152,104.976-14.97,152.878-64.896
+                              c45.006-46.906,60.044-99.016,60.462-148.125c0.403-47.554-16.055-106.137-65.536-153.578
+                              C424.907,124.178,411.182,112.933,398.656,105.362z"/>
+                        <path  fill="#FFFFFF" fill-rule="evenodd" clip-rule="evenodd" d="M466.994,287.262c-58.275,25.187-119.379,48.507-178.751,73.175
+                               c-59.741-23.691-119.431-48.586-179.19-71.877c58.408-25.658,119.611-48.707,179.102-73.497
+                               C347.748,239.58,407.368,263.503,466.994,287.262z M299.844,239.742c-1.274,31.951-0.852,63.975-0.125,96.013
+                               c39.084-16.175,79.935-31.771,117.914-48.278C378.37,271.566,339.088,256.095,299.844,239.742z"/>
+                        </g>
+                        <path fill="none" enable-background="new    " d="z"/>
+                        </svg>
+                        EASTLing
+                        <div class="sub header">
+                            Easy Annotation & Synchronization Tool for Linguists 
+                        </div>
+                    </h1> 
+                    <!--</div>-->
+
+                </div>
+
+            </div>
+
+            <div id="slide1" class="step" data-x="-1500" data-y="-1500" data-scale="1">
+
+                <div class="ui page">
+                    <h1 class="ui header">What is EASTLing ?</h1>
+                    <div class="ui divided relaxed list">
+                        <div class="item ui ">
+                            <i class="right icon"></i>
+                            <b>EASTLing</b> : <b>E</b>asy <b>A</b>nnotation & <b>S</b>ynchronization <b>T</b>ool for <b>Ling</b>uists</div>
+                        <div class="item ui ">
+                            <i class="right icon"></i>
+                            <b>Web-based application</b> for linguists that has been designed to :
+                            <div class="ui divided list">
+                                <div class="item ui ">
+                                    <i class="right triangle icon"></i>
+                                    create documents with attached <b>audio recordings</b> and <b>pictures</b> (manuscript pages)
+                                </div>
+                                <div class="item ui ">
+                                    <i class="right triangle icon"></i>
+                                    input <b>metadata</b> and <b>annotations</b> (transcriptions, translations, comments)
+                                </div>
+                                <div class="item ui ">
+                                    <i class="right triangle icon"></i>
+                                    <b>synchronize</b> annotations along with audio recording and picture attached to the document
+                                </div>
+                                <div class="item ui ">
+                                    <i class="right triangle icon"></i>
+                                    display documents in a specific player that plays the audio recording, 
+                                    shows the words being read in the picture and highlights related annotations in a real-time process.
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="item ui ">
+                            <i class="right icon"></i>
+                            developed by <b>Matthew DEO</b> (Web programmer) in the scope of the DOREMIFA project (lead by <b>Alexis MICHAUD</b> - MICA Hanoi/LACITO/CNRS)
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div id="demo" class="step" data-x="-1500" data-y="-1500" data-scale="1" data-rotate-x="90">
+
+                <div class="ui page">
+                    <br><h1 class="ui header">Demonstration</h1>
+                    <video id="vdemo" width="1068" height="576">
+                        <source src="demo.webm" type="video/webm">
+                        Your browser does not support the video tag.
+                    </video>  
+                    <audio id="ademo" controls="controls" width="1068" style="width:1068px;">
+                        <source src="demo.mp3" type="audio/mpeg">
+                        Your browser does not support the audio tag.
+                    </audio> 
+                    <audio id="music" style="display:none;" loop>
+                        <source src="bensound-jazzyfrenchy.mp3" type="audio/mpeg">
+                        Your browser does not support the audio tag.
+                    </audio> 
+                </div>
+
+            </div>
+
+
+            <div id="its-in-3d" class="step" data-x="0" data-y="-1500" data-rotate-x="90" data-rotate-y="90" data-scale="1">
+                <div class="ui page">
+                    <b>
+                        <p><span class="have">Thank</span>
+                            <span class="you">you</span>
+                            <span class="noticed">for</span>                    
+                            <span class="its">your</span>
+                            <span class="in">attention !</span>
+
+                        </p>
+                    </b>
+                    <br>
+
+                    <span class="footnote">More information, bug report ... please contact us :</span>
+
+                    <div class="ui grid">
+                        <div class="ui four wide column">
+                            <i class="mail icon"></i>
+                            matthewdeo@gmail.com
+                        </div>
+
+
+                    </div>
+
+                </div>     
+
+            </div>
+
+        </div>
+
+        <div class="hint">
+            <h2 class="ui header">Matthew DEO (matthewdeo@gmail.com)</h2>
+            DOREMIFA project - CNRS LACITO UMR 7107/MICA Hanoi<br><br>
+            <img src="./img/logo/logocnrs.png" />
+            <img src="./img/logo/Logo_Lacito-CNRS.jpg" />           
+            <img src="./img/logo/mica.jpeg" />  
+            <img src="./img/logo/Labex-EFL_2.jpg" />
+        </div>
+        <style>
+            .hint img{
+                max-height: 80px;
+            }
+
+            .hint h2{
+
+            }
+
+            #bored .header{
+                font-size: 50px;
+            }
+            #bored .sub.header{
+                font-size: 20px;
+            }
+        </style>
+
+        <script src="js/impress.js"></script>
+        <script>impress().init();</script>
+        <script>
+            var v = $('video')[0];
+            var a = $('audio#ademo')[0];
+            var m = $('audio#music')[0];
+            m.volume = 0.4;
+
+            var adur = a.duration;
+
+
+            $(document).ready(function () {
+                $('#slide-next').on('click', function () {
+                    impress().next();
+                });
+                $('#slide-back').on('click', function () {
+                    impress().prev();
+                });
+                $('#music-switch').on('click', function () {
+                    if (m.paused) {
+                        $(this).find('i').removeClass('unmute').addClass('mute');
+                        m.play();
+                    } else {
+                        $(this).find('i').removeClass('mute').addClass('unmute');
+                        m.pause();
+                    }
+
+                });
+
+                this.addEventListener("impress:stepenter", function (event) {
+                    event.target.classList.remove("past");
+                    event.target.classList.remove("future");
+                    event.target.classList.add("present");
+                }, false);
+
+                this.addEventListener("impress:stepleave", function (event) {
+                    event.target.classList.remove("present");
+                    event.target.classList.add("past");
+                }, false);
+
+                m.play();
+
+                $("audio#ademo").on("pause", function (e) {
+                    v.pause();
+                    m.volume = 0.4;
+
+                }).on("play", function (e) {
+                    v.play();
+                    m.volume = 0.15;
+                }).on('seeked', function (e) {
+
+                    atime = a.currentTime;
+                    v.currentTime = a.currentTime;
+                    if (v.paused) {
+                        a.pause();
+                    } else {
+                        a.play();
+                    }
+                });
+
+                $('#demo').on('impress:stepleave', function () {
+                    a.pause();
+                }).on('impress:stepenter', function () {
+                    a.play();
+                });
+                /*
+                 jQuery('img.svg').each(function () {
+                 var $img = jQuery(this);
+                 var imgID = $img.attr('id');
+                 var imgClass = $img.attr('class');
+                 var imgURL = $img.attr('src');
+                 
+                 jQuery.get(imgURL, function (data) {
+                 // Get the SVG tag, ignore the rest
+                 var $svg = jQuery(data).find('svg');
+                 
+                 // Add replaced image's ID to the new SVG
+                 if (typeof imgID !== 'undefined') {
+                 $svg = $svg.attr('id', imgID);
+                 }
+                 // Add replaced image's classes to the new SVG
+                 if (typeof imgClass !== 'undefined') {
+                 $svg = $svg.attr('class', imgClass + ' replaced-svg');
+                 }
+                 
+                 // Remove any invalid XML tags as per http://validator.w3.org
+                 $svg = $svg.removeAttr('xmlns:a');
+                 
+                 // Replace image with new SVG
+                 $img.replaceWith($svg);
+                 
+                 }, 'xml');
+                 
+                 });*/
+
+            });
+
+
+        </script>
+        <!--
+            
+            The `impress()` function also gives you access to the API that controls the presentation.
+            
+            Just store the result of the call:
+            
+                var api = impress();
+            
+            and you will get three functions you can call:
+            
+                `api.init()` - initializes the presentation,
+                `api.next()` - moves to next step of the presentation,
+                `api.prev()` - moves to previous step of the presentation,
+                `api.goto( idx | id | element, [duration] )` - moves the presentation to the step given by its index number
+                        id or the DOM element; second parameter can be used to define duration of the transition in ms,
+                        but it's optional - if not provided default transition duration for the presentation will be used.
+            
+            You can also simply call `impress()` again to get the API, so `impress().next()` is also allowed.
+            Don't worry, it wont initialize the presentation again.
+            
+            For some example uses of this API check the last part of the source of impress.js where the API
+            is used in event handlers.
+            
+        -->
+
+    </body>
+</html>
+
+

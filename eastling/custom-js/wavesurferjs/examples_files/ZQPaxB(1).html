@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!-- saved from url=(0077)https://s.codepen.io/katspaugh/fullembedgrid/ZQPaxB?type=embed&animations=run -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+
+
+    <title>CodePen - wavesurfer.js split channels</title>
+    
+    
+    
+    <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    
+    <script>
+  window.console = window.console || function(t) {};
+</script>
+
+    
+    
+    <script>
+  if (document.location.search.match(/type=embed/gi)) {
+    window.parent.postMessage("resize", "*");
+  }
+</script>
+
+  </head>
+
+  <body translate="no">
+
+    <!-- main wavesurfer.js lib -->
+<script src="./wavesurfer.min.js(2).download"></script>
+
+<div id="waveform"><wave style="display: block; position: relative; -webkit-user-select: none; height: 128px; overflow-x: auto; overflow-y: hidden;"><canvas width="1167" height="128" style="position: absolute; z-index: 1; left: 0px; top: 0px; bottom: 0px; width: 1167px;"></canvas><wave style="position: absolute; z-index: 2; left: 0px; top: 0px; bottom: 0px; overflow: hidden; width: 0px; display: block; box-sizing: border-box; border-right: 1px solid rgb(51, 51, 51);"><canvas width="1167" height="128" style="width: 1167px;"></canvas></wave></wave></div>
+
+<p align="center">
+  <button class="btn btn-primary" onclick="wavesurfer.playPause()">
+    <i class="glyphicon glyphicon-play"></i>
+    Play
+  </button>
+ 
+  <span class="text-muted">The audio is streaming from <a href="https://archive.org/details/gd79-09-04.sbd.clugston.9452.sbeok.shnf">Archive.org</a>.</span>
+</p>
+      <script src="./stopExecutionOnTimeout-53beeb1a007ec32040abaf4c9385ebfc.js.download"></script>
+
+    
+        <script>
+      var wavesurfer = WaveSurfer.create({
+    container: '#waveform',
+    waveColor: 'darkorange',
+    progressColor: 'purple',
+    splitChannels: true,
+    height: 64
+});
+wavesurfer.load('https://ia801404.us.archive.org/23/items/gd79-09-04.sbd.clugston.9452.sbeok.shnf/gd79-09-04Sbdd1t03.mp3');
+      //# sourceURL=pen.js
+    </script>
+
+    
+    
+  
+
+ 
+</body></html>
