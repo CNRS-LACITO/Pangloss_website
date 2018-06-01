@@ -2,6 +2,7 @@
 <html><head>
 
 
+
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta charset="utf-8">
@@ -156,7 +157,12 @@ and translated narratives</h3>
 narratives are available. A mid-term goal is to provide full
 interlinear glossing for all of them: text-level, sentence-level and
 word-level translations into Chinese, English and French, with
-one-click links to the online <a href="https://halshs.archives-ouvertes.fr/halshs-01204638" target="_blank">dictionary of Yongning Na</a>. So far, glossing and translation have been done manually, and progress has been slow: all of the texts have sentence-level and text-level translations into French, but only one third have word-level translations. English translations are gradually being added by Mrs. Roselle Dobbs (see for instance <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_MARIAGE_DE_LA_SOEUR_V1_SOUND&amp;idref=crdo-NRU_Mariage_De_La_Soeur_V1" target="_blank">"The
+one-click links to the online <a href="https://halshs.archives-ouvertes.fr/halshs-01204638" target="_blank">dictionary of Yongning Na</a>.
+So far, glossing and translation have been done manually, and progress
+has been slow: all of the texts have sentence-level and text-level
+translations into French, but only one third have word-level
+translations. English translations are gradually being added by Mrs.
+Roselle Dobbs (see for instance <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_MARIAGE_DE_LA_SOEUR_V1_SOUND&amp;idref=crdo-NRU_Mariage_De_La_Soeur_V1" target="_blank">"The
 sister's wedding", version 1</a>).
 Orthographic representation is also in the process of being added to
 the texts (as of April 2018, the following texts have an orthographic
@@ -2934,6 +2940,8 @@ by the speaker when the transcription was done)</td>
 that is intonationally focalized. Focalization is realized by phonetic
 correlates that include lengthening, a tilt in fundamental frequency,
 and a slight centralizing diphthongization of the vowel.</p>
+<p><b>The letter D</b> signals a disfluency.</p>
+
 <p><b>Borrowings:</b>&nbsp;Due to
 increasing
 exposure to Mandarin
