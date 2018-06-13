@@ -33,6 +33,8 @@ for index, record in enumerate(root.findall(".//nsDefault:record", NAMESPACES)):
 
     #on utilise la methode build de la classe Record pour créer le fichier xml
     filename = objetRecord.build()
+
+    #methodes pour interroger l'API de DAtacite
     if filename:
         enregistrer_metadonnees(filename)
 
