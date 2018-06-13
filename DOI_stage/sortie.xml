@@ -1,3 +1,116 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd"><identifier identifierType="DOI">10.5072/crdo-CIR_CORPS_SOUND</identifier><creators><creator><creatorName>Moyse-Faurie, Claire</creatorName></creator></creators><contributors><contributor contributorType="ContactPerson"><contributorName>Moyse-Faurie, Claire</contributorName></contributor><contributor contributorType="Researcher"><contributorName>Moyse-Faurie, Claire</contributorName></contributor><contributor contributorType="DataCurator"><contributorName>Moyse-Faurie, Claire</contributorName></contributor><contributor contributorType="DataCurator"><contributorName>Moyse-Faurie, Claire</contributorName></contributor><contributor contributorType="DataCurator"><contributorName>D Thiaméa</contributorName></contributor><contributor contributorType="DataCurator"><contributorName>D Thiaméa</contributorName></contributor><contributor contributorType="Other"><contributorName>Béatrice Thiaméa</contributorName></contributor><contributor contributorType="Sponsor"><contributorName>Sorosoro</contributorName></contributor><contributor contributorType="RightsHolder"><contributorName>) Moyse-Faurie, Claire</contributorName></contributor></contributors><titles><title xml:lang="fr">Les Parties du Corps et suivants</title></titles><publisher>Laboratoire de langues et civilisations à tradition orale</publisher><publicationYear>2017</publicationYear><language>cir</language><subjects><subject>Linguistique</subject><subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Haméa</subject><subject>Corps humain</subject><subject>Vocabulaire</subject><subject>Couleurs</subject><subject>Phrase (linguistique)</subject><subject>Maladies</subject><subject>Plantes</subject><subject>Médicaments</subject><subject>Fêtes</subject><subject>Moeurs et coutumes</subject><subject>Plantes</subject><subject>Jeux</subject><subject>Argent (monnaie)</subject><subject>Agriculture</subject><subject>Animaux</subject></subjects><dates><date dateType="Available">2017-03-31</date></dates><resourceType resourceTypeGeneral="Audiovisual">narrative, Dialogue, Entretiens, Questionnaires</resourceType><alternateIdentifiers><alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-CIR_CORPS_SOUND</alternateIdentifier><alternateIdentifier alternateIdentifierType="PURL">http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-CIR_CORPS_SOUND</alternateIdentifier></alternateIdentifiers><relatedIdentifiers><relatedIdentifier relatedIdentifierType="ARK" relationType="IsIdenticalTo">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-792961</relatedIdentifier></relatedIdentifiers><formats><format>video</format><format>mp4</format></formats><sizes><size>PT27M20S</size></sizes><descriptions><description descriptionType="TableOfContents" xml:lang="fr">1) Les couleurs 2) Phrases 3) Les salutations 4) Les objets nouveaux 5) Les maladies 6) Les saisons 7) Les
-                            fêtes 8) Les plantes importantes 9) Jeu de Bingo 10) Est-ce que chacun arrive avec sa page ? 11) Le champ</description></descriptions><geoLocations><geoLocation><geoLocationPlace>Nouvelle-Calédonie, Province Sud, Méchin</geoLocationPlace></geoLocation></geoLocations></resource>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+	<identifier identifierType="DOI">10.5072/crdo-NEV_NYAHEUN_13_NARRATIVE1_SOUND</identifier>
+	<publisher>Pangloss</publisher>
+	<creators>
+		<creator>
+			<creatorName>Ferlus, Michel</creatorName>
+		</creator>
+	</creators>
+	<contributors>
+		<contributor contributorType="ContactPerson">
+			<contributorName>Ferlus, Michel</contributorName>
+		</contributor>
+		<contributor contributorType="Researcher">
+			<contributorName>Ferlus, Michel</contributorName>
+		</contributor>
+		<contributor contributorType="Other">
+			<contributorName>The consultants for Nyaheun recordings 1 to 14 are: Ta Hoy, Meunh, Moun, ’New, and Nang
+				Toun
+			</contributorName>
+		</contributor>
+		<contributor contributorType="Other">
+			<contributorName>the identity of the specific speaker in this recording has not been established
+			</contributorName>
+		</contributor>
+		<contributor contributorType="Producer">
+			<contributorName nameType="Organizational">Multimédia, Informations, Communication et Applications
+			</contributorName>
+		</contributor>
+		<contributor contributorType="Producer">
+			<contributorName nameType="Organizational">Lacito</contributorName>
+		</contributor>
+		<contributor contributorType="HostingInstitution">
+			<contributorName nameType="Organizational">COllections de COrpus Oraux Numériques</contributorName>
+		</contributor>
+		<contributor contributorType="HostingInstitution">
+			<contributorName nameType="Organizational">Huma-Num</contributorName>
+		</contributor>
+		<contributor contributorType="HostingInstitution">
+			<contributorName nameType="Organizational">Langues et Civilisations à Tradition Orale</contributorName>
+		</contributor>
+		<contributor contributorType="HostingInstitution">
+			<contributorName nameType="Organizational">Centre Informatique National de l'Enseignement Supérieur
+			</contributorName>
+		</contributor>
+		<contributor contributorType="RightsHolder">
+			<contributorName>Ferlus, Michel</contributorName>
+		</contributor>
+	</contributors>
+	<titles>
+		<title xml:lang="en">A narrative following the singing of songs. The consultants for Nyaheun recordings 1 to 14
+			are: Ta Hoy, Meunh, Moun, ’New, and Nang Toun; the identity of the specific speaker in this recording has
+			not been established
+		</title>
+		<title xml:lang="fr">Récit suivant les chansons en nyaheun. Les consultants des enregistrements nyaheun 1 à 14
+			sont: Ta Hoy, Meunh, Moun, ’New, et Nang Toun; l'identité du locuteur de cette prise n'a pas été établie.
+		</title>
+	</titles>
+	<publisher>Pangloss</publisher>
+	<publicationYear>2016</publicationYear>
+	<language>nev</language>
+	<subjects>
+		<subject>Linguistique</subject>
+		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Nyaheun</subject>
+	</subjects>
+	<dates>
+		<date dateType="Available">2016-02-08</date>
+	</dates>
+	<resourceType resourceTypeGeneral="Sound">narrative</resourceType>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="internal_ID">
+			oai:crdo.vjf.cnrs.fr:crdo-NEV_NYAHEUN_13_NARRATIVE1_SOUND
+		</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="PURL">
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NEV_NYAHEUN_13_NARRATIVE1_SOUND
+		</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="ARK" relationType="IsIdenticalTo">
+			http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-569686
+		</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>audio</format>
+		<format>x-wav</format>
+	</formats>
+	<sizes>
+		<size>PT04M01S</size>
+	</sizes>
+	<descriptions>
+		<description descriptionType="Abstract" xml:lang="en">A narrative following the singing of songs. The
+			consultants for Nyaheun recordings 1 to 14 are: Ta Hoy, Meunh, Moun, ’New, and Nang Toun; the identity of
+			the specific speaker in this recording has not been established
+		</description>
+		<description descriptionType="Abstract" xml:lang="fr">Récit suivant les chansons en nyaheun. Les consultants des
+			enregistrements nyaheun 1 à 14 sont: Ta Hoy, Meunh, Moun, ’New, et Nang Toun; l'identité du locuteur de
+			cette prise n'a pas été établie.
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Pakse (kilometer 12), Champasak Province, Laos</geoLocationPlace>
+		</geoLocation>
+		<geoLocation>
+			<geoLocationPlace>Paksé (Kilomètre 12), province de Champassak, Laos</geoLocationPlace>
+		</geoLocation>
+		<geoLocation>
+			<geoLocationPlace>ປາກເຊ</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>105.9075</pointLongitude>
+				<pointLatitude>15.131</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

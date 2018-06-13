@@ -1,14 +1,9 @@
 # --------Parsing XML ------------------#
 import xml.etree.ElementTree as ET
+from constantes import NAMESPACES
 
 tree = ET.parse("lacito_1verif.xml")
 root = tree.getroot()
-nameSpaces = {
-    "dc": "http://purl.org/dc/elements/1.1/",
-    "dcterms": "http://purl.org/dc/terms/",
-    "olac": "http://www.language-archives.org/OLAC/1.1/",
-    "xsi": "http://www.w3.org/2001/XMLSchema-instance"
-}
 
 # --------Parse.py header--------#
 
@@ -24,58 +19,64 @@ setSpec = "Linguistique"
 
 # --------Parse.py metadata-OLAC--------#
 
-olac = root.find('.//olac:olac', nameSpaces)
+olac = root.find('.//olac:olac', NAMESPACES)
 
-if olac.find('dc:publisher', nameSpaces) != None:
-    publisherLacito = olac.find('dc:publisher', nameSpaces).text
+#extraire les publisher
+publisherInstitution = []
+if olac.findall('dc:publisher', NAMESPACES) != None:
+    for institution in olac.findall('dc:publisher', NAMESPACES):
+        nomInstituion = institution.text
+        publisherInstitution.append(nomInstituion)
 else:
-    publisherLacito = ""
-    print("La balise Publisher n'existe pas")
+    print ("La balise publisher n'existe pas")
 
-if olac.find('dc:format', nameSpaces) != None:
-    format = olac.find('dc:format', nameSpaces).text.split("/")
+if olac.find('dc:format', NAMESPACES) != None:
+    format = olac.find('dc:format', NAMESPACES).text.split("/")
 else:
     format =[]
 
-if olac.find("dcterms:available", nameSpaces) != None:
-    annee = olac.find("dcterms:available", nameSpaces).text
+
+if olac.find("dcterms:available", NAMESPACES) != None:
+    annee = olac.find("dcterms:available", NAMESPACES).text
 else:
     annee =""
 
-if olac.find("dcterms:extent", nameSpaces) != None:
-    taille = olac.find("dcterms:extent", nameSpaces).text
+
+if olac.find("dcterms:extent", NAMESPACES) != None:
+    taille = olac.find("dcterms:extent", NAMESPACES).text
 else:
     taille = ""
 
+
 # récupérer le contentnu de la balise titre
-if olac.find("dc:title", nameSpaces) != None:
-    titre = olac.find("dc:title", nameSpaces).text
+if olac.find("dc:title", NAMESPACES) != None:
+    titre = olac.find("dc:title", NAMESPACES).text
 else:
     titre = ""
     print("La balise Titre n'existe pas")
 
 
 # récupérer la valeur de l'attribut xml:lang du titre
-attributTitre = olac.find("dc:title", nameSpaces).attrib
+attributTitre = olac.find("dc:title", NAMESPACES).attrib
 valeurXmlLang = attributTitre.get('{http://www.w3.org/XML/1998/namespace}lang')
 
 # récupérer le titre alternatif et la langue dans une liste
 titresSecondaire = []
-for titreAlternatif in olac.findall('dcterms:alternative', nameSpaces):
+for titreAlternatif in olac.findall('dcterms:alternative', NAMESPACES):
     titreLabel = titreAlternatif.text
     attribLang = titreAlternatif.attrib
     codeLangue = attribLang.get("{http://www.w3.org/XML/1998/namespace}lang")
     titreLangList = [codeLangue, titreLabel]
     titresSecondaire.append(titreLangList)
 
-if olac.find("dc:rights", nameSpaces) != None:
-    droits = olac.find("dc:rights", nameSpaces).text[12:]
+if olac.find("dc:rights", NAMESPACES) != None:
+    droits = olac.find("dc:rights", NAMESPACES).text[13:]
 else:
     droits = ""
 
 contributeurs = []
-if olac.findall('dc:contributor', nameSpaces) != None:
-    for contributor in olac.findall('dc:contributor', nameSpaces):
+if olac.findall('dc:contributor', NAMESPACES) != None:
+    for contributor in olac.findall('dc:contributor', NAMESPACES):
         code = contributor.attrib['{http://www.language-archives.org/OLAC/1.1/}code']
         value = contributor.text
         contributorList = [value, code]
@@ -90,7 +91,7 @@ labelLangue = []
 # récupère des mots-clés sous forme de chaine de caractères et des listes de mot-clé et xml:lang
 sujets = []
 
-for sujet in olac.findall('dc:subject', nameSpaces):
+for sujet in olac.findall('dc:subject', NAMESPACES):
     sujetAttribut = sujet.attrib
     # si la balise subject n'a pas d'attributs, la valeur de l'élement est ajouté à la liste de mots-cles
     if not sujetAttribut:
@@ -118,7 +119,7 @@ for sujet in olac.findall('dc:subject', nameSpaces):
 
 labelType = []
 bool = False
-for element in olac.findall("dc:type", nameSpaces):
+for element in olac.findall("dc:type", NAMESPACES):
     typeAttribut = element.attrib
 
     if not typeAttribut:
@@ -146,18 +147,18 @@ if bool == False:
 
 
 isRequiredBy = []
-if olac.find('dcterms:isRequiredBy', nameSpaces) != None:
-    for ressource in olac.findall('dcterms:isRequiredBy', nameSpaces):
+if olac.find('dcterms:isRequiredBy', NAMESPACES) != None:
+    for ressource in olac.findall('dcterms:isRequiredBy', NAMESPACES):
         isRequiredBy.append(ressource.text)
 
 requires = []
-if olac.find('dcterms:requires', nameSpaces) != None:
-    for ressource in olac.findall('dcterms:requires', nameSpaces):
+if olac.find('dcterms:requires', NAMESPACES) != None:
+    for ressource in olac.findall('dcterms:requires', NAMESPACES):
         requires.append(ressource.text)
 
 
 identifiant_Ark_Handle = []
-for identifiantAlternatif in olac.findall('dc:identifier', nameSpaces):
+for identifiantAlternatif in olac.findall('dc:identifier', NAMESPACES):
     identifiantAttribut = identifiantAlternatif.attrib
     for cle, valeur in identifiantAttribut.items():
         if cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "dcterms:URI":
@@ -176,7 +177,7 @@ for identifiantAlternatif in olac.findall('dc:identifier', nameSpaces):
 # récupère la description de la balise abstract sous la forme d'une liste avec le contenu de la balise
 # et/ou avec une liste contenant l'attribut langue et le contenu de la balise
 abstract = []
-for contenu in olac.findall("dcterms:abstract", nameSpaces):
+for contenu in olac.findall("dcterms:abstract", NAMESPACES):
     # récupère les attributs et valeurs d'attributs sous la forme d'un dictionnaire
     abstractAttrib = contenu.attrib
     # si la balise ne contient pas d'attributs, alors ajouter le contenu de l'élément à la liste
@@ -191,7 +192,7 @@ for contenu in olac.findall("dcterms:abstract", nameSpaces):
 
 # récupérer le contenu de la balise tableOfContent
 tableDeMatiere = []
-for contenu in olac.findall("dcterms:tableOfContents", nameSpaces):
+for contenu in olac.findall("dcterms:tableOfContents", NAMESPACES):
     # récupère les attributs et valeurs de la balise sous la forme d'un dictionnaire
     tableAttrib = contenu.attrib
     # si la balise ne contient pas d'attributs, alors ajouter le contenu à la liste
@@ -206,21 +207,23 @@ for contenu in olac.findall("dcterms:tableOfContents", nameSpaces):
 
 # récupérer la description
 descriptionsOlac = []
-for texte in olac.findall("dc:description", nameSpaces):
+for texte in olac.findall("dc:description", NAMESPACES):
     descriptionAttrib = texte.attrib
     if not descriptionAttrib:
-        descriptionsOlac.append(texte.text)
+        contenuDescription = texte.text
+        descriptionsOlac.append(contenuDescription)
     else:
         langueDescription = descriptionAttrib.get("{http://www.w3.org/XML/1998/namespace}lang")
         texteDescription = texte.text
         listeLangueContenu = [langueDescription, texteDescription]
         descriptionsOlac.append(listeLangueContenu)
 
+
 # liste qui récupère les labels du lieu
 labelLieux = []
 longitudeLatitude = []
 pointCardinaux = []
-for lieu in olac.findall('dcterms:spatial', nameSpaces):
+for lieu in olac.findall('dcterms:spatial', NAMESPACES):
     lieuAttrib = lieu.attrib
     if not lieuAttrib:
         labelLieux.append(lieu.text)
@@ -280,6 +283,10 @@ if identifiant:
 else:
     print("La balise IDENTIFIER est obligatoire!!")
 
+#le publisher
+publisher = ET.SubElement(racine, "publisher")
+publisher.text = "Pangloss"
+
 # les createurs et contributeurs
 creators = ET.SubElement(racine, "creators")
 contributors = ET.SubElement(racine, "contributors")
@@ -323,6 +330,8 @@ for personneRole in contributeurs:
         contributor = ET.SubElement(contributors, "contributor", contributorType='Sponsor')
         contributorName = ET.SubElement(contributor, "contributorName")
         contributorName.text = personneRole[0]
+    else:
+        print("La balise PUBLISHER est obligatoire")
 if booleen == False:
     for personneRole in contributeurs:
         if "depositor" in personneRole[1]:
@@ -333,6 +342,19 @@ if booleen == False:
 if booleen == False:
     print("La balise CREATOR est obligatoire!")
 
+if publisherInstitution:
+    for institution in publisherInstitution:
+        contributor = ET.SubElement(contributors, "contributor", contributorType="Producer")
+        contributorName = ET.SubElement(contributor, "contributorName", nameType="Organizational")
+        contributorName.text = institution
+
+hostingInstitution = ["COllections de COrpus Oraux Numériques", "Huma-Num",
+                      "Langues et Civilisations à Tradition Orale",
+                      "Centre Informatique National de l'Enseignement Supérieur"]
+for institution in hostingInstitution:
+    contributor = ET.SubElement(contributors, "contributor", contributorType="HostingInstitution")
+    contributorName = ET.SubElement(contributor, "contributorName", nameType="Organizational")
+    contributorName.text = institution
 
 if droits:
     contributor = ET.SubElement(contributors, "contributor", contributorType='RightsHolder')
@@ -358,11 +380,8 @@ if titresSecondaire:
         titreS.set("xml:lang", groupe[0])
 
 # le publisher
-if publisherLacito:
-    publisher = ET.SubElement(racine, "publisher")
-    publisher.text = publisherLacito
-else:
-    print ("La balise PUBLISHER est obligatoire")
+publisher = ET.SubElement(racine, "publisher")
+publisher.text = "Pangloss"
 
 # année de publication
 if annee:

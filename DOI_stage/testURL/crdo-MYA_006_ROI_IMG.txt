@@ -1,0 +1,2 @@
+url= http://lacito.vjf.cnrs.fr/pangloss/corpus/show_other.php?id=crdo-MYA_006_ROI_SOUND&idref=crdo-MYA_006_ROI_IMG
+doi= 10.5072/crdo-MYA_006_ROI_IMG

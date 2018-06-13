@@ -13,11 +13,13 @@ class Record:
     La classe contien la methode bulid qui construit le fichier xml de sortie
     """
 
-    def __init__(self, identifiant, identifiantPrincipal, publisherLacito, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url):
+    def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url):
         self.identifiant = identifiant
         self.identifiantPrincipal = identifiantPrincipal
         self.setSpec = "Linguistique"
-        self.publisherLacito = publisherLacito
+        self.publisher = "Pangloss"
+        self.publisherInstitution = publisherInstitution
+        self.hostingInstitution = ["COllections de COrpus Oraux Numériques", "Huma-Num", "Langues et Civilisations à Tradition Orale", "Centre Informatique National de l'Enseignement Supérieur"]
         self.format = format
         self.annee = annee
         self.taille = taille
@@ -55,7 +57,7 @@ class Record:
             identifier = ET.SubElement(racine, "identifier", identifierType="DOI")
             identifier.text = self.identifiant
         else:
-            message = "La balise IDENTIFIER pour le record {} est obligatoire!!".format(self.identifiant)
+            message = "La balise IDENTIFIER pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
             logging.info(message)
 
 
@@ -112,8 +114,19 @@ class Record:
                     booleen = True
 
         if booleen == False:
-            message = "La balise CREATOR pour le record {} est obligatoire!!".format(self.identifiant)
+            message = "La balise CREATOR pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
             logging.info(message)
+
+        for institution in self.publisherInstitution:
+            contributor = ET.SubElement(contributors, "contributor", contributorType="Producer")
+            contributorName = ET.SubElement(contributor, "contributorName", nameType="Organizational")
+            contributorName.text = institution
+
+        for institution in self.hostingInstitution:
+            contributor = ET.SubElement(contributors, "contributor", contributorType="HostingInstitution")
+            contributorName = ET.SubElement(contributor, "contributorName", nameType="Organizational")
+            contributorName.text = institution
+
 
         if self.droits:
             contributor = ET.SubElement(contributors, "contributor", contributorType='RightsHolder')
@@ -128,7 +141,7 @@ class Record:
             if self.valeurXmlLang:
                 title.set("xml:lang", self.valeurXmlLang)
         else:
-            message = "La balise TITLE pour le record {} est obligatoire!!".format(self.identifiant)
+            message = "La balise TITLE pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
             logging.info(message)
 
         if self.titresSecondaire:
@@ -138,19 +151,15 @@ class Record:
                 titreS.set("xml:lang", groupe[0])
 
         # le publisher
-        if self.publisherLacito:
-            publisher = ET.SubElement(racine, "publisher")
-            publisher.text = self.publisherLacito
-        else:
-            message = "La balise PUBLISHER pour le record {} est obligatoire!!".format(self.identifiant)
-            logging.info(message)
+        publisher = ET.SubElement(racine, "publisher")
+        publisher.text = self.publisher
 
         # année de publication
         if self.annee:
             publicationYear = ET.SubElement(racine, "publicationYear")
             publicationYear.text = self.annee[:4]
         else:
-            message = "La balise PUBLICATIONYEAR pour le record {} est obligatoire!!".format(self.identifiant)
+            message = "La balise PUBLICATIONYEAR pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
             logging.info(message)
 
         # la langue
@@ -191,7 +200,7 @@ class Record:
             resourceType = ET.SubElement(racine, "resourceType", resourceTypeGeneral=self.typeRessourceGeneral)
             resourceType.text = ", ".join(self.labelType)
         else:
-            message = "La balise RESOURCETYPE pour le record {} est obligatoire!!".format(self.identifiant)
+            message = "La balise RESOURCETYPE pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
             logging.info(message)
 
         alternateIdentifiers = ET.SubElement(racine, "alternateIdentifiers")

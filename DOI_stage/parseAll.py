@@ -7,7 +7,7 @@ from API_DataCite_Metadata import enregistrer_metadonnees
 from API_DataCite_DOI import enregistrer_url
 from constantes import NAMESPACES
 
-tree = ETree.parse("metadata_lacito_olac.xml")
+tree = ETree.parse("metadata_cocoon.xml")
 root = tree.getroot()
 
 #creation et suppression d'un dossier et de son contenu
@@ -24,10 +24,11 @@ root = tree.getroot()
 
 for index, record in enumerate(root.findall(".//nsDefault:record", NAMESPACES)):
 
+
     #on utilise la fonction parserRecord pour parser chaque record
     objetRecord = parserRecord(record)
 
-    #on utiulise la fonction generatorUrl pour créer les fichiers avec les url et les DOI
+    #on utilise la fonction generatorUrl pour créer les fichiers avec les url et les DOI
     lienUrlPangloss = objetRecord.generatorUrl()
 
     #on utilise la methode build de la classe Record pour créer le fichier xml
@@ -38,9 +39,8 @@ for index, record in enumerate(root.findall(".//nsDefault:record", NAMESPACES)):
     if lienUrlPangloss:
         enregistrer_url(lienUrlPangloss, objetRecord.identifiant)
 
-    if index == 1:
+    if index == 10:
         break
-
 
 #allRecords = [parsing(record) for record in root.findall(".//nsDefault:record", nameSpaces)]
 

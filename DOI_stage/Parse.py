@@ -3,7 +3,7 @@ from constantes import NAMESPACES, DOI_TEST, SHOW_TEXT, IDREF, SHOW_OTHER
 
 def parserRecord (record):
         """
-        Methode qui parse les éléments xml contenus dans la balise <record> du fichier cocoon et récupère la valeur des attributs de l'objet
+        Methode qui parse les éléments xml contenus dans la balise <record> du fichier metadata_cocoon.xml et récupère la valeur des attributs de l'objet
         :param record: les éléments contenus dans la balise <record>
         :type record: class 'xml.etree.ElementTree.Element'
 
@@ -24,11 +24,11 @@ def parserRecord (record):
 
         olac = record.find('.//olac:olac', NAMESPACES)
 
-        if olac.find('dc:publisher', NAMESPACES) != None:
-            publisherLacito = olac.find('dc:publisher', NAMESPACES).text
-        else:
-            publisherLacito = ""
-            # print("La balise PUBLISHER n'existe pas")
+        publisherInstitution = []
+        if olac.findall('dc:publisher', NAMESPACES) != None:
+            for institution in olac.findall('dc:publisher', NAMESPACES):
+                nomInstituion = institution.text
+                publisherInstitution.append(nomInstituion)
 
         if olac.find('dc:format', NAMESPACES) != None:
             format = olac.find('dc:format', NAMESPACES).text.split("/")
@@ -66,7 +66,7 @@ def parserRecord (record):
             titresSecondaire.append(titreLangList)
 
         if olac.find("dc:rights", NAMESPACES) != None:
-            droits = olac.find("dc:rights", NAMESPACES).text[12:]
+            droits = olac.find("dc:rights", NAMESPACES).text[13:]
         else:
             droits = ""
 
@@ -272,7 +272,6 @@ def parserRecord (record):
                 url = SHOW_OTHER + lienRequires[21:] + IDREF + identifiantPrincipal[21:]
         else:
             url = identifiantPrincipal[21:]
-            print (url)
 
-        record_object = Record(identifiant, identifiantPrincipal, publisherLacito, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)
+        record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)
         return record_object
