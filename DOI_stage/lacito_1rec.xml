@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+ <record>
+                <header>
+                    <identifier>oai:crdo.vjf.cnrs.fr:crdo-RMN-ROM3_SOUND</identifier>
+                    <datestamp>2014-07-15</datestamp>
+                    <setSpec>Lacito</setSpec>
+                    <setSpec>Linguistique</setSpec>
+                </header>
+                <metadata>
+                    <olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/"
+                        xmlns:dcterms="http://purl.org/dc/terms/"
+                        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                               xmlns:olac="http://www.language-archives.org/OLAC/1.1/"
+                        xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd">
+                        <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:IMT">audio/x-wav</dc:format>
+                        <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:DCMIType">Sound</dc:type>
+                        <dc:publisher>Laboratoire de langues et civilisations à tradition
+                            orale</dc:publisher>
+                        <dc:rights>Copyright (c) Adamou, Evangelia</dc:rights>
+                        <dc:subject olac:code="rmn"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:language">Romani</dc:subject>
+                        <dc:language olac:code="rmn" xml:lang="fr"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:language">Romani</dc:language>
+                        <dc:title xml:lang="en">The louse and the Rom</dc:title>
+                        <dc:type olac:code="primary_text"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:linguistic-type"/>
+                        <dc:type olac:code="narrative"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:discourse-type"/>
+                        <dc:contributor olac:code="researcher"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:role">Adamou, Evangelia</dc:contributor>
+                        <dc:contributor olac:code="depositor"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:role">Adamou, Evangelia</dc:contributor>
+                        <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI"
+                            >http://cocoon.huma-num.fr/data/archi/124206_LILA_ROM3_22km.wav</dc:identifier>
+                        <dcterms:spatial xml:lang="fr">Grèce, Komotini, Anahoma</dcterms:spatial>
+                        <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:TGN">7002754</dcterms:spatial>
+                        <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:W3CDTF">2006</dcterms:created>
+                        <dcterms:extent>PT7M58S</dcterms:extent>
+                        <dcterms:license xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI"
+                            >http://creativecommons.org/licenses/by-nc-nd/2.5/</dcterms:license>
+                        <dcterms:accessRights>Freely available for non-commercial
+                            use</dcterms:accessRights>
+                        <dcterms:isRequiredBy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI"
+                            >oai:crdo.vjf.cnrs.fr:crdo-RMN-ROM3</dcterms:isRequiredBy>
+                        <dcterms:abstract xml:lang="fr">C'est l'histoire amusante d'un anti-héros
+                            rom qui épousa la fille du roi (pour avoir reconnu un énorme pou), gagna
+                            une guerre au profit de son nouveau royaume (pour avoir suivi un chien
+                            qui lui avait volé un morceau de viande) et fut considéré comme un homme
+                            sage et érudit (pour avoir parlé en romani à une vieille mendiante
+                            rom).</dcterms:abstract>
+                        <dcterms:abstract>This is a funny tale of a Rom anti-hero who gets married
+                            to the king's daughter (for having recognized an over-sized louse), wins
+                            a war for his new kingdom (for having followed a dog who stole his food)
+                            and is mistaken for a wise, educated man (for speaking Romani to an old
+                            Rom woman begging in the streets).</dcterms:abstract>
+                        <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI"
+                            >oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
+                        <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI"
+                            >http://cocoon.huma-num.fr/data/archi/mp3/124206_LILA_ROM3_44k.mp3</dcterms:isFormatOf>
+                        <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:W3CDTF">2010-06-26T16:54:08+02:00</dcterms:issued>
+                        <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:ISO3166">GR</dcterms:spatial>
+                        <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI"
+                            >http://cocoon.huma-num.fr/data/archi/masters/124206.wav</dcterms:isFormatOf>
+                        <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:W3CDTF">2008-06-26</dcterms:available>
+                        <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:Point">east=25.5000; north=41.0833</dcterms:spatial>
+                        <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI"
+                            >http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.5-124206</dc:identifier>
+                        <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI"
+                            >http://hdl.handle.net/10670/1.zl0jpu</dc:identifier>
+                    </olac:olac>
+                </metadata>
+            </record>

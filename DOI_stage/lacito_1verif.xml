@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+ <record>
+                <header>
+                    <identifier>oai:crdo.vjf.cnrs.fr:crdo-CIR_CORPS_SOUND</identifier>
+                    <datestamp>2017-11-10</datestamp>
+                    <setSpec>Lacito</setSpec>
+                    <setSpec>LanguesDeFrance</setSpec>
+                    <setSpec>Linguistique</setSpec>
+                </header>
+                <metadata>
+                    <olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/"
+                        xmlns:dcterms="http://purl.org/dc/terms/"
+                               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                        xmlns:olac="http://www.language-archives.org/OLAC/1.1/"
+                        xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd">
+                        <dc:title xml:lang="fr">Les Parties du Corps et suivants</dc:title>
+                        <dc:subject olac:code="cir" xml:lang="fr"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:language">Haméa</dc:subject>
+                        <dc:language olac:code="cir"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:language">Haméa</dc:language>
+                        <dc:type olac:code="narrative"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:discourse-type"/>
+                        <dc:contributor olac:code="depositor"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:role">Moyse-Faurie, Claire</dc:contributor>
+                        <dc:contributor olac:code="researcher"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:role">Moyse-Faurie, Claire</dc:contributor>
+                        <dc:contributor olac:code="transcriber"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:role">Moyse-Faurie, Claire</dc:contributor>
+                        <dc:contributor olac:code="translator"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:role">Moyse-Faurie, Claire</dc:contributor>
+                        <dc:contributor olac:code="transcriber"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:role">D Thiaméa</dc:contributor>
+                        <dc:contributor olac:code="translator"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:role">D Thiaméa</dc:contributor>
+                        <dc:contributor olac:code="speaker"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:role">Béatrice Thiaméa</dc:contributor>
+                        <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI"
+                            >http://cocoon.huma-num.fr/data/moyse-faurie/crdo-CIR_CORPS_low.mp4</dc:identifier>
+                        <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:IMT">video/mp4</dc:format>
+                        <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:DCMIType">MovingImage</dc:type>
+                        <dc:contributor olac:code="sponsor"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:role">Sorosoro</dc:contributor>
+                        <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+                        <dc:rights>Copyright (c) Moyse-Faurie, Claire</dc:rights>
+                        <dc:type olac:code="primary_text"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="olac:linguistic-type"/>
+                        <dc:type>Dialogue</dc:type>
+                        <dc:type>Entretiens</dc:type>
+                        <dc:type>Questionnaires</dc:type>
+                        <dc:subject>Corps humain</dc:subject>
+                        <dc:subject>Vocabulaire</dc:subject>
+                        <dc:subject>Couleurs</dc:subject>
+                        <dc:subject>Phrase (linguistique)</dc:subject>
+                        <dc:subject>Maladies</dc:subject>
+                        <dc:subject>Plantes</dc:subject>
+                        <dc:subject>Médicaments</dc:subject>
+                        <dc:subject>Fêtes</dc:subject>
+                        <dc:subject>Moeurs et coutumes</dc:subject>
+                        <dc:subject>Plantes</dc:subject>
+                        <dc:subject>Jeux</dc:subject>
+                        <dc:subject>Argent (monnaie)</dc:subject>
+                        <dc:subject>Agriculture</dc:subject>
+                        <dc:subject>Animaux</dc:subject>
+                        <dcterms:spatial xml:lang="fr">Nouvelle-Calédonie, Province Sud, Méchin</dcterms:spatial>
+                        <dcterms:tableOfContents xml:lang="fr">1) Les couleurs 2) Phrases 3) Les salutations 4) Les objets nouveaux 5) Les maladies 6) Les saisons 7) Les
+                            fêtes 8) Les plantes importantes 9) Jeu de Bingo 10) Est-ce que chacun arrive avec sa page ? 11) Le champ</dcterms:tableOfContents>
+                        <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/crdo-CIR_CORPS_low.ogg</dcterms:isFormatOf>
+                        <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/masters/crdo-CIR_CORPS.mp4</dcterms:isFormatOf>
+                        <dcterms:extent>PT27M20S</dcterms:extent>
+                        <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:W3CDTF">2010-11-04</dcterms:created>
+                        <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:ISO3166">NC</dcterms:spatial>
+                        <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
+                        <dcterms:license xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/</dcterms:license>
+                        <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:W3CDTF">2017-03-31</dcterms:available>
+                        <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
+                        <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LANGUESDEFRANCE</dcterms:isPartOf>
+                        <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:W3CDTF">2017-09-28T10:56:00+02:00</dcterms:issued>
+                        <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-792961</dc:identifier>
+                        <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.k179xi</dc:identifier>
+                    </olac:olac>
+                </metadata>
+            </record>
