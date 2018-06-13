@@ -132,7 +132,7 @@ def parserRecord (record):
                         labelType.append(labelCode)
                         bool = True
         if bool == False:
-            labelType.append("Non renseigné")
+            labelType.append("(:unkn)")
             bool = True
 
         isRequiredBy = []
