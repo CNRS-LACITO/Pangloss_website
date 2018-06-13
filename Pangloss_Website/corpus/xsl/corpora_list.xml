@@ -1,0 +1,2226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpora>
+	<corpus>
+        <language>Newar</language>
+		<language_en>Newar</language_en>
+        <language_fr>newar</language_fr>
+        <researcher>
+            <name>Boyd Michailovsky</name>
+			<page></page>
+        </researcher>
+		<family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+		<country>Nepal</country>
+		<country_fr>Népal</country_fr>
+		
+	</corpus>
+	<corpus>
+        <language>Volow</language>
+		<language_en>Volow</language_en>
+        <language_fr>volow</language_fr>
+        <researcher>
+            <name>Bernard Vienne</name>
+			<page></page>
+        </researcher>
+		<family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+	<corpus>
+        <language>Ao</language>
+		<language_en>Ao</language_en>
+        <language_fr>ao</language_fr>
+        <researcher>
+            <name>Alexander R. Coupe</name>
+			<page></page>
+        </researcher>
+		<family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+		<country>India</country>
+		<country_fr>Inde</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Ngazidja</language>
+		<language_en>Ngazidja</language_en>
+        <language_fr>grand-comorien</language_fr>
+        <researcher>
+            <name>Marie-Françoise Rombi</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/rombi.htm</page>
+        </researcher>
+		<family>Bantu</family>
+		<family_fr>Bantu</family_fr>
+		<country>The Comoros</country>
+		<country_fr>Comores</country_fr>
+		
+	</corpus>
+   
+    <corpus>
+        <language>Langi</language>
+		<language_en>Langi</language_en>
+        <language_fr>langi</language_fr>
+		<researcher>
+		    <name>Margaret Dunham</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/dunham.htm</page>
+		</researcher>
+		<family>Bantu</family>
+		<family_fr>Bantu</family_fr>
+		<country>Tanzania</country>
+		<country_fr>Tanzanie</country_fr>
+        
+	</corpus>
+    <corpus>
+        <language>Maore</language>
+		<language_en>Maore</language_en>
+        <language_fr>mahorais</language_fr>
+		<researcher>
+		    <name>Marie-Françoise Rombi</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/rombi.htm</page>
+		</researcher>
+		<family>Bantu</family>
+		<family_fr>Bantu</family_fr>
+		<country>The Comoros</country>
+		<country_fr>Comores</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Mankon</language>
+		<language_en>Mankon</language_en>
+        <language_fr>mankon</language_fr>
+		<researcher>
+		    <name>Jacqueline Leroy</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/leroy.htm</page>
+		</researcher>
+        <family>Ngemba</family>
+		<family_fr>Ngemba</family_fr>
+        <country>Cameroon</country>
+		<country_fr>Cameroun</country_fr>
+        
+	</corpus>
+    <corpus>
+        <language>Mbugwe</language>
+		<language_en>Mbugwe</language_en>
+        <language_fr>mbugwe</language_fr>
+        <researcher>
+            <name>Margaret Dunham</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/dunham.htm</page>
+        </researcher>
+		<family>Bantu</family>
+		<family_fr>Bantu</family_fr>
+		<country>Tanzania</country>
+		<country_fr>Tanzanie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Nyilamba</language>
+		<language_en>Nyilamba</language_en>
+        <language_fr>nyilamba</language_fr>
+		<researcher>
+		    <name>Margaret Dunham</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/dunham.htm</page>
+		</researcher>
+		<family>Bantu</family>
+		<family_fr>Bantu</family_fr>
+		<country>Tanzania</country>
+		<country_fr>Tanzanie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Ouldeme</language>
+		<language_en>Ouldeme</language_en>
+        <language_fr>ouldémé</language_fr>
+		<researcher>
+		    <name>Véronique de Colombel</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/colombel.htm</page>
+		</researcher>
+        <family>Chadic</family>
+        <family_fr>Tchadique</family_fr>
+        <country>Cameroon</country>
+		<country_fr>Cameroun</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Ixcatec</language>
+		<language_en>Ixcatec</language_en>
+        <language_fr>ixcatèque</language_fr>
+		<researcher>
+		    <name>Evangelia Adamou</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/adamou.htm</page>
+		</researcher>
+        <family>Otomanguean</family>
+		<family_fr>Otomangue</family_fr>
+        <country>Mexico</country>
+		<country_fr>Mexique</country_fr>
+        
+	</corpus>
+    <corpus>
+        <language>Tanimuca</language>
+		<language_en>Tanimuca</language_en>
+        <language_fr>tanimuca</language_fr>
+		<researcher>
+		    <name>Laurent Fontaine</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/fontaine.htm</page>
+		</researcher>
+        <family>Arawakan</family>
+		<family_fr>Arawak</family_fr>
+        <country>Colombia</country>
+		<country_fr>Colombie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Wayana</language>
+		<language_en>Wayana</language_en>
+        <language_fr>wayana</language_fr>
+        <researcher>
+            <name>Laurent Fontaine</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/fontaine.htm</page>
+        </researcher>
+        <family>Carib</family>
+		<family_fr>Carib</family_fr>
+        <country>Guyana</country>
+		<country_fr>Guyane française</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Yucuna</language>
+		<language_en>Yucuna</language_en>
+        <language_fr>yucuna</language_fr>
+        <researcher>
+            <name>Laurent Fontaine</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/fontaine.htm</page>
+        </researcher>
+        <family>Arawakan</family>
+		<family_fr>Arawak</family_fr>
+        <country>Colombia</country>
+		<country_fr>Colombie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Aheu</language>
+		<language_en>Aheu</language_en>
+        <language_fr>aheu</language_fr>
+		<researcher>
+		    <name>Michel Ferlus</name>
+			<page>https://en.wikipedia.org/wiki/Michel_Ferlus</page>
+		    (CRLAO)
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Laos</country>
+		<country_fr>Laos</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Arem</language>
+		<language_en>Arem</language_en>
+        <language_fr>arem</language_fr>
+		<researcher>
+		    <name>Michel Ferlus</name>
+			<page>https://en.wikipedia.org/wiki/Michel_Ferlus</page>
+		    (CRLAO)
+		</researcher>
+        <researcher>
+            <a href="http://ussh.vnu.edu.vn/profile/tran-tri-doi"
+                target="_blank">Trần Trí Dõi</a>
+            (Vietnam National University)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Bahing</language>
+		<language_en>Bahing</language_en>
+        <language_fr>bahing</language_fr>
+		<researcher>
+		    <name>Boyd Michailovsky</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michailovsky.htm</page>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>Nepal</country>
+		<country_fr>Népal</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Birman</language>
+		<language_en>Burmese</language_en>
+        <language_fr>birman</language_fr>
+		<researcher>
+		    <name>Katia Chirkova</name>
+			<page>http://crlao.ehess.fr/index.php?490</page>
+		    (CRLAO)
+		</researcher>
+		<researcher>
+		    <name>San San Hnin Tun</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/hnin_tun.htm</page>
+		</researcher>
+        <researcher>
+            <name>Alice Vittrant</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/vittrant.htm</page>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>Myanmar</country>
+		<country_fr>Myanmar</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Bru</language>
+		<language_en>Bru</language_en>
+        <language_fr>brou</language_fr>
+        <researcher>
+		<name>Marie Alexandrine Martin</name>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Cambodia</country>
+		<country_fr>Cambodge</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Cao Lao Hạ</language>
+		<language_en>Cao Lao Hạ</language_en>
+        <language_fr>cao lao hạ (dialecte du vietnamien)</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <researcher>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
+            (Vietnam National University)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Car-Nicobarais</language>
+		<language_en>Car-Nicobarais</language_en>
+        <language_fr>car-nicobarais</language_fr>
+		<researcher>
+		    <name>Anne Daladier</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/daladier.htm</page>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>India</country>
+		<country_fr>Inde</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Chang Naga</language>
+		<language_en>Chang Naga</language_en>
+        <language_fr>chang naga</language_fr>
+		<researcher>
+		    <name>Guillaume Jacques</name>
+			<page>http://xiang.free.fr/indexfr.htm</page> 
+		    (CRLAO)
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>India</country>
+		<country_fr>Inde</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Chong Heup</language>
+		<language_en>Chong Heup</language_en>
+        <language_fr>chong heup</language_fr>
+        <researcher>
+		<name>Marie Alexandrine Martin</name>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Cambodia</country>
+		<country_fr>Cambodge</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Chong Lo</language>
+		<language_en>Chong Lo</language_en>
+        <language_fr>chong lo</language_fr>
+        <researcher>
+		<name>Marie Alexandrine Martin</name>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Cambodia</country>
+		<country_fr>Cambodge</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Chong Tratt</language>
+		<language_en>Chong Tratt</language_en>
+        <language_fr>chong tratt</language_fr>
+        <researcher>
+		<name>Marie Alexandrine Martin</name>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Cambodia</country>
+		<country_fr>Cambodge</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Cuối Chăm</language>
+		<language_en>Cuối Chăm</language_en>
+        <language_fr>cuối chăm</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <researcher>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
+            (Vietnam National University)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Hayu</language>
+		<language_en>Hayu</language_en>
+        <language_fr>hayu</language_fr>
+		<researcher>
+		    <name>Boyd Michailovsky</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michailovsky.htm</page>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>Nepal</country>
+		<country_fr>Népal</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Hung</language>
+		<language_en>Hung</language_en>
+        <language_fr>hung</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+        <country>Laos</country>
+		<country_fr>Laos</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Japhug</language>
+		<language_en>Japhug</language_en>
+        <language_fr>japhug</language_fr>
+		<researcher>
+		    <name>Guillaume Jacques</name>
+			<page>http://xiang.free.fr/indexfr.htm</page>
+		    (CRLAO)
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>China</country>
+		<country_fr>Chine</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Khaling</language>
+		<language_en>Khaling</language_en>
+        <language_fr>khaling</language_fr>
+        <researcher>
+		<name>Aimée Lahaussois</name>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>Nepal</country>
+		<country_fr>Népal</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Kháng</language>
+		<language_en>Kháng</language_en>
+        <language_fr>kháng</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Kha Phong</language>
+		<language_en>Kha Phong</language_en>
+        <language_fr>kha phong</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <researcher>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
+            (Vietnam National University)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Cardamom Khmer</language>
+		<language_en>Cardamom Khmer</language_en>
+        <language_fr>khmer des Cardamomes</language_fr>
+        <researcher>
+		<name>Marie Alexandrine Martin</name>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Cambodia</country>
+		<country_fr>Cambodge</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Krom Khmer</language>
+		<language_en>Krom Khmer</language_en>
+        <language_fr>khmer krom</language_fr>
+        <researcher>
+		<name>Marie Alexandrine Martin</name>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Cambodia</country>
+		<country_fr>Cambodge</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Khmu</language>
+		<language_en>Khmu</language_en>
+        <language_fr>khmu</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Khün</language>
+		<language_en>Khün</language_en>
+        <language_fr>khün</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Tai-Kadai</family>
+		<family_fr>Tai-Kadai</family_fr>
+        <country>Thailand</country>
+		<country_fr>Thaïlande</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Koyi Rai</language>
+		<language_en>Koyi Rai</language_en>
+        <language_fr>koyi rai</language_fr>
+		<researcher>
+		    <name>Aimée Lahaussois</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/lahaussois.htm</page>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>Nepal</country>
+		<country_fr>Népal</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Ksing Mun</language>
+		<language_en>Ksing Mun</language_en>
+        <language_fr>ksing mun</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Kurde central</language>
+		<language_en>Kurdish</language_en>
+        <language_fr>kurde</language_fr>
+		<researcher>
+		    <name>Ergin Öpengin</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/opengin.htm</page>
+		</researcher>
+        <family>Indo-Iranian</family>
+		<family_fr>Indo-iranien</family_fr>
+        <country>Iran</country>
+		<country_fr>Iran</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Lahu</language>
+		<language_en>Lahu</language_en>
+        <language_fr>lahu</language_fr>
+		<researcher>
+		    <name>James A. Matisoff</name>
+			<page>http://stedt.berkeley.edu/Matisoff/index.html</page>
+		            (UC Berkeley)
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>Thailand</country>
+		<country_fr>Thaïlande</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Laven</language>
+		<language_en>Laven</language_en>
+        <language_fr>laven</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>China</country>
+		<country_fr>Chine</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Lazé</language>
+		<language_en>Lazé</language_en>
+        <language_fr>lazé</language_fr>
+		<researcher>
+		    <name>Alexis Michaud</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michaud.htm</page>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>China</country>
+		<country_fr>Chine</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Limbu</language>
+		<language_en>Limbu</language_en>
+        <language_fr>limbu</language_fr>
+		<researcher>
+		    <name>Boyd Michailovsky</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michailovsky.htm</page>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>Nepal</country>
+		<country_fr>Népal</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Lyngam</language>
+		<language_en>Lyngam</language_en>
+        <language_fr>lyngam</language_fr>
+		<researcher>
+		    <name>Anne Daladier</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/daladier.htm</page>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>India</country>
+		<country_fr>Inde</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Makong dialect of Bru</language>
+		<language_en>Makong (dialect of Bru)</language_en>
+        <language_fr>mankong (dialecte du bru/sô)</language_fr>
+        <researcher>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
+            (Vietnam National University)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Malang</language>
+		<language_en>Malang</language_en>
+        <language_fr>malang</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Laos</country>
+		<country_fr>Laos</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Maleng Brô</language>
+		<language_en>Maleng Brô</language_en>
+        <language_fr>maleng brô</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Laos</country>
+		<country_fr>Laos</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Malieng</language>
+		<language_en>Malieng</language_en>
+        <language_fr>malieng</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <researcher>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
+            (Vietnam National University)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Mảng</language>
+		<language_en>Mảng</language_en>
+        <language_fr>mảng</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Mizo</language>
+		<language_en>Mizo</language_en>
+        <language_fr>mizo</language_fr>
+        <researcher>
+		<name>Edward Hillard</name>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>India</country>
+		<country_fr>Inde</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Mon</language>
+		<language_en>Mon</language_en>
+        <language_fr>môn</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Myanmar</country>
+		<country_fr>Birmanie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Mường</language>
+		<language_en>Mường</language_en>
+        <language_fr>mường</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <researcher>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
+            (Vietnam National University)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Na</language>
+		<language_en>Na</language_en>
+        <language_fr>na</language_fr>
+		<researcher>
+		    <name>Alexis Michaud</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michaud.htm</page>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>China</country>
+		<country_fr>Chine</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Naxi</language>
+		<language_en>Naxi</language_en>
+        <language_fr>naxi</language_fr>
+		<researcher>
+		    <name>Alexis Michaud</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michaud.htm</page>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>China</country>
+		<country_fr>Chine</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Nepali</language>
+		<language_en>Nepali</language_en>
+        <language_fr>népali</language_fr>
+		<researcher>
+		    <name>Marie Lecomte-Tilouine</name>
+			<page>http://www.vjf.cnrs.fr/himalaya/http://lacito.vjf.cnrs.fr/membres/mlecomte.htm</page>
+		    (Himalaya)
+		    </researcher>
+        <researcher>
+            <name>Boyd Michailovsky</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michailovsky.htm</page>
+		</researcher>
+        <family>Indo-Aryan</family>
+		<family_fr>Indo-aryen</family_fr>
+        <country>Nepal</country>
+		<country_fr>Népal</country_fr>
+		
+	</corpus>
+    <!--<corpus>
+        <language>Dotyal (Nepali dialect)</language>
+        <language_fr>dotyal(dialecte du népali)</language_fr>
+		<researcher>
+		    <name>Marie Lecomte-Tilouine</name>
+			<page>http://www.vjf.cnrs.fr/himalaya/http://lacito.vjf.cnrs.fr/membres/mlecomte.htm</page>
+		    (Himalaya)
+		    </researcher>
+        <researcher>
+            <name>Boyd Michailovsky</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michailovsky.htm</page>
+		</researcher>
+        <family>Indo-Aryan</family>
+		<family_fr>Indo-aryen</family_fr>
+        <country>Nepal</country>
+		<country_fr>Népal</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Achhame (Nepali dialect)</language>
+        <language_fr>achhame(dialecte du népali)</language_fr>
+		<researcher>
+		    <name>Marie Lecomte-Tilouine</name>
+			<page>http://www.vjf.cnrs.fr/himalaya/http://lacito.vjf.cnrs.fr/membres/mlecomte.htm</page>
+		    (Himalaya)
+		    </researcher>
+        <researcher>
+            <name>Boyd Michailovsky</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michailovsky.htm</page>
+		</researcher>
+        <family>Indo-Aryan</family>
+		<family_fr>Indo-aryen</family_fr>
+        <country>Nepal</country>
+		<country_fr>Népal</country_fr>
+		
+	</corpus>-->
+    
+    <corpus>
+        <language>Nyaheun</language>
+		<language_en>Nyaheun</language_en>
+        <language_fr>nyaheun</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://en.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Laos</country>
+		<country_fr>Laos</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Palaong</language>
+		<language_en>Palaong</language_en>
+        <language_fr>palaong</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://en.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Myanmar</country>
+		<country_fr>Birmanie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Phay</language>
+		<language_en>Phay</language_en>
+        <language_fr>phay</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://en.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Laos</country>
+		<country_fr>Laos</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Pakatan</language>
+		<language_en>Pakatan</language_en>
+        <language_fr>pakatan</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://en.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Laos</country>
+		<country_fr>Laos</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Phong Nha</language>
+		<language_en>Phong Nha</language_en>
+        <language_fr>phong nha (dialecte du vietnamien)</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://en.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <researcher>
+            <name>Alexis Michaud</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michaud.htm</page>
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Phunoi</language>
+		<language_en>Phunoi</language_en>
+        <language_fr>phunoi</language_fr>
+		<researcher>
+		    <name>Michel Ferlus</name>
+			<page>https://en.wikipedia.org/wiki/Michel_Ferlus</page>
+		    (CRLAO)
+		</researcher>
+        <researcher>
+            <name>Alexis Michaud</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michaud.htm</page>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Pnar</language>
+		<language_en>Pnar</language_en>
+        <language_fr>pnar</language_fr>
+		<researcher>
+		    <name>Anne Daladier</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/daladier.htm</page>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>India</country>
+		<country_fr>Inde</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Pumi</language>
+		<language_en>Pumi</language_en>
+        <language_fr>pumi</language_fr>
+		<researcher>
+		    <name>Guillaume Jacques</name>
+			<page>http://xiang.free.fr/indexfr.htm</page>
+            (CRLAO)
+		</researcher>
+		<researcher>
+            <name>Henriëtte Daudey</name>
+			<page></page>   
+        </researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>China</country>
+		<country_fr>Chine</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Rục</language>
+		<language_en>Rục</language_en>
+        <language_fr>rục</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <researcher>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
+            (Vietnam National University)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Sách</language>
+		<language_en>Sách</language_en>
+        <language_fr>sách</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <researcher>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
+            (Vietnam National University)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Saek</language>
+		<language_en>Saek</language_en>
+        <language_fr>saek</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Tai-Kadai</family>
+		<family_fr>Tai-Kadai</family_fr>
+        <country>Laos</country>
+		<country_fr>Laos</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Salang</language>
+		<language_en>Salang</language_en>
+        <language_fr>salang</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Laos</country>
+		<country_fr>Laos</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Samre</language>
+		<language_en>Samre</language_en>
+        <language_fr>samre</language_fr>
+        <researcher>
+		<name>Marie Alexandrine Martin</name>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Cambodia</country>
+		<country_fr>Cambodge</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Tai Deng</language>
+		<language_en>Tai Deng</language_en>
+        <language_fr>tai deng</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <researcher>
+		<name>Võ Thị Thường (Musée d'Ethnologie du Vietnam)</name>
+		</researcher>
+        <family>Tai-Kadai</family>
+		<family_fr>Tai-Kadai</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Tai Don</language>
+		<language_en>Tai Don</language_en>
+        <language_fr>tai don</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <researcher>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
+            (Vietnam National University)
+        </researcher>
+        <family>Tai-Kadai</family>
+		<family_fr>Tai-Kadai</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Tai Paw</language>
+		<language_en>Tai Paw</language_en>
+        <language_fr>tai paw</language_fr>
+        <researcher>
+            <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+            (CRLAO)
+        </researcher>
+        <researcher>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
+            (Vietnam National University)
+        </researcher>
+        <family>Tai-Kadai</family>
+		<family_fr>Tai-Kadai</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Tai Yo</language>
+		<language_en>Tai Yo</language_en>
+        <language_fr>tai yo</language_fr>
+		<researcher>
+		    <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+		    (CRLAO)
+		</researcher>
+        <researcher>
+            <name>Trần Trí Dõi</name>
+			<page>http://ussh.vnu.edu.vn/profile/tran-tri-doi</page>
+            (Vietnam National University)
+        </researcher>
+        <family>Tai-Kadai</family>
+		<family_fr>Tai-Kadai</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Tamang</language>
+		<language_en>Tamang</language_en>
+        <language_fr>tamang</language_fr>
+		<researcher>
+		    <name>Martine Mazaudon</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/mazaudon.htm</page>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>Nepal</country>
+		<country_fr>Népal</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Tampuan</language>
+		<language_en>Tampuan</language_en>
+        <language_fr>tampuan</language_fr>
+        <researcher>
+		<name>Marie Alexandrine Martin</name>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Cambodia</country>
+		<country_fr>Cambodge</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Tay Khang</language>
+		<language_en>Tay Khang</language_en>
+        <language_fr>tay khang</language_fr>
+		<researcher>
+		    <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+		    (CRLAO)
+		</researcher>
+        <family>Tai-Kadai</family>
+		<family_fr>Tai-Kadai</family_fr>
+        <country>Laos</country>
+		<country_fr>Laos</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Thavung</language>
+		<language_en>Thavung</language_en>
+        <language_fr>thavung</language_fr>
+		<researcher>
+		    <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+		    (CRLAO)
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Laos</country>
+		<country_fr>Laos</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Thổ</language>
+		<language_en>Thổ</language_en>
+        <language_fr>thổ</language_fr>
+		<researcher>
+		    <name>Michel Ferlus</name>
+			<page>https://fr.wikipedia.org/wiki/Michel_Ferlus</page>
+		    (CRLAO)
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Thulung Rai</language>
+		<language_en>Thulung Rai</language_en>
+        <language_fr>thulung rai</language_fr>
+		<researcher>
+		<name> Aimée Lahaussois</name>
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>Nepal</country>
+		<country_fr>Népal</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Vietnamese</language>
+		<language_en>Vietnamese</language_en>
+        <language_fr>vietnamien (dialecte de Hanoi)</language_fr>
+		<researcher>
+		    <name>Alexis Michaud</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michaud.htm</page>
+		</researcher>
+        <researcher>
+		<name>Trần Đỗ Đạt</name>
+		</researcher>
+        <resarcher>Mạc Đăng Khoa</resarcher>
+        <researcher>
+		<name>Nguyễn Thị Lan</name>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>Vietnam</country>
+		<country_fr>Vietnam</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>War</language>
+		<language_en>War</language_en>
+        <language_fr>war</language_fr>
+		<researcher>
+		    <name>Anne Daladier</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/daladier.htm</page>
+		</researcher>
+        <family>Austroasiatic</family>
+		<family_fr>Austroasiatique</family_fr>
+        <country>India</country>
+		<country_fr>Inde</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Romani</language>
+		<language_en>Romani</language_en>
+        <language_fr>romani</language_fr>
+		<researcher>
+		    <name>Evangelia Adamou</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/adamou.htm</page>
+		</researcher>
+		<researcher>
+		    <name>Cristian Padure</name>
+		</researcher>
+        <family>Indo-Aryan</family>
+		<family_fr>Indo-aryen</family_fr>
+        <country>Greece</country>
+		<country_fr>Grèce</country_fr>
+        <country>Mexico</country>
+		<country_fr>Mexique</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Bulgaro-Macédonien</language>
+		<language_en>Bulgarian-Macedonian</language_en>
+        <language_fr>bulgaro-macédonien</language_fr>
+        <researcher>
+		<name>Georges Drettas</name>
+		</researcher>
+        <family>Slavic</family>
+		<family_fr>Slave</family_fr>
+        <country>Greece</country>
+		<country_fr>Grèce</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Croate du Burgenland</language>
+		<language_en>Burgenland Croatian</language_en>
+        <language_fr>croate du Burgenland</language_fr>
+		<researcher>
+		    <name>Walter Breu</name>
+			<page>http://www.uni-konstanz.de/FuF/Philo/Sprachwiss/slavistik/breu/index.html</page>
+		</researcher>
+        <researcher>
+            <name>Lenka Scholze</name>
+			<page>http://www.uni-konstanz.de/FuF/Philo/Sprachwiss/slavistik/scholze/index.html</page>
+        </researcher>
+        <family>Slavic</family>
+		<family_fr>Slave</family_fr>
+        <country>Austria</country>
+		<country_fr>Autriche</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Na-našu</language>
+        <lieu>Acquaviva</lieu>
+		<language_en>Na-našu Acquaviva Collecroce</language_en>
+        <language_fr>na-našu Acquaviva Collecroce</language_fr>
+		<researcher>
+		    <name>Walter Breu</name>
+			<page>http://www.uni-konstanz.de/FuF/Philo/Sprachwiss/slavistik/breu/index.html</page>
+		</researcher>
+        <family>Slavic</family>
+		<family_fr>Slave</family_fr>
+        <country>Italy</country>
+		<country_fr>Italie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Na-našu</language>
+        <lieu>Montemitro</lieu>
+		<language_en>Na-našu Montemitro</language_en>
+        <language_fr>na-našu Montemitro</language_fr>
+		<researcher>
+		    <name>Walter Breu</name>
+			<page>http://www.uni-konstanz.de/FuF/Philo/Sprachwiss/slavistik/breu/index.html</page>
+		</researcher>
+        <family>Slavic</family>
+		<family_fr>Slave</family_fr>
+        <country>Italia</country>
+		<country_fr>Italie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Na-našu</language>
+        <lieu>San Felice</lieu>
+        <language_fr>na-našu San Felice del Molise</language_fr>
+		<researcher>
+		    <name>Walter Breu</name>
+			<page>http://www.uni-konstanz.de/FuF/Philo/Sprachwiss/slavistik/breu/index.html</page>
+		</researcher>
+        <family>Slavic</family>
+		<family_fr>Slave</family_fr>
+        <country>Italia</country>
+		<country_fr>Italie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Nashta</language>
+		<language_en>Nashta</language_en>
+        <language_fr>nashta</language_fr>
+		<researcher>
+		    <name>Evangelia Adamou</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/adamou.htm</page>
+		</researcher>
+        <family>Slavic</family>
+		<family_fr>Slave</family_fr>
+        <country>Greece</country>
+		<country_fr>Grèce</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Sorabe supérieur (courant)</language>
+		<language_en>Contemporary Upper Sorbian</language_en>
+        <language_fr>sorabe supérieur (courant)</language_fr>
+		<researcher>
+		    <name>Lenka Scholze</name>
+			<page>http://www.uni-konstanz.de/FuF/Philo/Sprachwiss/slavistik/scholze/index.html</page>
+		</researcher>
+        <researcher>
+		    <name>Walter Breu</name>
+			<page>http://www.uni-konstanz.de/FuF/Philo/Sprachwiss/slavistik/breu/index.html</page>
+		</researcher>
+        <family>Slavic</family>
+		<family_fr>Slave</family_fr>
+        <country>Germany</country>
+		<country_fr>Allemagne</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Abzakh</language>
+		<language_en>Abzakh</language_en>
+        <language_fr>abzakh</language_fr>
+		<researcher>
+		<name>Niaz Batouka</name>
+		</researcher>
+        <researcher>
+		<name>René Gsell</name>
+		</researcher>
+        <researcher>
+		<name>Catherine Paris</name>
+		</researcher>
+        <family>North Caucasian</family>
+		<family_fr>Nord-caucasien</family_fr>
+        <country>Serbia</country>
+		<country_fr>Serbie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Bjedug</language>
+		<language_en>Bjedug</language_en>
+        <language_fr>bjedough</language_fr>
+		<researcher>
+		<name>Asker Gadagati'</name>
+		</researcher>
+        <researcher>
+            <name>Alexis Michaud</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/michaud.htm</page>
+        </researcher>
+        <researcher>
+		<name>Catherine Paris</name>
+		</researcher>
+        <family>North Caucasian</family>
+		<family_fr>Nord-caucasien</family_fr>
+        <country>Russia</country>
+		<country_fr>Russie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Shapsug</language>
+		<language_en>Shapsug</language_en>
+        <language_fr>chapsough</language_fr>
+        <researcher>
+		<name>Catherine Paris</name>
+		</researcher>
+        <family>North Caucasian</family>
+		<family_fr>Nord-caucasien</family_fr>
+        <country>Turkey</country>
+		<country_fr>Turquie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Laze</language>
+		<language_en>Laze</language_en>
+        <language_fr>laze</language_fr>
+		<researcher>
+		    <name>René Lacroix</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/lacroix.htm</page>
+		</researcher>
+        <family>South Caucasian</family>
+		<family_fr>Sud-caucasien</family_fr>
+        <country>Turkey</country>
+		<country_fr>Turquie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Ubykh</language>
+		<language_en>Ubykh</language_en>
+        <language_fr>oubykh</language_fr>
+		<researcher>
+		    <name>Georges Dumézil</name>
+			<page>https://fr.wikipedia.org/wiki/Georges_Dumézil</page>
+		</researcher>
+        <family>North Caucasian</family>
+		<family_fr>Nord-caucasien</family_fr>
+        <country>Turkey</country>
+		<country_fr>Turquie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Yemeni Arabic</language>
+		<language_en>Yemeni Arabic</language_en>
+        <language_fr>arabe yéménite </language_fr>
+		<researcher>
+		    <name>Samia Naïm</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/naim.htm</page>
+		</researcher>
+        <family>Semitic</family>
+		<family_fr>Sémitique</family_fr>
+        <country>Yemen</country>
+		<country_fr>Yémen</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Ajië</language>
+        <language_fr>ajië</language_fr>
+        <researcher>
+		<name>Jacqueline de La Fontinelle</name>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Bwatoo</language>
+		<language_en>Bwatoo</language_en>
+        <language_fr>bwatoo</language_fr>
+		<researcher>
+		    <name>Jean-Claude Rivierre</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/rivierre.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Cemuhî</language>
+		<language_en>Cemuhî</language_en>
+        <language_fr>cèmuhî</language_fr>
+		<researcher>
+		    <name>Jean-Claude Rivierre</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/rivierre.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Drehu</language>
+		<language_en>Drehu</language_en>
+        <language_fr>drehu</language_fr>
+		<researcher>
+		    <name>Claire Moyse-Faurie</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/moyse.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Fagauvea</language>
+		<language_en>Fagauvea</language_en>
+        <language_fr>fagauvea</language_fr>
+		<researcher>
+		    <name>Claire Moyse-Faurie</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/moyse.htm</page>
+		</researcher>
+        <researcher>
+		    <name>Françoise Ozanne-Rivierre</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/ozanne.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+	<corpus>
+	 	<language>Haméa</language>
+		<language_en>Haméa</language_en>
+        <language_fr>haméa</language_fr>
+		<researcher>
+		    <name>Claire Moyse-Faurie</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/moyse.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Iaai</language>
+		<language_en>Iaai</language_en>
+        <language_fr>iaai</language_fr>
+		<researcher>
+		    <name>Françoise Ozanne-Rivierre</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/ozanne.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Kwényïï</language>
+		<language_en>Kwényïï</language_en>
+        <language_fr>kwényïï</language_fr>
+		<researcher>
+		    <name>Jean-Claude Rivierre</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/rivierre.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Nêlêmwa</language>
+		<language_en>Nêlêmwa</language_en>
+        <language_fr>nêlêmwa</language_fr>
+		<researcher>
+		    <name>Isabelle Bril</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/bril.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Nemi</language>
+		<language_en>Nemi</language_en>
+        <language_fr>nemi</language_fr>
+		<researcher>
+		    <name>Françoise Ozanne-Rivierre</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/ozanne.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+
+	</corpus>
+    <corpus>
+        <language>Numèè</language>
+		<language_en>Numèè</language_en>
+        <language_fr>numèè</language_fr>
+		<researcher>
+		    <name>Jean-Claude Rivierre</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/rivierre.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Paicî</language>
+		<language_en>Paicî</language_en>
+        <language_fr>paicî</language_fr>
+		<researcher>
+		    <name>Jean-Claude Rivierre</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/rivierre.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Pije</language>
+		<language_en>Pije</language_en>
+        <language_fr>pije</language_fr>
+		<researcher>
+		    <name>Françoise Ozanne-Rivierre</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/ozanne.htm</page></researcher>
+        <researcher>
+        <name>Jean-Claude Rivierre</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/rivierre.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Xârâcùù</language>
+		<language_en>Xârâcùù</language_en>
+        <language_fr>xârâcùù</language_fr>
+		<researcher>
+		    <name>Claire Moyse-Faurie</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/moyse.htm</page>
+		</researcher>
+        <researcher>
+		        <name>Jean-Claude Rivierre</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/rivierre.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Xârâgurè</language>
+		<language_en>Xârâgurè</language_en>
+        <language_fr>xârâgurè</language_fr>
+		<researcher>
+		    <name>Claire Moyse-Faurie</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/moyse.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Yuanga</language>
+		<language_en>Yuanga</language_en>
+        <language_fr>zuanga ou yuanga</language_fr>
+		<researcher>
+		    <name>Isabelle Bril</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/bril.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>New Caledonia</country>
+		<country_fr>Nouvelle-Calédonie</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Araki</language>
+		<language_en>Araki</language_en>
+        <language_fr>araki</language_fr>
+        <researcher>
+            <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+        </researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+        
+	</corpus>
+    <corpus>
+        <language>Bislama</language>
+		<language_en>Bislama</language_en>
+        <language_fr>bislama</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Creole</family>
+		<family_fr>Créole</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Dorig</language>
+		<language_en>Dorig</language_en>
+        <language_fr>dorig</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Hiw</language>
+		<language_en>Hiw</language_en>
+        <language_fr>hiw</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Koro</language>
+		<language_en>Koro</language_en>
+        <language_fr>koro</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Lakon</language>
+		<language_en>Lakon</language_en>
+        <language_fr>lakon</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Lehali</language>
+		<language_en>Lehali</language_en>
+        <language_fr>lehali</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Lemerig</language>
+		<language_en>Lemerig</language_en>
+        <language_fr>lemerig </language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Lo-Toga</language>
+		<language_en>Lo-Toga</language_en>
+        <language_fr>lo-toga</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Lovono</language>
+		<language_en>Lovono</language_en>
+        <language_fr>lovono</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Solomon Islands</country>
+		<country_fr>Îles Salomon</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Löyöp</language>
+		<language_en>Löyöp</language_en>
+        <language_fr>löyöp</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Mota</language>
+		<language_en>Mota</language_en>
+        <language_fr>mota</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Mwerlap</language>
+		<language_en>Mwerlap</language_en>
+        <language_fr>mwerlap</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Mwesen</language>
+		<language_en>Mwesen</language_en>
+        <language_fr>mwesen</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Mwotlap</language>
+		<language_en>Mwotlap</language_en>
+        <language_fr>mwotlap</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Nume</language>
+		<language_en>Nume</language_en>
+        <language_fr>nume</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Olrat</language>
+		<language_en>Olrat</language_en>
+        <language_fr>olrat</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Tanema</language>
+		<language_en>Tanema</language_en>
+        <language_fr>tanema</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Solomon Islands</country>
+		<country_fr>Îles Salomon</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Teanu</language>
+		<language_en>Teanu</language_en>
+        <language_fr>teanu</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Solomon Islands</country>
+		<country_fr>Îles Salomon</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Tikopia</language>
+		<language_en>Tikopia</language_en>
+        <language_fr>tikopia</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Solomon Islands</country>
+		<country_fr>Îles Salomon</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Tok Pisin</language>
+		<language_en>Tok Pisin</language_en>
+        <language_fr>tok pisin</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+		<family>Creole</family>
+		<family_fr>Créole</family_fr>
+        <country>Papua New Guinea</country>
+		<country_fr>Papouasie-Nouvelle-Guinée</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Vera'a</language>
+		<language_en>Vera'a</language_en>
+        <language_fr>vera'a</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Vurës</language>
+		<language_en>Vurës</language_en>
+        <language_fr>vurës</language_fr>
+		<researcher>
+		    <name>Alexandre François </name>
+			<page>http://lacito.vjf.cnrs.fr/membres/francois.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Futunien</language>
+		<language_en>East Futunan</language_en>
+        <language_fr>futunien</language_fr>
+		<researcher>
+		    <name>Claire Moyse-Faurie</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/moyse.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Wallis and Futuna</country>
+		<country_fr>Wallis et Futuna</country_fr>
+		
+	</corpus>
+    <corpus>
+        <language>Wallisien</language>
+		<language_en>East Uvean</language_en>
+        <language_fr>wallisien</language_fr>
+		<researcher>
+		    <name>Claire Moyse-Faurie</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/moyse.htm</page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Wallis and Futuna</country>
+		<country_fr>Wallis et Futuna</country_fr>
+		
+	</corpus>
+	
+	<corpus>
+        <language>Duoxu</language>
+		<language_en>Duoxu</language_en>
+        <language_fr>duoxu</language_fr>
+		<researcher>
+		    <name>Katia Chirkova</name>
+			<page>http://crlao.ehess.fr/index.php?490</page>
+		    (CRLAO)
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>China</country>
+		<country_fr>Chine</country_fr>
+		
+	</corpus>
+	<corpus>
+        <language>Ersu</language>
+		<language_en>Ersu</language_en>
+        <language_fr>ersu</language_fr>
+		<researcher>
+		    <name>Katia Chirkova</name>
+			<page>http://crlao.ehess.fr/index.php?490</page>
+		    (CRLAO)
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>China</country>
+		<country_fr>Chine</country_fr>
+		
+	</corpus>
+	
+	<corpus>
+        <language>Lizu</language>
+		<language_en>Lizu</language_en>
+        <language_fr>lizu</language_fr>
+		<researcher>
+		    <name>Katia Chirkova</name>
+			<page>http://crlao.ehess.fr/index.php?490</page>
+		    (CRLAO)
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>China</country>
+		<country_fr>Chine</country_fr>
+		
+	</corpus>
+	
+	<corpus>
+        <language>Xumi</language>
+		<language_en>Xumi</language_en>
+        <language_fr>xumi</language_fr>
+		<researcher>
+		    <name>Katia Chirkova</name>
+			<page>http://crlao.ehess.fr/index.php?490</page>
+		    (CRLAO)
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+        <country>China</country>
+		<country_fr>Chine</country_fr>
+		
+	</corpus>
+	
+	<corpus>
+        <language>Chechen</language>
+		<language_en>Chechen</language_en>
+        <language_fr>tchéchène</language_fr>
+		<researcher>
+		    <name>Françoise Guérin</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/guerin.htm</page>
+		    (Université Paris-Sorbonne)
+		</researcher>
+        <family>Nakh-Daghestanian</family>
+		<family_fr>Nakh-Daghestanien</family_fr>
+        <country>Chechnya</country>
+		<country_fr>Tchéchènie</country_fr>
+		
+	</corpus>
+	
+		<corpus>
+        <language>Tibetain</language>
+		<language_en>Tibetan</language_en>
+        <language_fr>tibétain</language_fr>
+		<researcher>
+		    <name>Katia Chirkova</name>
+			<page>http://crlao.ehess.fr/index.php?490</page>
+		    (CRLAO)
+		</researcher>
+        <family>Tibeto-Burman</family>
+		<family_fr>Tibéto-birman</family_fr>
+		<country></country>
+		<country_fr></country_fr>
+		
+	</corpus>
+	
+	<corpus>
+        <language>Turc de Chypre</language>
+		<language_en>Cypriot Turkish</language_en>
+        <language_fr>turc de Chypre</language_fr>
+		<researcher>
+		    <name>René Lacroix</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/lacroix.htm</page>
+		</researcher>
+        <family>Altaic</family>
+		<family_fr>Altaïques</family_fr>
+		<country>Northern Cyprus</country>
+		<country_fr>Chypre du Nord</country_fr>
+		
+	</corpus>
+	
+		<corpus>
+        <language>Badaga</language>
+		<language_en>Badaga</language_en>
+        <language_fr>badaga</language_fr>
+		<researcher>
+		    <name>Christiane Pilot-Raichoor</name>
+			<page>http://lacito.vjf.cnrs.fr/membres/pilot.htm</page>
+		</researcher>
+        <family>Dravidian</family>
+		<family_fr>Dravidienne</family_fr>
+		<country>India</country>
+		<country_fr>Inde</country_fr>
+		
+	</corpus>
+	
+	 <corpus>
+        <language>Vatlongos</language>
+		<language_en>Vatlongos</language_en>
+        <language_fr>vatlongos</language_fr>
+		<researcher>
+		    <name>Eleanor Ridge </name>
+			<page></page>
+		</researcher>
+        <family>Austronesian</family>
+		<family_fr>Austronésien</family_fr>
+        <country>Vanuatu</country>
+		<country_fr>Vanuatu</country_fr>
+		
+	</corpus>
+	
+</corpora>

@@ -1,0 +1,311 @@
+@charset "UTF-8";
+/* Styles for general presentation */
+.menu {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: bold;
+	color:#630
+}
+.menu_dict {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: bold;
+	color:#630;
+}
+.titre {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+}
+.fond {
+	background-color: #FC9;
+}
+
+.tab{
+border-collapse: collapse;
+border-style:solid;
+border-width:1px;
+padding: 10px;
+
+}
+/* Styles for dictionaries layout */
+.lexeme {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #936;
+}
+.lexeme_dev {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #936;
+}
+.part_of_speech {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: small-caps;
+	color: #099;
+}
+.vernacular {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #936;
+}
+.vernacular2 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color:#333;
+}
+.national {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #996;
+}
+.regional {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000;
+}
+.fra {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000;
+}
+.eng {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #039;
+}
+.pinyin {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #996;
+}
+.ipa {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: inherit;
+}
+.sc {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: small-caps;
+	color: inherit;
+}
+/* Style for comparable corpus layout */
+
+
+table.it {
+border-collapse: separate;
+}
+.transcriptTable {
+border-collapse:collapse;
+vertical-align:middle;
+/*background-color:#D3E8FA;*/
+/* background-color:#CBE2FE;*/
+background-color:#EEF8FF;
+}
+.segmentInfo {
+background-color:#0E3263;
+color:White;
+vertical-align:top;
+/**
+width:60px;
+**/
+}
+.segmentContent {
+width:600px;
+}
+.sentence {
+border-collapse: separate ;
+display: inline;
+vertical-align:middle;
+text-align:left;
+}
+/*Couleur de la phrase de transcription*/
+.word_sentence {
+font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+border-collapse: separate ;
+display: inline;
+/* color:#000066;*/
+color:#0E3263;
+font-size:15px;
+text-align:left;
+font-weight: bold;
+}
+/*Couleur de la phrase de traduction*/
+.translation_en {
+font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+/*color:#ff9900;*/
+/*color:#3366FF;*/
+color:#2E6398;
+text-align:left;
+font-weight: bold;
+font-size:12px;
+display:inline;
+}
+.translation_fr {
+font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+/*color:#ff9900;*/
+/*color:#3366FF;*/
+/*color:#566772;*/
+/*color:#474B69;*/
+color:#5A78AF;
+text-align:left;
+font-weight: bold;
+font-size:12px;
+display:inline;
+}
+.translation_other {
+font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+/*color:#ff9900;*/
+/*color:#3366FF;*/
+color:#187C96;
+text-align:left;
+font-weight: bold;
+font-size:12px;
+display:inline;
+}
+.word {
+border-collapse: separate ;
+display:inline-block;
+vertical-align:middle;
+text-align:left;
+}
+.word_tab {
+vertical-align:middle;
+text-align:left;
+display:inline-block;
+}
+.word_form {
+/*background-color:#FEF1D4;*/
+font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+font-weight: bold;
+text-align:left;
+font-size:12px;
+display:inline-block;
+}
+.word_transl {
+font-family:'caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+/*background-color:#FEF1D4;*/
+color:#5F5F5F;
+text-align:left;
+font-size:12px;
+display:inline-block;
+}
+.transcription {
+font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+text-align:left;
+display:inline;
+font-weight: bold;
+font-size:15px;
+color:#0E3263;
+}
+.transcription_phono {
+font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+text-align:left;
+display:inline;
+font-weight: bold;
+font-size:15px;
+color:#0E3263;
+}
+.transcription_ortho {
+font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+text-align:left;
+display:inline;
+font-weight: bold;
+font-size:15px;
+color:#0E3263;
+}
+.transcription_phone {
+font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+text-align:left;
+display:inline;
+font-weight: bold;
+font-size:15px;
+color:#0E3263;
+}
+.transcription_translit {
+font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+text-align:left;
+display:inline;
+font-weight: bold;
+font-size:15px;
+color:#0E3263;
+}
+.note_info {
+font-family:sans-serif,'caslon','Arial Unicode MS','Lucida sans unicode','Code2000';
+text-align:left;
+font-weight:bold;
+font-size:11px;
+color:#000;
+display:none;
+}
+
+.conc_mot{
+font-weight:bold;
+font-style:italic;
+}
+
+.lien_sim{
+	color:#0000cc;
+	font-weight:bold;
+}
+

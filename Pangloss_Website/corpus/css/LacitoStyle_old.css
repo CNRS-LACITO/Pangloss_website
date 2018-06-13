@@ -1,0 +1,612 @@
+/*****************************************************************************/     
+/* pour presenter un texte interlineaire                                    **/
+/*****************************************************************************/  
+table.it {
+	border-collapse: separate;
+}
+.transcriptTable { 
+	border-collapse:collapse;
+	vertical-align:middle;
+	/*background-color:#D3E8FA;*/
+	/*  background-color:#CBE2FE;*/
+	background-color:#EEF8FF;
+	
+}
+
+.segmentInfo {
+	background-color:#0E3263;
+	color:White;
+	vertical-align:top;
+	/**
+	width:60px;
+	**/
+}
+
+.segmentContent {
+
+	width:600px;
+
+	
+
+}
+
+
+.sentence {
+	
+	border-collapse: separate ;
+	display:inline;
+	vertical-align:middle;
+	text-align:left;
+	
+}
+
+/*Couleur de la phrase de transcription*/
+.word_sentence{
+
+	font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	border-collapse: separate ;
+	display:inline;
+/*	display:inline-block;*/
+/*	color:#000066;*/
+	color:#0E3263;
+	font-size:15px;
+	text-align:left;
+	font-weight: bold;
+
+}
+
+/*6*/
+/*Couleur de la phrase de traduction*/
+.translation_en {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	color:#2E6398;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	display:inline;
+	
+}
+
+.translation_fr {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	/*color:#566772;*/
+	/*color:#474B69;*/
+	color:#5A78AF;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	display:inline;
+	
+}
+.translation_it {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	/*color:#566772;*/
+	/*color:#474B69;*/
+	color:#5A78AF;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	display:inline;
+	
+}
+.translation_de {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	/*color:#566772;*/
+	/*color:#474B69;*/
+	color:#5A78AF;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	display:inline;
+	
+}
+
+
+
+/* 10 */
+.translation_cn {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	/*color:#566772;*/
+	/*color:#474B69;*/
+	color:#5A78AF;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	display:inline;
+	
+}
+
+.translation_vn {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	/*color:#566772;*/
+	/*color:#474B69;*/
+	color:#5A78AF;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	display:inline;
+	
+}
+
+.translation_zh {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	/*color:#566772;*/
+	/*color:#474B69;*/
+	color:#5A78AF;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	display:inline;
+	
+}
+
+.translation_adefinir1 {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	/*color:#566772;*/
+	/*color:#474B69;*/
+	color:#5A78AF;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	display:inline;
+	
+}
+
+.translation_adefinir2 {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	/*color:#566772;*/
+	/*color:#474B69;*/
+	color:#5A78AF;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	display:inline;
+	
+}
+
+/*15*/
+.translation_other {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	color:#187C96;
+	text-align:left;
+	font-weight: bold;
+	font-size:12px; 
+	display:inline;
+}
+
+
+
+.word                    { 
+  border-collapse: separate ;
+  /*display:inline;*/
+  vertical-align: top;
+  /*vertical-align:middle;*/
+  text-align:left;
+  display:inline-block;
+ 
+  }
+.word_tab { 
+	vertical-align: top;
+  /*vertical-align:middle;*/
+  text-align:left;
+  display:inline-block;
+  /*display:inline;*/
+  
+  }
+  .word_form {
+  /*background-color:#FEF1D4;*/
+/*  font-family:'Lucida sans unicode', 'Arial Unicode MS', 'charis SIL','caslon','Code2000',sans-serif;*/
+  font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+  font-weight: bold; 
+  text-align:left;
+  font-size:14px;
+  display:inline-block;
+  
+  
+  
+  
+  }
+  .word_transl {
+  font-family:'caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+  /*background-color:#FEF1D4;*/
+  color:#5F5F5F; 
+  text-align:left;
+  display:inline-block;
+ 
+  }
+  
+
+/*20*/
+.transcription {
+	font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	text-align:left;
+	display:inline;
+	font-weight: bold; 
+	font-size:15px;
+	color:#0E3263;
+	}
+.transcription_phono {
+	font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	text-align:left;
+	display:inline;
+	font-weight: bold; 
+	font-size:15px;
+	color:#0E3263;
+	}
+.transcription_ortho {
+	font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	text-align:left;
+	display:inline;
+	font-weight: bold; 
+	font-size:15px;
+	color:#0E3263;
+	}
+.transcription_phone {
+	font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	text-align:left;
+	display:inline;
+	font-weight: bold; 
+	font-size:15px;
+	color:#0E3263;
+	}
+.transcription_translit {
+	font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	text-align:left;
+	display:inline;
+	font-weight: bold; 
+	font-size:15px;
+	color:#0E3263;
+	}
+	
+/*25*/
+.note_info {
+	font-family:sans-serif,'caslon','Arial Unicode MS','Lucida sans unicode','Code2000';
+	text-align:left;
+	font-weight:bold; 
+	font-size:11px;
+	color:#000;
+	
+	display:none;
+
+}
+.trans_text {
+	font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	text-align:left;
+	font-weight: bold; 
+	font-size:15px;
+	color:#0E3263;
+	
+	display:none;
+}
+.trad_text_fr {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	color:#2E6398;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	
+	display:none;
+	
+}
+.trad_text_en {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	color:#2E6398;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	
+	display:none;
+	
+}
+.trad_text_it {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+
+	color:#2E6398;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	
+	display:none;
+	
+}
+
+/*30*/
+.trad_text_de {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+
+	color:#2E6398;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	
+	display:none;
+	
+}
+.trad_text_cn {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+
+	color:#2E6398;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	
+	display:none;
+	
+}
+.trad_text_other {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	color:#2E6398;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	
+	display:none;
+	
+}
+
+
+.trans_text_only {
+	font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	text-align:left;
+	font-weight: bold; 
+	font-size:15px;
+	color:#0E3263;
+	
+}
+
+.trad_text_only {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	color:#2E6398;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;	
+}
+
+/*35*/
+.trad_text_vn {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+
+	color:#2E6398;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	
+	display:none;
+	
+}
+
+.trad_text_zh {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+
+	color:#2E6398;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	
+	display:none;
+	
+}
+
+.translation_khm-written {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	/*color:#566772;*/
+	/*color:#474B69;*/
+	color:#5A78AF;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	display:inline;
+	
+}
+.translation_khm-standard-modern {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	/*color:#566772;*/
+	/*color:#474B69;*/
+	color:#5A78AF;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	display:inline;
+	
+}
+.translation_khm-tateyleu {
+	
+	font-family:'Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*color:#ff9900;*/
+	/*color:#3366FF;*/
+	/*color:#566772;*/
+	/*color:#474B69;*/
+	color:#5A78AF;
+	text-align:left;
+	font-weight: bold; 
+	font-size:12px;
+	display:inline;
+	
+}
+
+
+.maj{
+	text-transform: uppercase;
+	}
+	
+img     { border: solid 0px;}
+a.img { 
+	color: black;
+	border-color: black;
+}
+/*****************************************************************************/     
+
+td.haut {
+	border-top: 1px solid #F09415;
+	border-right: 1px solid #F09415;
+	height: 500px;
+}
+table.frameset {
+	border-right: 1px solid #F09415;
+	border-bottom: 1px solid #F09415;
+	width:  751px;
+}
+table.content {
+	 width: 100%;
+	 border: 0;
+}
+table.content td {
+	padding: 10px;
+}
+table.menuTable {
+	width: 95%;
+	border: 1px solid #F09415;
+	border-collapse: collapse;
+}
+table.menuTable td {
+	border: 1px solid #F09415;
+	padding: 5px;
+}
+table.menuTable td.sans_cadre {
+	border: 0;
+	padding: 5px;
+}
+td.illustration  {
+	background: url("../../img/illustration.gif");
+	border-bottom: 1px solid #F09415;
+	witdh: 100%;
+	height: 67px;
+}
+
+/*****************************************************************************/     
+/* tableau de resultats                                                     **/
+/*****************************************************************************/  
+.resultats { width: 90%; }
+.resultats a:link, .resultats a:visited { font-weight: bold; text-decoration: none;}
+.resultats a:hover { font-weight: bold; text-decoration: none;}  
+.resultats tr td {
+	 white-space:  nowrap;
+	 padding-left: 5px;
+	 padding-right: 5px;
+}
+.odd { background-color:#EEEEEE; }
+.header { background-color:#F09415; }
+
+.note { font-size:smaller; }
+
+.icones a { padding: 3px; }
+.icones a img { border: 0px; }
+.icones a:link, .icones a:visited { text-decoration: none; }
+.icones a:hover { text-decoration: none; }  
+
+
+
+.meta                 { margin-left:200px; }
+.meta .titre          { text-align:center; vertical-align:top; font-weight: bold;}
+.meta .rubrique       { font-weight: bold;  text-align: left;}
+.meta .descripteur    { white-space:  nowrap; font-weight: bold; font-family:Arial; text-align:right; vertical-align:baseline;}
+.meta .valeur         {
+	text-align:left;
+	vertical-align:baseline;
+	font-family: "Arial";
+}
+.meta .comment        { border: solid 1px; padding:10px; width:100%; background-color:#EEEEEE; }
+
+
+
+
+a img.sansBordure {border: 0; vertical-align:baseline;}
+     
+         
+         
+.word_list                   { 
+	border-collapse: separate ;
+	display:inline;
+	vertical-align:middle;
+	text-align:left;
+
+	
+}
+
+.word_tab_list                     { 
+	vertical-align:middle;
+	text-align:left;
+	display:inline;
+	
+}
+.word_form_list {
+	/*background-color:#FEF1D4;*/
+	font-family:'charis SIL','caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	font-weight: bold; 
+	text-align:left;
+	font-size:15px;
+	
+}
+.word_transl_list {
+	font-family:'caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*background-color:#FEF1D4;*/
+	color:#5F5F5F;	
+	text-align:left;
+
+	
+}  
+.aff_metadata {
+	font-family:'caslon','Arial Unicode MS','Lucida sans unicode','Code2000',sans-serif;
+	/*background-color:#FEF1D4;*/
+	color:#5F5F5F;	
+
+
+	
+} 
+.annotations {
+	padding-top:5px;
+	padding-left:10px;
+}    
