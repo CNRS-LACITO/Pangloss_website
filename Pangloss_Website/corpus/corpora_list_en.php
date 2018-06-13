@@ -277,7 +277,7 @@
 			if ($tri!=''){
 			Xslt_list_languages($tri, 'en');
 			}
-			else {Xslt_list_languages('language', 'en');}
+			else {Xslt_list_languages('language_en', 'en');}
 		?>
         
   </div>

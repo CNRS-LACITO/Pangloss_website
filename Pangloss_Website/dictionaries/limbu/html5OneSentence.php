@@ -1,6 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html class="full">
+
 <head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <script type="text/javascript">
@@ -100,27 +102,30 @@ echo ("on a : $id\n");*/
 			 $xp = new XsltProcessor();
 			  $xsl = new DomDocument;
 			 // $xsl->load('http://lacito.vjf.cnrs.fr/pangloss/tools/textRsc.xsl');
-			  $xsl->load('textInfo.xsl');
+			  $xsl->load('infoText.xsl');
 			  
 			  $xp->setParameter('', 'id', $id);
 			  $xp->importStylesheet($xsl);
 			  $xml_doc = new DomDocument;
 			 // $xml_doc->load('http://lacito.vjf.cnrs.fr/pangloss/tools/metadata_lacito.xml');
-			  $xml_doc->load('../tools/metadata_lacito.xml');
+			  $xml_doc->load('metadata_lacito.xml');
 			  
 			   if ($res = $xp->transformToXML($xml_doc)) {
+				  
 					$XML = new SimpleXMLElement($res);
 					$file_audio  = $XML->file_audio;
 					$file_xml = $XML->file_xml;
+					 
 			   }
+			   else { echo ('Erreur1');}
 
-
+/*echo ("file audio : $file_audio\n");
+echo ("file xml : $file_xml\n");*/
 
  			  $xp = new XsltProcessor();
 			  $xsl = new DomDocument;
 			 // $xsl->load('http://lacito.vjf.cnrs.fr/pangloss/tools/textRsc.xsl');
 			  $xsl->load('getStartEnd.xsl');
-			  
 			  $xp->setParameter('', 'num_s', $num_s);
 			  $xp->importStylesheet($xsl);
 			  $xml_doc = new DomDocument;
@@ -128,15 +133,21 @@ echo ("on a : $id\n");*/
 			  $xml_doc->load($file_xml);
 			  
 			   if ($res = $xp->transformToXML($xml_doc)) {
+				  
 					$XML = new SimpleXMLElement($res);
-					$start  = $XML->s_start;
-					$end = $XML->s_end;
-					$form  = $XML->s_form;
-					$transl = $XML->s_transl;
+					$s_start  = $XML->s_start;
+					$s_end = $XML->s_end;
+					$s_form  = $XML->s_form;
+					$s_transl = $XML->s_transl;
+					
+					
 			   }
+			   else { echo ('Erreur2');}
 
 
-/*echo ("$file_audio\n");*/
+/*echo ("on a : $num_s $file_xml $s_start $s_end $s_form $s_transl\n");*/
+
+
 echo"<div>\n";
 echo"<p>\n";
 
@@ -147,11 +158,11 @@ echo"<audio id=\"player\" name=\"player\" preload=\"auto\">\n";
 
 echo"</p>\n";
 
-echo"<script language=\"Javascript\">playOne($start,$end)</script>\n";
+echo"<script language=\"Javascript\">playOne($s_start,$s_end)</script>\n";
 
-echo"<div>Transcription :<span class=\"transcription\"> $form </span></div>\n";
+echo"<div>Transcription :<span class=\"transcription\"> $s_form </span></div>\n";
 echo("</br>");
-echo"<div>Translation : <span class=\"translation\"> $transl </span></div>\n";
+echo"<div>Translation : <span class=\"translation\"> $s_transl </span></div>\n";
 
 echo"</p>\n";
 echo"</div>\n";;

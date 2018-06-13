@@ -56,16 +56,20 @@
         <xsl:for-each select="corpora/corpus">
         <xsl:sort select="*[name()=$tri]" order="ascending"/>
         <xsl:variable name="lg" select="language"/>
+        <xsl:variable name="name" select="language_fr"/>
         	<tr>
            <td>
             	<b><a style="color:#630"
- href="list_rsc.php?lg={$lg}"><xsl:value-of select="language_fr"/></a></b>
+ href="list_rsc.php?lg={$lg}&amp;name={$name}"><xsl:value-of select="language_fr"/></a></b>
         	</td>
             <td>
             	<xsl:value-of select="family_fr"/>
         	</td>
             <td>
-            	<xsl:value-of select="country_fr"/>
+            	<xsl:for-each select="country_fr">
+            		<xsl:value-of select="."/>
+                    <xsl:if test="position()!=last()"><br/></xsl:if>
+                </xsl:for-each>
         	</td>
             <td>
             <xsl:for-each select="researcher">
@@ -95,16 +99,20 @@
          <xsl:for-each select="corpora/corpus">
         <xsl:sort select="*[name()=$tri]" order="ascending"/>
         <xsl:variable name="lg" select="language"/>
+        <xsl:variable name="name" select="language_en"/>
         	<tr>
            <td>
             	<b><a style="color:#630"
- href="list_rsc_en.php?lg={$lg}"><xsl:value-of select="language"/></a></b>
+ href="list_rsc_en.php?lg={$lg}&amp;name={$name}"><xsl:value-of select="language_en"/></a></b>
         	</td>
             <td>
             	<xsl:value-of select="family"/>
         	</td>
             <td>
-            	<xsl:value-of select="country"/>
+            	<xsl:for-each select="country">
+            		<xsl:value-of select="."/>
+                    <xsl:if test="position()!=last()"><br/></xsl:if>
+                </xsl:for-each>
         	</td>
             <td>
             <xsl:for-each select="researcher">

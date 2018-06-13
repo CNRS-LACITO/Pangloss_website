@@ -17,7 +17,7 @@
 <file name="ConcordanceOneWord_tri.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131185049440000000" remote="131185049440000000" />
 <file name="ConcordanceOneWord_xml.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131184981960000000" remote="131184981960000000" />
 <file name="ShowOneSimilarityWord.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131185048940000000" remote="131185048940000000" />
-<file name="ShowOneSentence.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131100254850000000" remote="131100254850000000" />
+<file name="ShowOneSentence.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131235974910000000" remote="131235974910000000" />
 <file name="ShowAllSimilarities_en.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131225782113800170" remote="131225782110000000" />
 <file name="ShowAllSimilarities.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131281859528138476" remote="131281859520000000" />
 <file name="mythology.html" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131182505318404846" remote="131182505310000000" />
@@ -67,4 +67,5 @@
 <file name="leper.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235491130000000" remote="131235974870000000" />
 <file name="info_concordance.htm" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131235974840000000" remote="131235974840000000" />
 <file name="GhumnePani.xml" server="newhttpd.vjf.cnrs.fr//var/www/html/lacito/" local="131236101370000000" remote="131236101370000000" />
+<file name="ShowOneSimilarity.xsl" server="C:/Program Files (x86)/EasyPHP-12.1/www/lacito2/" local="131235978460000000" remote="131235978460000000" />
 </dwsync>

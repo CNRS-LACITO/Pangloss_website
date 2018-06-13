@@ -7,15 +7,29 @@ Corpus </h1></div>
              <p class="intertitre"><a href="../../ALC/Languages/War_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="infos" width="15" height="15" border="0">War</a>: a brief note </p>
       <p class="intertitre">&nbsp;</p>
             <p class="intertitre"></p>
-            <h4 align="left">Resources
-              :</h4>
-           
+             <p class="intertitre">&nbsp;</p>
+      <p class="intertitre">Tous les contes, rituels et récits parlés-chantés de ce corpus ont été transcrits, glosés  et traduits sur carnets de terrain mais ceux-ci ne sont pas encore numérisés.</p>
+      <p>Le groupe austroasiatique au Nord-Ouest de l'aire, généralement appelé khasian ou khasic est en fait un groupe qu'il  convient de classer comme pnaric-war-lyngam (PWL), voir Daladier (2011) et Daladier  (2015). Le Meghalaya a servi de terre de refuge à ce groupe aux environs du  15ème siècle après les conquêtes des royaumes Tai Ahom en Assam et Moghol au  Bengladesh. Les wars et les lyngams ont rejoint le Meghalaya plus tardivement,  souvent  en alliance avec des pnars sur leurs terressur d'anciennes terres pnars. Ce groupe s'est réunifié en subissant l'influence  du khasi à la suite de la colonisation britannique, le khasi standard oral et  écrit ayant été imposé comme langue de scolarisation et d'évangélisation pour  l'ensemble des populations des quatre langues du groupe. L'état du Meghalaya a  deux constitutions : l'une khasi et l'autre garo et la langue commune est  l'anglais. Tous les locuteurs wars, pnars et Lyngam parlent khasi. Le khasi est  en fait un dialecte tardif du pnar, voir Daladier (2011).
+      <br/>Le khasi met en danger maintenant le pnar, en particulier à l'Ouest et dans la ville de Jowai mais surtout le lyngam et war dont il ne reste plus que  quelques milliers de locuteurs à parler des variétés où ces langues demeurent centrales, voir cartes.</p>
+<p class="intertitre">&nbsp;</p>
+<p class="intertitre">&nbsp;</p>
+<p>Le War a des caractéristiques typologiques austroasiatiques particulièrement conservatrices.  Le War avait également conservé dans les années 2000-2010 une culture associée à une religion des ancêtres « Niam Tre » encore bien vivante. Les rituels, récits et contes traditionnels de ce corpus, enregistrés dans le cadre de la vie des villages encore isolés à l'époque des enregistrements mais maintenant reliés par des routes aux villes, en sont malheureusement les premiers et derniers témoignages. Depuis la mort de mes principaux informants et amis, il ne reste plus que quelques familles isolées dans ces villages.<br/> De même que la culture traditionnelle « Niam tre » est gravement menacée chez les Wars et a pratiquement disparu chez les pnars et chez les lyngams, les langues War et Lyngam sont gravement en danger. La colonisation britannique a imposé le Khasi comme langue politiquement dominante dans la constitution « khasi » i.e. non Garo, du Meghalaya (langue de la scolarisation, des média et de la christianisation qui concerne environ 95% des locuteurs PWL,  en particulier).</p>
+<p class="intertitre">&nbsp;</p>
+<p class="intertitre">&nbsp;</p>
+      <p><img src="../../images/images_themes/images_tibeto-birman/daladier_regionale1000.jpg" width="750" height="601"></p>
+<p class="intertitre">&nbsp;</p>
+<p><img src="../../images/images_themes/images_tibeto-birman/War-Area600.jpg" width="449" height="600"></p>
+<p class="intertitre">&nbsp;</p>
+      <h4 align="left">Ressources :</h4>
     <!-- <p align="left" class="intertitre">
       <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=War" target="_blank">Accès à toutes les ressources</a>
       </p>-->
-        
+      
 <p class="intertitre">&nbsp;</p>
-<p class="intertitre" align="center"><b>Le war comporte 3 groupes de dialectes :</b></p>
+<p class="intertitre" align="center"><b>Le war comporte 3 groupes de dialectes (en dehors des variétés métissées avec le khasi et le pnar):<br/> war amwi, war des environs de Nongtalang, war des environs de Syndai</b></p>
+
+<p class="intertitre" align="center">
+</p>
 <p class="intertitre">&nbsp;</p>
       
       
@@ -40,7 +54,7 @@ Corpus </h1></div>
        </p></td>
        </tr>
        <tr>
-       <td><p class="intertitre"><b>3. War des environs de Sundai</b>
+       <td><p class="intertitre"><b>3. War des environs de Syndai</b>
        <ul>
        <li><p class="intertitre"><a href="#war_syndai">a. War de Syndai</a></p></li>
        <li>
@@ -65,49 +79,49 @@ Corpus </h1></div>
         <p>Grand récit fondateur pour les pnars et pour les wars.</p>
             <p>La narratrice, fille d'un grand représentant religieux propose des récits d'une grande qualité poétique.</p>
             <p>L'histoire se déroule le long de la rivière Myntadu qui sépare les terres amwi et pnars.  Une femme accouche d'un enfant bien que sans mari,  à l'écart de son village dans une grotte, car il est considéré comme illégitime. (La grotte est aussi un lieu de passage entre le monde du dessous et la terre plate.). Cet enfant devient un jeune homme géant et prodigieux en force, en intelligence et en générosité. Il devient le protecteur des siens mais sa puissance désintéressée provoque la jalousie d'un roi puissant et rapace. Il est finalement victime d'une traîtrise : il est invité à un banquet où les soldats du roi le font boire et le tuent ivre.            </p>
-            <p>On retrouve ce récit en pnar où Bahilom frère/soeur aîné en war se nomme Mar et en Lyngam  Tang Mar)</p>
+            <p>On retrouve ce récit en pnar où Bahilom frère/soeur aîné en war se nomme Mar et en Lyngam  Tang Mar</p>
             
             
              <p class="intertitre"></p>
              <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA023_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">
-            <h3> 2 contes de Marlyda Pohleng : 
+            <b> 2 contes de Marlyda Pohleng : 
             <br/>
             <ul><li>a) Une femme et son fils Sem le paresseux </li>
             <li>
-            b) la tortue et le chacal. Conte de Fancy Pohleng : Le marché des animaux</li></ul>
+            b) la tortue et le chacal</li></ul>
                1 conte de Fancy Pohleng <br/>
-             <ul><li>c) Le marché des animaux</li></ul>
-             </h3>
+            <!-- <ul><li>c) Le marché des animaux</li></ul>
+             </b>-->
             </a>
              <br/>
              <p class="intertitre">
         Thangbuli, Meghalaya, Inde, 2000, Marlyda Pohleng, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
               
     
-        <p> <b>a) Le garçon paresseux</b></p>
+        <p> <b>a) Une femme et son fils Sem le paresseux </b></p>
 <p>Une mère fait des gâteaux et envoie son fils Sem un garçon paresseux vendre les gâteaux au marché. Parfois, il les donne à des chiens ou à des porcs sauvages.  Un jour il rencontre au marché un chacal qui apprend à lire aux enfants en chantant. Ils en sont très contents. Un jour le chacal les emmène dans une grotte sous le pont et révèle sa perversité en mangeant Sem.
 </p>
 		<p><b> b) La tortue et le chacal</b></p>
         
 <p>Une tortue et un chacal se rencontrent au marché. La tortue a deux filles très intelligentes qui vont à l'école. Le chacal explique à la tortue qu'il donnera un meilleur enseignement à ses filles. Elle les lui confie. Elle demande au chacal de revoir ses filles quand ils se rencontrent au marché mais il a toujours une excuse pour remettre la rencontre à plus tard. Finalement, un jour elle exige de les voir. En fait il a mangé ses filles. Il la fait venir dans une grande et profonde grotte et lui dit que ses filles sont dans l'eau dans une partie souterraine profonde. Elle cherche partout. Finalement le chacal la tue.</p>
 
-		<p> <b>c) Le marché des animaux</b></p>
+		<!--<p> <b>c) Le marché des animaux</b></p>
 <p>war amwi de Thangbuli, Meghalaya, Inde, Fancy Pohleng, Anne Daladier</p>
  <p>Conte traditionnel. Le marché des animaux 
-Raconte l'origine du marché fondé par les animaux qui à l'époque parlaient comme les humains et étaient aussi roublards qu'eux, avant l'arrivée des humains. Les hommes  se sont ensuite approprié le marché qui fonde en bonne partie la vie sociale des villages au-delà des clans. Le cycle des jours de la semaine est basé sur le marché (il y a marché tous les 4 jours, ce qui constitue une unité de temps de 8 jours au lieu de la semaine de 7 jours du calendrier des églises chrétiennes). Les jours et les lieux de marché  jouent une place importante dans l'organisation sociale. Les animaux du marché représentent les traits psychologiques et sociologiques des humains.</p> 
+Raconte l'origine du marché fondé par les animaux qui à l'époque parlaient comme les humains et étaient aussi roublards qu'eux, avant l'arrivée des humains. Les hommes  se sont ensuite approprié le marché qui fonde en bonne partie la vie sociale des villages au-delà des clans. Le cycle des jours de la semaine est basé sur le marché (il y a marché tous les 4 jours, ce qui constitue une unité de temps de 8 jours au lieu de la semaine de 7 jours du calendrier des églises chrétiennes). Les jours et les lieux de marché  jouent une place importante dans l'organisation sociale. Les animaux du marché représentent les traits psychologiques et sociologiques des humains.</p> -->
 
 
-            <p class="intertitre">&nbsp;</p>  
+          
              
              
               <p class="intertitre">
-              <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA021_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> 
-             <h3> <ul><li>a) La démone insatiable et monsieur Ləʔ</li>  
+             <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA021_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> 
+             <b> <ul><li>a) La démone insatiable et monsieur Ləʔ</li>  
               <li>b) Le chacal et le tigre</li></ul>
               
-              </h3></a>
+             </b></a>
               <p>Thangbuli, Meghalaya, Inde, 2000, Marlyda Pohleng, <a href="../../membres/daladier.htm">Anne Daladier</a>
-                </p>
+             </p>
               </p>
               <p>&nbsp; </p>
               <p><b>a)  La démone Insatiable et monsieur ləʔ</b></p>
@@ -116,15 +130,15 @@ Raconte l'origine du marché fondé par les animaux qui à l'époque parlaient c
 
  <p> <b>b) Le chacal et le tigre</b></p>
 
-<p>Au début ils sont très amis. Ils plantent des yams mais le chacal profite de la naïveté du tigre. Une autre fois ils vont à la chasse. Le chacal se prétendant malade se fait nourrir par le tigre et par sa femme et par leurs enfants. En leur absence il dévore en outre l'intérieur d'une vache et en fait son habitation. 
+<p>Au début ils sont très amis. Ils plantent des yams mais le chacal profite de la naïveté du tigre. Une autre fois ils vont à la chasse. Le chacal se prétendant malade se fait nourrir par le tigre par sa femme et par leurs enfants. En leur absence il dévore en outre l'intérieur d'une vache et en fait son habitation. 
             </p>
         <p class="intertitre">&nbsp;</p>
-    
+
 <p class="intertitre">&nbsp;</p>
-<p class="intertitre">
-<b>2 contes traditionnels
+     <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA058_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">
+2 contes traditionnels</a></p>
 <ul><li>a) Le chacal et l'oiseau piangmai </li>
-	<li> b) Les deux sœurs et la jalousie de l'aînée </li></ul></b>
+	<li> b) Les deux sœurs et la jalousie de l'aînée </li></ul>
     <br/>
     <p class="intertitre">Amwi war, Thangbuli,   2003, Marlyda Pohleng, <a href="../../membres/daladier.htm">Anne Daladier</a> </p>
 <br/>
@@ -134,31 +148,27 @@ Un jour ils se rencontrent au marché, il lui demande par quel chemin elle repar
 
 <p><b>b) Les deux sœurs et la jalousie de l'aînée</b></p>
 
-<p>Deux petites filles sont les seules enfants de leur mère. La mère les envoie chercher des concombres dans sa plantation  sur la falaise au-dessus de la rivière. Avant la  cueillette, l'aînée propose à sa cadette de lui enlever les poux. Elles s'assoient sur le bord de la falaise. L'aînée par jalousie la pousse à se rapprocher du bord tout en prétendant la retenir. Elle la lâche et la laisse tomber  et la petite tombe de cette immense falaise. Elle est avalée vivante par un énorme poisson de la rivière qui passait  par là et s'en va.
+<p>Deux petites filles sont les seules enfants de leur mère. La mère les envoie chercher des concombres dans sa plantation  sur la falaise au-dessus de la rivière. Avant la  cueillette, l'aînée propose à sa cadette de lui enlever les poux. Elles s'assoient sur le bord de la falaise. L'aînée par jalousie la pousse à se rapprocher du bord tout en prétendant la retenir. Elle la lâche, la laisse tomber  et la petite tombe de cette immense falaise. Elle est avalée vivante par un énorme poisson de la rivière qui passait  par là et s'en va.
 L'aînée revient seule à la maison, sa mère lui demande où est sa sœur. Elle prétend ne pas savoir en disant que sa cadette serait partie devant elle. La mère devine un mauvais coup mais la petite reste introuvable. 
 Un jour le père va à la pêche dans la rivière et rencontre le gros poisson qui se laisse prendre et tuer pour  lui redonner l'âme de sa petite fille. Il est énorme. Quand le père le découpe il retrouve la voix-âme de sa fille qui est morte. Elle lui raconte comment sa sœur l'a tuée. Le père raconte cela à sa femme qui chasse l'aînée de la maison. Elle ne sait où aller, monte dans un grand arbre et demande à l'aigle de lui donner des ailes. Elle chante pour l'appeler et l'attendrir. La narratrice chante. L'aigle lui coud une aile et s'en va. Elle se remet à chanter. Sa mère l'entend et lui dit d'aller plus loin. Elle chante à nouveau pour attendrir l'aigle. L'aigle revient et lui coud une deuxième aile. Il la prend sous sa protection et ils s'envolent toutes les deux, elle le suit.</p>
- 
- 	<p class="intertitre">&nbsp;</p>
+
 <p class="intertitre">&nbsp;</p>
+
      <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA001_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Trois personnes : séparation et retrouvailles d'une mère et de ses deux fils</a></p>
      <p class="intertitre">
         Thangbuli, Meghalaya, Inde, 2003, Lewis Buam, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
-        <p>Après la mort de son mari, une femme se trouve seule, démunie avec ses deux jeunes fils. Elle tente de chercher fortune dans un plus gros village (actuellement au Bangladesh) mais doit traverser la large rivière entre le Meghalaya et le Bengladesh. Un  transporteur Hindou dans sa barque la trompe au moment où elle embarque pour mettre à bord ses enfants, par un geste brusque il s'éloigne, la fait prisonnière et s'en va. Les deux enfants se retrouvent seuls.</p> 
+        <p>Après la mort de son mari, une femme se trouve seule, démunie avec ses deux jeunes fils. Elle tente de chercher fortune dans un plus gros village (actuellement au Bengladesh) mais doit traverser la large rivière entre le Meghalaya et le Bengladesh. Un  transporteur Hindou dans sa barque la trompe au moment où elle embarque pour mettre à bord ses enfants, par un geste brusque il s'éloigne, la fait prisonnière et s'en va. Les deux enfants se retrouvent seuls.</p> 
             <p>Une vache dont le veau nouveau né vient de mourir à côté de la rive les découvre pleurant et les nourrit de son lait. Elle les emmène le soir dans l'abri du vieil homme solitaire qui la garde. Les jours passent ainsi où les enfants suivent la vache et un jour le vieil homme les découvre. Ils vivent ensemble avec amour dans sa hutte. Les enfants deviennent très habiles et gagnent une compétition organisée par le roi hindou de ce pays. Le roi les invite à sa cour avec le vieil homme pour combattre les ennemis. Par leur intelligence et leur courage ils mettent les ennemis en déroute et deviennent ministres. Le roi leur offre de choisir une récompense. Ils décident de prohiber la viande de vache. Ensuite le vieil homme préfère retourner à sa hutte et les jeunes hommes alternent entre vie de cour et vie de hutte avec le vieil homme. Les jeunes gens qui aimeraient retrouver leur mère amènent le roi à autoriser tous les sujets non hindous à retourner dans leurs collines d'origine. Mais la mère est toujours prisonnière du conducteur de bateau. Les conducteurs de bateau sont tous interrogés et finalement la mère retrouvée est libérée. Les fils tuent le ravisseur. Quelques années plus tard, le roi solitaire lègue son pays à ses deux fils adoptifs.</p>
             <p>Ce conte idéalise la bonne relation d'antan entre hindous et wars au Bengladesh.            </p>
             <p class="intertitre">&nbsp;</p>
             
             <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA002_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">            
-            <h3> <ul>
-              <li> a) Deux frères orphelins</li>  
-              <li>b) Compétition entre les deux rivières Am Ngot et Am Tedie</li></ul>
-              
-              </h3>
+            Deux frères orphelins
+  
             
             </a></p>
      <p class="intertitre">
         Thangbuli, Meghalaya, Inde, 2003, Lewis Buam, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
-        <p><b>a) Deux frères orphelins</b></p>
         <p>Après la mort de leurs parents, deux frères travaillent dans leurs champs et vivent de leurs récoltes, seuls dans leur hutte. Une vieille femme s'introduit dans leur vie pour les aider aux taches ménagères et se transforme la nuit en jeune beauté. L'aîné brûle sa peau de vieille et l'épouse. Ils vivent à trois paisiblement. Mais la jeune femme en fait une méchante sorcière tue son mari et fait manger le corps au cadet. Celui-ci le découvre trop tard. La sorcière s'enfuit et épouse le roi. Elle se prétend malade. Suit une description des remèdes et des guérisseurs. La jeune sorcière en profite pour se faire nourrir de tigres et autres sources de force.</p>
            <p> Après un certain temps le frère cadet finit par retrouver la jeune sorcière devenue reine à la cour du roi. Il prévient le roi qu'elle est sorcière et révèle son point faible : les âmes de son clan sont dans un panier qu'elle cache. Quand le panier est détruit, elle meurt.</p>
            <p> Sens intéressant de cette histoire sur la religion des ancêtres et les bigoteries.</p>
@@ -170,8 +180,8 @@ Avant de devenir la capitale des khasis Shillong était tʃi lɔŋ, 'l'étant Un
 </p>
            
         
-            <p class="intertitre">&nbsp;</p>
-            <p class="intertitre">&nbsp;</p>
+
+          
 <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA025_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Plantes et pratiques médicinales par une guérisseuse</a></p>
      <p class="intertitre">
         Thangbuli, Meghalaya, Inde, 2003, Ribon Dkar, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
@@ -180,9 +190,24 @@ Avant de devenir la capitale des khasis Shillong était tʃi lɔŋ, 'l'étant Un
         <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA024_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Plantes et pratiques médicinales par un guérisseur</a></p>
         <p class="intertitre"> Thangbuli, Meghalaya, Inde, 2003, Shon, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
         <p>Shon le guérisseur par les plantes (broʔ suraŋ) de Thangbuli. Longue description des plantes, racines, décoctions, pierres, os, fœtus, peaux de serpents et tous leurs mélanges éventuellement avec de l'huile ou de l'eau utilisés pour les maladies physiques ou psychiques.  Également les prières. (Carnets de terrain avec les dessins des plantes) </p>
-        <p class="intertitre"></p>
-        <p>&nbsp;</p>
+     
         
+                    <p class="intertitre">&nbsp;</p>
+            
+           
+            <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA019_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">          
+           Compétition entre les deux rivières Am Ngot et Am Tedie
+            </a></p>
+     <p class="intertitre">Thangbuli, Meghalaya, Inde, 2003, Soh Tariang,  <a href="../../membres/daladier.htm">Anne Daladier</a></p>
+      
+            <p>
+Les deux rivières délimitent des territoires à la fois wars et pnars à l'Est des territoires khasis. Elles sont décrites dans ce court conte comme les incarnations de deux jeunes femmes qui font la course pour  arriver au plus vite au pied du plateau du Meghalaya au Sud et atteindre le roi de Jaintiapur au Bengladesh. Am Ngot prend sa source près de la grande montagne de Shillong et part très vite  mais s'essouffle en faisant des détours.  Am Tedia, circule sur une pente plus douce et n'est qu'un court d'eau mais va directement vers Jaintiapur. Elle est la gagnante et dirige la partition des terres des clans de cette zone. 
+Avant de devenir la capitale des khasis Shillong était tʃi lɔŋ, 'l'étant Un', l'ancêtre masculin incarné dans la 'grande montagne' pilier mythologique entre la terre et le ciel et  qui donne leur source à plusieurs rivières ancêtres féminins du Meghalaya, qui soit rejoignent la Kalang en Assam sur d'anciens territoires pnars, soit comme Am Ngot rejoignent les territoires wars-pnars. 
+</p>
+
+<p>Conte traditionnel amwi sur une compétition entre ces deux rivières, ou plus précisément, entre le clan amwi Buam et les clans pnars régulés par ces deux rivières. Récit de Soh Tariang, le chef du village de Thangbuli en présence de Marlyda Pohleng et de Lewis Buam.</p>
+           
+       
         
          <p class="intertitre">&nbsp;</p>
             <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA003_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Récit d'un mythe de fondation pour les wars et les pnars : Liʔ Dɔʔ Kha, Lɔʔ Rəndi 'dame chaire du poisson, sieur Rendi'</a></p>
@@ -190,15 +215,17 @@ Avant de devenir la capitale des khasis Shillong était tʃi lɔŋ, 'l'étant Un
        Thangbuli, Meghalaya, Inde, 2003, Soh Tariang,  <a href="../../membres/daladier.htm">Anne Daladier</a></p>
         <p>Cette version est dite pour moi comme un conte traditionnel en war amwi par le Lyngdoh, le représentant traditionnel élu des clans de 5 villages wars associés. Cette version n'a pas la poésie de la version rituelle de Liʔ Dɔʔ Kha parlée-chantée par les deux clans en compétition en war de Sohkha (fichier ADA005) mais elle a des différences très intéressantes. Elle explique la création du groupe amwi avec la rivière Khervi qui rejoint Sutnga. En fait amwi 'rivière Wi' est une dénomination postérieure à Khervi 'gens de Vi.</p>
          <p class="intertitre">&nbsp;</p>
-		<p class="intertitre"><b>Récit : la pierre ancestrale des Buam en forme de tigre.</b><br/>
+
+            <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA059_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Récit : la pierre ancestrale des Buam en forme de tigre</a></p><br/>
         Thangbuli, Meghalaya, Inde, 2005,  Dol Buam, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
          <p>Un représentant traditionnel amwi, fait le récit de la pierre ancestrale qui se trouve toujours au sommet des terres du clan Buam, sur la rivière Myntadu qui délimite les terres wars et pnars au dessus du barrage de Lechka. Après un conflit war entre le clan Buam (amwi) et le clan Talang (nongtalang), les gens du clan Buam qui s'étaient alliés avec le roi pnar installent cette pierre avec l'accord de l'Ancêtre pnar et war Muhsiang. </p>
         
-<p>Cette pierre a la forme d'un tigre parce que à l'époque de sa fondation certains hommes avaient une double vie sur terre comme tigre. La croyance en une double incarnation sur terre fait partie des points communs de la religion traditionnelle des pnars, wars et lyngam. Stephen Nongsiang m'a décrit en Tre Lyngam les 7 doubles incarnations possibles (tigre, aigle, dragon-serpent, rosée du matin, insecte, coq sacrificiel, porc sacrificiel) et le fait que chaque humain naît avec un double choisi par l'ancêtre de son clan.
+<p>Cette pierre a la forme d'un tigre parce que à l'époque de sa fondation certains hommes avaient une double vie sur terre comme homme-tigre. La croyance en une double incarnation sur terre fait partie des points communs de la religion traditionnelle des pnars, wars et lyngam. Stephen Nongsiang m'a décrit en  Lyngam Tre les 7 doubles incarnations possibles (tigre, aigle, dragon-serpent, rosée du matin, insecte, coq sacrificiel, porc sacrificiel) et le fait que chaque humain naît avec un double choisi par l'ancêtre de son clan.
 </p>
 <p class="intertitre">&nbsp;</p>
-<p><b>Musique mɛrkeːu (jewish harp en bambou) et Chants traditionnels de récoltes de Millet loŋ haj</b><br/>
-  War amwi à Thangbuli, 2002, Woh De</p>
+<p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA018_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Musique mɛrkeːu (jewish harp en bambou) et Chants traditionnels loŋ haj de récoltes de millet</a></p>
+<p class="intertitre">
+  War amwi à Thangbuli, 2003, Woh De</p>
 <p class="intertitre"></p>
 <p>&nbsp;</p>
         <p>&nbsp;</p>
@@ -207,11 +234,11 @@ Avant de devenir la capitale des khasis Shillong était tʃi lɔŋ, 'l'étant Un
   <h4 id="war_kudeng">2.a War de Sohkha</h4>
   <br/>
             <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA006_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">  Récit à scansion parlée-chantée d'un mythe de fondation pour les wars et les pnars : Liʔ Dɔʔ Kha, Lɔʔ Rəndi 'dame chaire du poisson, sieur Rendi'</a></p>
-            
+           
      <p class="intertitre">
-       War Nongtalang de Sohkha, Meghalaya, Inde, 2002, groupe d'hommes du clan Thongper et groupe d'hommes du clan Pohlong,  <a href="../../membres/daladier.htm">Anne Daladier</a></p>
-        <p>Ce mythe de fondation a ici une scansion parlée-chantée traditionnelle. Sa performance se fait devant tout le village, à l'extérieur de la maison du disparu dans le cadre d'une cérémonie funéraire secondaire de tʃənjə, cérémonie de réunification des os, qui dure deux jours. La performance se fait la nuit avant l'unification des os du disparu avec ceux des membres réincarnés  du clan qui ont perdu leur individualité et qui constituent collectivement l'Ancêtre grand-mère du clan. La diction parlée-chantée se fait  par épisodes entre les clans en compétition dont chacun improvise sa version poétique, en war nongtalang de Sohkha pour le clan Thongper qui dirige la performance et en war Nongtalang de Nongbareh pour le clan Pohlong. Les groupes en compétition ont consommé beaucoup d'alcool avec une herbe qui les met dans un état particulier.</p>
-        <p>Ce mythe de fondation est probablement le plus important pour les wars et pour les pnars. Il retrace l'origine des humains pnars et wars comme enfants d'une grand-mère Ancêtre qui s'incarne dans la principale rivière qui délimite leur terres. Cette ancêtre s'incarne dans un poisson.</p>
+       War de Sohkha, Meghalaya, Inde, 2002, groupe d'hommes du clan Thongper et groupe d'hommes du clan Pohlong,  <a href="../../membres/daladier.htm">Anne Daladier</a></p>
+        <p>Ce mythe de fondation a ici une scansion parlée-chantée traditionnelle. Sa performance se fait devant tout le village, à l'extérieur de la maison du disparu dans le cadre d'une cérémonie funéraire secondaire de tʃənjə, cérémonie de réunification des os, qui dure deux jours. La performance se fait la nuit avant l'unification des os du disparu avec ceux des membres réincarnés  du clan qui ont perdu leur individualité et qui constituent collectivement l'Ancêtre grand-mère du clan. La diction parlée-chantée se fait  par épisodes entre les clans en compétition dont chacun improvise sa version poétique, en war  de Sohkha pour le clan Thongper qui dirige la performance et en war  de Nongbareh pour le clan Pohlong. Les groupes en compétition ont consommé beaucoup d'alcool avec une herbe qui les met dans un état particulier.</p>
+        <p>Ce mythe de fondation est probablement le plus important pour les wars et pour les pnars. Il retrace l'origine des humains pnars et wars comme enfants d'une grand-mère Ancêtre qui s'incarne dans la principale rivière qui délimite leur terres. Cette ancêtre s'incarne temporairement dans un poisson.</p>
 <p>
 Enregistré à l'origine sur minicassette, d'où la qualité de son un peu moins bonne. La qualité littéraire de cette version, dans son contexte rituel et récité par les meilleurs représentants de deux clans importants est en revanche exceptionnelle du point de vue poétique du  baŋ sur 'beau parlé war': par la profondeur du sens et par les procédés de réduplication avec assonances.</p>
 <p>
@@ -219,16 +246,20 @@ Enregistré à l'origine sur minicassette, d'où la qualité de son un peu moins
 </p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
-  <h4 id="war_kudeng">2.b War Kudeng</h4>
+  <h4 id="war_kudeng">2.b War de Kudeng</h4>
   <p class="intertitre">&nbsp;</p>
-  <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA015_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> La biche en or : Conte traditionnel d'une revanche du destin</a></p>
+  <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA015_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> </a><br/><b>a. Chant d'amour : Kubor məjə ŋə</b>
+  <p class="intertitre">Kudeng Thymmai, Meghalaya, Inde, 2004, Thakur Pohtam Chyrnia, <a href="../../membres/daladier.htm">Anne Daladier</a></p> 
+  <p>Woh Thakur me chante une chanson adressée à mon mari qui vante ma beauté.</p>
+  <br/>
+  <b>b. La biche en or : Conte traditionnel d'une revanche du destin</b></p>
   <p class="intertitre"> Kudeng Thymmai, Meghalaya, Inde, 2004, Willi Pohtam Chyrnia, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
   <p>Une femme vit seule avec ses deux fils. Son mari est mort et elle n'a plus de famille,  ni   de terres. Ils partent vivre dans la forêt profonde où ils défrichent des terres pour cultiver du millet  et un potager. Une biche dorée vient, elle mange dans leurs cultures, ils ne la chassent pas pensant qu'elle leur est envoyée et ils deviennent amis.  
     Un jour, les gens du royaume viennent chasser dans la forêt et voient la biche dorée mais ne peuvent l'attraper. Le roi promet son royaume à celui qui pourra la lui rapporter.</p>
   <p> En fait cette biche dorée est l'incarnation d'un être merveilleux qui rend ces garçons justes. Après de longues aventures où elle se transforme en êtres divers, ou se met dans une petite boite,  elle permet aux frères de devenir les rois.</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <p class="intertitre">War Kudeng Thymmai, 30/12/2004, Woh Thakur Pohtam Teang, <a href="../../membres/daladier.htm">Anne Daladier</a> <br/>
+   <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA063_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> </a><p class="intertitre">War Kudeng Thymmai, 30/12/2004, Woh Thakur Pohtam Teang, <a href="../../membres/daladier.htm">Anne Daladier</a> <br/>
   <ul>
     <li><b>1) Explications sur la religion des ancêtres </b>
       <ul>
@@ -242,29 +273,28 @@ Enregistré à l'origine sur minicassette, d'où la qualité de son un peu moins
     <br/>
     <li><b>3) Première partie du conte de l'ogresse</b></li>
     <br/>
-    <li><b>4) Chant d'amour :  Kubor məjə ŋə</b></li>
-    <br/>
-    <li><b>5) début raté de la Biche en or</b></li>
+    <li><b>4) Début raté de la Biche en or</b></li>
   </ul>
   </p>
   <p class="intertitre">&nbsp;</p>
-  <p class="intertitre"><b>Deuxième partie du conte de l'ogresse (le lendemain soir)</b><br/>
+  <p class="intertitre"><b><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA064_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Deuxième partie du conte de l'ogresse (le lendemain soir)</a></b><br/>
     war de Kudeng Thymmai, 31/12/2004, Woh Thakur Pohtam Teang, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
   <p>Woh Thakur dit la seconde partie du très long et très beau conte : le roi qui avait épousé une ogresse.</p>
   <p>Un roi qui avait perdu sa femme et avait un fils épouse une jeune femme apparemment très prude mais qui se révèle être une ogresse. Elle conserve une boite géante que personne ne peut ouvrir où se trouvent ses 4 maris-démons. Le fils, plus intelligent que son père découvre qu'elle est une ogresse. Son père ne le croit pas. L'ogresse prétend être malade et exige le sacrifice du fils pour manger son foi et guérir.  Le roi hésite et consent. Un ancien sauve le fils en donnant le foi d'un chien à l'ogresse. Le fils s'enfuit dans un autre pays. Il est un pauvre berger  et les démons le poursuivent mais il devient de plus en plus intelligent pour leur échapper, acquiert des pouvoirs surnaturels,  tue les démons et devient le roi </p>
   <p class="intertitre">&nbsp;</p>
   <p class="intertitre">&nbsp;</p>
-  <p class="intertitre"><b>Rituel pour la guérison d'une fillette gravement malade  en oblation à Rɔntʃəndi </b><br/>
+  <p class="intertitre"><b><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA065_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Rituel pour la guérison d'une fillette gravement malade  en oblation à Rɔntʃəndi</a> </b><br/>
     war de Kudeng Thymmai, Meghalaya, Inde, 20.1.2005, Thakur Pohtam Teang responsable religieux et les participants du rituel, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
-  <p>Le rituel se déroule d'abord dans la maison de la famille avec prières et offrandes (riz dans des feuilles de l'arbre sacré 'lamet') et ensuite à l'extérieur de la maison. Woh Monti sacrifie une chèvre, puis trois poules et un oeuf.  Prières avant et après le sacrifice, puis après le festin collectif. Les augures sur la bonne fortune de la guérison sont lues dans l'intestin des animaux sacrifiées.   Voir les photos du rituels correspondant aux différentes phases du rituel, woh Monti coupe la tête de la chèvre, puis les cous des poules,  les ingrédients,  le festin collectif final avec les animaux sacrifiés. Prières finales pistes 159 à 169. Ensuite explications sur le sens des phases du rituel.</p>
-  <p> Le lendemain du rituel, woh Thakur enregistre à voix claire dans sa maison les prières du rituel, pistes 214 à 223. </p>
+  <p>Le rituel se déroule d'abord dans la maison de la famille avec prières et offrandes (riz dans des feuilles de l'arbre sacré 'lamet') et ensuite à l'extérieur de la maison. Woh Monti sacrifie une chèvre, puis trois poules et un oeuf.  Prières avant et après le sacrifice, puis après le festin collectif. Les augures sur la bonne fortune de la guérison sont lues dans l'intestin des animaux sacrifiées.   Voir les photos du rituels correspondant aux différentes phases du rituel, woh Monti coupe la tête de la chèvre, puis les cous des poules,  les ingrédients,  le festin collectif final avec les animaux sacrifiés. Prières finales. Ensuite explications sur le sens des phases du rituel.</p>
+  <p> Le lendemain du rituel, woh Thakur enregistre à voix claire dans sa maison les prières du rituel. </p>
+  <p>&nbsp;</p>
   <p class="intertitre"></p>
-  <p class="intertitre"><b></b><br/>
+  <p class="intertitre"><b><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA063_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">La religion des Ancêtres</a></b><br/>
     war de Kudeng Thymmai, 5/ 12/ 2005, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
   <p>Woh Thakur Pohtam Teang donne la suite des explications sur les principaux aspects de la religion des ancêtres aidé par woh Monti</p>
   <p>Comment se sont créés les ʃurɛt 'ancêtres protecteurs des clans, ancêtres protecteurs des villages, ancêtres protecteurs des districts et la formation des villages
     Explications sur les rituels. Rituels de guérison à Rontʃəndi ; rituels à la rivière du clan pour avoir des enfants ou si quelqu'un vous vole votre mari ; rituel à l'éclair pour obtenir de la pluie pour les cultures. Comment préparer les offrandes de riz, de biscuit de riz, de noix de bettel,  de bananes ainsi que l'eau et l'alcool.</p>
-  <p> Comment faire la crémation des morts en conservant quelques os puis prendre soin de ces os qui vont produire les semences du clan. Comment faire la célébration secondaire de réunification des os du disparu avec l'ancêtre du clan. Prière à l'ancêtre des clans səntʃar 'la loi'. Am tʃar 'rivière loi' est la rivière qui alimente les wars de Kudeng et de Nongbareh. Woh Thakur dit les prières à voix basse. </p>
+  <p> Comment faire la crémation des morts en conservant quelques os puis prendre soin de ces os qui vont produire les semences du clan. Comment faire la célébration secondaire de réunification des os du disparu avec l'ancêtre du clan. Prière à səntʃar 'la loi' l'ancêtre des clans, Am tʃar 'rivière loi' est la rivière qui alimente les wars de Kudeng et de Nongbareh. Woh Thakur dit les prières à voix basse. </p>
   <p> Comment s'est constitué le village de Kudeng avec le clan pnar pohswet et les clans wars qui viennent de Sumer. </p>
   <p class="intertitre">&nbsp;</p>
   <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA009_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Récit du long voyage à travers l'océan pour rencontrer la reine Larmati</a></p>
@@ -280,7 +310,7 @@ Enregistré à l'origine sur minicassette, d'où la qualité de son un peu moins
   <p class="intertitre"> Kudeng Thymmai, Meghalaya, Inde, 27/01/2005, Thakur Pohtam Teang, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
   <p>A l'intérieur du ciel, narrateur woh Thakur Pohtam Teang</p>
   <p> Conte traditionnel où woh Thakur remplace un tabouret magique volant par un avion.</p>
-  <p> Une jeune et belle femme fille d'un roi sourd souhaite apprendre les danses rituelles, telles qu'elles se déroulent non sur terre mais à l'intérieur du ciel lui-même chez les ancêtres. Un sage, ancien de la tradition, avec ses longs cheveux et sa pièce de tissus noué entre les jambes, lui explique ce que sont les rituels et lui trouve une occasion de partir avec des esprits qui viennent sur terre à l'occasion de la célébration de mariages et consentent, grâce au vieil homme, de repartir avec elle  pour la laisser assister à des cérémonies rituelles dans le ciel. Elle est si belle qu'on l'invite à danser. Elle se retrouve ensuite dans son lit dans sa maison en train de dormir, personne n'est au courant. Les esprits lui disent de se tenir prête pour repartir avec eux un moi plus tard. Cependant un jeune homme l'a entendu parler avec les esprits et dort sous son lit pour partir secrètement avec eux au ciel. Le jour venu, un avion vient la chercher, il monte secrètement aussi. Au ciel la fête est grandiose. Le jeune homme joue du buhuri (sorte de petit hautbois aigu) avec beaucoup de talent et la jeune femme danse comme sous un charme. L'avion la ramène ensuite chez elle, le jeune homme s'accroche sous l'avion et revient avec eux. De retour il courtise la jeune femme. Les esprits reviennent la chercher et elle danse de telle façon que les esprits tombent sous son charme. L'un d'eux lui donne des fleurs du ciel. Elle revient sur terre et fait pousser ses fleurs. En fait ces fleurs contiennent l'âme du roi du ciel et des ancêtres. Ils cultivent les fleurs magiques dont les graines sont celles des clans humains et des espèces qui les nourrissent.</p>
+  <p> Une jeune et belle femme, fille d'un roi sourd, souhaite apprendre les danses rituelles, telles qu'elles se déroulent non sur terre mais à l'intérieur du ciel lui-même chez les ancêtres. Un sage, ancien de la tradition, avec ses longs cheveux et sa pièce de tissus noué entre les jambes, lui explique ce que sont les rituels et lui trouve une occasion de partir avec des esprits qui viennent sur terre à l'occasion de la célébration de mariages et consentent, grâce au vieil homme, à repartir avec elle  pour la laisser assister à des cérémonies rituelles dans le ciel. Elle est si belle qu'on l'invite à danser. Elle se retrouve ensuite dans son lit dans sa maison en train de dormir, personne n'est au courant. Les esprits lui disent de se tenir prête pour repartir avec eux un moi plus tard. Cependant un jeune homme l'a entendu parler avec les esprits et dort sous son lit pour partir secrètement avec eux au ciel. Le jour venu, un avion vient la chercher, il monte secrètement aussi. Au ciel la fête est grandiose. Le jeune homme joue du buhuri (sorte de petit hautbois aigu) avec beaucoup de talent et la jeune femme danse comme sous un charme. L'avion la ramène ensuite chez elle, le jeune homme s'accroche sous l'avion et revient avec eux. De retour il courtise la jeune femme. Les esprits reviennent la chercher et elle danse de telle façon que les esprits tombent sous son charme. L'un d'eux lui donne des fleurs du ciel. Elle revient sur terre et fait pousser ses fleurs. En fait ces fleurs contiennent l'âme du roi du ciel et des ancêtres. Ils cultivent les fleurs magiques dont les graines sont celles des clans humains et des espèces qui les nourrissent.</p>
   <p> Il vient sur terre pour les reprendre et repart avec la jeune femme. </p>
   <p> Les ancêtres font fleurir leur progéniture incarnée en humains comme dans d'autres espèces qui s'incarnent sur terre. Les danses rituelles de rɔŋ khusi, le festival du plaisir (voir "Exemples de rythmes sur instruments traditionnels"), font venir les ancêtres protecteurs et les désirs amoureux des humains. L'ancêtre fleurit dans tous les sens du terme dans ses filles terrestres qui reproduisent les clans. </p>
   <p class="intertitre">&nbsp;</p>
@@ -302,7 +332,7 @@ Enregistré à l'origine sur minicassette, d'où la qualité de son un peu moins
   <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA014_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Conte traditionnel : Les filles et petite filles de Liʔ Dɔʔ Kha</a></p>
   <p class="intertitre"> Kudeng Thymmai, Meghalaya, Inde, 2006, Willi Pohtam Chyrnia, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
   <p>Woh Willi est ami de woh Thakur et parent de woh Monti, mais lui-même est devenu chrétien; il a assisté au récit "Récit traditionnel : Suɲ, Irmaj, Hɛrmɔn, les trois soeurs ancêtres" de woh Thakur dans sa maison et son conte est une suite intéressante qui explique comment les clans Pohtam en provenance de la rivière amwi Khɛrvi et ceux qui venaient de Jaintiapur au Bengladesh sont venus s'installer à Kudeng Thymmai, en territoire Pnar qui a été partagé par les pnars et les wars grâce à l'accord des ancêtres (voir les explication de Kundep Sumer de Nongbareh).. Il raconte ensuite comment l'ancêtre Liʔ Dɔʔ Kha des pnars et des wars a fait en sorte d'avoir une petite fille qui protège les siens de chez les colons anglais.</p>
-  <p> Une des petites filles de Liʔ Dɔʔ Kha, Toŋsuʔ, n'arrête pas de pleurer, on essaie de l'échanger sans succès, on demande conseil au Pacha roi des pnars au bengladesh Ram Sing et on la met sur un radeau au bord de l'océan Indien. Elle accoste en Angleterre. Le roi lui offre la surface de terre d'une peau de vache. Par magie, la peau s'étend à toute la surface de Londres. Elle devient une reine et le chef de la Compagnie des Indes. </p>
+  <p> Une des petites filles de Liʔ Dɔʔ Kha, Toŋsuʔ, n'arrête pas de pleurer, on essaie de l'échanger sans succès, on demande conseil au Pacha roi des pnars au Bengladesh Ram Sing et on la met sur un radeau au bord de l'océan Indien. Elle accoste en Angleterre. Le roi lui offre la surface de terre d'une peau de vache. Par magie, la peau s'étend à toute la surface de Londres. Elle devient une reine et le chef de la Compagnie des Indes. </p>
   <p>&nbsp;</p>
   <p><br/>
     
@@ -330,9 +360,9 @@ Bamon est un ancêtre traditionel pnar, emprunté par les wars, voir aussi lar B
 <p class="intertitre">&nbsp;</p>
 		<p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA047_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Ancêtre Tam  </a><br/>
       Kudeng thymmai, 26/1/2010,  Monti Potham Chyrnia,  <a href="../../membres/daladier.htm">Anne Daladier</a></p>
-         <p>Explications de Woh Monti avant le rituel funéraire secondaire de notre ami Woh Thakur où le mythe de fondation 'ancêtre Tam'  avait été choisi par sa sœur pour le conte à scansion parlé-chanté de la veillée avant la réunification des os. Cechoix a été fait  en raison du clan Poh Tam du disparu et de l'importance du clan Pohtam à Kudeng qui s'est subdivisé en 7 branches. La célébration du rituel a eu lieu quand je n'étais plus là pour l'enregistrer, quelques mois plus tard. Woh Thakur est mort en 2008, sa crémation a eu lieu dans la forêt de Kudeng, ses os ont été conservés dans une petite cahute traditionnelle devant sa maison et  pour la cérémonie secondaire ses os ont été réunis à ceux de son ancêtre Pohtam 'intérieur de Tam' dans le caveau clanique à l'entrée de la forêt  à l'Ouest de Kudeng. </p>
+         <p>Explications de Woh Monti avant le rituel funéraire secondaire de notre ami Woh Thakur où le mythe de fondation 'ancêtre Tam'  avait été choisi par sa sœur pour le conte à scansion parlé-chanté de la veillée avant la réunification des os. Ce choix a été fait  en raison du clan Poh Tam du disparu et de l'importance du clan Pohtam à Kudeng qui s'est subdivisé en 7 branches. La célébration du rituel a eu lieu quand je n'étais plus là pour l'enregistrer, quelques mois plus tard. Woh Thakur est mort en 2008, sa crémation a eu lieu dans la forêt de Kudeng, ses os ont été conservés dans une petite cahute traditionnelle devant sa maison et  pour la cérémonie secondaire ses os ont été réunis à ceux de son ancêtre Pohtam 'intérieur de Tam' dans le caveau clanique à l'entrée de la forêt,  à l'Ouest de Kudeng. </p>
          <p>
-Woh Monti m'explique comment l'ancêtre Tam 'demeurer' provient d'une alliance traditionnelle et de mariages exogamiques de 4 clans (4 chèvres) impliquant le grand clan p Sumer, issu de 2 clans,  à l'origine pnar, dont sont issus par alliance aussi des wars et le clan Pohshwet lui aussi issu de 2 clans et ayant aussi engendré une autre alliance et mariages exogamiques de pnars et de wars. Le clan Pohshwet vient de Pnə, une localité qui à l'origine se trouvait sur la rivière Iapngar en Assam puis est devenue l'ancien nom de Jowai, la principale ville pnar actuellement au Meghalaya. Le nom des pnar vient de pnə/ pna +-r 'gens de pna'.  L'ancêtre Tam a aussi eu une alliance avec le clan Talang fondateur des villages de Shkentalang (amwi) et de Nontalang et des villages de la région de Padu. L'ancêtre Tam et ses clans se sont alliés avec les wars de la rivière Am ŋot : Padu, Nongbareh, Lamin, Sohkha, Kudeng et avec les pnars de la rivière Kupili de Sutnga à Jaintiapur, en particulier avec le grand clan pnar Suchen qui a conclu des alliances avec plusieurs grands clans  wars pour fonder la zone des dialectes centraux du war sur d'anciens territoires pnars. On retrouve les clans d'origine pnar :  Sumer et Suchen à Sohkha, Nongbareh, Lamin et Nongtalang.</p>
+Woh Monti m'explique comment l'ancêtre Tam 'demeurer' provient d'une alliance traditionnelle et de mariages exogamiques de 4 clans (4 chèvres) impliquant le grand clan  Sumer, issu de 2 clans,  à l'origine pnar, dont sont issus par alliance aussi des wars et le clan Pohshwet, lui aussi issu de 2 clans et ayant aussi engendré une autre alliance et mariages exogamiques de pnars et de wars. Le clan Pohshwet vient de Pnə, une localité qui à l'origine se trouvait sur la rivière Iapngar en Assam puis est devenue l'ancien nom de Jowai, la principale ville pnar actuellement au Meghalaya. Le nom des pnar vient de pnə/ pna +-r 'gens de pna'.  L'ancêtre Tam a aussi eu une alliance avec le clan Talang fondateur des villages de Shkentalang (amwi) et de Nontalang et des villages de la région de Padu. L'ancêtre Tam et ses clans se sont alliés avec les wars de la rivière Am ŋot : Padu, Nongbareh, Lamin, Sohkha, Kudeng et avec les pnars de la rivière Kupili de Sutnga à Jaintiapur, en particulier avec le grand clan pnar Suchen qui a conclu des alliances avec plusieurs grands clans  wars pour fonder la zone des dialectes centraux du war sur d'anciens territoires pnars. On retrouve les clans d'origine pnar :  Sumer et Suchen à Sohkha, Nongbareh, Lamin et Nongtalang.</p>
 <p>
 
 Ces explications et les mythes de fondations, tout comme les explications de  Oni de Mawngap,  et de Kundep Sumer de Nongbareh, confirment l'analyse linguistique des dialectes wars. Les parlers mixtes war-khasi et sendai-pnar sont à distinguer des dialectes wars proprement dits : amwi et villages du district de Nongtalang. Les clans des deux zones de parlers mixtes ne sont jamais évoqués dans les mythes de fondations et contes des deux dialectes centraux, examinés principalement dans ce corpus. Les groupes amwi sont venus après les groupes de la zone de Sendai qui cohabitent avec les pnars sans doute depuis l'installation des pnars dans le Meghalaya. Les amwis sont venus  avant les clans du district de  Nongtalang,  ce qui se reflète par une plus grande influence pnar en amwi. Les wars du district de Nongtalang se sont alliés plus récemment avec des pnars, ils sont restés plus longtemps isolés dans leurs plantations au Bengladesh d'où ils continuent à venir et ont conservé les traits les plus conservateurs du war. Ces contes et explications permettent aussi de confirmer l'analyse linguistique montrant que le war n'est pas issu du pnar alors que le khasi est issu du pnar (voir Daladier 2011). 
@@ -344,27 +374,24 @@ Ces explications et les mythes de fondations, tout comme les explications de  On
  <p>&nbsp;</p>
   <h4 id="war_kudeng">2.c War de Nongbareh et Lamin</h4>
   <p>&nbsp;</p>
-
   <p align="center">&nbsp;</p>
   <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA004_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Rythmes d'instruments traditionnels</a></p>
   <p class="intertitre"> Lamin, Meghalaya, Inde, 2005, Sixme Kashnga, Wanmon Kashnga, Curfew Lamin, Pailot Kashnga, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
   <p>Instruments : thangmuri (bambous à notes différentes, frappés), buhuri sorte de petit hautbois, tambour. Intervenants : Sixme Gashnga et Wanmon Gashnga  qui jouent du buhuri ; Curfew Lamin qui joue les rythmes de thangmuri et Pailot Gashnga qui joue le tambour seŋ hənta pour les danses avec femmes.</p>
-  <p> Les 5 principaux rythmes de Buhuri sont présentés dans 5 pièces de musiques différentes. Ces musiques sont jouées traditionnellement pour rɔŋ khusi, le festival du plaisir. </p>
+  <p> Les 5 principaux rythmes de Buhuri sont présentés dans 5 pièces de musiques différentes. Ces musiques sont jouées traditionnellement pour rɔŋ khusi, le festival du plaisir après la période des cérémonies funéraires secondaires.</p>
   <p class="intertitre"></p>
   <p><br/>
   </p>
-  <p class="intertitre">&nbsp;</p>
-		<p class="intertitre"><b>Larsəndriaŋ </b><br/>
+  <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA061_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Larsəndriaŋ</a></p> <br/>
       Nongbareh, Meghalaya, Inde, 2007, Tyiu Lamin Roh,  <a href="../../membres/daladier.htm">Anne Daladier</a></p>
-         <p>Ce conte traditionnel, aussi nommé  'potiron d'or, potiron d'argent' décrit les grandes règles qui fondent la vie sociale et la fertilité des clans wars (et du groupe PWL en général). Les semences des hommes comme celles des plantes, se reproduisent par sortes, sortes claniques pour les hommes, sortes de fruits, légumes, grains etc. pour les plantes. Les deux phases de la mort et de la (ré)incarnation pour les hommes sont décrites avec leurs règles rituelles dans ce conte. La fertilité est donnée par les 'os' après la crémation d'un humain, homme ou femme, comme le noyau pour les fruits permet de reproduire l'arbre fruitier, et non par l'acte sexuel qui bien que nécessaire, n'est qu'une façon d'arroser la semence clanique portée par la femme. Larsendriang, naît d'un inceste clanique de l'ancêtre Grande Montagne avec la fille de sa sœur, qui meurt enceinte. Ce forfait plonge la terre dans la putréfaction mais l'être qui en naît fait renaître la fertilité sur terre et donne les règles performance des rituels de crémation et  de réunification des os pour la renaissance. Larsendriang a une oiseau aux grandes ailes comme nourrice et éducatrice. Le temps sur terre oscille entre la vie et la putréfaction. Le temps céleste coule  de façon continue et sans fin comme l'eau des rivières. Larsəndriaŋ a aussi donné son nom à un rituel pour chasser les épidémies du village.</p>
+         <p>Ce conte traditionnel, aussi nommé  'potiron d'or, potiron d'argent' décrit les grandes règles qui fondent la vie sociale et la fertilité des clans wars (et du groupe Pnaric-War-Lyngam en général). Les semences des hommes comme celles des plantes, se reproduisent par sortes, sortes claniques pour les hommes, sortes de fruits, légumes, grains etc. pour les plantes. Les deux phases de la mort et de la (ré)incarnation pour les hommes sont décrites avec leurs règles rituelles dans ce conte. La fertilité est donnée par les 'os' après la crémation d'un humain, homme ou femme, comme le noyau pour les fruits permet de reproduire l'arbre fruitier, et non par l'acte sexuel qui bien que nécessaire, n'est qu'une façon d'arroser la semence clanique portée par la femme. Larsendriang, naît d'un inceste clanique de l'ancêtre Grande Montagne avec la fille de sa sœur, qui meurt enceinte. Ce forfait plonge la terre dans la putréfaction mais l'être qui en naît fait renaître la fertilité sur terre et donne les règles de la performance des rituels de crémation et de la réunification des os pour la renaissance. Larsendriang a une oiseau aux grandes ailes comme nourrice et éducatrice. Le temps sur terre oscille entre la vie et la putréfaction. Le temps céleste coule  de façon continue et sans fin comme l'eau des rivières. Larsəndriaŋ a aussi donné son nom à un rituel pour chasser les épidémies du village.</p>
          <p>
 Le parler de Nongbareh et Lamin est plus innovateur que les autres parlers wars phonétiquement (nasalisations, transformation de voyelles finales en diphtongues, suppession de presyllabes) ; cela va dans le même sens que mes notes grammaticales sur ce dialecte. Cependant cette nasalisation est moins marquée chez les grands conteurs  (comme dans ce conte de Larsendriang).
 
 </p>
        
-       
-        <p class="intertitre">&nbsp;</p>
-		<p class="intertitre"><b>Kompani Maharani 'La Compagnie des Indes' </b><br/>
+ <p class="intertitre"></p>      
+  <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA062_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Kompani Maharani 'La Compagnie des Indes' </a></p><br/>
      Nongbareh, Meghalaya, Inde, 2007, Tyiu Lamin Roh,  <a href="../../membres/daladier.htm">Anne Daladier</a></p>
          <p>Conception des wars sur la colonisation britannique qui semble indiquer qu'elle ne les a qu'indirectement concernés. Les pnars se querellent entre eux,  ceux de Jaintiapur contre ceux de Ralliang et Shangpung. Sir Henry l'anglais, fils de la reine de la Compagnie des Indes vient sur place  pour rétablir la paix. Les pnars le trahissent auprès de sa mère en prétendant qu'il lui a volé ses revenus. Elle le met en prison puis le libère.  Il revient pour faire la guerre aux pnars. Le pacha essaie en vain d'éviter cette guerre. Sir Henry gagne la guerre mais sa mère le désapprouve. Il fait construire un grand palais près de Jaintiapur pour satisfaire sa mère.
 
@@ -377,7 +404,7 @@ Le parler de Nongbareh et Lamin est plus innovateur que les autres parlers wars 
          <ul>
          <li><b>a) explications sur le peuplement de la région de Nongbareh</b>
          <br/>
-Complète et corrobore les explications données par Monti Pohtam Chyrnia sur les clans fondateurs des villages dans le district de Nongtalang. Les clans principaux de Nongbareh sont pour les wars d'origine pnar  .Sumer et Suchiang (ou Suchen)  et pour les wars, Talang, Pohlong et Pohtam. Le clan war Myrchiang est issu de Suchiang.  Les wars ont fait alliance avec les pnars sur leurs terres (voir par exemple la rivière Am Lamar du nom du clan pnar Lamare).</li>
+Complète et corrobore les explications données par Monti Pohtam Chyrnia sur les clans fondateurs des villages dans le district de Nongtalang. Les clans principaux de Nongbareh sont pour les pnars d'origine Sumer et Suchiang (ou Suchen)  et pour les wars, Talang, Pohlong et Pohtam. Le clan war Myrchiang est issu de Suchiang.  Les wars ont fait alliance avec les pnars sur leurs terres (voir par exemple la rivière Am Lamar du nom du clan pnar Lamare). Les mariages sont exoclaniques et associent wars et pnars.</li>
 <li><b> b) explications sur le rituel de crémation et le rituel de réunification des os. </b><br/>
 Quand les clans fondateurs partent cultiver de nouvelles terres et fonder de nouveaux villages, ils emportent une gourde d'eau de leur rivière clanique et après consultation des augures, ils la verse dans l'eau de la rivière du nouveau village, leur ancêtre s'y incarne.</li>
 <li><b>c) explication sur le clan et la génération matrilinéaire des humains </b></li>
@@ -389,15 +416,18 @@ Version courte du conte au sujet de cette fille de liʔ doʔ kha à comparer ave
 
 </p>
 
+ <p>&nbsp;</p>
+ 
+ <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA049_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Explications sur le rituel de crémation</a></p>
+ <p class="intertitre"> Nongbareh, Meghalaya, Inde, 2008, Kundep Sumer, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
+ <p>Crémation du corps pour libérer l'âme du défunt et préserver quelques os qui deviendront enceints des graines du clan 9 mois plus tard.</p>
+ 
+ <p>&nbsp;</p>
  <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA048_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Liste de vocabulaire en war de Nongbareh : nombres, pronoms</a></p>
  <p class="intertitre"> Nongbareh, Meghalaya, Inde, 2008, Babu Lio Talang, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
  <p>Ce dialecte est issu de Nongtalang, comme le sont Kudeng Thymmai, Lamin et Sohkha. Il est plus innovateur que les autres phonétiquement et cela va dans le même sens que mes notes grammaticales sue ce dialecte ; voir aussi le corpus (notamment de grand récit de Larsendriang). </p>
  <p class="intertitre">&nbsp;</p>
  
- <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA049_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Explications sur le rituel de crémation</a></p>
- <p class="intertitre"> Nongbareh, Meghalaya, Inde, 2008, Jil Sea Pohlong, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
- <p>Ce dialecte est issu de Nongtalang, comme le sont Kudeng Thymmai, Lamin et Sohkha. Il est plus innovateur que les autres phonétiquement et cela va dans le même sens que mes notes grammaticales sue ce dialecte ; voir aussi le corpus (notamment de grand récit de Larsendriang). </p>
- <p class="intertitre">&nbsp;</p>
 
 
  <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA016_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Lexique en war Nongtalang de Nongbareh</a></p>
@@ -434,17 +464,17 @@ Ce récit parle des ancêtres Min et Tam (des clans Lamin et Pohtam), des ancêt
   <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA026_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Rituel de séparation après la mort d'un conjoint pour le survivant (1)</a></p>
      <p class="intertitre">
         War de Lamin, Meghalaya, Inde, 2015, Lambun Lamin Kashnga, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
-        <p>Rituel de séparation après la mort d'un conjoint pour le survivant. Rembun Lamin Kashnga dit les prière du rituel, après la cérémonie qui s'est déroulée à Lamin, pour que je les enregistre à Kudeng en dehors des participants dont la mère du défunt était très émue. Ce rituel invoque l'ancêtre du disparu et lui demande la permission de dissoudre le lien du mariage pour que le survivant puisse se remarier et avoir des enfants sans poluer le lien clanique avec les premiers enfants du mariage ; afin aussi que le défunt soit libéré dans l'autre monde.</p>
-           <p> Le rituel a été célébré à Lamin, village voisin de Kudeng sous la direction de woh Tynrui, le représentant religieux. Il avait lieu un an après la mort du jeune mari. Quelques personnes y participaient : la veuve, les parents du mari défunt, 3 personnes de la famille, U pa ka Iba qui est ami de  woh Tynrui et moi. J'étais assise juste à côté de la mère du défunt qui était très émue et pleurait. J'ai renoncé à mettre en route l'enregistreur et la vidéo, par discrétion. De retour à Kudeng, U pa ka Iba (Rembun Lamin Kashga) m'a proposé d'enregistrer lui-même la prière du rituel et ensuite sur un autre fichier j'ai enregistré ses explications sur celui-ci.</p>
+        <p>Rituel de séparation après la mort d'un conjoint pour le survivant. Lambun Lamin Kashnga dit les prières du rituel, après la cérémonie qui s'est déroulée à Lamin, pour que je les enregistre à Kudeng en dehors des participants dont la mère du défunt était très émue. Ce rituel invoque l'ancêtre du disparu et lui demande la permission de dissoudre le lien du mariage pour que le survivant puisse se remarier et avoir des enfants sans polluer le lien clanique avec les premiers enfants du mariage ; afin aussi que le défunt soit libéré dans l'autre monde.</p>
+           <p> Le rituel a été célébré à Lamin, village voisin de Kudeng sous la direction de woh Tynrui, le représentant religieux. Il avait lieu un an après la mort du jeune mari. Quelques personnes y participaient : la veuve, les parents du mari défunt, 3 personnes de la famille, U pa ka Iba qui est ami de  woh Tynrui et moi. J'étais assise juste à côté de la mère du défunt qui était très émue et pleurait. J'ai renoncé à mettre en route l'enregistreur et la vidéo, par discrétion. De retour à Kudeng, U pa ka Iba (Rembun Lamin Kashnga) m'a proposé d'enregistrer lui-même la prière du rituel et ensuite sur un autre fichier j'ai enregistré ses explications sur celui-ci.</p>
             
             <p class="intertitre">&nbsp;</p>
-            <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA027_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Rituel de séparation après la mort d'un conjoint pour le survivant (2)</a></p>
+           <!-- <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA027_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Rituel de séparation après la mort d'un conjoint pour le survivant (2)</a></p>
      <p class="intertitre">
         Kudeng Thymmai, Meghalaya, Inde, 2015, Lambun Lamin Kashnga, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
         <p>Rituel de séparation après la mort d'un conjoint pour le survivant. Rembun Lamin Kashnga dit le nom du défunt.            </p>
-        <p class="intertitre">&nbsp;</p>
+        <p class="intertitre">&nbsp;</p>-->
             
-            <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA028_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Rituel de séparation après la mort d'un conjoint pour le survivant (3)</a></p>
+            <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA028_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Rituel de séparation après la mort d'un conjoint pour le survivant (2)</a></p>
      <p class="intertitre">
         Kudeng Thymmai, Meghalaya, Inde, 2015, Lambun Lamin Kashnga, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
         <p>Rituel de séparation après la mort d'un conjoint pour le survivant. Rembun Lamin Kashnga explique la signification de ce rituel.</p>
@@ -476,13 +506,13 @@ Ce récit correspond à un des épisodes de la création du monde dans le récit
      <h4 id="war_mawngap">2.e. War de Mawngap</h4>
      <h4 align="center"><br/>
      </h4>
-     <p class="intertitre">Dialecte plus  proche de l'Amwi que les autres variétés de la zone de Nongtalang, voir le récit de Woh Oni qui explique comment les villages de cette zone ont été établis par des amwis puis par une alliance avec les clans Talang. Mawngap 'pierre de miel' se dit aussi Shmawngap dans ce village qui comporte encore beaucoup de pierres dressées.</p>
+     <p class="intertitre">Dialecte plus  proche de l'Amwi que les autres variétés du district de Nongtalang, voir le récit de Woh Oni qui explique comment les villages de ce district ont été établis par des amwis puis par une alliance avec les clans Talang. Mawngap 'pierre de miel' se dit aussi Shmawngap dans ce village, qui comporte encore beaucoup de pierres dressées (menhirs et dolmens).</p>
      <p class="intertitre">&nbsp;</p>
      <p class="intertitre">&nbsp;</p>
-     <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA018_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Loŋ Haj chants de fertilité pour les récoltes (pnars/ wars)</a></p>
+     <p class="intertitre"> <b><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA067_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Loŋ Haj chants de fertilité pour les récoltes (pnars/ wars)</a></b></p>
      <p class="intertitre">
         War de  Mawngap, Markus Pohshna,  dans la maison de sa femme à Kudeng Thymmai, Janvier 2009, Meghalaya, Inde, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
-        <p>A comparer avec les chants de loŋ haj enregistrés en war amwi à Thangbuli  en 2003 de woh De    et avec ceux de Nongtalang, 2009, de Woh Akyi Myrsiang. Tous ces chants traditionnels de fertilité ont des emprunts pnars ou sont directement d'origine pnar comme musʔjaŋ 'pierre des semences', l'Ancêtre de la terre fertile, célébrée par les pnars et les wars </p>
+        <p>A comparer avec les chants de loŋ haj enregistrés en war amwi à Thangbuli  en 2003 de woh De    et avec ceux de Nongtalang, 2009, de Woh Akyi Myrsiang. Tous ces chants traditionnels de fertilité ont des emprunts pnars ou sont directement d'origine pnar comme : musʔjaŋ 'pierre des semences', l'Ancêtre de la terre fertile, célébrée par les pnars et les wars </p>
             
             <p class="intertitre">&nbsp;</p>
             
@@ -495,10 +525,10 @@ Ce récit correspond à un des épisodes de la création du monde dans le récit
             <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA019_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> La guerre entre les gens de Am Ngot et ceux de Am Tedie</a></p>
      <p class="intertitre">War  de Mawngap, Meghalaya, Inde, woh Oni, 2009, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
         
-        <p class="intertitre">Récit : la guerre entre les clans wars de la rivière Am ngot  et les pnars de la rivière Amtadie (un de ses cours d'eau, aussi prononcé Am Leie). Ce récit reprend un conte traditionnel amwi sur une compétition entre ses deux rivières ou plus exactement les clans régulés par ses deux rivières, voir le récit de Soh Tariang à Thangbuli, 2003</p>
+        <p class="intertitre">Récit : la guerre entre les clans wars de la rivière Am ngot  et les pnars de la rivière Amtadie (un de ses cours d'eau, aussi prononcé Am Leie). Ce récit reprend un conte traditionnel amwi sur une compétition entre ces deux rivières, ou plus exactement, les clans régulés par ces deux rivières, voir le récit de Soh Tariang à Thangbuli, 2003</p>
         <p class="intertitre">&nbsp;</p>
         <p class="intertitre">&nbsp;</p>
-        <p class="intertitre"><b>3. War des environs de Sundai</b></p>
+        <p class="intertitre"><b>3. War des environs de Syndai</b></p>
         <br/>
        
      <h4 id="war_mawngap">3.a. War du district  de Syndai</h4>
@@ -522,8 +552,12 @@ Influence pnar et amwi war dans cette variété de war qui a été sous l'influe
            
 
        <p class="intertitre">&nbsp;</p>
-       </p></div>
        
-      
+       </div>
+
+       
+
+     
+
 </body>
 </html>

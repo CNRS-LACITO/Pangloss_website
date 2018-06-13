@@ -193,8 +193,8 @@
         //td_content.append('<a href="javascript:boutonStop()"><img src="http://lacito.vjf.cnrs.fr/pangloss/tools/stop.gif" alt="stop"></a>');
         //td_content.append('<a href="javascript:playFrom(\''+id+'\')"><img src="http://lacito.vjf.cnrs.fr/pangloss/tools/play.gif" alt="écouter"></a>');
         
-        td_content.append('<a href="#" class="boutonStop"><img src="http://lacito.vjf.cnrs.fr/pangloss/tools/stop.gif" alt="stop"></a>');
-        td_content.append('<a href="#" class="playFrom"><img src="http://lacito.vjf.cnrs.fr/pangloss/tools/play.gif" alt="écouter"></a>');
+        td_content.append('<a href="#" class="boutonStop"><img src="http://lacito.vjf.cnrs.fr/images/icones/stop.gif" alt="stop"></a>');
+        td_content.append('<a href="#" class="playFrom"><img src="http://lacito.vjf.cnrs.fr/images/icones/play.gif" alt="écouter"></a>');
         
         
         tr.append(td_content);

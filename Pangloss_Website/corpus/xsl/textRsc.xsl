@@ -68,6 +68,7 @@
 				<lg><xsl:value-of select="dc:subject[@xsi:type='olac:language'][1]"/></lg>
                 <lg_code><xsl:value-of select="dc:subject/@olac:code[1]"/></lg_code>
 				<available><xsl:value-of select="dcterms:available"/></available>
+                <license><xsl:value-of select="dcterms:license"/></license>
                 
              <alternative><xsl:for-each select="dcterms:alternative"><xsl:value-of select="."/> <xsl:if test="position()!=last()"><xsl:text>/ </xsl:text></xsl:if> </xsl:for-each></alternative>
              <url_sound><xsl:value-of select="dc:identifier[starts-with(normalize-space(.), 'http://cocoon.huma-num.fr/data')][1]"/></url_sound>

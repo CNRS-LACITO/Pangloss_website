@@ -12,7 +12,7 @@
 <div class="page-header">
 <h1>Tai Deng (Tay Deng, Tai Daeng, Th&aacute;i Thanh)</h1>
 </div>
-<div class="text-left"> <a href="#Vietnamese"><span
+<div class="text-left"> <a href="Tai_en.htm#Vietnamese"><span
  style="font-style: italic;">Giới
 thiệu bằng tiếng Việt / Pr&eacute;sentation en vietnamien</span></a><br>
 <br>

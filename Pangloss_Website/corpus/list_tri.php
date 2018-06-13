@@ -1806,11 +1806,11 @@ Daladier</a></div>
                 <tr>
                   <td>
                   <p class="intertitre" align="center"><a
- href="languages/Prinmi.php">prinmi</a></p>
+ href="languages/Pumi.php">pumi</a></p>
                   </td>
                   <td>
                   <div align="center"><a
- href="tools/list_rsc.php?lg=Prinmi"><img
+ href="tools/list_rsc.php?lg=Pumi"><img
  src="../images/images_pangloss/haut_parleur_s.png" alt="&eacute;couter" border="0"
  height="20" width="20"></a></div>
                   </td>

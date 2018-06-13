@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <harvest>
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<responseDate>2017-08-28T15:39:47Z</responseDate>
+<responseDate>2018-06-11T14:45:05Z</responseDate>
 <request verb="Identify">http://www.nakala.fr/oai/11280/b5927b13/</request>
 <Identify>
-<oai:repositoryName xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">Repository de Plate-forme COCOON (handle 11280/b5927b13)</oai:repositoryName>
+<oai:repositoryName xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/">Repository de Plate-forme COCOON (COllections de COrpus Oraux Numériques)  (handle 11280/b5927b13)</oai:repositoryName>
 <baseURL>http://www.nakala.fr/oai/11280/b5927b13</baseURL>
 <protocolVersion>2.0</protocolVersion>
 <adminEmail>contact@nakala.fr</adminEmail>
 <earliestDatestamp>2015-01-09T12:35:29Z</earliestDatestamp>
-<deletedRecord>no</deletedRecord>
+<deletedRecord>persistent</deletedRecord>
 <granularity>YYYY-MM-DDThh:mm:ssZ</granularity>
 </Identify>
 </OAI-PMH>
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/                              http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2017-08-28T15:39:47Z</responseDate>
+  <responseDate>2018-06-11T14:45:06Z</responseDate>
   <request verb="ListMetadataFormats">http://www.nakala.fr/oai/11280/b5927b13/</request>
 <ListMetadataFormats>
   <metadataFormat>
@@ -30,7 +30,7 @@
 </ListMetadataFormats>
 </OAI-PMH>
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/">
-<responseDate>2017-08-28T15:39:47Z</responseDate>
+<responseDate>2018-06-11T14:45:06Z</responseDate>
 <request verb="ListSets">http://www.nakala.fr/oai/11280/b5927b13/</request>
 <ListSets>
 <set>
@@ -40,7 +40,6 @@
         <dcterms xmlns="http://www.openarchives.org/OAI/2.0/oai_dcterms/">
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/">ledu</dcterms:title>
             <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/collection/11280/561bf647</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">11280/561bf647</dcterms:identifier>
             <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">11280/b5927b13</dcterms:creator>
         </dcterms>
     </setDescription>
@@ -52,7 +51,6 @@
         <dcterms xmlns="http://www.openarchives.org/OAI/2.0/oai_dcterms/">
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/">adamou</dcterms:title>
             <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/collection/11280/15a380e6</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">11280/15a380e6</dcterms:identifier>
             <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">11280/b5927b13</dcterms:creator>
         </dcterms>
     </setDescription>
@@ -64,7 +62,6 @@
         <dcterms xmlns="http://www.openarchives.org/OAI/2.0/oai_dcterms/">
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/">Vietnamese Attitudes (VnA)</dcterms:title>
             <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/collection/11280/7ad290f8</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">11280/7ad290f8</dcterms:identifier>
             <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">11280/b5927b13</dcterms:creator>
         </dcterms>
     </setDescription>
@@ -76,7 +73,6 @@
         <dcterms xmlns="http://www.openarchives.org/OAI/2.0/oai_dcterms/">
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/">michaud</dcterms:title>
             <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/collection/11280/571e7534</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">11280/571e7534</dcterms:identifier>
             <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">11280/b5927b13</dcterms:creator>
         </dcterms>
     </setDescription>
@@ -88,7 +84,6 @@
         <dcterms xmlns="http://www.openarchives.org/OAI/2.0/oai_dcterms/">
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/">eslo</dcterms:title>
             <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/collection/11280/438104fe</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">11280/438104fe</dcterms:identifier>
             <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">11280/b5927b13</dcterms:creator>
         </dcterms>
     </setDescription>
@@ -100,7 +95,6 @@
         <dcterms xmlns="http://www.openarchives.org/OAI/2.0/oai_dcterms/">
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/">lgidf</dcterms:title>
             <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/collection/11280/d594f92c</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">11280/d594f92c</dcterms:identifier>
             <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">11280/b5927b13</dcterms:creator>
         </dcterms>
     </setDescription>
@@ -112,7 +106,17 @@
         <dcterms xmlns="http://www.openarchives.org/OAI/2.0/oai_dcterms/">
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/">Toutes les données</dcterms:title>
             <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/collection/11280/1dc98198</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">11280/1dc98198</dcterms:identifier>
+            <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">11280/b5927b13</dcterms:creator>
+        </dcterms>
+    </setDescription>
+</set>
+<set>
+    <setSpec>hdl_11280_38a9c9f7</setSpec>
+    <setName>chirkova</setName>
+    <setDescription>
+        <dcterms xmlns="http://www.openarchives.org/OAI/2.0/oai_dcterms/">
+            <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/">chirkova</dcterms:title>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/collection/11280/38a9c9f7</dcterms:identifier>
             <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">11280/b5927b13</dcterms:creator>
         </dcterms>
     </setDescription>
@@ -120,13 +124,13 @@
 </ListSets>
 </OAI-PMH>
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/                              http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2017-08-28T15:39:56Z</responseDate>
+  <responseDate>2018-06-11T14:45:23Z</responseDate>
   <request metadataPrefix="dcterms" set="hdl_11280_571e7534" verb="ListRecords">http://www.nakala.fr/oai/11280/b5927b13/</request>
 <ListRecords>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_c4c3aa5f</identifier>
-        <datestamp>2017-05-14T21:02:46Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_c4c3aa5f</identifier>
+        <datestamp>2018-06-06T18:01:43Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -154,15 +158,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/c4c3aa5f</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/c4c3aa5f</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/c4c3aa5f</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/c4c3aa5f</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_ddd2795d</identifier>
-        <datestamp>2017-05-14T21:02:46Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_ddd2795d</identifier>
+        <datestamp>2018-06-06T18:01:43Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -190,15 +194,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/ddd2795d</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/ddd2795d</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/ddd2795d</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/ddd2795d</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_5d2c791d</identifier>
-        <datestamp>2017-05-14T21:02:46Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_5d2c791d</identifier>
+        <datestamp>2018-06-06T18:01:43Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -226,15 +230,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/5d2c791d</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/5d2c791d</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/5d2c791d</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/5d2c791d</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_5f7ed5fc</identifier>
-        <datestamp>2017-05-14T21:02:48Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_5f7ed5fc</identifier>
+        <datestamp>2018-06-06T18:01:46Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -267,15 +271,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/5f7ed5fc</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/5f7ed5fc</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/5f7ed5fc</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/5f7ed5fc</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_08a81325</identifier>
-        <datestamp>2017-05-14T21:15:26Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_08a81325</identifier>
+        <datestamp>2018-06-06T18:34:06Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -303,15 +307,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/08a81325</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/08a81325</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/08a81325</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/08a81325</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_02aa54d3</identifier>
-        <datestamp>2017-05-14T21:15:26Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_02aa54d3</identifier>
+        <datestamp>2018-06-06T18:34:06Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -339,15 +343,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/02aa54d3</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/02aa54d3</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/02aa54d3</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/02aa54d3</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_fa24d8c7</identifier>
-        <datestamp>2017-05-14T21:15:26Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_fa24d8c7</identifier>
+        <datestamp>2018-06-06T18:34:09Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -386,15 +390,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">DIALOGUES 2: Read dialogues designed for phonetic research into the influence of speaker attitude on the realization of two sentence-final particles in Hanoi Vietnamese. This file is one of 3 original files: it contains the audio for speaker M5 (see description).</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/fa24d8c7</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/fa24d8c7</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/fa24d8c7</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/fa24d8c7</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_02da30a6</identifier>
-        <datestamp>2017-05-14T21:15:26Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_02da30a6</identifier>
+        <datestamp>2018-06-06T18:34:09Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -426,15 +430,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Tone: compound nouns. Body parts of animals 8 to 10, Complements, F4, 2008, with EGG</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/02da30a6</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/02da30a6</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/02da30a6</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/02da30a6</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_64d93361</identifier>
-        <datestamp>2017-05-14T21:27:46Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_64d93361</identifier>
+        <datestamp>2018-06-06T19:05:13Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -462,15 +466,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/64d93361</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/64d93361</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/64d93361</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/64d93361</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_9a3d1904</identifier>
-        <datestamp>2017-05-14T21:27:46Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_9a3d1904</identifier>
+        <datestamp>2018-06-06T19:05:13Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -507,15 +511,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">DIALOGUES 1: Read dialogues designed for phonetic research into the influence of speaker attitude on the realization of two sentence-final particles in Hanoi Vietnamese. This file is an EDITED file, not an original (see description).</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/9a3d1904</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/9a3d1904</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/9a3d1904</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/9a3d1904</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_c16215b7</identifier>
-        <datestamp>2017-05-14T21:27:46Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_c16215b7</identifier>
+        <datestamp>2018-06-06T19:05:13Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -547,15 +551,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/c16215b7</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/c16215b7</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/c16215b7</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/c16215b7</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_7955ec48</identifier>
-        <datestamp>2017-05-14T21:40:12Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_7955ec48</identifier>
+        <datestamp>2018-06-06T19:36:56Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -583,15 +587,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/7955ec48</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/7955ec48</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/7955ec48</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/7955ec48</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_108f9709</identifier>
-        <datestamp>2017-05-14T21:40:12Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_108f9709</identifier>
+        <datestamp>2018-06-06T19:36:56Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -619,15 +623,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/108f9709</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/108f9709</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/108f9709</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/108f9709</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_26b1e236</identifier>
-        <datestamp>2017-05-14T21:40:12Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_26b1e236</identifier>
+        <datestamp>2018-06-06T19:36:56Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -656,15 +660,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/26b1e236</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/26b1e236</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/26b1e236</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/26b1e236</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_fb89764b</identifier>
-        <datestamp>2017-05-14T21:52:36Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_fb89764b</identifier>
+        <datestamp>2018-06-06T20:08:27Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -692,15 +696,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/fb89764b</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/fb89764b</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/fb89764b</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/fb89764b</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_3e005f73</identifier>
-        <datestamp>2017-05-14T21:52:36Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_3e005f73</identifier>
+        <datestamp>2018-06-06T20:08:27Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -728,15 +732,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/3e005f73</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/3e005f73</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/3e005f73</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/3e005f73</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_ea0eab04</identifier>
-        <datestamp>2017-05-14T21:52:36Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_ea0eab04</identifier>
+        <datestamp>2018-06-06T20:08:27Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -764,15 +768,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/ea0eab04</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/ea0eab04</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/ea0eab04</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/ea0eab04</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_bb82e062</identifier>
-        <datestamp>2017-05-14T21:52:38Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_bb82e062</identifier>
+        <datestamp>2018-06-06T20:08:27Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -800,15 +804,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/bb82e062</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/bb82e062</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/bb82e062</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/bb82e062</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_25e1b0e7</identifier>
-        <datestamp>2017-05-14T21:52:38Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_25e1b0e7</identifier>
+        <datestamp>2018-06-06T20:08:27Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -838,15 +842,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="eng">Monosyllabic words read in carrier sentence by consultant F2; reading condition: 'Impatient'</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/25e1b0e7</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/25e1b0e7</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/25e1b0e7</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/25e1b0e7</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_58080849</identifier>
-        <datestamp>2017-05-14T22:05:36Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_58080849</identifier>
+        <datestamp>2018-06-06T20:40:14Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -876,15 +880,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/58080849</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/58080849</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/58080849</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/58080849</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_92be094b</identifier>
-        <datestamp>2017-05-14T22:05:38Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_92be094b</identifier>
+        <datestamp>2018-06-06T20:40:17Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -921,15 +925,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/92be094b</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/92be094b</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/92be094b</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/92be094b</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_5e6102d4</identifier>
-        <datestamp>2017-05-14T22:05:38Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_5e6102d4</identifier>
+        <datestamp>2018-06-06T20:40:17Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -961,15 +965,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Tone: compound nouns. Body parts of animals 12, F4, 2008, with EGG</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/5e6102d4</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/5e6102d4</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/5e6102d4</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/5e6102d4</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_e9c8af74</identifier>
-        <datestamp>2017-05-14T22:05:38Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_e9c8af74</identifier>
+        <datestamp>2018-06-06T20:40:17Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -999,15 +1003,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/e9c8af74</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/e9c8af74</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/e9c8af74</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/e9c8af74</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_17d0ea24</identifier>
-        <datestamp>2017-05-14T22:05:38Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_17d0ea24</identifier>
+        <datestamp>2018-06-06T20:40:17Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1041,15 +1045,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">SmoothTones: The six tones of sonorant-ending syllables of Hanoi Vietnamese, on the syllables /a/ and /ɗa/. Speaker M4</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/17d0ea24</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/17d0ea24</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/17d0ea24</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/17d0ea24</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_128df3f2</identifier>
-        <datestamp>2017-05-14T22:05:38Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_128df3f2</identifier>
+        <datestamp>2018-06-06T20:40:17Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1081,29 +1085,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/128df3f2</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/128df3f2</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/128df3f2</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/128df3f2</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_77e5ed53</identifier>
-        <datestamp>2017-05-14T22:19:48Z</datestamp>
-        <setSpec>hdl_11280_571e7534</setSpec>
-        <setSpec>hdl_11280_1dc98198</setSpec>
-    </header>
-    <metadata>
-        <dcterms:dcterms xmlns:dcterms="http://www.openarchives.org/OAI/2.0/oai_dcterms/">
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/77e5ed53</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/77e5ed53</dcterms:identifier>
-        </dcterms:dcterms>
-    </metadata>
-</record>
-<record xmlns="http://www.openarchives.org/OAI/2.0/">
-    <header>
-        <identifier>oai:nakala.fr:hdl_11280_bdb5c557</identifier>
-        <datestamp>2017-05-14T22:19:50Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_bdb5c557</identifier>
+        <datestamp>2018-06-06T21:12:55Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1131,15 +1121,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/bdb5c557</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/bdb5c557</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/bdb5c557</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/bdb5c557</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_e6aa6e13</identifier>
-        <datestamp>2017-05-14T22:19:50Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_e6aa6e13</identifier>
+        <datestamp>2018-06-06T21:12:55Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1167,15 +1157,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/e6aa6e13</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/e6aa6e13</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/e6aa6e13</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/e6aa6e13</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_7a8c8d91</identifier>
-        <datestamp>2017-05-14T22:19:50Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_7a8c8d91</identifier>
+        <datestamp>2018-06-06T21:12:55Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1203,15 +1193,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/7a8c8d91</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/7a8c8d91</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/7a8c8d91</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/7a8c8d91</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_eb94fe2a</identifier>
-        <datestamp>2017-05-14T22:19:50Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_eb94fe2a</identifier>
+        <datestamp>2018-06-06T21:12:58Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1243,15 +1233,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/eb94fe2a</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/eb94fe2a</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/eb94fe2a</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/eb94fe2a</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_e313e8a4</identifier>
-        <datestamp>2017-05-14T22:27:45Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_e313e8a4</identifier>
+        <datestamp>2018-06-06T21:24:59Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1282,15 +1272,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/e313e8a4</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/e313e8a4</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/e313e8a4</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/e313e8a4</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_f45411a8</identifier>
-        <datestamp>2017-05-14T22:33:05Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_f45411a8</identifier>
+        <datestamp>2018-06-06T21:44:55Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1318,15 +1308,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/f45411a8</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/f45411a8</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/f45411a8</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/f45411a8</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_d86c42c9</identifier>
-        <datestamp>2017-05-14T22:33:05Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_d86c42c9</identifier>
+        <datestamp>2018-06-06T21:44:55Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1354,15 +1344,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/d86c42c9</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/d86c42c9</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/d86c42c9</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/d86c42c9</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_f88d5922</identifier>
-        <datestamp>2017-05-14T22:33:05Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_f88d5922</identifier>
+        <datestamp>2018-06-06T21:44:55Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1392,15 +1382,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/f88d5922</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/f88d5922</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/f88d5922</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/f88d5922</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_b5724122</identifier>
-        <datestamp>2017-05-14T22:33:05Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_b5724122</identifier>
+        <datestamp>2018-06-06T21:44:55Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1435,15 +1425,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">SmoothTones: The six tones of sonorant-ending syllables of Hanoi Vietnamese, on the syllables /a/ and /ɗa/. Speaker M6</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/b5724122</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/b5724122</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/b5724122</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/b5724122</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_0c8797fb</identifier>
-        <datestamp>2017-05-14T22:33:05Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_0c8797fb</identifier>
+        <datestamp>2018-06-06T21:44:59Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1474,15 +1464,44 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/0c8797fb</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/0c8797fb</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/0c8797fb</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/0c8797fb</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_d4524840</identifier>
-        <datestamp>2017-05-14T22:46:07Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_4b36ea9f</identifier>
+        <datestamp>2018-06-06T22:10:56Z</datestamp>
+        <setSpec>hdl_11280_571e7534</setSpec>
+        <setSpec>hdl_11280_1dc98198</setSpec>
+    </header>
+    <metadata>
+        <dcterms:dcterms xmlns:dcterms="http://www.openarchives.org/OAI/2.0/oai_dcterms/">
+            <dcterms:accessRights xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Freely available for non-commercial use</dcterms:accessRights>
+            <dcterms:contributor xmlns:dcterms="http://purl.org/dc/terms/">Michaud, Alexis</dcterms:contributor>
+            <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2002-07-01</dcterms:created>
+            <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">Michaud, Alexis</dcterms:creator>
+            <dcterms:extent xmlns:dcterms="http://purl.org/dc/terms/">PT10M44S</dcterms:extent>
+            <dcterms:format xmlns:dcterms="http://purl.org/dc/terms/">application/octet-stream</dcterms:format>
+            <dcterms:language xmlns:dcterms="http://purl.org/dc/terms/">Naxi</dcterms:language>
+            <dcterms:license xmlns:dcterms="http://purl.org/dc/terms/">http://creativecommons.org/licenses/by-nc-nd/2.5/</dcterms:license>
+            <dcterms:publisher xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="fr">Laboratoire de langues et civilisations à tradition orale</dcterms:publisher>
+            <dcterms:requires xmlns:dcterms="http://purl.org/dc/terms/">http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NXQ_F1_ORIGIN_SOUND</dcterms:requires>
+            <dcterms:subject xmlns:dcterms="http://purl.org/dc/terms/">Naxi</dcterms:subject>
+            <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Origin: the myth of origin of the Naxi people</dcterms:title>
+            <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="fr">Origine: le mythe d'origine des Naxi</dcterms:title>
+            <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="zh">纳西创世纪故事</dcterms:title>
+            <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/4b36ea9f</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/4b36ea9f</dcterms:identifier>
+        </dcterms:dcterms>
+    </metadata>
+</record>
+<record xmlns="http://www.openarchives.org/OAI/2.0/">
+    <header>
+        <identifier>http:__www.nakala.fr_resource_11280_d4524840</identifier>
+        <datestamp>2018-06-06T22:17:33Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1512,15 +1531,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/d4524840</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/d4524840</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/d4524840</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/d4524840</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_31795b91</identifier>
-        <datestamp>2017-05-14T22:46:09Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_31795b91</identifier>
+        <datestamp>2018-06-06T22:17:33Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1548,15 +1567,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/31795b91</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/31795b91</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/31795b91</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/31795b91</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_e2023d43</identifier>
-        <datestamp>2017-05-14T22:46:09Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_e2023d43</identifier>
+        <datestamp>2018-06-06T22:17:33Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1584,15 +1603,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/e2023d43</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/e2023d43</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/e2023d43</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/e2023d43</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_ed68660c</identifier>
-        <datestamp>2017-05-14T22:46:09Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_ed68660c</identifier>
+        <datestamp>2018-06-06T22:17:33Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1620,15 +1639,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/ed68660c</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/ed68660c</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/ed68660c</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/ed68660c</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_ce59191c</identifier>
-        <datestamp>2017-05-14T22:46:09Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_ce59191c</identifier>
+        <datestamp>2018-06-06T22:17:33Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1659,15 +1678,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/ce59191c</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/ce59191c</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/ce59191c</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/ce59191c</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_834b198c</identifier>
-        <datestamp>2017-05-14T22:59:15Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_834b198c</identifier>
+        <datestamp>2018-06-06T22:50:07Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1695,15 +1714,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/834b198c</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/834b198c</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/834b198c</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/834b198c</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_9d2fcc6a</identifier>
-        <datestamp>2017-05-14T22:59:17Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_9d2fcc6a</identifier>
+        <datestamp>2018-06-06T22:50:07Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1742,15 +1761,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">DIALOGUES 2: Read dialogues designed for phonetic research into the influence of speaker attitude on the realization of two sentence-final particles in Hanoi Vietnamese. This file is an EDITED file, not an original (see description).</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/9d2fcc6a</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/9d2fcc6a</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/9d2fcc6a</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/9d2fcc6a</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_56b23d02</identifier>
-        <datestamp>2017-05-14T22:59:17Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_56b23d02</identifier>
+        <datestamp>2018-06-06T22:50:09Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1782,15 +1801,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/56b23d02</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/56b23d02</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/56b23d02</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/56b23d02</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_b7411de3</identifier>
-        <datestamp>2017-05-14T23:11:28Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_b7411de3</identifier>
+        <datestamp>2018-06-06T23:21:40Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1821,15 +1840,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/b7411de3</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/b7411de3</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/b7411de3</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/b7411de3</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_85dfc28c</identifier>
-        <datestamp>2017-05-14T23:11:28Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_85dfc28c</identifier>
+        <datestamp>2018-06-06T23:21:40Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1860,15 +1879,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/85dfc28c</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/85dfc28c</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/85dfc28c</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/85dfc28c</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_5cb7c112</identifier>
-        <datestamp>2017-05-14T23:24:01Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_5cb7c112</identifier>
+        <datestamp>2018-06-06T23:54:38Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1898,15 +1917,15 @@
             <dcterms:subject xmlns:dcterms="http://purl.org/dc/terms/">nxq</dcterms:subject>
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Only daughter</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/5cb7c112</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/5cb7c112</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/5cb7c112</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/5cb7c112</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_b78806a7</identifier>
-        <datestamp>2017-05-14T23:24:01Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_b78806a7</identifier>
+        <datestamp>2018-06-06T23:54:38Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1941,15 +1960,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">DIALOGUES 1: Read dialogues designed for phonetic research into the influence of speaker attitude on the realization of two sentence-final particles in Hanoi Vietnamese. This file is one of 3 original files: it contains the audio for speaker M4 (see description).</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/b78806a7</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/b78806a7</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/b78806a7</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/b78806a7</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_dd4a4092</identifier>
-        <datestamp>2017-05-14T23:24:01Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_dd4a4092</identifier>
+        <datestamp>2018-06-06T23:54:38Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -1983,15 +2002,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">SmoothTones: The six tones of sonorant-ending syllables of Hanoi Vietnamese, on the syllables /a/ and /ɗa/. Speaker M7</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/dd4a4092</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/dd4a4092</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/dd4a4092</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/dd4a4092</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_7b2170f8</identifier>
-        <datestamp>2017-05-14T23:35:58Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_7b2170f8</identifier>
+        <datestamp>2018-06-07T00:26:04Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2026,15 +2045,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">SimulatedDialogues: materials for phonetic research into the influence of speaker attitude on the realization of two sentence-final particles in Hanoi Vietnamese (see description). Speaker M7.</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/7b2170f8</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/7b2170f8</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/7b2170f8</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/7b2170f8</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_391c8e9c</identifier>
-        <datestamp>2017-05-14T23:35:58Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_391c8e9c</identifier>
+        <datestamp>2018-06-07T00:26:04Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2066,15 +2085,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/391c8e9c</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/391c8e9c</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/391c8e9c</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/391c8e9c</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_118275ed</identifier>
-        <datestamp>2017-05-14T23:48:25Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_118275ed</identifier>
+        <datestamp>2018-06-07T00:59:12Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2102,15 +2121,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/118275ed</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/118275ed</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/118275ed</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/118275ed</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_c825cd04</identifier>
-        <datestamp>2017-05-14T23:48:25Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_c825cd04</identifier>
+        <datestamp>2018-06-07T00:59:12Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2138,15 +2157,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/c825cd04</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/c825cd04</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/c825cd04</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/c825cd04</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_394698c4</identifier>
-        <datestamp>2017-05-14T23:48:25Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_394698c4</identifier>
+        <datestamp>2018-06-07T00:59:12Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2176,15 +2195,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/394698c4</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/394698c4</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/394698c4</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/394698c4</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_a3b40e2b</identifier>
-        <datestamp>2017-05-14T23:48:25Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_a3b40e2b</identifier>
+        <datestamp>2018-06-07T00:59:12Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2216,15 +2235,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/a3b40e2b</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/a3b40e2b</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/a3b40e2b</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/a3b40e2b</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_df3bb765</identifier>
-        <datestamp>2017-05-15T00:00:57Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_df3bb765</identifier>
+        <datestamp>2018-06-07T01:29:58Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2252,15 +2271,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/df3bb765</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/df3bb765</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/df3bb765</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/df3bb765</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_0af91bee</identifier>
-        <datestamp>2017-05-15T00:00:57Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_0af91bee</identifier>
+        <datestamp>2018-06-07T01:29:58Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2293,15 +2312,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">SimulatedDialogues: materials for phonetic research into the influence of speaker attitude on the realization of two sentence-final particles in Hanoi Vietnamese (see description). Speaker M6.</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/0af91bee</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/0af91bee</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/0af91bee</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/0af91bee</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_4229eff7</identifier>
-        <datestamp>2017-05-15T00:00:57Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_4229eff7</identifier>
+        <datestamp>2018-06-07T01:30:01Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2333,15 +2352,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/4229eff7</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/4229eff7</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/4229eff7</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/4229eff7</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_8ca9d718</identifier>
-        <datestamp>2017-05-15T00:00:57Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_8ca9d718</identifier>
+        <datestamp>2018-06-07T01:30:01Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2374,15 +2393,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">Tone: compound nouns. Body parts of animals 7, Extensive Set, F4, 2008, with EGG</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/8ca9d718</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/8ca9d718</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/8ca9d718</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/8ca9d718</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_3283045e</identifier>
-        <datestamp>2017-05-15T00:13:44Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_3283045e</identifier>
+        <datestamp>2018-06-07T02:02:58Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2408,15 +2427,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">List of words (Dina)</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/3283045e</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/3283045e</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/3283045e</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/3283045e</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_6b87fc97</identifier>
-        <datestamp>2017-05-15T00:13:44Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_6b87fc97</identifier>
+        <datestamp>2018-06-07T02:03:00Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2444,15 +2463,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/6b87fc97</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/6b87fc97</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/6b87fc97</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/6b87fc97</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_78b6159d</identifier>
-        <datestamp>2017-05-15T00:13:45Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_78b6159d</identifier>
+        <datestamp>2018-06-07T02:03:00Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2482,15 +2501,15 @@
                         (version 2)</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/78b6159d</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/78b6159d</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/78b6159d</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/78b6159d</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_0f5d76a4</identifier>
-        <datestamp>2017-05-15T00:13:45Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_0f5d76a4</identifier>
+        <datestamp>2018-06-07T02:03:00Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2523,15 +2542,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/0f5d76a4</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/0f5d76a4</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/0f5d76a4</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/0f5d76a4</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_4170e157</identifier>
-        <datestamp>2017-05-15T00:26:30Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_4170e157</identifier>
+        <datestamp>2018-06-07T02:34:35Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2559,15 +2578,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/4170e157</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/4170e157</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/4170e157</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/4170e157</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_c6516b62</identifier>
-        <datestamp>2017-05-15T00:26:30Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_c6516b62</identifier>
+        <datestamp>2018-06-07T02:34:35Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2595,15 +2614,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/c6516b62</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/c6516b62</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/c6516b62</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/c6516b62</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_009bdd74</identifier>
-        <datestamp>2017-05-15T00:26:30Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_009bdd74</identifier>
+        <datestamp>2018-06-07T02:34:35Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2637,15 +2656,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/009bdd74</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/009bdd74</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/009bdd74</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/009bdd74</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_9bc734a9</identifier>
-        <datestamp>2017-05-15T00:26:30Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_9bc734a9</identifier>
+        <datestamp>2018-06-07T02:34:35Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2677,15 +2696,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/9bc734a9</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/9bc734a9</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/9bc734a9</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/9bc734a9</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_8114592f</identifier>
-        <datestamp>2017-05-15T00:39:02Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_8114592f</identifier>
+        <datestamp>2018-06-07T03:06:39Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2715,15 +2734,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/8114592f</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/8114592f</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/8114592f</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/8114592f</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_599f32bd</identifier>
-        <datestamp>2017-05-15T00:51:49Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_599f32bd</identifier>
+        <datestamp>2018-06-07T03:40:19Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2758,15 +2777,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">narrative</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/599f32bd</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/599f32bd</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/599f32bd</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/599f32bd</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_27227dbb</identifier>
-        <datestamp>2017-05-15T00:51:49Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_27227dbb</identifier>
+        <datestamp>2018-06-07T03:40:19Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2794,15 +2813,15 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">dialogue</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/27227dbb</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/27227dbb</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/27227dbb</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/27227dbb</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_2b01652b</identifier>
-        <datestamp>2017-05-15T00:51:49Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_2b01652b</identifier>
+        <datestamp>2018-06-07T03:40:19Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2838,15 +2857,15 @@
             <dcterms:title xmlns:dcterms="http://purl.org/dc/terms/" xml:lang="en">SmoothTones: The six tones of sonorant-ending syllables of Hanoi Vietnamese, on the syllables /a/ and /ɗa/. Speaker M5</dcterms:title>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">primary_text</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/2b01652b</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/2b01652b</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/2b01652b</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/2b01652b</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>
 <record xmlns="http://www.openarchives.org/OAI/2.0/">
     <header>
-        <identifier>oai:nakala.fr:hdl_11280_25cb1a3f</identifier>
-        <datestamp>2017-05-15T00:51:49Z</datestamp>
+        <identifier>http:__www.nakala.fr_resource_11280_25cb1a3f</identifier>
+        <datestamp>2018-06-07T03:40:19Z</datestamp>
         <setSpec>hdl_11280_571e7534</setSpec>
         <setSpec>hdl_11280_1dc98198</setSpec>
     </header>
@@ -2878,8 +2897,8 @@
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">EGG</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/">lexicon</dcterms:type>
             <dcterms:type xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dcterms:type>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://hdl.handle.net/11280/25cb1a3f</dcterms:identifier>
-            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://nakala.fr/data/11280/25cb1a3f</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/25cb1a3f</dcterms:identifier>
+            <dcterms:identifier xmlns:dcterms="http://purl.org/dc/terms/">http://www.nakala.fr/resource/11280/25cb1a3f</dcterms:identifier>
         </dcterms:dcterms>
     </metadata>
 </record>

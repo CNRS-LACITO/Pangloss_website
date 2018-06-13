@@ -51,7 +51,7 @@ $chaine) );
 
 	// retourne la liste des textes
 	// la langue est spécifiée par son code langue : $lg et la langue de la page précédente
-	function Xslt_list_texts($lg,$aff_lang, $tri) {
+	function Xslt_list_texts($lg, $name, $aff_lang, $tri) {
 	
 			  if ($tri == 'title'){
 				 $ordre='dc:title';
@@ -69,6 +69,7 @@ $chaine) );
 			  $xsl->load('xsl/listRsc.xsl');
 			  
 			  $xp->setParameter('', 'lg', $lg);
+			  $xp->setParameter('', 'name', $name);
 			  $xp->setParameter('', 'ordre', $ordre);
 			  $xp->setParameter('', 'aff_lang', $aff_lang);
 
@@ -119,7 +120,7 @@ $chaine) );
 /* OUI */		 
 	 // retourne la liste des textes en fonction d'un lieu (dcterms:spatial)
 	// la langue est spécifiée par son code langue : $lg et la langue de la page précédente
-	function Xslt_list_texts_lieu($lg,$aff_lang,$lieu) {
+	function Xslt_list_texts_lieu($lg, $name, $aff_lang,$lieu) {
 	
 			  $xp = new XsltProcessor();
 			  $xsl = new DomDocument;
@@ -127,6 +128,7 @@ $chaine) );
 			  $xsl->load('xsl/listRsc_lieu.xsl');
 			  
 			  $xp->setParameter('', 'lg', $lg);
+			  $xp->setParameter('', 'name', $name);
 			  $xp->setParameter('', 'aff_lang', $aff_lang);
 			  $xp->setParameter('', 'lieu', $lieu);
 
@@ -548,8 +550,8 @@ $chaine) );
 					$north		 = $XML->north;
 					$east		 = $XML->east;
 					$available		 = $XML->available;
-					
-					
+					$license		 = $XML->license;
+										
 			//echo "$north et $east";
 					//echo "son $url_sound et $url_sound_bis et $url_sound_ter";
 				
@@ -604,6 +606,7 @@ $lg_rect=str_replace("\'",'_',$lg_rect) ;
 					$xp->setParameter('', 'north',  $north);
 					$xp->setParameter('', 'east',  $east);
 					$xp->setParameter('', 'available',  $available);
+					$xp->setParameter('', 'license',  $license);
 					
 										
 				

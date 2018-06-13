@@ -217,13 +217,13 @@ Education and Research</span><span style="font-style: italic;">.</span><span
   </tbody>
 </table>
 <p>Last updated 07/2017.<br>
-</p>
+</p><a name="Vietnamese"></a>
 <h2 align="center">Ngữ
 liệu tiếng Tai Yo (Tay Yo,
 Th&aacute;i Mường/Th&aacute;i
 Mương, Th&aacute;i
 H&agrave;ng
-Tổng)<a name="Vietnamese"></a></h2>
+Tổng)</h2>
 Về tiếng Tai Yo,
 mời xem: <br>
 - trang 304-309 của:&nbsp;

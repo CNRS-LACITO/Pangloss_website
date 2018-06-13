@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html class="full"><!-- InstanceBegin template="/Templates/pangloss_template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html><!-- InstanceBegin template="/Templates/pangloss_template.dwt" codeOutsideHTMLIsLocked="false" -->
     <!-- Make sure the <html> tag is set to the .full CSS class. Change the background image in the full.css file. -->
     
     <head>
@@ -27,14 +27,7 @@
         <!-- Custom CSS -->
         <link href="../bootstrap-3.3.6-dist/css/full.css" rel="stylesheet"/>
         
-        <!-- InstanceBeginEditable name="scripts et css" --><script>
-    $(document).ready(function(){
-        $(document.body).css('padding-top', $('#topnavbar').height() + 10);
-        $(window).resize(function(){
-            $(document.body).css('padding-top', $('#topnavbar').height() + 10);
-        });
-    });
-</script>
+        <!-- InstanceBeginEditable name="scripts et css" -->
 <!-- Matthew DEO : intégration du plug-in Eastlingplayer -->    
 
 <script src="./eastling-js/jquery-1.11.0.js"></script>
@@ -42,6 +35,17 @@
 <script src="./eastling-js/eastlingplayer.js"></script>
 <script src="./eastling-js/html5PlayerManager_md.js"></script>
 <script src="./eastling-js/divtotable.js"></script>  
+<script src="../bootstrap-3.3.6-dist/js/bootstrap.min.js" type="text/javascript"></script>
+
+
+<script>
+    $(document).ready(function(){
+        $(document.body).css('padding-top', $('#topnavbar').height() + 10);
+        $(window).resize(function(){
+            $(document.body).css('padding-top', $('#topnavbar').height() + 10);
+        });
+    });
+</script>
 <!-- InstanceEndEditable -->
         
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -296,11 +300,13 @@
         
       
         
-        <table width="100%" height="400">
-<tr><td valign="top">
-    <div class="eastling">             
-            <!--<audio class="eastlingplayer" id="player" src="" controls></audio>-->
-        </div>
+       <link rel="stylesheet" type="text/css" href="../corpus/css/LacitoStyle.css">
+
+
+
+    <div class="eastling"></div>
+
+    
 
         <script>
             var first_play = true;
@@ -339,10 +345,13 @@
                     fillColor: fillColor,
                     fillOpacity: fillOpacity,
                     callback:function(){
-                        
+
+
                         $('.map').maphilight();
                         
-                       $('.eastling').divtotable();
+                        $('.eastling').divtotable();
+                        $('.word_transl').hide();
+
                         
                         //surlignage de la zone sur survol du mot
                         $('.word').bind('mouseover',function(){
@@ -355,6 +364,8 @@
                             $('#'+link).mouseout();
                             word_highlight($(this),false,'','');
                             
+                        }).bind('click',function(){
+                            $(this).find('.word_transl').toggle();
                         });
                         
                         $('area').bind('mouseover',function(){
@@ -384,7 +395,7 @@
         </script>     
         
 
-</td></tr></table>
+
 
 <!-- InstanceEndEditable -->
                 <!--End container-->
@@ -397,9 +408,11 @@
         <br/><br/><br/><br/>
            <div align="left"  class="btn-group dropup"><a href="#top"><button type="button" class="btn btn-default">Haut de page  <span class="caret"></span></button></a></div>
        <hr/>
-      
+       
+       
+      <!-- ATTENTION !! IL FAUT COMMENTER CETTE LIGNE D'APPEL A JQUERY LORSQUE LE TEMPLATE EST A NOUVEAU APPLIQUE A CETTE PAGE !! -->
         <!-- jQuery -->
-        <script src="../bootstrap-3.3.6-dist/js/jquery.js"></script>
+        <!--<script src="../bootstrap-3.3.6-dist/js/jquery.js"></script>-->
         
         <!-- Bootstrap Core JavaScript -->
         <script src="../bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>

@@ -14,8 +14,10 @@
 	<xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
 	
 	<xsl:param name="lg" select="'*'"/>
+    <xsl:param name="name" select="'*'"/>
     <xsl:param name="ordre" select="'*'"/>
     <xsl:param name="aff_lang" select="'*'"/>
+    
    
 
 	
@@ -59,14 +61,14 @@
         		<xsl:variable name="researchers">
         			<xsl:for-each select="dc:contributor[@olac:code='researcher']">
         				<xsl:value-of select="."/>
-        				<xsl:if test="position()!=last()"><xsl:text>; </xsl:text></xsl:if>
+        				<xsl:if test="position()!=last()"><xsl:text> ; </xsl:text></xsl:if>
         			</xsl:for-each>
         		</xsl:variable>
                
                 <xsl:variable name="locutors">
         			<xsl:for-each select="dc:contributor[@olac:code='speaker']|dc:contributor[@olac:code='performer']">
         				<xsl:value-of select="."/>
-        				<xsl:if test="position()!=last()"><xsl:text>; </xsl:text></xsl:if>
+        				<xsl:if test="position()!=last()"><xsl:text> ; </xsl:text></xsl:if>
         			</xsl:for-each>
         		</xsl:variable>
         		
@@ -74,6 +76,8 @@
                 	<xsl:value-of select="substring-after(ancestor::oai:record/oai:header/oai:identifier, 'oai:crdo.vjf.cnrs.fr:')"/>
                 </xsl:variable>
                 
+                
+
                 
         	
                 <xsl:variable name="href">
@@ -163,15 +167,22 @@
                                         </xsl:variable>
                                 <xsl:choose>
                                     <xsl:when test="contains($id2, '_IMG')">
+                                    	<xsl:variable name="id_y">
+                                            <xsl:value-of select="substring-before($id1, '_SOUND')"/>
+                                        </xsl:variable>
+                                    	<xsl:variable name="id_x">
+                                			<xsl:value-of select="substring-before($id2, '_IMG')"/>
+                           				</xsl:variable>
                                         <xsl:if test="$aff_lang='fr'">
                                         	<xsl:if test="//oai:ListRecords/oai:record[oai:header/oai:identifier = $id_tot]/oai:metadata/olac:olac[dc:format='application/pdf']">
                                             	<a href="show_other.php?id={$id1}&amp;idref={$id2}" target="_blank" title="Lire (pdf) et Ecouter">
-                                               <img height="30" width="30" class="sansBordure" src="../../images/icones/pdf_son2.png"/>
+                                               <img height="35" width="35" class="sansBordure" src="../../images/icones/image_son.png"/>
                                             </a>
                                             </xsl:if>
                                             <xsl:if test="//oai:ListRecords/oai:record[oai:header/oai:identifier = $id_tot]/oai:metadata/olac:olac[dc:format='image/jpeg']">
-                                            	<a href="eastling_player.php?idref={$id2}" target="_blank" title="Lire (pdf) et Ecouter">
-                                               <img height="30" width="30" class="sansBordure" src="../../images/icones/pdf_son2.png"/>
+                                            		
+                                            	<a href="eastling_player.php?idref={$id_y}" target="_blank" title="Lire (pdf) et Ecouter">
+                                               <img height="35" width="35" class="sansBordure" src="../../images/icones/image_son.png"/>
                                             </a>
                                             </xsl:if>
                                         </xsl:if>
@@ -182,7 +193,7 @@
                                             	</a>
                                             </xsl:if>
                                              <xsl:if test="//oai:ListRecords/oai:record[oai:header/oai:identifier = $id_tot]/oai:metadata/olac:olac[dc:format='image/jpeg']">
-                                             	<a href="eastling_player.php?idref={$id2}" target="_blank" title="Lire (pdf) et Ecouter">
+                                             	<a href="eastling_player.php?idref={$id_y}" target="_blank" title="Lire (pdf) et Ecouter">
                                               	 <img height="30" width="30" class="sansBordure" src="../../images/icones/pdf_son2.png"/>
                                             	</a>
                                             </xsl:if>
@@ -348,7 +359,8 @@
 				</div>
 				
 			 <div class="col-sm-2 hidden-xs"><xsl:text> </xsl:text>
-             		<xsl:choose>
+             		<xsl:if test="$countResearchers = 1">
+                    <xsl:choose>
 						<xsl:when test="string-length($researcher) &gt; $sizeResearcher">
 							<span title="{$researcher}"><xsl:value-of select="substring($researcher, 0, $sizeResearcher)"/>...</span>
 						</xsl:when>
@@ -356,10 +368,16 @@
 							<span title="{$researcher}"><b style="color:#600"><a href="../corpus/search.php?keywords={$researcher}"><xsl:value-of select="$researcher"/></a></b></span>
 						</xsl:otherwise>
 					</xsl:choose>
-					<xsl:if test="$countResearchers &gt; 1"> et...</xsl:if>
+                    </xsl:if>
+					<xsl:if test="$countResearchers &gt; 1">
+                    	
+                        	<xsl:value-of select="$researchers"/>
+                         
+                    </xsl:if>
+                   
 			</div>
             
-             <div class="col-sm-2 hidden-xs"><xsl:text> </xsl:text>
+             <!--<div class="col-sm-2 hidden-xs"><xsl:text> </xsl:text>
 					<xsl:choose>
 						<xsl:when test="string-length($locutor) &gt; $sizeLocutor">
 							<span title="{$locutor}"><xsl:value-of select="substring($locutor, 0, $sizeLocutor)"/>...</span>
@@ -369,10 +387,26 @@
 						</xsl:otherwise>
 					</xsl:choose>
 					<xsl:if test="$countLocutors &gt; 1"> et...</xsl:if>
+			</div>-->
+            <div class="col-sm-2 hidden-xs"><xsl:text> </xsl:text>
+					<xsl:if test="$countLocutors = 1">
+                    <xsl:choose>
+						<xsl:when test="string-length($locutor) &gt; $sizeLocutor">
+							<span title="{$locutor}"><xsl:value-of select="substring($locutor, 0, $sizeLocutor)"/>...</span>
+						</xsl:when>
+						<xsl:otherwise>
+							<span title="{$locutor}"><xsl:value-of select="$locutor"/></span>
+						</xsl:otherwise>
+					</xsl:choose>
+                    </xsl:if>
+					<xsl:if test="$countLocutors &gt; 1">
+                    	
+                        	<xsl:value-of select="$locutors"/>
+                         
+                    </xsl:if>
 			</div>
             	 
-               </div>
-               
+            </div>
 		
 
         </xsl:for-each>

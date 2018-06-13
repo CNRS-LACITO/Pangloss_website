@@ -44,6 +44,7 @@ doctype-system="about:legacy-compat" indent="yes"/>
         <xsl:param name="east" select="''"/>
         <xsl:param name="north" select="''"/>
         <xsl:param name="available" select="''"/>
+        <xsl:param name="license" select="''"/>
 	<!-- ******************************************************** -->
 
 	<xsl:template match="/">
@@ -161,6 +162,14 @@ doctype-system="about:legacy-compat" indent="yes"/>
                                     	<b>[</b><xsl:value-of select="$spatial_autre"/><b>]</b>
                                     </xsl:if>
                                     
+                                     <xsl:if test="$license!=''">
+                                    <br/>
+                                    <br/>
+                                    	<b>Licence : </b><xsl:value-of select="$license"/>
+                                    
+                                       
+                                    </xsl:if>
+                                    
                                     <br/><br/>
                                     <b><u>Date de mise en ligne</u></b> : <xsl:value-of select="$available"/><br/>
                                    
@@ -185,9 +194,10 @@ doctype-system="about:legacy-compat" indent="yes"/>
                              <xsl:if test="contains($url_sound_ter,'.wav')"><a href="{$url_sound_ter}"><img src="../../images/icones/wav.gif" height="32" width="32"/></a></xsl:if>
                              <xsl:if test="contains($url_sound_bis,'.mp4')"><a href="{$url_sound_bis}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
                              <xsl:if test="contains($url_sound_ter,'.mp4')"><a href="{$url_sound_ter}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
+                             
                            </td>
                             </tr>
-                            <tr><td><br/></td></tr>
+                            <!--<tr><td><br/></td></tr>
                             <tr>
                             <td>
 	                            Fichier <b>Wav</b>
@@ -202,28 +212,58 @@ doctype-system="about:legacy-compat" indent="yes"/>
                                
                                  
                             </td>
-                            </tr>
+                            </tr>-->
                             <tr>
                             <tr><td><br/></td></tr>
-                            <td>
-                            	Fichier <b>MP3</b>  
+                            <!--<td>
+                            	Fichier <b>mp3</b>  
                             </td>
                             <td>
-                            <xsl:if test="contains($url_sound_bis,'.mp3')"><a href="{$url_sound_bis}"><img src="../../images/icones/mp3.png"/></a></xsl:if>
-                            <xsl:if test="contains($url_sound_ter,'.mp3')"><a href="{$url_sound_ter}"><img src="../../images/icones/mp3.png"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_bis,'.mp3')"><a href="{$url_sound_bis}"><img src="../../../images/icones/mp3.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.mp3')"><a href="{$url_sound_ter}"><img src="../../../images/icones/mp3.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_bis,'.ogg')"><a href="{$url_sound_bis}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.ogg')"><a href="{$url_sound_ter}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
+                            
+                            </td>-->
+                             <xsl:if test="contains($url_sound_bis,'.mp3')">
+                            <td>
+                            	Fichier <b>mp3</b>  
+                            </td>
+                            </xsl:if>
+                            
+                             <xsl:if test="contains($url_sound_bis,'.ogg')">
+                             <td>
+                            	Fichier <b>vidéo</b>  
+                            </td>
+                            </xsl:if>
+                             
+                            <td>
+                             <xsl:if test="contains($url_sound_bis,'.mp3')"><a href="{$url_sound_bis}"><img src="../../../images/icones/mp3.png" height="32" width="32"/></a></xsl:if>
+                             <xsl:if test="contains($url_sound_ter,'.mp3')"><a href="{$url_sound_ter}"><img src="../../../images/icones/mp3.png" height="32" width="32"/></a></xsl:if>
                              <xsl:if test="contains($url_sound_bis,'.ogg')"><a href="{$url_sound_bis}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
                              <xsl:if test="contains($url_sound_ter,'.ogg')"><a href="{$url_sound_ter}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
                             
                             </td>
                             </tr>
-                         		<xsl:if test="$url_text!=''">
+                         		<xsl:if test="contains($url_text,'.xml')">
                                 <tr><td><br/></td></tr>
                                 <tr>
                                 <td>
-	                            	Fichier <b>XML</b>
+	                            	Fichier <b>xml</b>
                                 </td>
                                 <td>
-                                 <a href="{$url_text}"><img src="../../images/icones/xml.png"/></a>
+                                 <a href="{$url_text}"><img src="../../../images/icones/xml1.png" height="32" width="32"/></a>
+                                </td>
+                                </tr>
+                            </xsl:if>
+                            <xsl:if test="contains($url_text,'.pdf')">
+                                <tr><td><br/></td></tr>
+                                <tr>
+                                <td>
+	                            	Fichier <b>pdf</b>
+                                </td>
+                                <td> 
+                                 <a href="{$url_text}"><img src="../../../images/icones/pdf2.gif" height="32" width="32"/></a>
                                 </td>
                                 </tr>
                             </xsl:if>
@@ -315,6 +355,15 @@ doctype-system="about:legacy-compat" indent="yes"/>
                                     <br/>
                                     	<b>[</b><xsl:value-of select="$spatial_autre"/><b>]</b>
                                     </xsl:if>
+                                    
+                                    <xsl:if test="$license!=''">
+                                    	<br/>
+                                    	<br/>
+                                    	<b>License: </b><xsl:value-of select="$license"/>
+                                       
+                                        
+                                    </xsl:if>
+                                    
                                    <br/> <br/> 
                                     <b><u>Available online</u></b>: <xsl:value-of select="$available"/><br/>
                                    
@@ -341,7 +390,7 @@ doctype-system="about:legacy-compat" indent="yes"/>
                              <xsl:if test="contains($url_sound_ter,'.mp4')"><a href="{$url_sound_ter}"><img src="../../images/icones/video2.png" height="32" width="32"/></a></xsl:if>
                            </td>
                             </tr>
-                            <tr><td><br/></td></tr>
+                            <!--<tr><td><br/></td></tr>
                             <tr>
                             <td>
 	                            <b>Wav</b> file
@@ -356,12 +405,19 @@ doctype-system="about:legacy-compat" indent="yes"/>
                                
                                  
                             </td>
-                            </tr>
+                            </tr>-->
                             <tr>
                             <tr><td><br/></td></tr>
-                            <td>
+                             <xsl:if test="contains($url_sound_bis,'.mp3')">
+                             <td>
                             	<b>MP3</b> file
                             </td>
+                            </xsl:if>
+                             <xsl:if test="contains($url_sound_bis,'.ogg')">
+                            <td>
+                            	<b>Video</b> 
+                            </td>
+                            </xsl:if>
                             <td>
                             <xsl:if test="contains($url_sound_bis,'.mp3')"><a href="{$url_sound_bis}"><img src="../../images/icones/mp3.png"/></a></xsl:if>
                             <xsl:if test="contains($url_sound_ter,'.mp3')"><a href="{$url_sound_ter}"><img src="../../images/icones/mp3.png"/></a></xsl:if>
@@ -528,11 +584,18 @@ doctype-system="about:legacy-compat" indent="yes"/>
 							
 							</xsl:if>
 						
-							<xsl:if test="TEXT/S/FORM[not(@kindOf)]">
+							<xsl:if test="TEXT/S/FORM[not(@kindOf) or (not(@kindOf='transliter') and not(@kindOf='phone') and not(@kindOf='ortho') and not(@kindOf='phono'))]">
 							
 							
 								<input checked="checked" name="transcription" onclick="javascript:showhide(this, 20, 'inline')"  type="checkbox"/>
-						
+						<xsl:choose>
+									<xsl:when test="$aff_lang='fr'">
+										Autre 
+									</xsl:when>
+									<xsl:otherwise> 
+										Other
+									</xsl:otherwise>
+								</xsl:choose>
 							</xsl:if>
 						
                         </xsl:if>
@@ -604,10 +667,10 @@ doctype-system="about:legacy-compat" indent="yes"/>
 									<input checked="checked" name="translation_other" onclick="javascript:showhide(this, 15, 'block')" type="checkbox"/>
 									<xsl:choose>
 										<xsl:when test="$aff_lang='fr'">
-											<xsl:value-of select="translate($langue_autre,'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>    
+											<xsl:value-of select="$langue_autre"/>    
 										</xsl:when>
 										<xsl:otherwise> 
-											<xsl:value-of select="translate($langue_autre,'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>    
+											<xsl:value-of select="$langue_autre"/>    
 										</xsl:otherwise>
 									</xsl:choose>  
 									
@@ -701,46 +764,46 @@ doctype-system="about:legacy-compat" indent="yes"/>
          					<br/>
          					<xsl:if test="TEXT/TRANSL[@xml:lang='fr']| TEXT/S/TRANSL[@xml:lang='fr']">
          					
-         						<input name="trad_text_fr" onclick="javascript:showhide(this, 27, 'block')"  type="checkbox"/>
+         						<input checked="checked" name="trad_text_fr" onclick="javascript:showhide(this, 27, 'block')"  type="checkbox"/>
          						fr 
          				
          					</xsl:if>
          				
          					<xsl:if test="TEXT/TRANSL[@xml:lang='en'] | TEXT/S/TRANSL[@xml:lang='en']">
          					
-         						<input name="trad_text_en" onclick="javascript:showhide(this, 28, 'block')"  type="checkbox"/>
+         						<input checked="checked" name="trad_text_en" onclick="javascript:showhide(this, 28, 'block')"  type="checkbox"/>
          						en  
          					
          					</xsl:if>
                             
                             <xsl:if test="TEXT/TRANSL[@xml:lang='it'] | TEXT/S/TRANSL[@xml:lang='it']">
          					
-         						<input name="trad_text_it" onclick="javascript:showhide(this, 29, 'block')"  type="checkbox"/>
+         						<input checked="checked" name="trad_text_it" onclick="javascript:showhide(this, 29, 'block')"  type="checkbox"/>
          						it 
          					
          					</xsl:if>
                             
                             <xsl:if test="TEXT/TRANSL[@xml:lang='de'] | TEXT/S/TRANSL[@xml:lang='de']">
          					
-         						<input name="trad_text_de" onclick="javascript:showhide(this, 30, 'block')"  type="checkbox"/>
+         						<input checked="checked" name="trad_text_de" onclick="javascript:showhide(this, 30, 'block')"  type="checkbox"/>
          						de  
          					
          					</xsl:if>
                             <xsl:if test="TEXT/TRANSL[@xml:lang='cn'] | TEXT/S/TRANSL[@xml:lang='cn']">
          					
-         						<input name="trad_text_cn" onclick="javascript:showhide(this, 31, 'block')"  type="checkbox"/>
+         						<input checked="checked" name="trad_text_cn" onclick="javascript:showhide(this, 31, 'block')"  type="checkbox"/>
          						cn 
          					
          					</xsl:if>
                             <xsl:if test="TEXT/TRANSL[@xml:lang='vn'] | TEXT/S/TRANSL[@xml:lang='vn']">
          					
-         						<input name="trad_text_vi" onclick="javascript:showhide(this, 35, 'block')"  type="checkbox"/>
-         						vi  
+         						<input checked="checked" name="trad_text_vn" onclick="javascript:showhide(this, 35, 'block')"  type="checkbox"/>
+         						vn  
          					
          					</xsl:if>
                              <xsl:if test="TEXT/TRANSL[@xml:lang='zh'] | TEXT/S/TRANSL[@xml:lang='zh']">
          					
-         						<input name="trad_text_vi" onclick="javascript:showhide(this, 36, 'block')"  type="checkbox"/>
+         						<input checked="checked" name="trad_text_vi" onclick="javascript:showhide(this, 36, 'block')"  type="checkbox"/>
          						zh 
          					
          					</xsl:if>
@@ -751,10 +814,10 @@ doctype-system="about:legacy-compat" indent="yes"/>
          						<input name="trad_text_other" onclick="javascript:showhide(this, 32, 'block')"  type="checkbox"/>
          						<xsl:choose>
          							<xsl:when test="$aff_lang='fr'">
-         								<xsl:value-of select="translate($langue_autre,'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>    
+         								<xsl:value-of select="$langue_autre"/>    
          							</xsl:when>
          							<xsl:otherwise> 
-         								  <xsl:value-of select="translate($langue_autre,'abcdefghijklmnopqrstuvwxyz','ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>    
+         								  <xsl:value-of select="$langue_autre"/>    
          							</xsl:otherwise>
          						</xsl:choose>  
          					
@@ -766,27 +829,116 @@ doctype-system="about:legacy-compat" indent="yes"/>
                    
                    </div>
 			    
+                
+                
+                
                
 				<xsl:if test="TEXT/S/W[TRANSL or M/TRANSL] | TEXT/S/NOTE">			
 				    
                     	<div class="col-xs-4">
 				        <!-- Cases a cocher mot a mot -->
 				        
+                        <xsl:if test="TEXT/S/W[FORM or M/FORM]">
+		         		
+		         				<xsl:choose>
+		         				<xsl:when test="$aff_lang='fr'">
+		         					Mots  
+		         				</xsl:when>
+		         				<xsl:otherwise> 
+		         					Words
+		         				</xsl:otherwise>
+		         			</xsl:choose>
+		         			<br/>
+		         				<input checked="checked" name="m_form" onclick="javascript:showhide(this, 40, 'block')" type="checkbox"/>
+		         				
+		         			
+         					</xsl:if>
+                        
+                        <br/>
          				<xsl:if test="TEXT/S/W[TRANSL or M/TRANSL]">
 		         		
 		         				<xsl:choose>
 		         				<xsl:when test="$aff_lang='fr'">
-		         					Mot à mot  
+		         					Gloses  
 		         				</xsl:when>
 		         				<xsl:otherwise> 
 		         					Glosses 
 		         				</xsl:otherwise>
 		         			</xsl:choose>
 		         			<br/>
-		         				<input checked="checked" name="interlinear" onclick="javascript:showhide(this, 16, 'inline')" type="checkbox"/>
+                            
+                            
+                            
+                         
+                            
+                            <xsl:if test="TEXT/S/W/M/TRANSL[@xml:lang='fr']| TEXT/S/W/TRANSL[@xml:lang='fr']">
+         					
+         						<input checked="checked" name="m_transl_fr" onclick="javascript:showhide(this, 42, 'block')"  type="checkbox"/>
+         						fr 
+         				
+         					</xsl:if>
+         				
+         					<xsl:if test="TEXT/S/W/M/TRANSL[@xml:lang='en'] | TEXT/S/W/TRANSL[@xml:lang='en']">
+         					
+         						<input checked="checked" name="m_transl_en" onclick="javascript:showhide(this, 41, 'block')"  type="checkbox"/>
+         						en  
+         					
+         					</xsl:if>
+                            
+                            <xsl:if test="TEXT/S/W/M/TRANSL[@xml:lang='it'] | TEXT/S/W/TRANSL[@xml:lang='it']">
+         					
+         						<input checked="checked" name="m_transl_it" onclick="javascript:showhide(this, 44, 'block')"  type="checkbox"/>
+         						it 
+         					
+         					</xsl:if>
+                            
+                            <xsl:if test="TEXT/S/W/M/TRANSL[@xml:lang='de'] | TEXT/S/W/TRANSL[@xml:lang='de']">
+         					
+         						<input checked="checked" name="m_transl_de" onclick="javascript:showhide(this, 43, 'block')"  type="checkbox"/>
+         						de  
+         					
+         					</xsl:if>
+                            <xsl:if test="TEXT/S/W/M/TRANSL[@xml:lang='cn'] | TEXT/S/W/TRANSL[@xml:lang='cn']">
+         					
+         						<input checked="checked" name="m_transl_cn" onclick="javascript:showhide(this, 45, 'block')"  type="checkbox"/>
+         						cn 
+         					
+         					</xsl:if>
+                            <xsl:if test="TEXT/S/W/M/TRANSL[@xml:lang='vn'] | TEXT/S/W/TRANSL[@xml:lang='vn']">
+         					
+         						<input checked="checked" name="m_transl_vn" onclick="javascript:showhide(this, 46, 'block')"  type="checkbox"/>
+         						vn  
+         					
+         					</xsl:if>
+                             <xsl:if test="TEXT/S/W/M/TRANSL[@xml:lang='zh'] | TEXT/S/W/TRANSL[@xml:lang='zh']">
+         					
+         						<input checked="checked" name="m_transl_zh" onclick="javascript:showhide(this, 47, 'block')"  type="checkbox"/>
+         						zh 
+         					
+         					</xsl:if>
+
+         				
+         					<xsl:if test="TEXT/S/W/M/TRANSL[@xml:lang!='fr' and @xml:lang!='en' and @xml:lang!='it' and @xml:lang!='de' and @xml:lang!='cn' and @xml:lang!='vn' and @xml:lang!='zh'] | TEXT/S/W/TRANSL[@xml:lang!='fr' and @xml:lang!='en' and @xml:lang!='it' and @xml:lang!='de' and @xml:lang!='cn' and @xml:lang!='vn' and @xml:lang!='zh']">
+         					<xsl:variable name="langue_autre" select="TEXT/S/TRANSL/@xml:lang"/>
+         						<input checked="checked" name="trad_text_other" onclick="javascript:showhide(this, 32, 'block')"  type="checkbox"/>
+         						<xsl:choose>
+         							<xsl:when test="$aff_lang='fr'">
+         								<xsl:value-of select="$langue_autre"/>    
+         							</xsl:when>
+         							<xsl:otherwise> 
+         								  <xsl:value-of select="$langue_autre"/>    
+         							</xsl:otherwise>
+         						</xsl:choose>  
+         					
+         					</xsl:if>
+                            
+		         				<!--<input checked="checked" name="m_transl" onclick="javascript:showhide(this, 6, 'inline')" type="checkbox"/>-->
 		         				
 		         			
          					</xsl:if>
+                            
+                            
+                  
          				<!-- </div>-->
                         
                         <br/>
@@ -898,11 +1050,18 @@ doctype-system="about:legacy-compat" indent="yes"/>
          							
          						</xsl:if>
          				
-         						<xsl:if test="WORDLIST/W/FORM[not(@kindOf)]">
+         						<xsl:if test="WORDLIST/W/FORM[not(@kindOf)] or WORDLIST/W/FORM[not(@kindOf) or (not(@kindOf='transliter') and not(@kindOf='phone') and not(@kindOf='ortho') and not(@kindOf='phono'))]">
          						
          								
          								<input checked="checked" name="transcription" onclick="javascript:showhide(this, 20, 'inline')"  type="checkbox"/>
-         						
+         						<xsl:choose>
+									<xsl:when test="$aff_lang='fr'">
+										Autre 
+									</xsl:when>
+									<xsl:otherwise> 
+										Other
+									</xsl:otherwise>
+								</xsl:choose>
          						</xsl:if>
          				</div>
                     
@@ -1181,33 +1340,34 @@ doctype-system="about:legacy-compat" indent="yes"/>
                                             
                                         <!-- Recuperation de la phrase -->
                                         <xsl:for-each select="FORM">
+                                        
                                         	<xsl:choose>
-                                        		<xsl:when test="@kindOf">
-                                        	<xsl:if test="@kindOf='phono'">
+                                        		
+                                        	<xsl:when test="@kindOf='phono'">
                                         		<div class="transcription_phono">
                                         		 <xsl:value-of select="."/><br/>
                                         		</div>
                                         		
-                                        	</xsl:if>
-                                        	<xsl:if test="@kindOf='ortho'">
+                                        	</xsl:when>
+                                        	<xsl:when test="@kindOf='ortho'">
                                         		<div class="transcription_ortho">
                                         		<xsl:value-of select="."/><br />
                                         		</div>
                                         		
-                                        	</xsl:if>
-                                        	<xsl:if test="@kindOf='phone'">
+                                        	</xsl:when>
+                                        	<xsl:when test="@kindOf='phone'">
                                         		<div class="transcription_phone">
                                         		<xsl:value-of select="."/><br />
                                         		</div>
                                         		
-                                        	</xsl:if>
-                                        	<xsl:if test="@kindOf='transliter'">
+                                        	</xsl:when>
+                                        	<xsl:when test="@kindOf='transliter'">
                                         		<div class="transcription_translit">
                                         		<xsl:value-of select="."/><br />
                                         		</div>
                                         		
-                                        	</xsl:if>
-                                        		</xsl:when>
+                                        	</xsl:when>
+                                        		
                                         		<xsl:otherwise>
                                                 <div class="transcription">
                                         			<xsl:value-of select="."/><br />
@@ -1296,6 +1456,7 @@ doctype-system="about:legacy-compat" indent="yes"/>
 																<xsl:when test="M/FORM">
 																	<xsl:choose>
 																		<xsl:when test="M/@class='CL'">
+                                                                        <div class="m_form">
 																			<i>
 																				<xsl:for-each select="M/FORM">
 																					<xsl:value-of select="."/>
@@ -1303,22 +1464,24 @@ doctype-system="about:legacy-compat" indent="yes"/>
 																				</xsl:for-each>
 																				
 																			</i>
+                                                                        </div>
 																		</xsl:when>
 																		<xsl:otherwise>  
-
-																		<xsl:for-each select="M/FORM">
+                                                                         
+																			<div class="m_form">
+																				<xsl:for-each select="M/FORM">
 																					<xsl:value-of select="."/>
 																					<xsl:if test="position()!=last()">-</xsl:if>
 																				</xsl:for-each>
-
+																			</div>
 																		</xsl:otherwise>
 																	</xsl:choose>
                                                                     </xsl:when>
 																
 																<xsl:otherwise>
-                                                               
+                                                               <div class="m_form">
                                                                 <xsl:value-of select="FORM"/>
-																	
+																</div>	
 																</xsl:otherwise>
 																
 															</xsl:choose>
@@ -1334,39 +1497,178 @@ doctype-system="about:legacy-compat" indent="yes"/>
 														<td class="word_transl" valign="top">
 														
 															
-															<xsl:choose>
-																<xsl:when test="M/TRANSL">
-															
-                                                           				
-															
-																		<xsl:for-each select="M/TRANSL">
-																			<xsl:value-of select="."/>
-																			<xsl:if test="position()!=last()">-</xsl:if>
-																		</xsl:for-each>
-																
-																	
-																
-																	<xsl:if test="TRANSL">
-																		<br/><xsl:for-each select="TRANSL">
-																			<xsl:value-of select="."/><br/>
-																			<xsl:if test="position()!=last()">-</xsl:if>
-																		</xsl:for-each>
-																		
-																	</xsl:if>
-															</xsl:when>
-                                                            <xsl:when test="TRANSL and not(M/TRANSL)">
-															
-																		<xsl:for-each select="TRANSL">
-																			<xsl:value-of select="."/><br/>
-																			<xsl:if test="position()!=last()">-</xsl:if>
-																		</xsl:for-each>
-																		
-																	
-															</xsl:when>
-																<xsl:otherwise>
-																	
-																</xsl:otherwise>
-															</xsl:choose>
+															                <xsl:choose>
+                    <xsl:when test="M/TRANSL[@xml:lang!='fr' and @xml:lang!='en' and @xml:lang!='it' and @xml:lang!='de' and @xml:lang!='cn' and @xml:lang!='vn' and @xml:lang!='zh'] and TRANSL[@xml:lang!='fr' and @xml:lang!='en' and @xml:lang!='it' and @xml:lang!='de' and @xml:lang!='cn' and @xml:lang!='vn' and @xml:lang!='zh'] ">
+                        
+                        <div class="m_transl_other">
+                            <xsl:value-of select="."/>
+                            <xsl:if test="position()!=last()">-</xsl:if>
+                        </div> 
+                        
+                    </xsl:when>
+                    <xsl:otherwise>
+                    <xsl:choose>
+                         <xsl:when test="M/TRANSL[@xml:lang='en']">
+                         <p>
+                        <xsl:for-each select="M/TRANSL[@xml:lang='en']">
+                            <div class="m_transl_en">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each>
+                        </p>
+                        </xsl:when>
+                        <xsl:otherwise>
+                        	<p>
+                        <xsl:for-each select="TRANSL[@xml:lang='en']">
+                            <div class="m_transl_en">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each>
+                        </p>
+                        </xsl:otherwise>
+                        </xsl:choose> 
+                        <xsl:text> </xsl:text>
+                        <xsl:choose>
+                        <xsl:when test="M/TRANSL[@xml:lang='fr']">
+                         <p>
+                        <xsl:for-each select="M/TRANSL[@xml:lang='fr']">
+                            <div class="m_transl_fr">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each> 
+                        </p>
+                        </xsl:when>
+                        <xsl:otherwise>
+                        	 <p>
+                        <xsl:for-each select="TRANSL[@xml:lang='fr']">
+                            <div class="m_transl_fr">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each> 
+                        </p>
+                        </xsl:otherwise>
+                        </xsl:choose>
+                        <xsl:text> </xsl:text>
+                        <xsl:choose>
+                        <xsl:when test="M/TRANSL[@xml:lang='it']">
+                         <p>
+                        <xsl:for-each select="M/TRANSL[@xml:lang='it']">
+                            <div class="m_transl_it">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each>
+                        </p>
+                        </xsl:when>
+                        <xsl:otherwise>
+                        	 <p>
+                        <xsl:for-each select="TRANSL[@xml:lang='it']">
+                            <div class="m_transl_it">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each>
+                        </p>
+                        </xsl:otherwise>
+                        </xsl:choose>
+                        <xsl:text> </xsl:text>
+                        <xsl:choose>
+                        <xsl:when test="M/TRANSL[@xml:lang='de']">
+                         <p>
+                        <xsl:for-each select="M/TRANSL[@xml:lang='de']">
+                            <div class="m_transl_de">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each>
+                        </p>
+                        </xsl:when>
+                        <xsl:otherwise>
+                        	 <p>
+                        <xsl:for-each select="TRANSL[@xml:lang='de']">
+                            <div class="m_transl_de">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each>
+                        </p>
+                        </xsl:otherwise>
+                        </xsl:choose>
+                        <xsl:text> </xsl:text>
+                        <xsl:choose>
+                        <xsl:when test="M/TRANSL[@xml:lang='cn']">
+                        <p>
+                        <xsl:for-each select="M/TRANSL[@xml:lang='cn']">
+                            <div class="m_transl_cn">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each>
+                        </p>
+                        </xsl:when>
+                        <xsl:otherwise>
+                        	 <p>
+                        <xsl:for-each select="TRANSL[@xml:lang='cn']">
+                            <div class="m_transl_cn">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each>
+                        </p>
+                        </xsl:otherwise>
+                        </xsl:choose>
+                        <xsl:text> </xsl:text>
+                        <xsl:choose>
+                        <xsl:when test="M/TRANSL[@xml:lang='vn']">
+                         <p>
+                        <xsl:for-each select="M/TRANSL[@xml:lang='vn']">
+                            <div class="m_transl_vn">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each>
+                        </p>
+                        </xsl:when>
+                        <xsl:otherwise>
+                        	 <p>
+                        <xsl:for-each select="TRANSL[@xml:lang='vn']">
+                            <div class="m_transl_vn">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each>
+                        </p>
+                        </xsl:otherwise>
+                        </xsl:choose>
+                        <xsl:text> </xsl:text>
+                        <xsl:choose>
+                        <xsl:when test="M/TRANSL[@xml:lang='zh']">
+                         <p>
+                        <xsl:for-each select="M/TRANSL[@xml:lang='zh']">
+                            <div class="m_transl_zh">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each>
+                        </p>
+                        </xsl:when>
+                        <xsl:otherwise>
+                        	<p>
+                        <xsl:for-each select="TRANSL[@xml:lang='zh']">
+                            <div class="m_transl_zh">
+                                <xsl:value-of select="."/>
+                                <xsl:if test="position()!=last()">-</xsl:if>
+                            </div>
+                        </xsl:for-each>
+                        </p>
+                        </xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:otherwise>
+                </xsl:choose>
 														</td>
                                                         </tr>
 																
@@ -1730,6 +2032,16 @@ doctype-system="about:legacy-compat" indent="yes"/>
 			
 			Your browser does not support the audio tag 
 		</video>
+        <script type="text/javascript">
+		var idlist = Array();
+		var timelist_starts = Array();
+		var timelist_ends = Array();
+				<xsl:for-each select="//TEXT/S|WORDLIST/W">
+				idlist.push("<xsl:value-of select="@id"/>");
+				timelist_starts.push(<xsl:value-of select="floor(number(AUDIO/@start)*1000)"/>);
+				timelist_ends.push(<xsl:value-of select="floor(number(AUDIO/@end)*1000)"/>);
+				</xsl:for-each>
+		</script>
         
         <xsl:choose>
 		<xsl:when test="$aff_lang='fr'">

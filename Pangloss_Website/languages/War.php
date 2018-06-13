@@ -171,11 +171,11 @@ Un jour le père va à la pêche dans la rivière et rencontre le gros poisson q
            <p> Après un certain temps le frère cadet finit par retrouver la jeune sorcière devenue reine à la cour du roi. Il prévient le roi qu'elle est sorcière et révèle son point faible : les âmes de son clan sont dans un panier qu'elle cache. Quand le panier est détruit, elle meurt.</p>
            <p> Sens intéressant de cette histoire sur la religion des ancêtres et les bigoteries.</p>
           <br/>
-            <!--<p><b>b) Compétition entre les deux rivières : Am Ngot et Am Tedia</b></p>
+            <p><b>b) Compétition entre les deux rivières : Am Ngot et Am Tedia</b></p>
             <p>
 Les deux rivières délimitent des territoires à la fois wars et pnars à l'Est des territoires khasis. Elles sont décrites dans ce court conte comme les incarnations de deux jeunes femmes qui font la course pour  arriver au plus vite au pied du plateau du Meghalaya au Sud et atteindre le roi de Jaintiapur au Bengladesh. Am Ngot prend sa source près de la grande montagne de Shillong et part très vite  mais s'essouffle en faisant des détours.  Am Tedia, circule sur une pente plus douce et n'est qu'un court d'eau mais va directement vers Jaintiapur. Elle est la gagnante et dirige la partition des terres des clans de cette zone. 
 Avant de devenir la capitale des khasis Shillong était tʃi lɔŋ, 'l'étant Un', l'ancêtre masculin incarné dans la 'grande montagne' pilier mythologique entre la terre et le ciel et  qui donne leur source à plusieurs rivières ancêtres féminins du Meghalaya, qui soit rejoignent la Kalang en Assam sur d'anciens territoires pnars, soit comme Am Ngot rejoignent les territoires wars-pnars. 
-</p>-->
+</p>
            
         
 
@@ -193,12 +193,9 @@ Avant de devenir la capitale des khasis Shillong était tʃi lɔŋ, 'l'étant Un
                     <p class="intertitre">&nbsp;</p>
             
            
-            <p class="intertitre"><!--<a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA060_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> -->           
+            <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA019_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">          
            Compétition entre les deux rivières Am Ngot et Am Tedie
-              
-            
-            
-            <!--</a>--></p>
+            </a></p>
      <p class="intertitre">Thangbuli, Meghalaya, Inde, 2003, Soh Tariang,  <a href="../../membres/daladier.htm">Anne Daladier</a></p>
       
             <p>
@@ -278,19 +275,19 @@ Enregistré à l'origine sur minicassette, d'où la qualité de son un peu moins
   </ul>
   </p>
   <p class="intertitre">&nbsp;</p>
-  <p class="intertitre"><b>Deuxième partie du conte de l'ogresse (le lendemain soir)</b><br/>
+  <p class="intertitre"><b><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA064_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Deuxième partie du conte de l'ogresse (le lendemain soir)</a></b><br/>
     war de Kudeng Thymmai, 31/12/2004, Woh Thakur Pohtam Teang, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
   <p>Woh Thakur dit la seconde partie du très long et très beau conte : le roi qui avait épousé une ogresse.</p>
   <p>Un roi qui avait perdu sa femme et avait un fils épouse une jeune femme apparemment très prude mais qui se révèle être une ogresse. Elle conserve une boite géante que personne ne peut ouvrir où se trouvent ses 4 maris-démons. Le fils, plus intelligent que son père découvre qu'elle est une ogresse. Son père ne le croit pas. L'ogresse prétend être malade et exige le sacrifice du fils pour manger son foi et guérir.  Le roi hésite et consent. Un ancien sauve le fils en donnant le foi d'un chien à l'ogresse. Le fils s'enfuit dans un autre pays. Il est un pauvre berger  et les démons le poursuivent mais il devient de plus en plus intelligent pour leur échapper, acquiert des pouvoirs surnaturels,  tue les démons et devient le roi </p>
   <p class="intertitre">&nbsp;</p>
   <p class="intertitre">&nbsp;</p>
-  <p class="intertitre"><b>Rituel pour la guérison d'une fillette gravement malade  en oblation à Rɔntʃəndi </b><br/>
+  <p class="intertitre"><b><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA065_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Rituel pour la guérison d'une fillette gravement malade  en oblation à Rɔntʃəndi</a> </b><br/>
     war de Kudeng Thymmai, Meghalaya, Inde, 20.1.2005, Thakur Pohtam Teang responsable religieux et les participants du rituel, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
   <p>Le rituel se déroule d'abord dans la maison de la famille avec prières et offrandes (riz dans des feuilles de l'arbre sacré 'lamet') et ensuite à l'extérieur de la maison. Woh Monti sacrifie une chèvre, puis trois poules et un oeuf.  Prières avant et après le sacrifice, puis après le festin collectif. Les augures sur la bonne fortune de la guérison sont lues dans l'intestin des animaux sacrifiées.   Voir les photos du rituels correspondant aux différentes phases du rituel, woh Monti coupe la tête de la chèvre, puis les cous des poules,  les ingrédients,  le festin collectif final avec les animaux sacrifiés. Prières finales. Ensuite explications sur le sens des phases du rituel.</p>
   <p> Le lendemain du rituel, woh Thakur enregistre à voix claire dans sa maison les prières du rituel. </p>
   <p>&nbsp;</p>
   <p class="intertitre"></p>
-  <p class="intertitre"><b>La religion des Ancêtres</b><br/>
+  <p class="intertitre"><b><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA063_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">La religion des Ancêtres</a></b><br/>
     war de Kudeng Thymmai, 5/ 12/ 2005, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
   <p>Woh Thakur Pohtam Teang donne la suite des explications sur les principaux aspects de la religion des ancêtres aidé par woh Monti</p>
   <p>Comment se sont créés les ʃurɛt 'ancêtres protecteurs des clans, ancêtres protecteurs des villages, ancêtres protecteurs des districts et la formation des villages
@@ -405,7 +402,7 @@ Le parler de Nongbareh et Lamin est plus innovateur que les autres parlers wars 
          <ul>
          <li><b>a) explications sur le peuplement de la région de Nongbareh</b>
          <br/>
-Complète et corrobore les explications données par Monti Pohtam Chyrnia sur les clans fondateurs des villages dans le district de Nongtalang. Les clans principaux de Nongbareh sont pour les wars d'origine Sumer et Suchiang (ou Suchen)  et pour les wars, Talang, Pohlong et Pohtam. Le clan war Myrchiang est issu de Suchiang.  Les wars ont fait alliance avec les pnars sur leurs terres (voir par exemple la rivière Am Lamar du nom du clan pnar Lamare). Les mariages sont exoclaniques et associent wars et pnars.</li>
+Complète et corrobore les explications données par Monti Pohtam Chyrnia sur les clans fondateurs des villages dans le district de Nongtalang. Les clans principaux de Nongbareh sont pour les pnars d'origine Sumer et Suchiang (ou Suchen)  et pour les wars, Talang, Pohlong et Pohtam. Le clan war Myrchiang est issu de Suchiang.  Les wars ont fait alliance avec les pnars sur leurs terres (voir par exemple la rivière Am Lamar du nom du clan pnar Lamare). Les mariages sont exoclaniques et associent wars et pnars.</li>
 <li><b> b) explications sur le rituel de crémation et le rituel de réunification des os. </b><br/>
 Quand les clans fondateurs partent cultiver de nouvelles terres et fonder de nouveaux villages, ils emportent une gourde d'eau de leur rivière clanique et après consultation des augures, ils la verse dans l'eau de la rivière du nouveau village, leur ancêtre s'y incarne.</li>
 <li><b>c) explication sur le clan et la génération matrilinéaire des humains </b></li>
@@ -510,7 +507,7 @@ Ce récit correspond à un des épisodes de la création du monde dans le récit
      <p class="intertitre">Dialecte plus  proche de l'Amwi que les autres variétés du district de Nongtalang, voir le récit de Woh Oni qui explique comment les villages de ce district ont été établis par des amwis puis par une alliance avec les clans Talang. Mawngap 'pierre de miel' se dit aussi Shmawngap dans ce village, qui comporte encore beaucoup de pierres dressées (menhirs et dolmens).</p>
      <p class="intertitre">&nbsp;</p>
      <p class="intertitre">&nbsp;</p>
-     <p class="intertitre"> <b>Loŋ Haj chants de fertilité pour les récoltes (pnars/ wars)</b></p>
+     <p class="intertitre"> <b><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-AML_ADA067_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Loŋ Haj chants de fertilité pour les récoltes (pnars/ wars)</a></b></p>
      <p class="intertitre">
         War de  Mawngap, Markus Pohshna,  dans la maison de sa femme à Kudeng Thymmai, Janvier 2009, Meghalaya, Inde, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
         <p>A comparer avec les chants de loŋ haj enregistrés en war amwi à Thangbuli  en 2003 de woh De    et avec ceux de Nongtalang, 2009, de Woh Akyi Myrsiang. Tous ces chants traditionnels de fertilité ont des emprunts pnars ou sont directement d'origine pnar comme : musʔjaŋ 'pierre des semences', l'Ancêtre de la terre fertile, célébrée par les pnars et les wars </p>

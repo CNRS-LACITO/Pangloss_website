@@ -39,10 +39,13 @@ foreach ($xml->children() as $op) {
             $dc_identifier = $tag_dc->identifier;
             
             $dcterms_requires = $tag_dcterms->requires;
+            $dcterms_isRequiredBy = $tag_dcterms->isRequiredBy;
+
             
             foreach($dcterms_requires as $requires){
-                $id_requires = $prefixe_id;
-                $id_requires .= $requires->__toString();
+                //$id_requires = $prefixe_id;
+                //$id_requires .= $requires->__toString();
+                $id_requires = $requires->__toString();
                 
                 foreach ($xml->children() as $op2) {
                     foreach($op2->ListRecords->record as $record2){
@@ -55,11 +58,41 @@ foreach ($xml->children() as $op) {
 
                             $type = $tag_dc2->type->__toString();
 
-                            if($type == "Image"){
-                               $url_image[] = $tag_dcterms2->isFormatOf->__toString();  
-                            }elseif($type == "Sound"){
+                            if($type == "Sound"){
+                               $url_audio = $tag_dc2->identifier->__toString(); 
+                            }
+                            /*correction Matthew DEO changement de format
+                            elseif($type == "Sound"){
                                $url_audio = $tag_dcterms2->isFormatOf->__toString(); 
                             }
+                            */
+                        }
+                    }
+                }
+            }
+            
+            //correction Matthew DEO changement de format 
+            foreach($dcterms_isRequiredBy as $isRequiredBy){
+                $id_isRequiredBy = $isRequiredBy->__toString();
+                
+                foreach ($xml->children() as $op3) {
+                    foreach($op3->ListRecords->record as $record3){
+                        if($id_isRequiredBy == $record3->header->identifier->__toString()){
+                            $tag_olac3 = $record3->metadata->children('olac', TRUE);
+                            $olac3 = $tag_olac3->olac;
+
+                            $tag_dc3 = $olac3->children('dc', TRUE);
+                            $tag_dcterms3 = $olac3->children('dcterms', TRUE);
+
+                            $type = $tag_dc3->type->__toString();
+
+                            
+                            if($type == "Image"){
+                               //correction Matthew DEO changement de format 
+                               //$url_image[] = $tag_dcterms2->isFormatOf->__toString(); 
+                               $url_image[] = $tag_dc3->identifier->__toString(); 
+                            }
+                            
                         }
                     }
                 }
@@ -239,7 +272,7 @@ foreach ($xml->S as $sentence) {
     }
 
     foreach ($sentence->AREA as $area) {
-        $position = explode(',', $area->__toString());
+        $position = explode(',', $area->attributes()->coords->__toString());
         $w = intval($position[2]) - intval($position[0]);
         $h = intval($position[3]) - intval($position[1]);
         $selection["areas"][] = array(
@@ -290,7 +323,7 @@ foreach ($xml->S as $sentence) {
         }
 
         foreach ($word->AREA as $area) {
-            $position = explode(',', $area->__toString());
+            $position = explode(',', $area->attributes()->coords->__toString());
             $w = intval($position[2]) - intval($position[0]);
             $h = intval($position[3]) - intval($position[1]);
             $selection2["areas"][] = array(

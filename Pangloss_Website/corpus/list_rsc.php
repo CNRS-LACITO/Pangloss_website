@@ -21,7 +21,60 @@
         <!-- Custom CSS -->
         <link href="../bootstrap-3.3.6-dist/css/full.css" rel="stylesheet"/>
         
-        <!-- InstanceBeginEditable name="scripts et css" --><script>
+        <!-- InstanceBeginEditable name="scripts et css" -->
+<style>
+        /* Center the loader */
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  z-index: 1;
+  margin: -75px 0 0 -75px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 75px;
+  height: 75px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 } 
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom { 
+  from{ bottom:-100px; opacity:0 } 
+  to{ bottom:0; opacity:1 }
+}
+
+#myDiv {
+  display: none;
+  text-align: center;
+}
+</style>
+		
+		<script>
     $(document).ready(function(){
         $(document.body).css('padding-top', $('#topnavbar').height() + 10);
         $(window).resize(function(){
@@ -40,7 +93,10 @@
         <!--<style>#menu a{color: white;}</style>-->  
     </head>
     
-    <body>
+    <body onload="myFunction()" style="margin:0;">
+     <div id="loader"></div>
+
+		<div style="display:none;" id="myDiv" class="animate-bottom">
         
         <div  id="top" class="row total">
             <div class="col-md-1 col-lg-1"></div>
@@ -149,7 +205,7 @@
                             <div class="form-group">
                                 
                             
-                                	<input name="keywords" type="search" class="input-sm form-control" placeholder="Recherche"/>
+                                	<input type="search" name="keywords" class="input-sm form-control" placeholder="Recherche"/>
      							
                                		<button type="submit" class="btn btn-primary btn-xs"> Rechercher</button>		
             				                   
@@ -272,7 +328,7 @@
 <div>&nbsp;</div>
 </div>
 
-<div class="col-md-4" align="right">
+<div class="col-md-4">
                  <div class="panel-group">      
             <div class="panel panel-default">        
                 <div class="panel-heading" style="background-color:#F8E2D3">
@@ -284,167 +340,27 @@
         </div>
                 
                 </div>
-  <div class="hidden-xs">
-  <div>&nbsp;</div>      
-  </div>        
-                
- <div class="page-header">
+<div class="hidden-xs">
+<div>&nbsp;</div>      
+</div>                        
   
 	<?php
 	
-$array = array(
-"Arem" => "arem",
-"Mường" => "mường",
-"Ngazidja" => "ngazidja",
-"Nyilamba" => "ihanzu",
-"Langi" => "langi",
-"Maore" => "mahorais",
-"Mankon" => "mankon",
-"Mbugwe" => "mbugwe",
-"Nyilamba" => "nyilamba",
-"Ouldeme" => "ouldémé",
-"Wayana" => "wayana",
-"Yucuna" => "yucuna",
-"Bahing" => "bahing",
-"Birman" => "birman",
-"Chang Naga" => "chang naga",
-"Cuối Chăm" => "cuối chăm",
-"Hayu" => "hayu",
-"Japhug" => "japhug",
-"Khaling" => "khaling",
-"Koyi Rai" => "koyi rai",
-"Kurde central" => "kurde central",
-"Lahu" => "lahu",
-"Lazé" => "lazé",
-"Limbu" => "limbu",
-"Mizo" => "mizo",
-"Na" => "na",
-"Naxi" => "naxi",
-"Nepali" => "nepali",
-"Prinmi" => "prinmi",
-"Tamang" => "tamang",
-"Thulung Rai" => "thulung rai",
-"Vietnamese" => "vietnamien",
-"Romani" => "Romani",
-"Bulgaro-Macédonien" => "bulgaro-macédonien",
-"Croate du Burgenland" => "Croate du Burgenland",
-"Na-našu" => "Na-našu",
-"Nashta" => "Nashta",
-"Sorabe supérieur (courant)" => "sorabe supérieur (courant)",
-"Abzakh" => "abzakh",
-"Bjedug" => "bjedough",
-"Shapsug" => "chapsough",
-"Laze" => "laz",
-"Ubykh" => "oubykh",
-"Yemeni Arabic" => "arabe yéménite",
-"Bwatoo" => "bwatoo",
-"Cemuhî" => "cèmuhî",
-"Drehu" => "drehu",
-"Fagauvea" => "fagauvea",
-"Futunien" => "futunien",
-"Ajië" => "ajië",
-"Iaai" => "iaai",
-"Kwênyii" => "kwênyïï",
-"Nêlêmwa" => "nêlêmwa",
-"Nemi" => "nemi",
-"Numèè" => "numèè",
-"Paicî" => "paicî",
-"Pije" => "pijé",
-"Xârâcùù" => "xârâcùù",
-"Xârâgurè" => "xârâgurè",
-"Yuanga" => "yuanga",
-"Araki" => "araki",
-"Bislama" => "bislama",
-"Dorig" => "dorig",
-"Hiw" => "hiw",
-"Koro" => "koro",
-"Lakon" => "lakon",
-"Lehali" => "lehali",
-"Lemerig" => "lemerig",
-"Lo-Toga" => "lo-toga",
-"Lovono" => "lovono",
-"Löyöp" => "löyöp",
-"Mota" => "mota",
-"Mwerlap" => "mwerlap",
-"Mwesen" => "mwesen",
-"Mwotlap" => "mwotlap",
-"Nume" => "nume",
-"Olrat" => "olrat",
-"Tanema" => "tanema",
-"Tanimuca" => "tanimuca",
-"Teanu" => "teanu",
-"Tikopia" => "tikopia",
-"Tok Pisin" => "tok pisin",
-"Vera'a" => "vera'a",
-"Vurës" => "vurës",
-"Futunien" => "futunien",
-"Wallisien" => "wallisien",
-"Tai Deng" => "tai deng",
-"Tai Don" => "tai don",
-"Tai Paw" => "tai paw",
-"Tai Yo" => "tai yo",
-"Tay Khang" => "tay khang",
-"Saek" => "saek",
-"Khün" => "khün",
-"Lyngam" => "lyngam",
-"War" => "war",
-"Phong Nha" => "phong nha",
-"Kha Phong" => "kha phong",
-"Malang" => "malang",
-"Maleng Brô" => "maleng brô",
-"Malieng" => "malieng",
-"Pakatan" => "pakatan",
-"Rục" => "rục",
-"Sách" => "sách",
-"Salang" => "salang",
-"Aheu" => "aheu",
-"Thavung" => "thavung",
-"Thổ" => "thổ",
-"Cao Lao Hạ" => "cao lao hạ",
-"Chứt" => "chứt",
-"Khmu" => "khmu",
-"Phunoi" => "phunoi",
-"Tampuan" => "tampuan",
-"Bru" => "bru",
-"Pear" => "pear",
-"Chong Heup" => "chong heup",
-"Chong Lo" => "chong lo",
-"Chong Tratt" => "chong tratt",
-"Samre" => "samre",
-"Phay" => "phay",
-"Nya-heun" => "nya-heun",
-"Laven" => "laven",
-"Mon" => "mon",
-"Palaong" => "palaong",
-"Kháng" => "kháng",
-"Ksing Mun" => "ksing mun",
-"Makong dialect of Bru" => "makong (dialecte du Brou)",
-"Mảng" => "mảng",
-"Nyaheun" => "nyaheun",
-"Cardamom Khmer" => "khmer des Cardamomes",
-"Krom Khmer" => "khmer krom",
-"Ixcatec" => "ixcatèque",
-"Pnar" => "pnar",
-"Car-Nicobarais" => "car-nicobarais",
-);
-		require_once ('xsl/fonctions_Xslt.php');
-	  $lgue=  isset($_GET["lg"])    ? $_GET["lg"]    : "*";
-	
-	  $lg=  isset($_GET["lg"])    ? $_GET["lg"] : "*";
-	  
-	  $lieu=  isset($_GET["lieu"])    ? $_GET["lieu"] : "*";
-	  
-	  $tri=  isset($_GET["tri"])    ? $_GET["tri"] : "*";
 
-	 $aff= $array[$lg];
+	  require_once ('xsl/fonctions_Xslt.php');
+	  $lgue =  isset($_GET["name"])    ? $_GET["name"]    : "*";	
+	  $lg =  isset($_GET["lg"])    ? $_GET["lg"] : "*";	  
+	  $lieu = isset($_GET["lieu"])    ? $_GET["lieu"] : "*";	  
+	  $tri =  isset($_GET["tri"])    ? $_GET["tri"] : "*";
+	  $aff = $lg;
 
 
-$lg=str_replace(explode(' ', 'à á â ã ä ă ạ ả ç è é ê ë ì í î ï ñ ò ó ô õ ö ố ờ ổ ờ ù ú û ü ứ ụ ư ư š ý ÿ À Á Â Ã Ä Ç È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ù Ú Û Ü Ý'),
-				explode(' ', 'a a a a a a a a c e e e e i i i i n o o o o o o o o o u u u u u u u u s y y A A A A A C E E E E I I I I N O O O O O U U U U Y'),
+	 if ($lg == "Laze") { $lg = "Laz";}
+	 
+
+$lg=str_replace(explode(' ', 'à á â ã ä ă ạ ả ç è é ê ë ì í î ï ñ ò ó ô õ ö ố ờ ổ ù ú û ü ứ ụ ư š ý ÿ À Á Â Ã Ä Ç È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ù Ú Û Ü Ý'),
+				explode(' ', 'a a a a a a a a c e e e e i i i i n o o o o o o o o u u u u u u u s y y A A A A A C E E E E I I I I N O O O O O U U U U Y'),
 $lg) ;
-
- 
-
 $lg=str_replace(' ','_',$lg) ;
 $lg=str_replace("\'",'_',$lg) ;
 
@@ -452,14 +368,20 @@ $aff=str_replace("\'","'",$aff) ;
 
 	
 			
-			 if ($lg == "Futunien"){
+			if ($lg == "Futunien"){
 					$lg1="East_Futunan";
+	 		}
+			else if ($lg == "Fagauvea"){
+					$lg1="fagauvea";
+	 		}
+			else if ($lg == "Wallisien"){
+				$lg1="East_Uvean";
 	 		}
 			else if ($lg == "Kurde_central"){
 					$lg1="Kurdish";
 	 		}
-			else if ($lg == "Wallisien"){
-				$lg1="East_Uvean";
+			else if ($lg == "Birman"){
+				$lg1="Burmese";
 	 		}
 			else if ($lg == "Bulgaro-Macedonien"){
 				$lg1="Bulgarian_Macedonian";
@@ -473,6 +395,9 @@ $aff=str_replace("\'","'",$aff) ;
 			else if ($lg == "Chang_naga"){
 				$lg1="Chang_Naga";
 	 		}
+			else if ($lg == "Makong dialect of Bru"){
+				$lg1="makong (dialecte du Brou)";
+	 		}
 			else {$lg1=$lg;}
 		
 	
@@ -483,13 +408,21 @@ $aff=str_replace("\'","'",$aff) ;
 	
 
 ?>
+	  <div class="row">
+    	<div class="col-md-12">
 		<div class="panel-group">      
             <div class="panel panel-default">        
                 <div class="panel-heading" style="background-color:#EBDEED">
-                    <h4 class="panel-title">
+                    <h4 class="panel-title" align="center">
                         <a data-toggle="collapse" href="#langue"><b>
                       
-                         <?php echo "$lg";			
+                         <?php 
+						 if ($lgue != "*"){
+						 echo "$lgue";		
+						 }
+						 else {
+						 echo "$lg";	 
+						 }
 						?>
                         <b class="caret"></b></b></a>
                     </h4>
@@ -509,19 +442,9 @@ $aff=str_replace("\'","'",$aff) ;
                 </div>
             </div>
         </div>
-<?php
-	
-
-	?>
-  
+     </div>
+   </div>
     
-
-    
-    
-    
-   
-
-</div>
 
  <div class="table text-left">
   <table class="table-responsive" border="0">
@@ -541,12 +464,13 @@ $aff=str_replace("\'","'",$aff) ;
 		<td><img src="../../images/icones/egg2.jpg" width="25" height="25"/></td>
         <td>&nbsp;&nbsp;Accès au <b>fichier EGG</b> </td>
     </tr>
+    <tr> 
+		<td><img src="../../images/icones/video.png" width="25" height="25"/></td>
+        <td>&nbsp;&nbsp;Vidéo</td>
+    </tr>
   </table>
   </div>
-
-
-
-   
+ 
 	<?php
 		require_once ('xsl/fonctions_Xslt.php');
 		/*$aff=  isset($_GET["lg"])    ? utf8_encode($_GET["alg"])    : "*";*/
@@ -593,10 +517,10 @@ $aff=str_replace("\'","'",$aff) ;
 	
 			
 			if ($lieu!="*"){
-				Xslt_list_texts_lieu($lg, 'fr', $lieu, $tri);
+				Xslt_list_texts_lieu($lg, $name, 'fr', $lieu, $tri);
 			}
 			else {
-				Xslt_list_texts($lg, 'fr', $tri);	
+				Xslt_list_texts($lg, $name, 'fr', $tri);	
 			}
 	
 	echo "</div>";	
@@ -612,11 +536,21 @@ $aff=str_replace("\'","'",$aff) ;
 	
 	//echo "</div>";
 	?>
-
-
+    </div>
 	
 	 
-	
+	<script>
+var myVar;
+
+function myFunction() {
+    myVar = setTimeout(showPage, 3000);
+}
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
+</script>
 
       <!-- InstanceEndEditable -->
                 <!--End container-->

@@ -1,0 +1,277 @@
+/*!
+ * Start Bootstrap - Full HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 100px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+	margin-left:5px;
+	margin-right:5px;
+	text-align:center;
+	position: relative;
+}
+
+ul.nav-pills {
+      top: 20px;
+      position: fixed;
+}
+  
+div.col-sm-10 div {
+      height: 250px;
+      font-size: 28px;
+}
+
+.container{
+	background-color:#FFF;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:10%;
+    position:relative;
+}
+
+/*.map-responsive iframe{
+	left:2px;
+	top:-62px;
+	height:175px;
+	width:429px;
+	position:absolute;
+}*/
+.embed-responsive {
+    position: relative;
+    display: block;
+    height: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.total{
+	background-color:#F2F7FF;
+	resize:both;
+}
+
+.navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+		text-align:center;
+				
+}
+
+/* Classe principale de la barre de navigation */
+.navbar-default {
+/* Couleur de fond de la barre de navigation */
+	background-color:#FFF;
+	border-color: #E7E7E7;
+	text-align:center;		
+}
+/* Couleur des titres affichés dans la barre */
+.navbar-default .navbar-brand {
+color:#000;
+}
+/* Couleur utilisée pour les liens */
+.navbar-default .navbar-nav > li > a {
+color:#000;
+background-color:#97CDE8;
+}
+
+.barre-navig-tot{
+	/*#D8E9FE ou #97CDE8;*/
+    background-color:#97CDE8;
+	
+	padding-right:10px;
+	padding-left:10px;
+}
+
+/* Couleur utilisée pour les liens lorsque la souris passe dessus */
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+color:#0080C0;
+background-color:#97CDE8;
+}
+/* Couleur utilisée pour le lien actif (celui qui est affiché sur la page) */
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+color: #555;
+background-color: #E7E7E7;
+}
+/* Couleur utilisée pour un menu dépliant lorsqu'il est ouvert */
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+color:#000;
+background-color:#0080C0;
+}
+/* Caret */
+.navbar-default .navbar-nav > .dropdown > a .caret {
+border-top-color:#000;
+border-bottom-color:#000;
+}
+/* Dropdown-header */
+.dropdown-header {
+	color:#777;
+}
+/* Dropdown-menu */
+.dropdown-menu > li > a{
+	color:#000;
+}
+
+.dropdown{
+	font-size:15px;
+	/*font-family:"Comic Sans MS", cursive;*/
+	font-family:Tahoma, Geneva, sans-serif;
+}
+/* Version mobile, le menu devient une icône qui déroule une liste avec le menu en vertical */
+.navbar-default .navbar-toggle {
+border-color: #DDD;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+background-color: #DDD;
+}
+.navbar-default .navbar-toggle .icon-bar {
+background-color: #000;
+}
+@media (max-width: 767px) {
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+color: #000;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+color: #333;
+}
+}
+
+
+.al {
+	text-align:center;	
+}
+ 
+.accueil {
+	color:#000;
+}
+
+.menu {
+	color:#000;
+}
+
+.drapeau{
+	alignment-baseline:central;
+	margin-left:5px;
+}
+
+
+.li_espace{
+	margin:10px;
+}
+   
+div.langues {
+    background-color: #FFFAE6;
+    padding: 7px;
+    border: solid 1px #c3c3c3;
+}
+
+div.pays {
+    background-color: #e5eecc;
+    padding: 7px;
+    border: solid 1px #c3c3c3;
+	font-weight:bold;
+	color:#630;
+}
+
+div.liste_dev_b {
+    background-color:#FFF;
+    padding: 7px;
+    border: solid 1px #c3c3c3;
+	font-weight:bold;
+	color:#000;
+}
+
+div.liste_dev_g {
+    background-color:#CCC;
+    padding: 7px;
+    border: solid 1px #c3c3c3;
+	font-weight:bold;
+	color:#000;
+}
+
+.info_supp{
+	font-size:12px;
+	padding: 30px;
+}
+
+div.langues a{
+	color:#630;
+	font-weight:bold;
+}
+
+div.description {
+    background-color: #FFFAE6;
+    padding: 7px;
+    border: solid 1px #c3c3c3;
+	color:#666;
+	font-size:13px;
+	font-weight:bold;
+}
+
+div.metadata {
+    background-color: #FFFAE6;
+    padding: 7px;
+    border: solid 1px #c3c3c3;
+}
+div.download {
+ 	background-color: #e5eecc;
+    padding: 7px;
+    border: solid 1px #c3c3c3;
+	font-weight:bold;
+	color:#630;
+}
+
+.divider-vertical {
+height: 600px;
+margin: 0 9px;
+border-left: 1px solid #666;
+/* #F2F2F2 */
+border-right: 1px solid #FFF;
+}
+
+.panel-tool {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  color: inherit;
+}
+.panel-tool > a,
+.panel-tool > small,
+.panel-tool > .small,
+.panel-tool > small > a,
+.panel-tool > .small > a {
+  color: inherit;
+}
+
+.arrondie {
+    border: 2px solid gray;
+    border-radius: 20px;
+}
+
+/* Return on top */
+#returnOnTop {
+    background: url('return_on_top_blue.png') no-repeat;
+    bottom: 1%;
+    cursor: pointer;
+    display: none;
+    filter: alpha(opacity = 50); /* IE < 8 */
+    height: 48px;
+    opacity: 0.5;
+    position: fixed;
+    right: 1%;
+    width: 48px;
+}
+
+#returnOnTop:hover {
+    filter: alpha(opacity = 100); /* IE < 8 */
+    opacity: 1;
+}

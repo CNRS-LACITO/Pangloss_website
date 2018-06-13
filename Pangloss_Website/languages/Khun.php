@@ -13,7 +13,7 @@ corpus Kh&uuml;n (Kh&oelig;n)</title>
 <div class="page-header">
 <h1>Kh&uuml;n (Kh&oelig;n, Tai Kh&uuml;n; en langue thai: ไทเขิน)</h1>
 </div>
-<div class="text-left"> <a href="#Vietnamese"><span
+<div class="text-left"> <a href="Tai_en.htm#Vietnamese"><span
  style="font-style: italic;">Giới
 thiệu bằng tiếng Việt / Pr&eacute;sentation en vietnamien</span></a><br>
 <br>

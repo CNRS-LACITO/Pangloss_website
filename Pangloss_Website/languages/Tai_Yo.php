@@ -232,8 +232,8 @@ Sup&eacute;rieur et de la Recherche (MESR, France)</span><i>.</i><span
   </tbody>
 </table>
 <p style="font-style: italic;"><span style="font-style: italic;"></span></p>
-<br>
-<h2 align="center"><a name="Vietnamese"></a>Ngữ
+<br><a name="Vietnamese"></a>
+<h2 align="center">Ngữ
 liệu tiếng
 Tai Yo (Tay Yo,
 Th&aacute;i Mường/Th&aacute;i Mương, Th&aacute;i

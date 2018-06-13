@@ -14,7 +14,7 @@
 D&egrave;ng, Tai Daeng, Th&aacute;i Thanh, Tay Thanh,
 Man Thanh)</h1>
 </div>
-<div class="text-left"> <a href="#Vietnamese"><span
+<div class="text-left"> <a href="Tai_en.htm#Vietnamese"><span
  style="font-style: italic;">Giới
 thiệu bằng tiếng Việt / Presentation in Vietnamese</span></a><br>
 <br>
