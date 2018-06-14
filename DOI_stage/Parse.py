@@ -10,6 +10,7 @@ def parserRecord (record):
         """
 
         # --------Parse.py header--------#
+        identifiantPrincipal = ""
         if record.find('.//nsDefault:identifier', NAMESPACES) != None:
             identifiantPrincipal = record.find('.//nsDefault:identifier', NAMESPACES).text
             identifiant = DOI_TEST + identifiantPrincipal[21:]
@@ -111,6 +112,7 @@ def parserRecord (record):
         # Le type de ressource: récupère les informations des balises dc:type
         # liste qui récupère le contenu de la balise type et la valeur de l'attribut olac:code et qui vont être affectés à l'élément type en sortie
         labelType = []
+        typeRessourceGeneral = ""
         bool = False
         for element in olac.findall("dc:type", NAMESPACES):
             typeAttribut = element.attrib
@@ -126,7 +128,7 @@ def parserRecord (record):
                             typeRessourceGeneral = "Audiovisual"
                         else:
                             typeRessourceGeneral = element.text
-                    # on récupère le contenu de l'atttribut olac:code de la balise dc:type qui a comme valeur d'attribut olac:discourse-type,sinon afficher "Non renseigné"
+                    # on récupère le contenu de l'atttribut olac:code de la balise dc:type qui a comme valeur d'attribut olac:discourse-type,sinon afficher (:unkn)
                     elif cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "olac:discourse-type":
                         labelCode = typeAttribut.get('{http://www.language-archives.org/OLAC/1.1/}code')
                         labelType.append(labelCode)
@@ -145,7 +147,7 @@ def parserRecord (record):
             for ressource in olac.findall('dcterms:requires', NAMESPACES):
                 requires.append(ressource.text)
 
-        # optionnel
+        # lien ark, handle
         identifiant_Ark_Handle = []
         for identifiantAlternatif in olac.findall('dc:identifier', NAMESPACES):
             identifiantAttribut = identifiantAlternatif.attrib
@@ -161,6 +163,22 @@ def parserRecord (record):
                         lienHandle = identifiantAlternatif.text
                         listeIdLienHandle = [identifiantType, lienHandle]
                         identifiant_Ark_Handle.append(listeIdLienHandle)
+
+        #identifiant contenant le lien url vers le fichier xml de l'annotation
+        lienAnnotation = ""
+        for identifiantAnnotation in olac.findall('dc:identifier', NAMESPACES):
+            #extraire le lien du fichier xml contenant l'annontation
+            if ".xml" in identifiantAnnotation.text:
+
+                lienAnnotation = identifiantAnnotation.text
+                print("SUCCES pour {}".format(identifiantAnnotation.text))
+            else:
+
+                lienAnnotation =""
+                print("Pas de xml dans {}".format(identifiantAnnotation.text))
+
+
+
 
         # récupère la description de la balise abstract sous la forme d'une liste avec le contenu de la balise
         # et/ou avec une liste contenant l'attribut langue et le contenu de la balise
@@ -262,6 +280,7 @@ def parserRecord (record):
                     pointCardiaux.append(sud)
                     pointCardiaux.append(nord)
 
+        url = ""
         if typeRessourceGeneral == "Audiovisual" or typeRessourceGeneral == "Sound":
             url = SHOW_TEXT + identifiantPrincipal[21:]
         elif typeRessourceGeneral == "Text" and format[0] == "text" and requires:
@@ -273,5 +292,5 @@ def parserRecord (record):
         else:
             url = identifiantPrincipal[21:]
 
-        record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)
+        record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url, lienAnnotation)
         return record_object

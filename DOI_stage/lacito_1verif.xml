@@ -1,51 +1,43 @@
 <?xml version="1.0"?>
 <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
-          <record>
+<record>
     <header>
-        <identifier>oai:crdo.vjf.cnrs.fr:crdo-NEV_NYAHEUN_13_NARRATIVE1_SOUND</identifier>
-        <datestamp>2016-03-25</datestamp>
-        <setSpec>AuCo</setSpec>
+        <identifier>oai:crdo.vjf.cnrs.fr:crdo-NRU_F4_ACCOMP_PFV</identifier>
+        <datestamp>2018-04-11</datestamp>
         <setSpec>Lacito</setSpec>
         <setSpec>Linguistique</setSpec>
     </header>
     <metadata>
         <olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd">
-            <dc:title xml:lang="en">A narrative following the singing of songs. The consultants for Nyaheun recordings 1 to 14 are: Ta Hoy, Meunh, Moun, ’New, and Nang Toun; the identity of the specific speaker in this recording has not been established</dc:title>
-            <dc:subject olac:code="nev" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Nyaheun</dc:subject>
-            <dc:language olac:code="nev" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Nyaheun</dc:language>
-            <dc:description xml:lang="en">A narrative following the singing of songs. The consultants for Nyaheun recordings 1 to 14 are: Ta Hoy, Meunh, Moun, ’New, and Nang Toun; the identity of the specific speaker in this recording has not been established</dc:description>
-            <dc:description xml:lang="fr">Récit suivant les chansons en nyaheun. Les consultants des enregistrements nyaheun 1 à 14 sont: Ta Hoy, Meunh, Moun, ’New, et Nang Toun; l'identité du locuteur de cette prise n'a pas été établie.</dc:description>
-            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Ferlus, Michel</dc:contributor>
-            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Ferlus, Michel</dc:contributor>
-            <dc:contributor olac:code="speaker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">The consultants for Nyaheun recordings 1 to 14 are: Ta Hoy, Meunh, Moun, ’New, and Nang Toun</dc:contributor>
-            <dc:contributor olac:code="speaker" xml:lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">the identity of the specific speaker in this recording has not been established</dc:contributor>
-            <dc:publisher>Multimédia, Informations, Communication et Applications</dc:publisher>
-	           <dc:publisher>Lacito</dc:publisher>
-            <dc:type olac:code="primary_text" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
-            <dc:type olac:code="narrative" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:discourse-type"/>
-            <dc:rights>Copyright (c) Ferlus, Michel</dc:rights>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/ferlus/crdo-NEV_NYAHEUN_13_NARRATIVE1.wav</dc:identifier>
-            <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">audio/x-wav</dc:format>
-            <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dc:type>
-            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2016-02-08</dcterms:available>
-            <dcterms:alternative xml:lang="fr">Récit suivant les chansons en nyaheun. Les consultants des enregistrements nyaheun 1 à 14 sont: Ta Hoy, Meunh, Moun, ’New, et Nang Toun; l'identité du locuteur de cette prise n'a pas été établie.</dcterms:alternative>
-            <dcterms:spatial xml:lang="en">Pakse (kilometer 12), Champasak Province, Laos</dcterms:spatial>
-            <dcterms:spatial xml:lang="fr">Paksé (Kilomètre 12), province de Champassak, Laos</dcterms:spatial>
-            <dcterms:spatial xml:lang="lo">ປາກເຊ</dcterms:spatial>
-            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">LA</dcterms:spatial>
-            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">1969-02-15</dcterms:created>
-            <dcterms:medium>Original: reel-to-reel-tape. The recording was later copied to a compact cassette, and digitized from the compact cassette</dcterms:medium>
-            <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
+            <dc:title xml:lang="en">Verbs of all tone categories, in the following frame: accomplished+verb+perfective, 2012</dc:title>
+            <dc:subject olac:code="nru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Na</dc:subject>
+            <dc:language olac:code="nru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language"/>
+            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
+            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
+            <dc:contributor olac:code="speaker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Latami, Dashi-Lame</dc:contributor>
+            <dc:contributor olac:code="speaker" xml:lang="nru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-lɑ˩mv̩˩</dc:contributor>
+            <dc:contributor olac:code="speaker" xml:lang="zh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">拉它米打史拉么</dc:contributor>
+            <dc:contributor olac:code="interviewer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
+            <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+            <dc:type olac:code="lexicon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
+            <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">text/xml</dc:format>
+            <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Text</dc:type>
+
+            <dc:rights>Copyright (c) Michaud, Alexis</dc:rights>
+            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2012</dcterms:created>
+            <dcterms:conformsTo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-dtd_archive</dcterms:conformsTo>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/michaud/nru/crdo-NRU_F4_ACCOMP_PFV.xhtml</dcterms:isFormatOf>
+            <dcterms:requires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-NRU_F4_ACCOMP_PFV_SOUND</dcterms:requires>
             <dcterms:license xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-sa/2.5/</dcterms:license>
-            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_AUCO</dcterms:isPartOf>
+            <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
             <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/ferlus/crdo-NEV_NYAHEUN_13_NARRATIVE1.mp3</dcterms:isFormatOf>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/ferlus/masters/crdo-NEV_NYAHEUN_13_NARRATIVE1.wav</dcterms:isFormatOf>
-            <dcterms:extent>PT04M01S</dcterms:extent>
-            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2016-03-25T16:34:40+01:00</dcterms:issued>
-            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Point">east=105.9075; north=15.131</dcterms:spatial>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-569686</dc:identifier>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.h61ngx</dc:identifier>
+            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2013-09-21T21:15:42+02:00</dcterms:issued>
+            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2013-09-21</dcterms:available>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/michaud/masters/crdo-NRU_F4_ACCOMP_PFV.xml</dcterms:isFormatOf>
+            <dcterms:modified xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2018-04-10T19:53:08+02:00</dcterms:modified>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-369621</dc:identifier>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/michaud/nru/crdo-NRU_F4_ACCOMP_PFV.xml</dc:identifier>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.3l4mim</dc:identifier>
         </olac:olac>
     </metadata>
 </record>

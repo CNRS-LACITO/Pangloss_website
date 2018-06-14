@@ -10,10 +10,11 @@ logging.basicConfig(filename=logFileName,level=logging.INFO)
 class Record:
     """
     Classe qui contient comme attributs les éléments composant la balise record du fichier Cocoon. On définit uniquement les attributs utiles pour la construction du xml
-    La classe contien la methode bulid qui construit le fichier xml de sortie
+    La classe contient la methode bulid qui construit le fichier xml de sortie
+    La classe contient la methode generatorFichierUrlDoi qui construit le fichier text contenant le numero DOI et l'adresse url de la ressource
     """
 
-    def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url):
+    def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url, lienAnnotation):
         self.identifiant = identifiant
         self.identifiantPrincipal = identifiantPrincipal
         self.setSpec = "Linguistique"
@@ -41,8 +42,9 @@ class Record:
         self.descriptionsOlac =descriptionsOlac
         self.labelLieux = labelLieux
         self.longitudeLatitude = longitudeLatitude
-        self.pointCardinaux =pointCardinaux
+        self.pointCardinaux = pointCardinaux
         self.url = url
+        self.lienAnnotation = lienAnnotation
 
     def build(self):
         """Fonction qui construit le fichier xml à partir des attributs de la classe Record"""
@@ -323,9 +325,11 @@ class Record:
         else:
             return None
 
-    def generatorUrl(self):
+    def generatorFichierUrlDoi(self):
         with open("testURL/" + self.identifiantPrincipal[21:]+".txt", "w") as fichierUrl:
             fichierUrl.write("url= "+self.url + "\n" + "doi= "+ self.identifiant)
+
+        # vérifier que le fichier text est créé ou pas
         if "testURL/" + self.identifiantPrincipal[21:]+".txt":
             return "testURL/" + self.identifiantPrincipal[21:]+".txt"
         else:

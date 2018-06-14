@@ -172,7 +172,10 @@ for identifiantAlternatif in olac.findall('dc:identifier', NAMESPACES):
                 lienHandle = identifiantAlternatif.text
                 listeIdLienHandle = [identifiantType, lienHandle]
                 identifiant_Ark_Handle.append(listeIdLienHandle)
-
+    if ".xml" in identifiantAlternatif.text:
+        print(identifiantAlternatif.text)
+    else:
+        print ("Pas de xml dans {}".format(identifiantAlternatif.text))
 
 # récupère la description de la balise abstract sous la forme d'une liste avec le contenu de la balise
 # et/ou avec une liste contenant l'attribut langue et le contenu de la balise
@@ -330,8 +333,7 @@ for personneRole in contributeurs:
         contributor = ET.SubElement(contributors, "contributor", contributorType='Sponsor')
         contributorName = ET.SubElement(contributor, "contributorName")
         contributorName.text = personneRole[0]
-    else:
-        print("La balise PUBLISHER est obligatoire")
+
 if booleen == False:
     for personneRole in contributeurs:
         if "depositor" in personneRole[1]:

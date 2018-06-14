@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
-	<identifier identifierType="DOI">10.5072/crdo-NEV_NYAHEUN_13_NARRATIVE1_SOUND</identifier>
+	<identifier identifierType="DOI">10.5072/crdo-NRU_F4_ACCOMP_PFV</identifier>
 	<publisher>Pangloss</publisher>
 	<creators>
 		<creator>
-			<creatorName>Ferlus, Michel</creatorName>
+			<creatorName>Michaud, Alexis</creatorName>
 		</creator>
 	</creators>
 	<contributors>
 		<contributor contributorType="ContactPerson">
-			<contributorName>Ferlus, Michel</contributorName>
+			<contributorName>Michaud, Alexis</contributorName>
 		</contributor>
 		<contributor contributorType="Researcher">
-			<contributorName>Ferlus, Michel</contributorName>
+			<contributorName>Michaud, Alexis</contributorName>
 		</contributor>
 		<contributor contributorType="Other">
-			<contributorName>The consultants for Nyaheun recordings 1 to 14 are: Ta Hoy, Meunh, Moun, ’New, and Nang
-				Toun
-			</contributorName>
+			<contributorName>Latami, Dashi-Lame</contributorName>
 		</contributor>
 		<contributor contributorType="Other">
-			<contributorName>the identity of the specific speaker in this recording has not been established
-			</contributorName>
+			<contributorName>lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-lɑ˩mv̩˩</contributorName>
+		</contributor>
+		<contributor contributorType="Other">
+			<contributorName>拉它米打史拉么</contributorName>
+		</contributor>
+		<contributor contributorType="DataCollector">
+			<contributorName>Michaud, Alexis</contributorName>
 		</contributor>
 		<contributor contributorType="Producer">
-			<contributorName nameType="Organizational">Multimédia, Informations, Communication et Applications
+			<contributorName nameType="Organizational">Laboratoire de langues et civilisations à tradition orale
 			</contributorName>
-		</contributor>
-		<contributor contributorType="Producer">
-			<contributorName nameType="Organizational">Lacito</contributorName>
 		</contributor>
 		<contributor contributorType="HostingInstitution">
 			<contributorName nameType="Organizational">COllections de COrpus Oraux Numériques</contributorName>
@@ -45,72 +45,41 @@
 			</contributorName>
 		</contributor>
 		<contributor contributorType="RightsHolder">
-			<contributorName>Ferlus, Michel</contributorName>
+			<contributorName>Michaud, Alexis</contributorName>
 		</contributor>
 	</contributors>
 	<titles>
-		<title xml:lang="en">A narrative following the singing of songs. The consultants for Nyaheun recordings 1 to 14
-			are: Ta Hoy, Meunh, Moun, ’New, and Nang Toun; the identity of the specific speaker in this recording has
-			not been established
-		</title>
-		<title xml:lang="fr">Récit suivant les chansons en nyaheun. Les consultants des enregistrements nyaheun 1 à 14
-			sont: Ta Hoy, Meunh, Moun, ’New, et Nang Toun; l'identité du locuteur de cette prise n'a pas été établie.
+		<title xml:lang="en">Verbs of all tone categories, in the following frame: accomplished+verb+perfective, 2012
 		</title>
 	</titles>
 	<publisher>Pangloss</publisher>
-	<publicationYear>2016</publicationYear>
-	<language>nev</language>
+	<publicationYear>2013</publicationYear>
+	<language>nru</language>
 	<subjects>
 		<subject>Linguistique</subject>
-		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Nyaheun</subject>
+		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Na</subject>
 	</subjects>
 	<dates>
-		<date dateType="Available">2016-02-08</date>
+		<date dateType="Available">2013-09-21</date>
 	</dates>
-	<resourceType resourceTypeGeneral="Sound">narrative</resourceType>
+	<resourceType resourceTypeGeneral="Text">Non renseigné</resourceType>
 	<alternateIdentifiers>
-		<alternateIdentifier alternateIdentifierType="internal_ID">
-			oai:crdo.vjf.cnrs.fr:crdo-NEV_NYAHEUN_13_NARRATIVE1_SOUND
+		<alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-NRU_F4_ACCOMP_PFV
 		</alternateIdentifier>
 		<alternateIdentifier alternateIdentifierType="PURL">
-			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NEV_NYAHEUN_13_NARRATIVE1_SOUND
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NRU_F4_ACCOMP_PFV
 		</alternateIdentifier>
 	</alternateIdentifiers>
 	<relatedIdentifiers>
 		<relatedIdentifier relatedIdentifierType="ARK" relationType="IsIdenticalTo">
-			http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-569686
+			http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-369621
+		</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="PURL" relationType="Requires">
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NRU_F4_ACCOMP_PFV_SOUND
 		</relatedIdentifier>
 	</relatedIdentifiers>
 	<formats>
-		<format>audio</format>
-		<format>x-wav</format>
+		<format>text</format>
+		<format>xml</format>
 	</formats>
-	<sizes>
-		<size>PT04M01S</size>
-	</sizes>
-	<descriptions>
-		<description descriptionType="Abstract" xml:lang="en">A narrative following the singing of songs. The
-			consultants for Nyaheun recordings 1 to 14 are: Ta Hoy, Meunh, Moun, ’New, and Nang Toun; the identity of
-			the specific speaker in this recording has not been established
-		</description>
-		<description descriptionType="Abstract" xml:lang="fr">Récit suivant les chansons en nyaheun. Les consultants des
-			enregistrements nyaheun 1 à 14 sont: Ta Hoy, Meunh, Moun, ’New, et Nang Toun; l'identité du locuteur de
-			cette prise n'a pas été établie.
-		</description>
-	</descriptions>
-	<geoLocations>
-		<geoLocation>
-			<geoLocationPlace>Pakse (kilometer 12), Champasak Province, Laos</geoLocationPlace>
-		</geoLocation>
-		<geoLocation>
-			<geoLocationPlace>Paksé (Kilomètre 12), province de Champassak, Laos</geoLocationPlace>
-		</geoLocation>
-		<geoLocation>
-			<geoLocationPlace>ປາກເຊ</geoLocationPlace>
-			<geoLocationPoint>
-				<pointLongitude>105.9075</pointLongitude>
-				<pointLatitude>15.131</pointLatitude>
-			</geoLocationPoint>
-		</geoLocation>
-	</geoLocations>
 </resource>
