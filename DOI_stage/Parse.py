@@ -173,9 +173,6 @@ def parserRecord (record):
                 break
 
 
-
-
-
         # récupère la description de la balise abstract sous la forme d'une liste avec le contenu de la balise
         # et/ou avec une liste contenant l'attribut langue et le contenu de la balise
         abstract = []

@@ -45,7 +45,6 @@ class Record:
         self.pointCardinaux = pointCardinaux
         self.url = url
         self.lienAnnotation = lienAnnotation
-        print("Object -- ",lienAnnotation)
 
     def build(self):
         """Fonction qui construit le fichier xml à partir des attributs de la classe Record"""
