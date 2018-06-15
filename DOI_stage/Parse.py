@@ -169,13 +169,9 @@ def parserRecord (record):
         for identifiantAnnotation in olac.findall('dc:identifier', NAMESPACES):
             #extraire le lien du fichier xml contenant l'annontation
             if ".xml" in identifiantAnnotation.text:
-
                 lienAnnotation = identifiantAnnotation.text
-                print("SUCCES pour {}".format(identifiantAnnotation.text))
-            else:
+                break
 
-                lienAnnotation =""
-                print("Pas de xml dans {}".format(identifiantAnnotation.text))
 
 
 
@@ -291,6 +287,5 @@ def parserRecord (record):
                 url = SHOW_OTHER + lienRequires[21:] + IDREF + identifiantPrincipal[21:]
         else:
             url = identifiantPrincipal[21:]
-
         record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url, lienAnnotation)
         return record_object

@@ -172,6 +172,7 @@ for identifiantAlternatif in olac.findall('dc:identifier', NAMESPACES):
                 lienHandle = identifiantAlternatif.text
                 listeIdLienHandle = [identifiantType, lienHandle]
                 identifiant_Ark_Handle.append(listeIdLienHandle)
+
     if ".xml" in identifiantAlternatif.text:
         print(identifiantAlternatif.text)
     else:

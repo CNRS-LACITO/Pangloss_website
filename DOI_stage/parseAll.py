@@ -12,13 +12,13 @@ tree = ETree.parse("metadata_cocoon.xml")
 root = tree.getroot()
 
 #creation et suppression d'un dossier et de son contenu
-shutil.rmtree("test")
-shutil.rmtree("testURL")
+#shutil.rmtree("test")
+#shutil.rmtree("testURL")
 os.remove("critical.log")
 #print(len(allRecords))
 
-os.mkdir("test")
-os.mkdir("testURL")
+#os.mkdir("test")
+#os.mkdir("testURL")
 #os.remove("fichierUrl.txt")
 
 
@@ -34,15 +34,15 @@ for index, record in enumerate(root.findall(".//nsDefault:record", NAMESPACES)):
 
     #extraire le lien url pour chaque fichier xml
     if objetRecord.lienAnnotation:
-        print("OK")
-
         annotation = parseAnnotation(objetRecord.lienAnnotation)
         print(annotation)
         for id in annotation:
             doiPhrase = objetRecord.identifiant +"/"+ id
             print(doiPhrase)
-    else:
-        print("ECHEC. Le record {} ne contient pas de fichier xml". format(objetRecord.identifiantPrincipal))
+            #objetPhrase = Phrase(doiPhrase)
+            #objetPhrase.build(objetRecord)
+ #   else:
+ #       print("ECHEC. Le record {} ne contient pas de fichier xml". format(objetRecord.identifiantPrincipal))
 
 
     #on utilise la methode build de la classe Record pour créer le fichier xml
