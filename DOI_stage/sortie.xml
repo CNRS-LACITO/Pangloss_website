@@ -1,31 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
-	<identifier identifierType="DOI">10.5072/crdo-NRU_F4_ACCOMP_PFV</identifier>
+	<identifier identifierType="DOI">10.5072/crdo-RMN_QUESTIONNAIRE_001_SOUND</identifier>
 	<publisher>Pangloss</publisher>
 	<creators>
 		<creator>
-			<creatorName>Michaud, Alexis</creatorName>
+			<creatorName>Padure, Cristian</creatorName>
 		</creator>
 	</creators>
 	<contributors>
-		<contributor contributorType="ContactPerson">
-			<contributorName>Michaud, Alexis</contributorName>
-		</contributor>
 		<contributor contributorType="Researcher">
-			<contributorName>Michaud, Alexis</contributorName>
+			<contributorName>Padure, Cristian</contributorName>
 		</contributor>
 		<contributor contributorType="Other">
-			<contributorName>Latami, Dashi-Lame</contributorName>
+			<contributorName>Milanko</contributorName>
 		</contributor>
-		<contributor contributorType="Other">
-			<contributorName>lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-lɑ˩mv̩˩</contributorName>
-		</contributor>
-		<contributor contributorType="Other">
-			<contributorName>拉它米打史拉么</contributorName>
-		</contributor>
-		<contributor contributorType="DataCollector">
-			<contributorName>Michaud, Alexis</contributorName>
+		<contributor contributorType="ContactPerson">
+			<contributorName>Padure, Cristian</contributorName>
 		</contributor>
 		<contributor contributorType="Producer">
 			<contributorName nameType="Organizational">Laboratoire de langues et civilisations à tradition orale
@@ -45,41 +36,50 @@
 			</contributorName>
 		</contributor>
 		<contributor contributorType="RightsHolder">
-			<contributorName>Michaud, Alexis</contributorName>
+			<contributorName>Cristian Padure</contributorName>
 		</contributor>
 	</contributors>
 	<titles>
-		<title xml:lang="en">Verbs of all tone categories, in the following frame: accomplished+verb+perfective, 2012
-		</title>
+		<title xml:lang="fr">Romani Morphosyntax Questionnaire, Vlax Romani, Veracruz (Mexico)</title>
 	</titles>
 	<publisher>Pangloss</publisher>
-	<publicationYear>2013</publicationYear>
-	<language>nru</language>
+	<publicationYear>2018</publicationYear>
+	<language>rmn</language>
 	<subjects>
 		<subject>Linguistique</subject>
-		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Na</subject>
+		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Romani</subject>
 	</subjects>
 	<dates>
-		<date dateType="Available">2013-09-21</date>
+		<date dateType="Available">2018-03-08</date>
 	</dates>
-	<resourceType resourceTypeGeneral="Text">Non renseigné</resourceType>
+	<resourceType resourceTypeGeneral="Sound">(:unkn)</resourceType>
 	<alternateIdentifiers>
-		<alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-NRU_F4_ACCOMP_PFV
+		<alternateIdentifier alternateIdentifierType="internal_ID">
+			oai:crdo.vjf.cnrs.fr:crdo-RMN_QUESTIONNAIRE_001_SOUND
 		</alternateIdentifier>
 		<alternateIdentifier alternateIdentifierType="PURL">
-			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NRU_F4_ACCOMP_PFV
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-RMN_QUESTIONNAIRE_001_SOUND
 		</alternateIdentifier>
 	</alternateIdentifiers>
 	<relatedIdentifiers>
-		<relatedIdentifier relatedIdentifierType="ARK" relationType="IsIdenticalTo">
-			http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-369621
-		</relatedIdentifier>
-		<relatedIdentifier relatedIdentifierType="PURL" relationType="Requires">
-			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NRU_F4_ACCOMP_PFV_SOUND
+		<relatedIdentifier relatedIdentifierType="PURL" relationType="IsRequiredBy">
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-RMN_QUESTIONNAIRE_001
 		</relatedIdentifier>
 	</relatedIdentifiers>
 	<formats>
-		<format>text</format>
-		<format>xml</format>
+		<format>audio</format>
+		<format>x-wav</format>
 	</formats>
+	<sizes>
+		<size>PT01H18M53S</size>
+	</sizes>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>Mexique, Veracruz, Rinconada</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>-96.563618</pointLongitude>
+				<pointLatitude>19.359561</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
 </resource>

@@ -1,5 +1,10 @@
 from Record import Record
 from constantes import NAMESPACES, DOI_TEST, SHOW_TEXT, IDREF, SHOW_OTHER
+import re
+import logging
+
+logFileName='critical.log'
+logging.basicConfig(filename=logFileName,level=logging.INFO)
 
 def parserRecord (record):
         """
@@ -66,10 +71,14 @@ def parserRecord (record):
             titreLangList = [codeLangue, titreLabel]
             titresSecondaire.append(titreLangList)
 
+        droits =""
         if olac.find("dc:rights", NAMESPACES) != None:
-            droits = olac.find("dc:rights", NAMESPACES).text[13:]
-        else:
-            droits = ""
+            droitsComplet = olac.find("dc:rights", NAMESPACES).text
+            if re.match("Copyright [^A-Z]*", droitsComplet):
+                droits = re.sub("Copyright [^A-Z]*", '', droitsComplet)
+            else:
+                message = "Il y a une autre forme d'écrire les droits"
+                logging.info(message)
 
         contributeurs = []
         if olac.findall('dc:contributor', NAMESPACES) != None:
@@ -284,5 +293,7 @@ def parserRecord (record):
                 url = SHOW_OTHER + lienRequires[21:] + IDREF + identifiantPrincipal[21:]
         else:
             url = identifiantPrincipal[21:]
+
+
         record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url, lienAnnotation)
         return record_object

@@ -327,7 +327,9 @@ class Record:
 
     def generatorFichierUrlDoi(self):
         with open("testURL/" + self.identifiantPrincipal[21:]+".txt", "w") as fichierUrl:
-            fichierUrl.write("url= "+self.url + "\n" + "doi= "+ self.identifiant)
+            url = "url= "+self.url
+            doi = "doi= "+ self.identifiant
+            fichierUrl.write(url + "\n" + doi)
 
         # vérifier que le fichier text est créé ou pas
         if "testURL/" + self.identifiantPrincipal[21:]+".txt":

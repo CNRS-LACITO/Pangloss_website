@@ -2,42 +2,37 @@
 <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
 <record>
     <header>
-        <identifier>oai:crdo.vjf.cnrs.fr:crdo-NRU_F4_ACCOMP_PFV</identifier>
-        <datestamp>2018-04-11</datestamp>
-        <setSpec>Lacito</setSpec>
+        <identifier>oai:crdo.vjf.cnrs.fr:crdo-RMN_QUESTIONNAIRE_001_SOUND</identifier>
+        <datestamp>2018-03-09</datestamp>
         <setSpec>Linguistique</setSpec>
+        <setSpec>Lacito</setSpec>
     </header>
     <metadata>
         <olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd">
-            <dc:title xml:lang="en">Verbs of all tone categories, in the following frame: accomplished+verb+perfective, 2012</dc:title>
-            <dc:subject olac:code="nru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Na</dc:subject>
-            <dc:language olac:code="nru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language"/>
-            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
-            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
-            <dc:contributor olac:code="speaker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Latami, Dashi-Lame</dc:contributor>
-            <dc:contributor olac:code="speaker" xml:lang="nru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-lɑ˩mv̩˩</dc:contributor>
-            <dc:contributor olac:code="speaker" xml:lang="zh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">拉它米打史拉么</dc:contributor>
-            <dc:contributor olac:code="interviewer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
+            <dc:language olac:code="rmn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Romani</dc:language>
+            <dc:subject olac:code="rmn" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Romani</dc:subject>
+            <dc:title xml:lang="fr">Romani Morphosyntax Questionnaire, Vlax Romani, Veracruz (Mexico)</dc:title>
             <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
-            <dc:type olac:code="lexicon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
-            <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">text/xml</dc:format>
-            <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Text</dc:type>
-
-            <dc:rights>Copyright (c) Michaud, Alexis</dc:rights>
-            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2012</dcterms:created>
-            <dcterms:conformsTo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-dtd_archive</dcterms:conformsTo>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/michaud/nru/crdo-NRU_F4_ACCOMP_PFV.xhtml</dcterms:isFormatOf>
-            <dcterms:requires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-NRU_F4_ACCOMP_PFV_SOUND</dcterms:requires>
-            <dcterms:license xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-sa/2.5/</dcterms:license>
+            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Padure, Cristian</dc:contributor>
+            <dc:contributor olac:code="speaker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Milanko</dc:contributor>
+            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Padure, Cristian</dc:contributor>
+            <dc:type olac:code="primary_text" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
+            <dc:rights>Copyright © Cristian Padure</dc:rights>
+            <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">audio/x-wav</dc:format>
+            <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dc:type>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/padure/crdo-RMN_QUESTIONNAIRE_001.wav</dc:identifier>
+            <dcterms:spatial xml:lang="fr">Mexique, Veracruz, Rinconada</dcterms:spatial>
+            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Point">east=-96.563618; north=19.359561;</dcterms:spatial>
+            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2018-03-08</dcterms:available>
             <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
+            <dcterms:license xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/</dcterms:license>
+            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2016-07-24</dcterms:created>
+            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">MX</dcterms:spatial>
+            <dcterms:isRequiredBy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-RMN_QUESTIONNAIRE_001</dcterms:isRequiredBy>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/padure/masters/crdo-RMN_QUESTIONNAIRE_001.wav</dcterms:isFormatOf>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/padure/crdo-RMN_QUESTIONNAIRE_001.mp3</dcterms:isFormatOf>
+            <dcterms:extent>PT01H18M53S</dcterms:extent>
             <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
-            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2013-09-21T21:15:42+02:00</dcterms:issued>
-            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2013-09-21</dcterms:available>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/michaud/masters/crdo-NRU_F4_ACCOMP_PFV.xml</dcterms:isFormatOf>
-            <dcterms:modified xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2018-04-10T19:53:08+02:00</dcterms:modified>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-369621</dc:identifier>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/michaud/nru/crdo-NRU_F4_ACCOMP_PFV.xml</dc:identifier>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.3l4mim</dc:identifier>
         </olac:olac>
     </metadata>
 </record>

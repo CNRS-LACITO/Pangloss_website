@@ -1,6 +1,7 @@
 # --------Parsing XML ------------------#
 import xml.etree.ElementTree as ET
 from constantes import NAMESPACES
+import re
 
 tree = ET.parse("lacito_1verif.xml")
 root = tree.getroot()
@@ -70,9 +71,14 @@ for titreAlternatif in olac.findall('dcterms:alternative', NAMESPACES):
     titresSecondaire.append(titreLangList)
 
 if olac.find("dc:rights", NAMESPACES) != None:
-    droits = olac.find("dc:rights", NAMESPACES).text[13:]
-else:
-    droits = ""
+    droitsComplet = olac.find("dc:rights", NAMESPACES).text
+    if re.match("Copyright [^A-Z]*", droitsComplet):
+        droits = re.sub("Copyright [^A-Z]*", '', droitsComplet)
+    else:
+        print("Il y a une autre forme de droits")
+        droits = ""
+
+
 
 contributeurs = []
 if olac.findall('dc:contributor', NAMESPACES) != None:
@@ -142,7 +148,7 @@ for element in olac.findall("dc:type", NAMESPACES):
                 bool = True
 
 if bool == False:
-    labelType.append("Non renseigné")
+    labelType.append("(:unkn)")
     bool = True
 
 
@@ -175,8 +181,6 @@ for identifiantAlternatif in olac.findall('dc:identifier', NAMESPACES):
 
     if ".xml" in identifiantAlternatif.text:
         print(identifiantAlternatif.text)
-    else:
-        print ("Pas de xml dans {}".format(identifiantAlternatif.text))
 
 # récupère la description de la balise abstract sous la forme d'une liste avec le contenu de la balise
 # et/ou avec une liste contenant l'attribut langue et le contenu de la balise

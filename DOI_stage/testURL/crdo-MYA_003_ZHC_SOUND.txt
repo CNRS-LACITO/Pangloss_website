@@ -1,0 +1,2 @@
+url= http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-MYA_003_ZHC_SOUND
+doi= 10.5072/crdo-MYA_003_ZHC_SOUND
