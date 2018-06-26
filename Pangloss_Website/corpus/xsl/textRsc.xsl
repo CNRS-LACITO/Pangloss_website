@@ -96,6 +96,7 @@
             <!-- <xsl:variable name="text_id"><xsl:value-of select="dcterms:isRequiredBy[1]"/></xsl:variable>-->
              <url_text><xsl:value-of select="//oai:ListRecords/oai:record[oai:header/oai:identifier = $text_id]/oai:metadata/olac:olac/dc:identifier[1]"/></url_text>
              
+             
              <!--<xsl:variable name="text_id"><xsl:value-of select="dcterms:isRequiredBy[1]"/></xsl:variable>-->
             <!--<url_pdf><xsl:value-of select="//oai:ListRecords/oai:record[oai:header/oai:identifier = $pdf_id]/oai:metadata/olac:olac/dc:identifier[1]"/></url_pdf>-->
              
@@ -111,6 +112,19 @@
         				<xsl:if test="position()!=last()"><xsl:text>; </xsl:text></xsl:if>
         			</xsl:for-each>
              </locuteurs>
+             <autres_contributeurs_audio>
+             <xsl:for-each select="dc:contributor[not(@olac:code='speaker')and not(olac:code='performer')and not(@olac:code='researcher')and not(@olac:code='depositor')]">
+        				<xsl:value-of select="."/> (<xsl:value-of select="@olac:code"/>)
+        				<xsl:if test="position()!=last()"><xsl:text>; </xsl:text></xsl:if>
+        			</xsl:for-each>
+             </autres_contributeurs_audio>
+             
+              <autres_contributeurs_texte>
+             <xsl:for-each select="//oai:ListRecords/oai:record[oai:header/oai:identifier = $text_id]/oai:metadata/olac:olac/dc:contributor[not(@olac:code='speaker')and not(olac:code='performer')and not(@olac:code='researcher')and not(@olac:code='depositor')]">
+        				<xsl:value-of select="."/> (<xsl:value-of select="@olac:code"/>)
+        				<xsl:if test="position()!=last()"><xsl:text>; </xsl:text></xsl:if>
+        			</xsl:for-each>
+             </autres_contributeurs_texte>
              <sponsor>
              		<xsl:for-each select="dc:contributor[@olac:code='sponsor']">
         				<xsl:value-of select="."/>

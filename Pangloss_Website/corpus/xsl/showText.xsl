@@ -21,6 +21,8 @@ doctype-system="about:legacy-compat" indent="yes"/>
         <xsl:param name="navigator" select="''"/>
         <xsl:param name="chercheurs" select="''"/>
         <xsl:param name="locuteurs" select="''"/>
+        <xsl:param name="autres_contributeurs_audio" select="''"/>
+        <xsl:param name="autres_contributeurs_texte" select="''"/>
 		<xsl:param name="lg" select="''"/>
         <xsl:param name="lg_rect" select="''"/>
         <xsl:param name="lg_code" select="''"/>
@@ -132,6 +134,12 @@ doctype-system="about:legacy-compat" indent="yes"/>
                             </xsl:if>
                             <xsl:if test="$locuteurs!=''">
 	                            <p><b> Locuteur(s) : </b> <xsl:value-of select="$locuteurs"/></p>
+                            </xsl:if>
+                            <xsl:if test="$autres_contributeurs_audio!=''">
+	                            <p><b> Autre(s) contributeur(s) : </b> <xsl:value-of select="$autres_contributeurs_audio"/></p>
+                            </xsl:if>
+                             <xsl:if test="$autres_contributeurs_texte!=''">
+	                            <p><b></b> <xsl:value-of select="$autres_contributeurs_texte"/></p>
                             </xsl:if>
                             <xsl:if test="$sponsor!=''">
 	                            <p><b> Sponsor(s) : </b> <xsl:value-of select="$sponsor"/></p>
@@ -326,6 +334,12 @@ doctype-system="about:legacy-compat" indent="yes"/>
                             </xsl:if>
                             <xsl:if test="$locuteurs!=''">
 	                            <p><b>Speaker(s): </b> <xsl:value-of select="$locuteurs"/></p>
+                            </xsl:if>
+                             <xsl:if test="$autres_contributeurs_audio!=''">
+	                            <p><b> Other(s) contributor(s) : </b> <xsl:value-of select="$autres_contributeurs_audio"/></p>
+                            </xsl:if>
+                             <xsl:if test="$autres_contributeurs_texte!=''">
+	                            <p><b>  </b> <xsl:value-of select="$autres_contributeurs_texte"/></p>
                             </xsl:if>
                             <xsl:if test="$sponsor!=''">
 	                            <p><b>Sponsor(s): </b> <xsl:value-of select="$sponsor"/></p>
