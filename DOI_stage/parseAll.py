@@ -13,11 +13,11 @@ tree = ETree.parse("metadata_cocoon.xml")
 root = tree.getroot()
 
 #creation et suppression d'un dossier et de son contenu
-shutil.rmtree("test")
-shutil.rmtree("testURL")
-shutil.rmtree("testPhrase")
-shutil.rmtree("testURL_Phrase")
-os.remove("critical.log")
+#shutil.rmtree("test")
+#shutil.rmtree("testURL")
+#shutil.rmtree("testPhrase")
+#shutil.rmtree("testURL_Phrase")
+#os.remove("critical.log")
 
 os.mkdir("test")
 os.mkdir("testURL")
