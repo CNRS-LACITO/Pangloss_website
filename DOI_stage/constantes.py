@@ -15,3 +15,4 @@ USERNAME = "INIST.LACITO"
 PASSWORD = "LaCiTO_DOI"
 ENDPOINTMETADATA = "https://mds.datacite.org/metadata"
 ENDPOINTDOI = "https://mds.datacite.org/doi/"
+logFileName ='critical.log'

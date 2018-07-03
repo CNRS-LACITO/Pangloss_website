@@ -1,8 +1,7 @@
 import xml.etree.ElementTree as ET
 import logging
-from constantes import SCHEME_URI, PURL
+from constantes import SCHEME_URI, PURL, logFileName
 
-logFileName='critical.log'
 logging.basicConfig(filename=logFileName,level=logging.INFO)
 
 

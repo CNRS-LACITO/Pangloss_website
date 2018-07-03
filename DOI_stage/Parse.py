@@ -1,9 +1,9 @@
 from Record import Record
-from constantes import NAMESPACES, DOI_TEST, SHOW_TEXT, IDREF, SHOW_OTHER
+from constantes import NAMESPACES, DOI_TEST, SHOW_TEXT, IDREF, SHOW_OTHER, logFileName
 import re
 import logging
 
-logFileName='critical.log'
+
 logging.basicConfig(filename=logFileName,level=logging.INFO)
 
 def parserRecord (record):
