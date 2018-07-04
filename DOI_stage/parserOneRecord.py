@@ -243,16 +243,27 @@ for lieu in olac.findall('dcterms:spatial', NAMESPACES):
         # récupère les 2 points de la longitude et latitude en une seule chaine de caractères pour le cas où l'attribut est Point
         if cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "dcterms:Point":
             pointLieux = lieu.text
-            # transforme la chaine en une liste avec deux éléments :north:valeur latitude et east:valeur longitude
-            long_lat = pointLieux.split(";")
 
-            # élimine l'espace en trop du contenu texte de l'élément spatial entre les deux points north et east
-            pointEstsansEspaces = long_lat[0].strip()
-            pointNordsansEspaces = long_lat[1].strip()
+            # transforme la chaine en une liste avec deux élémentscomme suit: 'east=valeur', 'north=valeur'
+            long_lat = pointLieux.split(";")
+            print(long_lat)
+
+            # élimine l'espace en trop du contenu texte des deux éléments de la liste (north et east)
+            point1sansEspaces = long_lat[0].strip()
+            point2sansEspaces = long_lat[1].strip()
+            print(point1sansEspaces)
+            print(point2sansEspaces)
 
             # récupère uniquement la valeur chiffrée de la longitude et de la latitude
-            longitude = pointEstsansEspaces[5:]
-            latitude = pointNordsansEspaces[6:]
+            if "east" in point1sansEspaces:
+                longitude = point1sansEspaces[5:]
+                latitude = point2sansEspaces[6:]
+                print(longitude, latitude)
+            else:
+                longitude = point2sansEspaces[5:]
+                latitude = point1sansEspaces[6:]
+                print(longitude, latitude)
+
             longitudeLatitude.append(longitude)
             longitudeLatitude.append(latitude)
 
