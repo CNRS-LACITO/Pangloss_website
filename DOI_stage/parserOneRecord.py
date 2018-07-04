@@ -246,23 +246,18 @@ for lieu in olac.findall('dcterms:spatial', NAMESPACES):
 
             # transforme la chaine en une liste avec deux élémentscomme suit: 'east=valeur', 'north=valeur'
             long_lat = pointLieux.split(";")
-            print(long_lat)
 
             # élimine l'espace en trop du contenu texte des deux éléments de la liste (north et east)
             point1sansEspaces = long_lat[0].strip()
             point2sansEspaces = long_lat[1].strip()
-            print(point1sansEspaces)
-            print(point2sansEspaces)
 
-            # récupère uniquement la valeur chiffrée de la longitude et de la latitude
+            # condition pour régler le problème d'ordre des éléments nord et sud. Récupération des valeurs chiffrées de la longitude et de la latitude
             if "east" in point1sansEspaces:
                 longitude = point1sansEspaces[5:]
                 latitude = point2sansEspaces[6:]
-                print(longitude, latitude)
             else:
                 longitude = point2sansEspaces[5:]
                 latitude = point1sansEspaces[6:]
-                print(longitude, latitude)
 
             longitudeLatitude.append(longitude)
             longitudeLatitude.append(latitude)
