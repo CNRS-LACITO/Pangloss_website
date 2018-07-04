@@ -249,13 +249,18 @@ def parserRecord (record):
                     # transforme la chaine en une liste avec deux éléments :north:valeur latitude et east:valeur longitude
                     long_lat = pointLieux.split(";")
 
-                    # élimine l'espace en trop des deux points
-                    longitudeSansEspace = long_lat[0].strip()
-                    latitudeSansEspace = long_lat[1].strip()
+                    # élimine l'espace en trop du contenu texte des deux éléments de la liste (north et east)
+                    point1sansEspaces = long_lat[0].strip()
+                    point2sansEspaces = long_lat[1].strip()
 
-                    # récupère uniquement la valeur chiffrée de la longitude et de la latitude
-                    latitude = latitudeSansEspace[6:]
-                    longitude = longitudeSansEspace[5:]
+                    # condition pour régler le problème d'ordre des éléments nord et sud. Récupération des valeurs chiffrées de la longitude et de la latitude
+                    if "east" in point1sansEspaces:
+                        longitude = point1sansEspaces[5:]
+                        latitude = point2sansEspaces[6:]
+                    else:
+                        longitude = point2sansEspaces[5:]
+                        latitude = point1sansEspaces[6:]
+
                     longitudeLatitude.append(longitude)
                     longitudeLatitude.append(latitude)
 
