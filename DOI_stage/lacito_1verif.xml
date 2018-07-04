@@ -2,41 +2,45 @@
 <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
 <record>
     <header>
-        <identifier>oai:crdo.vjf.cnrs.fr:crdo-UBY_LISTEXXXVII</identifier>
-        <datestamp>2018-04-13</datestamp>
+        <identifier>oai:crdo.vjf.cnrs.fr:crdo-NRU_MH2_PEOPLE_001_SOUND</identifier>
+        <datestamp>2016-04-20</datestamp>
         <setSpec>Lacito</setSpec>
         <setSpec>Linguistique</setSpec>
     </header>
     <metadata>
         <olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd">
-            <dc:title xml:lang="fr">Ubykh2, listeXXXVII</dc:title>
-            <dc:subject olac:code="uby" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Ubykh</dc:subject>
-            <dc:language olac:code="uby" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Ubykh</dc:language>
-            <dc:language olac:code="fra" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Français</dc:language>
-            <dc:language olac:code="eng" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Anglais</dc:language>
-            <dc:language olac:code="tur" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Turc</dc:language>
-            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michailovsky, Boyd</dc:contributor>
-            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Dumézil, Georges</dc:contributor>
-            <dc:contributor olac:code="speaker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Saniç, Tevfik</dc:contributor>
-            <dc:contributor olac:code="interviewer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Dumézil, Georges</dc:contributor>
-            <dc:contributor olac:code="data_inputter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Solliec, Tanguy</dc:contributor>
+            <dc:title xml:lang="en">Numeral-plus-classifier phrases. Tone: MH2. Classifier: people. Range: 1 to 30</dc:title>
+            <dc:subject olac:code="nru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Na</dc:subject>
+            <dc:language olac:code="nru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language"/>
+            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
+            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
+            <dc:contributor olac:code="speaker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Latami, Dashi-Lame</dc:contributor>
+            <dc:contributor olac:code="speaker" xml:lang="nru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-lɑ˩mv̩˩</dc:contributor>
+            <dc:contributor olac:code="speaker" xml:lang="zh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">拉它米打史拉么</dc:contributor>
+            <dc:contributor olac:code="interviewer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
             <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+            <dc:type olac:code="dialogue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:discourse-type"/>
             <dc:type olac:code="lexicon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
-            <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">text/xml</dc:format>
-            <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Text</dc:type>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/michailovsky/uby/crdo-UBY_LISTEXXXVII.xml</dc:identifier>
-            <dc:rights>Copyright (c) Dumézil, Georges</dc:rights>
-            <dcterms:conformsTo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-dtd_archive</dcterms:conformsTo>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/michailovsky/uby/crdo-UBY_LISTEXXXVII.xhtml</dcterms:isFormatOf>
-            <dcterms:requires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-UBY_LISTEXXXVII_SOUND</dcterms:requires>
+            <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">audio/x-wav</dc:format>
+            <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dc:type>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/archi/235225_record_22km.wav</dc:identifier>
+            <dcterms:spatial xml:lang="fr">Chine, province du Yunnan, comté de Yongning, village de ɑ˧lɑ˧-ʁwɤ˧</dcterms:spatial>
+            <dcterms:spatial xml:lang="zh">中国云南省丽江市宁蒗县永宁乡平静村</dcterms:spatial>
+            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2009-03-11</dcterms:created>
+            <dcterms:extent>PT2M40S</dcterms:extent>
+            <dcterms:medium>born digital</dcterms:medium>
+            <dcterms:license xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-sa/2.5/</dcterms:license>
             <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
+            <dcterms:isRequiredBy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-NRU_MH2_PEOPLE_001</dcterms:isRequiredBy>
             <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
-            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2011-02-05T08:28:47+01:00</dcterms:issued>
-            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2011-02-05</dcterms:available>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/michailovsky/masters/crdo-UBY_LISTEXXXVII.xml</dcterms:isFormatOf>
-            <dcterms:modified xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2018-04-13T18:08:51+02:00</dcterms:modified>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.5-157945</dc:identifier>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.rr2l1j</dc:identifier>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/archi/mp3/235225_record_44k.mp3</dcterms:isFormatOf>
+            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2012-03-10T11:40:36+01:00</dcterms:issued>
+            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">CN</dcterms:spatial>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/archi/masters/235225.wav</dcterms:isFormatOf>
+            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2012-03-10</dcterms:available>
+            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Point">east=100.66098140008546; north=27.767422588239274;</dcterms:spatial>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.5-235225</dc:identifier>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.2fbbm8</dc:identifier>
         </olac:olac>
     </metadata>
 </record>

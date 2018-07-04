@@ -70,6 +70,7 @@ for titreAlternatif in olac.findall('dcterms:alternative', NAMESPACES):
     titreLangList = [codeLangue, titreLabel]
     titresSecondaire.append(titreLangList)
 
+droits=''
 if olac.find("dc:rights", NAMESPACES) != None:
     droitsComplet = olac.find("dc:rights", NAMESPACES).text
     if re.match("Copyright [^A-Z]*", droitsComplet):
@@ -245,13 +246,13 @@ for lieu in olac.findall('dcterms:spatial', NAMESPACES):
             # transforme la chaine en une liste avec deux éléments :north:valeur latitude et east:valeur longitude
             long_lat = pointLieux.split(";")
 
-            # élimine l'espace en trop des deux points
-            longitudeSansEspace = long_lat[0].strip()
-            latitudeSansEspace = long_lat[1].strip()
+            # élimine l'espace en trop du contenu texte de l'élément spatial entre les deux points north et east
+            pointEstsansEspaces = long_lat[0].strip()
+            pointNordsansEspaces = long_lat[1].strip()
 
             # récupère uniquement la valeur chiffrée de la longitude et de la latitude
-            latitude = latitudeSansEspace[6:]
-            longitude = longitudeSansEspace[5:]
+            longitude = pointEstsansEspaces[5:]
+            latitude = pointNordsansEspaces[6:]
             longitudeLatitude.append(longitude)
             longitudeLatitude.append(latitude)
 
