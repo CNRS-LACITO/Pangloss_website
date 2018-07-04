@@ -70,14 +70,14 @@ for index, record in enumerate(root.findall(".//nsDefault:record", NAMESPACES)):
 
                 # le fichier text avec le DOI et l'URL de la phrase
                 fichier_textPhrase = objetPhrase.generatorFichierUrlDoiPhrase()
-                """
+
                 # methodes pour interroger l'API de Datacite et enregistrer le fichier de metadonnées et le fichier text avec l'url et le doi pour les phrases
                 if fichier_xmlPhrase:
                     enregistrer_metadonneesPhrase(fichier_xmlPhrase)
     
                 if fichier_textPhrase:
                     enregistrer_urlPhrase(fichier_textPhrase, doiPhrase)
-                """
+
                 if indexid == 5:
                     break
 
