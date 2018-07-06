@@ -167,7 +167,7 @@ def parserRecord (record):
                         lienArk = identifiantAlternatif.text
                         listeIdLienArk = [identifiantType, lienArk]
                         identifiant_Ark_Handle.append(listeIdLienArk)
-                    elif "Handle" in identifiantAlternatif.text:
+                    if "handle" in identifiantAlternatif.text:
                         identifiantType = "Handle"
                         lienHandle = identifiantAlternatif.text
                         listeIdLienHandle = [identifiantType, lienHandle]

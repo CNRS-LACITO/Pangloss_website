@@ -1,6 +1,6 @@
 # --------Parsing XML ------------------#
 import xml.etree.ElementTree as ET
-from constantes import NAMESPACES
+from constantes import NAMESPACES, DOI_Pangloss
 import re
 
 tree = ET.parse("lacito_1verif.xml")
@@ -167,6 +167,7 @@ if olac.find('dcterms:requires', NAMESPACES) != None:
 identifiant_Ark_Handle = []
 for identifiantAlternatif in olac.findall('dc:identifier', NAMESPACES):
     identifiantAttribut = identifiantAlternatif.attrib
+
     for cle, valeur in identifiantAttribut.items():
         if cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "dcterms:URI":
             if "ark" in identifiantAlternatif.text:
@@ -174,14 +175,19 @@ for identifiantAlternatif in olac.findall('dc:identifier', NAMESPACES):
                 lienArk = identifiantAlternatif.text
                 listeIdLienArk = [identifiantType, lienArk]
                 identifiant_Ark_Handle.append(listeIdLienArk)
-            elif "Handle" in identifiantAlternatif.text:
+            if "handle" in identifiantAlternatif.text:
                 identifiantType = "Handle"
                 lienHandle = identifiantAlternatif.text
                 listeIdLienHandle = [identifiantType, lienHandle]
                 identifiant_Ark_Handle.append(listeIdLienHandle)
 
-    if ".xml" in identifiantAlternatif.text:
-        print(identifiantAlternatif.text)
+lienAnnotation = ""
+for identifiantAnnotation in olac.findall('dc:identifier', NAMESPACES):
+    # extraire le lien du fichier xml contenant l'annontation
+    if ".xml" in identifiantAnnotation.text:
+        lienAnnotation = identifiantAnnotation.text
+        break
+
 
 # récupère la description de la balise abstract sous la forme d'une liste avec le contenu de la balise
 # et/ou avec une liste contenant l'attribut langue et le contenu de la balise
@@ -472,6 +478,10 @@ if requires:
         relatedIdentifier = ET.SubElement(relatedIdentifiers, "relatedIdentifier", relatedIdentifierType="PURL",
                                       relationType="Requires")
         relatedIdentifier.text = "http://purl.org/poi/crdo.vjf.cnrs.fr/"+identifiantRequires[21:]
+
+relatedIdPangloss = ET.SubElement(relatedIdentifiers, "relatedIdentifier", relatedIdentifierType="DOI",
+                                      relationType="IsPartOf")
+relatedIdPangloss.text = DOI_Pangloss
 
 if format:
     formats = ET.SubElement(racine, "formats")

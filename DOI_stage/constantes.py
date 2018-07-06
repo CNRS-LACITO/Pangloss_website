@@ -16,3 +16,4 @@ PASSWORD = "LaCiTO_DOI"
 ENDPOINTMETADATA = "https://mds.datacite.org/metadata"
 ENDPOINTDOI = "https://mds.datacite.org/doi/"
 logFileName ='critical.log'
+DOI_Pangloss = "10.5072/Pangloss"

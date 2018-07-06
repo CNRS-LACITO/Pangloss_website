@@ -22,10 +22,10 @@ root = tree.getroot()
 #shutil.rmtree("testURL_Phrase")
 #os.remove("critical.log")
 
-os.mkdir("test")
-os.mkdir("testURL")
-os.mkdir("testPhrase")
-os.mkdir("testURL_Phrase")
+#os.mkdir("test")
+#os.mkdir("testURL")
+#os.mkdir("testPhrase")
+#os.mkdir("testURL_Phrase")
 open('critical.log','w')
 
 

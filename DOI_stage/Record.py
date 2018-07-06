@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 import logging
-from constantes import SCHEME_URI, PURL, logFileName
+from constantes import SCHEME_URI, PURL, logFileName, DOI_Pangloss
 
 logging.basicConfig(filename=logFileName,level=logging.INFO)
 
@@ -44,6 +44,7 @@ class Record:
         self.pointCardinaux = pointCardinaux
         self.url = url
         self.lienAnnotation = lienAnnotation
+        self.relatedIdPangloss = DOI_Pangloss
 
     def build(self):
         """Fonction qui construit le fichier xml à partir des attributs de la classe Record"""
@@ -204,6 +205,7 @@ class Record:
             message = "La balise RESOURCETYPE pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
             logging.info(message)
 
+        #les identifiants
         alternateIdentifiers = ET.SubElement(racine, "alternateIdentifiers")
         alternateIdentifier = ET.SubElement(alternateIdentifiers, "alternateIdentifier",
                                             alternateIdentifierType="internal_ID")
@@ -234,6 +236,11 @@ class Record:
                                                   relationType="Requires")
                 relatedIdentifier.text = PURL + identifiantRequires[21:]
 
+        relatedIdPangloss = ET.SubElement(relatedIdentifiers, "relatedIdentifier", relatedIdentifierType="DOI",
+                                          relationType="IsPartOf")
+        relatedIdPangloss.text = DOI_Pangloss
+
+        #le format
         if self.format:
             formats = ET.SubElement(racine, "formats")
             for element in self.format:
@@ -245,6 +252,7 @@ class Record:
             size = ET.SubElement(sizes, "size")
             size.text = self.taille
 
+        #les descriptions
         if self.abstract or self.tableDeMatiere or self.descriptionsOlac:
             descriptions = ET.SubElement(racine, "descriptions")
 

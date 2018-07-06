@@ -70,9 +70,13 @@
 		<relatedIdentifier relatedIdentifierType="ARK" relationType="IsIdenticalTo">
 			http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.5-235225
 		</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="Handle" relationType="IsIdenticalTo">
+			http://hdl.handle.net/10670/1.2fbbm8
+		</relatedIdentifier>
 		<relatedIdentifier relatedIdentifierType="PURL" relationType="IsRequiredBy">
 			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NRU_MH2_PEOPLE_001
 		</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5072/Pangloss</relatedIdentifier>
 	</relatedIdentifiers>
 	<formats>
 		<format>audio</format>
