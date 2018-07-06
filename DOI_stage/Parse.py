@@ -137,13 +137,13 @@ def parserRecord (record):
                             typeRessourceGeneral = "Audiovisual"
                         else:
                             typeRessourceGeneral = element.text
-                    # on récupère le contenu de l'atttribut olac:code de la balise dc:type qui a comme valeur d'attribut olac:discourse-type,sinon afficher (:unkn)
+                    # on récupère le contenu de l'atttribut olac:code de la balise dc:type qui a comme valeur d'attribut olac:discourse-type,sinon afficher "Non renseigné"
                     elif cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "olac:discourse-type":
                         labelCode = typeAttribut.get('{http://www.language-archives.org/OLAC/1.1/}code')
                         labelType.append(labelCode)
                         bool = True
         if bool == False:
-            labelType.append("(:unkn)")
+            labelType.append("Non renseigné")
             bool = True
 
         isRequiredBy = []
