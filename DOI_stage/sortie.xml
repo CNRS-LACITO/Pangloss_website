@@ -1,34 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
-	<identifier identifierType="DOI">10.5072/crdo-NRU_MH2_PEOPLE_001_SOUND</identifier>
+	<identifier identifierType="DOI">10.5072/crdo-CHK_WM015_SOUND</identifier>
 	<publisher>Pangloss</publisher>
 	<creators>
 		<creator>
-			<creatorName>Michaud, Alexis</creatorName>
+			<creatorName>Chirkova, Katia</creatorName>
 		</creator>
 	</creators>
 	<contributors>
 		<contributor contributorType="ContactPerson">
-			<contributorName>Michaud, Alexis</contributorName>
-		</contributor>
-		<contributor contributorType="Researcher">
-			<contributorName>Michaud, Alexis</contributorName>
-		</contributor>
-		<contributor contributorType="Other">
-			<contributorName>Latami, Dashi-Lame</contributorName>
-		</contributor>
-		<contributor contributorType="Other">
-			<contributorName>lɑ˧tʰɑ˧mi˥-ʈæ˧ʂɯ˧-lɑ˩mv̩˩</contributorName>
-		</contributor>
-		<contributor contributorType="Other">
-			<contributorName>拉它米打史拉么</contributorName>
-		</contributor>
-		<contributor contributorType="DataCollector">
-			<contributorName>Michaud, Alexis</contributorName>
+			<contributorName>Chirkova, Katia</contributorName>
 		</contributor>
 		<contributor contributorType="Producer">
-			<contributorName nameType="Organizational">Laboratoire de langues et civilisations à tradition orale
+			<contributorName nameType="Organizational">Centre de recherches linguistiques sur l'Asie orientale
 			</contributorName>
 		</contributor>
 		<contributor contributorType="HostingInstitution">
@@ -44,37 +29,43 @@
 			<contributorName nameType="Organizational">Centre Informatique National de l'Enseignement Supérieur
 			</contributorName>
 		</contributor>
+		<contributor contributorType="RightsHolder">
+			<contributorName>Katia Chirkova</contributorName>
+		</contributor>
 	</contributors>
 	<titles>
-		<title xml:lang="en">Numeral-plus-classifier phrases. Tone: MH2. Classifier: people. Range: 1 to 30</title>
+		<title>Torch song</title>
 	</titles>
 	<publisher>Pangloss</publisher>
-	<publicationYear>2012</publicationYear>
-	<language>nru</language>
+	<publicationYear>2018</publicationYear>
+	<language>ers</language>
 	<subjects>
 		<subject>Linguistique</subject>
-		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Na</subject>
+		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Ersu</subject>
+		<subject>Histoire folklorique</subject>
+		<subject>Fêtes</subject>
+		<subject>Moeurs et coutumes</subject>
+		<subject>Chanson de la fête du flambeau</subject>
 	</subjects>
 	<dates>
-		<date dateType="Available">2012-03-10</date>
+		<date dateType="Available">2018-01-09</date>
 	</dates>
-	<resourceType resourceTypeGeneral="Sound">dialogue</resourceType>
+	<resourceType resourceTypeGeneral="Sound">Chanson</resourceType>
 	<alternateIdentifiers>
-		<alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-NRU_MH2_PEOPLE_001_SOUND
+		<alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-CHK_WM015_SOUND
 		</alternateIdentifier>
-		<alternateIdentifier alternateIdentifierType="PURL">
-			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NRU_MH2_PEOPLE_001_SOUND
+		<alternateIdentifier alternateIdentifierType="PURL">http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-CHK_WM015_SOUND
 		</alternateIdentifier>
 	</alternateIdentifiers>
 	<relatedIdentifiers>
 		<relatedIdentifier relatedIdentifierType="ARK" relationType="IsIdenticalTo">
-			http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.5-235225
+			http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-845793
 		</relatedIdentifier>
 		<relatedIdentifier relatedIdentifierType="Handle" relationType="IsIdenticalTo">
-			http://hdl.handle.net/10670/1.2fbbm8
+			http://hdl.handle.net/10670/1.wep0lu
 		</relatedIdentifier>
 		<relatedIdentifier relatedIdentifierType="PURL" relationType="IsRequiredBy">
-			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NRU_MH2_PEOPLE_001
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-CHK_WM015
 		</relatedIdentifier>
 		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5072/Pangloss</relatedIdentifier>
 	</relatedIdentifiers>
@@ -83,17 +74,18 @@
 		<format>x-wav</format>
 	</formats>
 	<sizes>
-		<size>PT2M40S</size>
+		<size>PT08M53S</size>
 	</sizes>
+	<descriptions>
+		<description descriptionType="Abstract" xml:lang="zh">杨德成唱火把节之歌。</description>
+		<description descriptionType="Other" xml:lang="zh">Equipment: 福斯特FOSTEX—FR专业便携式硬盘录音机</description>
+	</descriptions>
 	<geoLocations>
 		<geoLocation>
-			<geoLocationPlace>Chine, province du Yunnan, comté de Yongning, village de ɑ˧lɑ˧-ʁwɤ˧</geoLocationPlace>
-		</geoLocation>
-		<geoLocation>
-			<geoLocationPlace>中国云南省丽江市宁蒗县永宁乡平静村</geoLocationPlace>
+			<geoLocationPlace>China, Sichuan, Ganluo County</geoLocationPlace>
 			<geoLocationPoint>
-				<pointLongitude>100.66098140008546</pointLongitude>
-				<pointLatitude>27.767422588239274</pointLatitude>
+				<pointLongitude>102.771749</pointLongitude>
+				<pointLatitude>28.966069</pointLatitude>
 			</geoLocationPoint>
 		</geoLocation>
 	</geoLocations>

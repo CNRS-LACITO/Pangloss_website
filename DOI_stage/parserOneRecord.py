@@ -446,9 +446,14 @@ date.text = annee
 # le type de ressource
 if labelType:
     resourceType = ET.SubElement(racine, "resourceType", resourceTypeGeneral=typeRessourceGeneral)
-    resourceType.text = ", ".join(labelType)
+    if len(labelType) >1 and "(:unkn)" in labelType:
+        labelType.remove("(:unkn)")
+        resourceType.text = ", ".join(labelType)
+    else:
+        resourceType.text = ", ".join(labelType)
 else:
     print("La balise RESOURCETYPE est obligatoire")
+print(labelType)
 
 alternateIdentifiers = ET.SubElement(racine, "alternateIdentifiers")
 alternateIdentifier = ET.SubElement(alternateIdentifiers, "alternateIdentifier",
@@ -521,8 +526,12 @@ if tableDeMatiere:
 if descriptionsOlac:
     for element in descriptionsOlac:
         if isinstance(element, str):
-            #si la balise abstract existe, alors la balise description aura l'attribut Other, si elle n'existe pas, l'attribut Abstract
+            # si la balise abstract existe, alors la balise description aura l'attribut Other, si elle n'existe pas, l'attribut Abstract
             if abstract:
+                description = ET.SubElement(descriptions, "description", descriptionType="Other")
+                description.text = element
+            # si la balise abstract n'existe pas et que le mot Equipment fait partie du contenu de la balise description, alors cet élément aura l'attribut Other
+            elif "Equipment" in element:
                 description = ET.SubElement(descriptions, "description", descriptionType="Other")
                 description.text = element
             else:
@@ -534,6 +543,12 @@ if descriptionsOlac:
                 description = ET.SubElement(descriptions, "description", descriptionType="Other")
                 description.text = element[1]
                 description.set("xml:lang", element[0])
+
+            elif "Equipment" in element[1]:
+                description = ET.SubElement(descriptions, "description", descriptionType="Other")
+                description.text = element[1]
+                description.set("xml:lang", element[0])
+
             else:
                 description = ET.SubElement(descriptions, "description", descriptionType="Abstract")
                 description.text = element[1]

@@ -22,6 +22,7 @@ class Record:
         self.hostingInstitution = ["COllections de COrpus Oraux Numériques", "Huma-Num", "Langues et Civilisations à Tradition Orale", "Centre Informatique National de l'Enseignement Supérieur"]
         self.format = format
         self.annee = annee
+        self.relatedIdPangloss = DOI_Pangloss
         self.taille = taille
         self.titre = titre
         self.valeurXmlLang = valeurXmlLang
@@ -44,7 +45,7 @@ class Record:
         self.pointCardinaux = pointCardinaux
         self.url = url
         self.lienAnnotation = lienAnnotation
-        self.relatedIdPangloss = DOI_Pangloss
+
 
     def build(self):
         """Fonction qui construit le fichier xml à partir des attributs de la classe Record"""
@@ -200,6 +201,7 @@ class Record:
         # le type de ressource
         if self.labelType:
             resourceType = ET.SubElement(racine, "resourceType", resourceTypeGeneral=self.typeRessourceGeneral)
+
             resourceType.text = ", ".join(self.labelType)
         else:
             message = "La balise RESOURCETYPE pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
@@ -236,9 +238,9 @@ class Record:
                                                   relationType="Requires")
                 relatedIdentifier.text = PURL + identifiantRequires[21:]
 
-        relatedIdPangloss = ET.SubElement(relatedIdentifiers, "relatedIdentifier", relatedIdentifierType="DOI",
-                                          relationType="IsPartOf")
-        relatedIdPangloss.text = DOI_Pangloss
+        idPangloss = ET.SubElement(relatedIdentifiers, "relatedIdentifier", relatedIdentifierType="DOI",
+                                      relationType="IsPartOf")
+        idPangloss.text = self.relatedIdPangloss
 
         #le format
         if self.format:
@@ -284,6 +286,10 @@ class Record:
                     if self.abstract:
                         description = ET.SubElement(descriptions, "description", descriptionType="Other")
                         description.text = element
+                    # si la balise abstract n'existe pas et que le mot Equipment fait partie du contenu de la balise description, alors cet élément aura l'attribut Other
+                    elif "Equipment" in element:
+                        description = ET.SubElement(descriptions, "description", descriptionType="Other")
+                        description.text = element
                     else:
                         description = ET.SubElement(descriptions, "description", descriptionType="Abstract")
                         description.text = element
@@ -293,6 +299,12 @@ class Record:
                         description = ET.SubElement(descriptions, "description", descriptionType="Other")
                         description.text = element[1]
                         description.set("xml:lang", element[0])
+
+                    elif "Equipment" in element[1]:
+                        description = ET.SubElement(descriptions, "description", descriptionType="Other")
+                        description.text = element[1]
+                        description.set("xml:lang", element[0])
+
                     else:
                         description = ET.SubElement(descriptions, "description", descriptionType="Abstract")
                         description.text = element[1]
