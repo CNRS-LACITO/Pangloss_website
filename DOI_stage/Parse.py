@@ -145,7 +145,6 @@ def parserRecord (record):
         if bool == False:
             labelType.append("(:unkn)")
             bool = True
-        print(labelType, identifiantPrincipal)
 
         isRequiredBy = []
         if olac.find('dcterms:isRequiredBy', NAMESPACES) != None:

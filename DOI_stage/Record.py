@@ -216,7 +216,7 @@ class Record:
                                             alternateIdentifierType="PURL")
         alternateIdentifier.text = PURL + self.identifiantPrincipal[21:]
 
-        if self.identifiant_Ark_Handle or self.isRequiredBy or self.requires:
+        if self.identifiant_Ark_Handle or self.isRequiredBy or self.requires or self.relatedIdPangloss:
             relatedIdentifiers = ET.SubElement(racine, "relatedIdentifiers")
 
         if self.identifiant_Ark_Handle:

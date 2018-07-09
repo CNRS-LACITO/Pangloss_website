@@ -43,7 +43,6 @@ for index, record in enumerate(root.findall(".//nsDefault:record", NAMESPACES)):
     # on utilise la methode build de la classe Record pour créer le fichier xml
     fichier_xmlRessource = objetRecord.build()
 
-
     #methodes pour interroger l'API de Datacite et enregistrer le fichier de metadonnées et le fichier text avec l'url et le doi pour les ressources
     
     if fichier_xmlRessource:
@@ -90,5 +89,3 @@ for index, record in enumerate(root.findall(".//nsDefault:record", NAMESPACES)):
         break
 
 #allRecords = [parsing(record) for record in root.findall(".//nsDefault:record", nameSpaces)]
-
-
