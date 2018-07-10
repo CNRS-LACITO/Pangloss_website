@@ -288,7 +288,7 @@ class Record:
                         description.text = element
                     # si la balise abstract n'existe pas et que le mot Equipment fait partie du contenu de la balise description, alors cet élément aura l'attribut Other
                     elif "Equipment" in element:
-                        description = ET.SubElement(descriptions, "description", descriptionType="Other")
+                        description = ET.SubElement(descriptions, "description", descriptionType="TechnicalInfo")
                         description.text = element
                     else:
                         description = ET.SubElement(descriptions, "description", descriptionType="Abstract")
@@ -301,7 +301,7 @@ class Record:
                         description.set("xml:lang", element[0])
 
                     elif "Equipment" in element[1]:
-                        description = ET.SubElement(descriptions, "description", descriptionType="Other")
+                        description = ET.SubElement(descriptions, "description", descriptionType="TechnicalInfo")
                         description.text = element[1]
                         description.set("xml:lang", element[0])
 

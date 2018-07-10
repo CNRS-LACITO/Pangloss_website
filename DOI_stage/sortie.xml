@@ -1,25 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
-	<identifier identifierType="DOI">10.5072/crdo-TVK_20141116A_P02S026</identifier>
+	<identifier identifierType="DOI">10.5072/crdo-CHK_XUMI286_SOUND</identifier>
 	<publisher>Pangloss</publisher>
 	<creators>
 		<creator>
-			<creatorName>Ridge, Eleanor</creatorName>
+			<creatorName>Chirkova, Katia</creatorName>
 		</creator>
 	</creators>
 	<contributors>
-		<contributor contributorType="Other">
-			<contributorName>Elder Simeon Ben</contributorName>
+		<contributor contributorType="ContactPerson">
+			<contributorName>Chirkova, Katia</contributorName>
 		</contributor>
 		<contributor contributorType="Researcher">
-			<contributorName>Ridge, Eleanor</contributorName>
-		</contributor>
-		<contributor contributorType="ContactPerson">
-			<contributorName>Ridge, Eleanor</contributorName>
+			<contributorName>Chirkova, Katia</contributorName>
 		</contributor>
 		<contributor contributorType="Producer">
-			<contributorName nameType="Organizational">Laboratoire de langues et civilisations à tradition orale
+			<contributorName nameType="Organizational">Centre de recherches linguistiques sur l'Asie orientale
 			</contributorName>
 		</contributor>
 		<contributor contributorType="HostingInstitution">
@@ -36,51 +33,69 @@
 			</contributorName>
 		</contributor>
 		<contributor contributorType="RightsHolder">
-			<contributorName>Ridge, Eleanor</contributorName>
+			<contributorName>Katia Chirkova</contributorName>
 		</contributor>
 	</contributors>
 	<titles>
-		<title xml:lang="en">A story about bible translation 2</title>
+		<title>Thirsty crow</title>
 	</titles>
 	<publisher>Pangloss</publisher>
 	<publicationYear>2018</publicationYear>
-	<language>tvk</language>
+	<language>sxg</language>
 	<subjects>
 		<subject>Linguistique</subject>
-		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Vatlongos</subject>
+		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Xumi</subject>
+		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Chinese, Mandarin
+		</subject>
+		<subject>Animaux</subject>
+		<subject>Oiseaux</subject>
+		<subject>thirsty crow</subject>
 	</subjects>
 	<dates>
-		<date dateType="Available">2018-04-11</date>
+		<date dateType="Available">2018-01-09</date>
 	</dates>
-	<resourceType resourceTypeGeneral="Text">narrative</resourceType>
+	<resourceType resourceTypeGeneral="Sound">Stimuli, Narration</resourceType>
 	<alternateIdentifiers>
-		<alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-TVK_20141116A_P02S026
+		<alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-CHK_XUMI286_SOUND
 		</alternateIdentifier>
 		<alternateIdentifier alternateIdentifierType="PURL">
-			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-TVK_20141116A_P02S026
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-CHK_XUMI286_SOUND
 		</alternateIdentifier>
 	</alternateIdentifiers>
 	<relatedIdentifiers>
-		<relatedIdentifier relatedIdentifierType="Handle" relationType="IsIdenticalTo">
-			http://hdl.handle.net/10670/1.d1en7c
+		<relatedIdentifier relatedIdentifierType="ARK" relationType="IsIdenticalTo">
+			http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-845973
 		</relatedIdentifier>
-		<relatedIdentifier relatedIdentifierType="PURL" relationType="Requires">
-			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-TVK_20141116A_P02S026_SOUND
+		<relatedIdentifier relatedIdentifierType="Handle" relationType="IsIdenticalTo">
+			http://hdl.handle.net/10670/1.6i1vc8
+		</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="PURL" relationType="IsRequiredBy">
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-CHK_XUMI286
 		</relatedIdentifier>
 		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5072/Pangloss</relatedIdentifier>
 	</relatedIdentifiers>
 	<formats>
-		<format>text</format>
-		<format>xml</format>
+		<format>audio</format>
+		<format>x-wav</format>
 	</formats>
+	<sizes>
+		<size>PT02M22S</size>
+	</sizes>
 	<descriptions>
-		<description descriptionType="Abstract" xml:lang="en">Elder Simeon Ben describes his work as a Bible translator
-			working on the Vatlongos Bible.
+		<description descriptionType="Abstract">In this recording, Zhuma tells a story from a children picture book
+			about a cunning thirsty crow. It throws pebbles into a bottle with some water so that the level of the water
+			rises and it can drink
+		</description>
+		<description descriptionType="TechnicalInfo">Equipment: Fostex Fr-2 AKG C900 on the left channel (mono)
 		</description>
 	</descriptions>
 	<geoLocations>
 		<geoLocation>
-			<geoLocationPlace>Vanuatu, Mele Maat</geoLocationPlace>
+			<geoLocationPlace>China, Sichuan, Muli County, Shuiluo township</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>100.666351</pointLongitude>
+				<pointLatitude>28.275358</pointLatitude>
+			</geoLocationPoint>
 		</geoLocation>
 	</geoLocations>
 </resource>

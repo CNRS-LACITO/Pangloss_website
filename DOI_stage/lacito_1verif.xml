@@ -2,37 +2,51 @@
 <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
 <record>
     <header>
-        <identifier>oai:crdo.vjf.cnrs.fr:crdo-TVK_20141116A_P02S026</identifier>
-        <datestamp>2018-07-03</datestamp>
-        <setSpec>Lacito</setSpec>
+        <identifier>oai:crdo.vjf.cnrs.fr:crdo-CHK_XUMI286_SOUND</identifier>
+        <datestamp>2018-05-31</datestamp>
         <setSpec>Linguistique</setSpec>
+        <setSpec>Lacito</setSpec>
     </header>
     <metadata>
         <olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd">
-            <dc:title xml:lang="en">A story about bible translation 2</dc:title>
-            <dc:description xml:lang="en">Elder Simeon Ben describes his work as a Bible translator working on the Vatlongos Bible.</dc:description>
-            <dc:subject olac:code="tvk" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Vatlongos</dc:subject>
-            <dc:language olac:code="tvk" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Vatlongos</dc:language>
-            <dc:contributor olac:code="speaker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Elder Simeon Ben</dc:contributor>
-            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Ridge, Eleanor</dc:contributor>
-            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Ridge, Eleanor</dc:contributor>
-            <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
-            <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">text/xml</dc:format>
-            <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Text</dc:type>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/ridge/masters/crdo-TVK_20141116A_P02S026.xml</dc:identifier>
+            <dc:language olac:code="sxg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Xumi</dc:language>
+            <dc:subject olac:code="sxg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Xumi</dc:subject>
+            <dc:title>Thirsty crow</dc:title>
+            <dc:description>In this recording, Zhuma tells a story from a children picture book about a cunning thirsty crow. It throws pebbles into a bottle with some water so that the level of the water rises and it can drink</dc:description>
+            <dc:language olac:code="cmn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Chinese, Mandarin</dc:language>
+            <dc:subject olac:code="cmn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Chinese, Mandarin</dc:subject>
+            <dc:type>Stimuli</dc:type>
+            <dc:type>Narration</dc:type>
+            <dc:publisher>Centre de recherches linguistiques sur l'Asie orientale</dc:publisher>
+            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Chirkova, Katia</dc:contributor>
             <dc:type olac:code="primary_text" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
-            <dc:type olac:code="narrative" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:discourse-type"/>
-            <dc:rights>Copyright (c) Ridge, Eleanor</dc:rights>
-            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">VU</dcterms:spatial>
-            <dcterms:spatial>Vanuatu, Mele Maat</dcterms:spatial>
-            <dcterms:conformsTo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-dtd_archive</dcterms:conformsTo>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/display/crdo-TVK_20141116A_P02S026</dcterms:isFormatOf>
-            <dcterms:requires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-TVK_20141116A_P02S026_SOUND</dcterms:requires>
-            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
+            <dc:rights>Copyright © Katia Chirkova</dc:rights>
+            <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">audio/x-wav</dc:format>
+            <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dc:type>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/chirkova/xumi286_22km.wav</dc:identifier>
+            <dc:description>Equipment: Fostex Fr-2 AKG C900 on the left channel (mono)</dc:description>
+            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Chirkova, Katia</dc:contributor>
+            <dc:contributor olac:code="consultant" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Zhuma</dc:contributor>
+            <dc:subject>Animaux</dc:subject>
+            <dc:subject>Oiseaux</dc:subject>
+            <dc:subject>thirsty crow</dc:subject>
+            <dcterms:spatial>China, Sichuan, Muli County, Shuiluo township</dcterms:spatial>
+            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Point">east=100.666351; north=28.275358;</dcterms:spatial>
+            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2018-01-09</dcterms:available>
+            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_CHK</dcterms:isPartOf>
+            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_CHK_XUMI</dcterms:isPartOf>
             <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
-            <dcterms:license xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/3.0/</dcterms:license>
-            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2018-04-11</dcterms:available>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.d1en7c</dc:identifier>
+            <dcterms:license xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/</dcterms:license>
+            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2016-06-12</dcterms:created>
+            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">CN</dcterms:spatial>
+            <dcterms:isRequiredBy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-CHK_XUMI286</dcterms:isRequiredBy>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/chirkova/masters/xumi286.wav</dcterms:isFormatOf>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/chirkova/xumi286.mp3</dcterms:isFormatOf>
+            <dcterms:extent>PT02M22S</dcterms:extent>
+            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
+            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2018-02-15T21:10:56+01:00</dcterms:issued>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-845973</dc:identifier>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.6i1vc8</dc:identifier>
         </olac:olac>
     </metadata>
 </record>
