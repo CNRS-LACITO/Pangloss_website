@@ -1,19 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
-	<identifier identifierType="DOI">10.5072/crdo-CHK_WM015_SOUND</identifier>
+	<identifier identifierType="DOI">10.5072/crdo-TVK_20141116A_P02S026</identifier>
 	<publisher>Pangloss</publisher>
 	<creators>
 		<creator>
-			<creatorName>Chirkova, Katia</creatorName>
+			<creatorName>Ridge, Eleanor</creatorName>
 		</creator>
 	</creators>
 	<contributors>
+		<contributor contributorType="Other">
+			<contributorName>Elder Simeon Ben</contributorName>
+		</contributor>
+		<contributor contributorType="Researcher">
+			<contributorName>Ridge, Eleanor</contributorName>
+		</contributor>
 		<contributor contributorType="ContactPerson">
-			<contributorName>Chirkova, Katia</contributorName>
+			<contributorName>Ridge, Eleanor</contributorName>
 		</contributor>
 		<contributor contributorType="Producer">
-			<contributorName nameType="Organizational">Centre de recherches linguistiques sur l'Asie orientale
+			<contributorName nameType="Organizational">Laboratoire de langues et civilisations à tradition orale
 			</contributorName>
 		</contributor>
 		<contributor contributorType="HostingInstitution">
@@ -30,63 +36,51 @@
 			</contributorName>
 		</contributor>
 		<contributor contributorType="RightsHolder">
-			<contributorName>Katia Chirkova</contributorName>
+			<contributorName>Ridge, Eleanor</contributorName>
 		</contributor>
 	</contributors>
 	<titles>
-		<title>Torch song</title>
+		<title xml:lang="en">A story about bible translation 2</title>
 	</titles>
 	<publisher>Pangloss</publisher>
 	<publicationYear>2018</publicationYear>
-	<language>ers</language>
+	<language>tvk</language>
 	<subjects>
 		<subject>Linguistique</subject>
-		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Ersu</subject>
-		<subject>Histoire folklorique</subject>
-		<subject>Fêtes</subject>
-		<subject>Moeurs et coutumes</subject>
-		<subject>Chanson de la fête du flambeau</subject>
+		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Vatlongos</subject>
 	</subjects>
 	<dates>
-		<date dateType="Available">2018-01-09</date>
+		<date dateType="Available">2018-04-11</date>
 	</dates>
-	<resourceType resourceTypeGeneral="Sound">Chanson</resourceType>
+	<resourceType resourceTypeGeneral="Text">narrative</resourceType>
 	<alternateIdentifiers>
-		<alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-CHK_WM015_SOUND
+		<alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-TVK_20141116A_P02S026
 		</alternateIdentifier>
-		<alternateIdentifier alternateIdentifierType="PURL">http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-CHK_WM015_SOUND
+		<alternateIdentifier alternateIdentifierType="PURL">
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-TVK_20141116A_P02S026
 		</alternateIdentifier>
 	</alternateIdentifiers>
 	<relatedIdentifiers>
-		<relatedIdentifier relatedIdentifierType="ARK" relationType="IsIdenticalTo">
-			http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-845793
-		</relatedIdentifier>
 		<relatedIdentifier relatedIdentifierType="Handle" relationType="IsIdenticalTo">
-			http://hdl.handle.net/10670/1.wep0lu
+			http://hdl.handle.net/10670/1.d1en7c
 		</relatedIdentifier>
-		<relatedIdentifier relatedIdentifierType="PURL" relationType="IsRequiredBy">
-			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-CHK_WM015
+		<relatedIdentifier relatedIdentifierType="PURL" relationType="Requires">
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-TVK_20141116A_P02S026_SOUND
 		</relatedIdentifier>
 		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5072/Pangloss</relatedIdentifier>
 	</relatedIdentifiers>
 	<formats>
-		<format>audio</format>
-		<format>x-wav</format>
+		<format>text</format>
+		<format>xml</format>
 	</formats>
-	<sizes>
-		<size>PT08M53S</size>
-	</sizes>
 	<descriptions>
-		<description descriptionType="Abstract" xml:lang="zh">杨德成唱火把节之歌。</description>
-		<description descriptionType="Other" xml:lang="zh">Equipment: 福斯特FOSTEX—FR专业便携式硬盘录音机</description>
+		<description descriptionType="Abstract" xml:lang="en">Elder Simeon Ben describes his work as a Bible translator
+			working on the Vatlongos Bible.
+		</description>
 	</descriptions>
 	<geoLocations>
 		<geoLocation>
-			<geoLocationPlace>China, Sichuan, Ganluo County</geoLocationPlace>
-			<geoLocationPoint>
-				<pointLongitude>102.771749</pointLongitude>
-				<pointLatitude>28.966069</pointLatitude>
-			</geoLocationPoint>
+			<geoLocationPlace>Vanuatu, Mele Maat</geoLocationPlace>
 		</geoLocation>
 	</geoLocations>
 </resource>
