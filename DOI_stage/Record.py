@@ -181,7 +181,8 @@ class Record:
             for label in self.labelLangue:
                 subject = ET.SubElement(subjects, "subject", subjectScheme="language",
                                         schemeURI = SCHEME_URI)
-                subject.text = label
+                subject.text = label[1]
+                subject.set("xml:lang", label[0])
 
         if self.sujets:
             for mot in self.sujets:

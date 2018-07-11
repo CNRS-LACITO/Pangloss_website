@@ -91,9 +91,9 @@ if olac.findall('dc:contributor', NAMESPACES) != None:
 else:
     print("La balise Contributeurs n'existe pas")
 
-# récupère les codes des langues des corpus
+# récupère le code de la langue principale de la ressource
 codeLangue = []
-# récupère les labels des langues des corpus
+# récupère les labels de la langue principale de la ressource
 labelLangue = []
 # récupère des mots-clés sous forme de chaine de caractères et des listes de mot-clé et xml:lang
 sujets = []
@@ -104,22 +104,25 @@ for sujet in olac.findall('dc:subject', NAMESPACES):
     if not sujetAttribut:
         sujets.append(sujet.text)
     else:
-        # si la balise subject contient l'attribut type et la valeur olac:langue, recupère les diférents informations sur les langues
+        # si la balise subject contient l'attribut type et la valeur olac:langue, recupérer les diférents informations sur les langues
         for cle, valeur in sujetAttribut.items():
             if cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "olac:language":
-                # récupère le code de la langue et l'ajoute à la liste
+                # récupère le code de la langue et l'ajoute à la liste de code
                 code = sujetAttribut.get('{http://www.language-archives.org/OLAC/1.1/}code')
                 codeLangue.append(code)
-                # récupère le texte de la balise sujet pour la langue et l'ajoute à la liste
+                # récupérer dans une liste la valeur de l'attribut xml:lang et le label de la langue et l'ajoute à la liste de label
                 label = sujet.text
-                labelLangue.append(label)
-            # si la balise subject contient l'attribut xml:lang, récupère dans une liste la valeur de l'attribut et le contenu de l'élément
+                attribXmlLangLabel = sujetAttribut.get('{http://www.w3.org/XML/1998/namespace}lang')
+                listeAttribXmlLabel = [attribXmlLangLabel, label]
+                labelLangue.append(listeAttribXmlLabel)
+            # si la balise subject contient l'attribut xml:lang, récupérer dans une liste la valeur de l'attribut et le contenu de l'élément
             if cle == "{http://www.w3.org/XML/1998/namespace}lang" and "{http://www.w3.org/2001/XMLSchema-instance}type" not in sujetAttribut:
                 attribXmlLang = valeur
                 motCle = sujet.text
                 listeAttribMot = [attribXmlLang, motCle]
                 # ajout de la liste attribut langue et mot clé à la liste de mots clés
                 sujets.append(listeAttribMot)
+
 
 # Le type de ressource: récupère les informations des balises dc:type
 # liste qui récupère le contenu de la balise type et la valeur de l'attribut olac:code et qui vont être affectés à l'élément type en sortie
@@ -426,7 +429,8 @@ if labelLangue:
     for label in labelLangue:
         subject = ET.SubElement(subjects, "subject", subjectScheme="language",
                                 schemeURI="http://search.language-archives.org/index.html")
-        subject.text = label
+        subject.text = label[1]
+        subject.set("xml:lang", label[0])
 
 if sujets:
     for mot in sujets:

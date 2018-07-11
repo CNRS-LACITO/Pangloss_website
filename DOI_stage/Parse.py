@@ -101,16 +101,18 @@ def parserRecord (record):
             if not sujetAttribut:
                 sujets.append(sujet.text)
             else:
-                # si la balise subject contient l'attribut type et la valeur olac:langue, recupère les diférents informations sur les langues
+            # si la balise subject contient l'attribut type et la valeur olac:langue, recupérer les diférents informations sur les langues
                 for cle, valeur in sujetAttribut.items():
                     if cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "olac:language":
-                        # récupère le code de la langue et l'ajoute à la liste
+                        # récupère le code de la langue et l'ajoute à la liste de code
                         code = sujetAttribut.get('{http://www.language-archives.org/OLAC/1.1/}code')
                         codeLangue.append(code)
-                        # récupère le texte de la balise sujet pour la langue et l'ajoute à la liste
+                        # récupérer dans une liste la valeur de l'attribut xml:lang et le label de la langue et l'ajoute à la liste de label
                         label = sujet.text
-                        labelLangue.append(label)
-                    # si la balise subject contient l'attribut xml:lang, récupère dans une liste la valeur de l'attribut et le contenu de l'élément
+                        attribXmlLangLabel = sujetAttribut.get('{http://www.w3.org/XML/1998/namespace}lang')
+                        listeAttribXmlLabel = [attribXmlLangLabel, label]
+                        labelLangue.append(listeAttribXmlLabel)
+                    # si la balise subject contient l'attribut xml:lang, récupérer dans une liste la valeur de l'attribut et le contenu de l'élément
                     if cle == "{http://www.w3.org/XML/1998/namespace}lang" and "{http://www.w3.org/2001/XMLSchema-instance}type" not in sujetAttribut:
                         attribXmlLang = valeur
                         motCle = sujet.text

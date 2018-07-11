@@ -13,7 +13,7 @@
 			<contributorName nameType="Personal">Moyse-Faurie, Claire</contributorName>
 		</contributor>
 		<contributor contributorType="Researcher">
-			<contributorName>Moyse-Faurie, Claire</contributorName>
+			<contributorName nameType="Personal">Moyse-Faurie, Claire</contributorName>
 		</contributor>
 		<contributor contributorType="Sponsor">
 			<contributorName>Sorosoro</contributorName>
@@ -47,7 +47,9 @@
 	<language>ane</language>
 	<subjects>
 		<subject>Linguistique</subject>
-		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Xârâcùù</subject>
+		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language" xml:lang="fr">
+			Xârâcùù
+		</subject>
 		<subject>Santé</subject>
 		<subject>Plantes</subject>
 		<subject>Nouvelle-Calédonie -- Histoire</subject>
