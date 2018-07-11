@@ -2,51 +2,57 @@
 <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
 <record>
     <header>
-        <identifier>oai:crdo.vjf.cnrs.fr:crdo-CHK_XUMI286_SOUND</identifier>
-        <datestamp>2018-05-31</datestamp>
-        <setSpec>Linguistique</setSpec>
+        <identifier>oai:crdo.vjf.cnrs.fr:crdo-SRSR8_2_2_SOUND</identifier>
+        <datestamp>2017-06-06</datestamp>
         <setSpec>Lacito</setSpec>
+        <setSpec>LanguesDeFrance</setSpec>
+        <setSpec>Linguistique</setSpec>
     </header>
     <metadata>
         <olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd">
-            <dc:language olac:code="sxg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Xumi</dc:language>
-            <dc:subject olac:code="sxg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Xumi</dc:subject>
-            <dc:title>Thirsty crow</dc:title>
-            <dc:description>In this recording, Zhuma tells a story from a children picture book about a cunning thirsty crow. It throws pebbles into a bottle with some water so that the level of the water rises and it can drink</dc:description>
-            <dc:language olac:code="cmn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Chinese, Mandarin</dc:language>
-            <dc:subject olac:code="cmn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Chinese, Mandarin</dc:subject>
-            <dc:type>Stimuli</dc:type>
-            <dc:type>Narration</dc:type>
-            <dc:publisher>Centre de recherches linguistiques sur l'Asie orientale</dc:publisher>
-            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Chirkova, Katia</dc:contributor>
-            <dc:type olac:code="primary_text" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
-            <dc:rights>Copyright © Katia Chirkova</dc:rights>
+            <dc:title xml:lang="fr">Mission en Nouvelle-Calédonie 2010: DVD 8 chapitre 2 partie 2</dc:title>
             <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">audio/x-wav</dc:format>
             <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dc:type>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/chirkova/xumi286_22km.wav</dc:identifier>
-            <dc:description>Equipment: Fostex Fr-2 AKG C900 on the left channel (mono)</dc:description>
-            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Chirkova, Katia</dc:contributor>
-            <dc:contributor olac:code="consultant" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Zhuma</dc:contributor>
-            <dc:subject>Animaux</dc:subject>
-            <dc:subject>Oiseaux</dc:subject>
-            <dc:subject>thirsty crow</dc:subject>
-            <dcterms:spatial>China, Sichuan, Muli County, Shuiluo township</dcterms:spatial>
-            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Point">east=100.666351; north=28.275358;</dcterms:spatial>
-            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2018-01-09</dcterms:available>
-            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_CHK</dcterms:isPartOf>
-            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_CHK_XUMI</dcterms:isPartOf>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/SRSR8_2_2_22km.wav</dc:identifier>
+            <dc:rights>Copyright (c) Moyse-Faurie, Claire</dc:rights>
+            <dc:subject>Santé</dc:subject>
+            <dc:subject>Plantes</dc:subject>
+            <dc:subject>Nouvelle-Calédonie -- Histoire</dc:subject>
+            <dc:subject>Nouvelle-Calédonie -- 1984-1988 (Événements)</dc:subject>
+            <dc:type>Dialogue</dc:type>
+            <dc:type>Récits personnels</dc:type>
+            <dc:type>Entretiens</dc:type>
+            <dc:subject>Xârâcùù (langue)</dc:subject>
+            <dc:subject>Académie des langues kanak (Nouméa)</dc:subject>
+            <dc:subject>Langues -- Étude et enseignement</dc:subject>
+            <dc:subject>Enquêtes linguistiques</dc:subject>
+            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Moyse-Faurie, Claire</dc:contributor>
+            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Moyse-Faurie, Claire</dc:contributor>
+            <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+            <dc:type olac:code="primary_text" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
+            <dc:subject olac:code="text_and_corpus_linguistics" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-field"/>
+            <dc:contributor olac:code="recorder" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Reynès, José</dc:contributor>
+            <dc:contributor olac:code="recorder" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Jorédié, Karl</dc:contributor>
+            <dc:contributor olac:code="sponsor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Sorosoro</dc:contributor>
+            <dc:language olac:code="ane" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Xârâcùù</dc:language>
+            <dc:subject olac:code="ane" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Xârâcùù</dc:subject>
+            <dcterms:isRequiredBy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-SRSR8_2_2</dcterms:isRequiredBy>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/SRSR8_2_2.mp3</dcterms:isFormatOf>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/masters/SRSR8_2_2.wav</dcterms:isFormatOf>
+            <dcterms:extent>PT25M44S</dcterms:extent>
             <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
             <dcterms:license xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/</dcterms:license>
-            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2016-06-12</dcterms:created>
-            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">CN</dcterms:spatial>
-            <dcterms:isRequiredBy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-CHK_XUMI286</dcterms:isRequiredBy>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/chirkova/masters/xumi286.wav</dcterms:isFormatOf>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/chirkova/xumi286.mp3</dcterms:isFormatOf>
-            <dcterms:extent>PT02M22S</dcterms:extent>
             <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
-            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2018-02-15T21:10:56+01:00</dcterms:issued>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-845973</dc:identifier>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.6i1vc8</dc:identifier>
+            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LANGUESDEFRANCE</dcterms:isPartOf>
+            <dcterms:abstract xml:lang="fr">Dans la première moitié de l'enregistrement, un homme décrit le travail du guérisseur et le compare aux méthodes de soin occidentales. Il exprime ensuite son souhait de voir les nouvelles générations revenir à la médecine traditionnelle kanak. La seconde moitié de l'enregistrement est un entretien. La locutrice travaille à l'ALK, l'Académie des Langues Kanak, où elle est responsable de l'aire xârâcùù et chargée de proposer une écriture des langues de l'aire xârâcùù. Dans cet entretien, elle présente l'aire xârâcùù, les différentes activités de l'ALK et ses travaux menés au sein de l'Académie.</dcterms:abstract>
+            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2017-02-10</dcterms:available>
+            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">NC</dcterms:spatial>
+            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Period">start=2010-10-08; end=2010-11-15</dcterms:created>
+            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_MFC1</dcterms:isPartOf>
+            <dcterms:medium>DVD</dcterms:medium>
+            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2017-06-06T18:48:37+02:00</dcterms:issued>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-767729</dc:identifier>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.bmn046</dc:identifier>
         </olac:olac>
     </metadata>
 </record>

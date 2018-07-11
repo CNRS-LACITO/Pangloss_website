@@ -127,7 +127,7 @@ def parserRecord (record):
             typeAttribut = element.attrib
 
             if not typeAttribut:
-                labelType.append(element.text)
+                sujet.append(element.text)
 
             else :
                 for cle, valeur in typeAttribut.items():

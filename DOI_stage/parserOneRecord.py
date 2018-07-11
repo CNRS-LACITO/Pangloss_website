@@ -130,7 +130,7 @@ for element in olac.findall("dc:type", NAMESPACES):
     typeAttribut = element.attrib
 
     if not typeAttribut:
-        labelType.append(element.text)
+        sujets.append(element.text)
 
     else:
         for cle, valeur in typeAttribut.items():
@@ -316,36 +316,36 @@ booleen = False
 for personneRole in contributeurs:
     if "researcher" in personneRole[1]:
         creator = ET.SubElement(creators, "creator")
-        creatorName = ET.SubElement(creator, "creatorName")
+        creatorName = ET.SubElement(creator, "creatorName", nameType="Personal")
         creatorName.text = personneRole[0]
         contributor = ET.SubElement(contributors, "contributor", contributorType='Researcher')
-        contributorName = ET.SubElement(contributor, "contributorName")
+        contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
         booleen = True
     elif "annotator" in personneRole[1] or "transcriber" in personneRole[1] or "translator" in personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='DataCurator')
-        contributorName = ET.SubElement(contributor, "contributorName")
+        contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
     elif "speaker" in personneRole[1] or "performer" in personneRole[1] or "singer" in personneRole[1] or "responder" in \
             personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='Other')
-        contributorName = ET.SubElement(contributor, "contributorName")
+        contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
     elif "interviewer" in personneRole[1] or "interpreter" in personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='DataCollector')
-        contributorName = ET.SubElement(contributor, "contributorName")
+        contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
     elif "depositor" in personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='ContactPerson')
-        contributorName = ET.SubElement(contributor, "contributorName")
+        contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
     elif "compiler" in personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='DataCurator')
-        contributorName = ET.SubElement(contributor, "contributorName")
+        contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
     elif "editor" in personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='Editor')
-        contributorName = ET.SubElement(contributor, "contributorName")
+        contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
     elif "sponsor" in personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='Sponsor')
@@ -356,7 +356,7 @@ if booleen == False:
     for personneRole in contributeurs:
         if "depositor" in personneRole[1]:
             creator = ET.SubElement(creators, "creator")
-            creatorName = ET.SubElement(creator, "creatorName")
+            creatorName = ET.SubElement(creator, "creatorName", nameType="Personal")
             creatorName.text = personneRole[0]
             booleen = True
 if booleen == False:

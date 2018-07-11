@@ -1,22 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
-	<identifier identifierType="DOI">10.5072/crdo-CHK_XUMI286_SOUND</identifier>
+	<identifier identifierType="DOI">10.5072/crdo-SRSR8_2_2_SOUND</identifier>
 	<publisher>Pangloss</publisher>
 	<creators>
 		<creator>
-			<creatorName>Chirkova, Katia</creatorName>
+			<creatorName nameType="Personal">Moyse-Faurie, Claire</creatorName>
 		</creator>
 	</creators>
 	<contributors>
 		<contributor contributorType="ContactPerson">
-			<contributorName>Chirkova, Katia</contributorName>
+			<contributorName nameType="Personal">Moyse-Faurie, Claire</contributorName>
 		</contributor>
 		<contributor contributorType="Researcher">
-			<contributorName>Chirkova, Katia</contributorName>
+			<contributorName>Moyse-Faurie, Claire</contributorName>
+		</contributor>
+		<contributor contributorType="Sponsor">
+			<contributorName>Sorosoro</contributorName>
 		</contributor>
 		<contributor contributorType="Producer">
-			<contributorName nameType="Organizational">Centre de recherches linguistiques sur l'Asie orientale
+			<contributorName nameType="Organizational">Laboratoire de langues et civilisations à tradition orale
 			</contributorName>
 		</contributor>
 		<contributor contributorType="HostingInstitution">
@@ -33,44 +36,49 @@
 			</contributorName>
 		</contributor>
 		<contributor contributorType="RightsHolder">
-			<contributorName>Katia Chirkova</contributorName>
+			<contributorName>Moyse-Faurie, Claire</contributorName>
 		</contributor>
 	</contributors>
 	<titles>
-		<title>Thirsty crow</title>
+		<title xml:lang="fr">Mission en Nouvelle-Calédonie 2010: DVD 8 chapitre 2 partie 2</title>
 	</titles>
 	<publisher>Pangloss</publisher>
-	<publicationYear>2018</publicationYear>
-	<language>sxg</language>
+	<publicationYear>2017</publicationYear>
+	<language>ane</language>
 	<subjects>
 		<subject>Linguistique</subject>
-		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Xumi</subject>
-		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Chinese, Mandarin
-		</subject>
-		<subject>Animaux</subject>
-		<subject>Oiseaux</subject>
-		<subject>thirsty crow</subject>
+		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="language">Xârâcùù</subject>
+		<subject>Santé</subject>
+		<subject>Plantes</subject>
+		<subject>Nouvelle-Calédonie -- Histoire</subject>
+		<subject>Nouvelle-Calédonie -- 1984-1988 (Événements)</subject>
+		<subject>Xârâcùù (langue)</subject>
+		<subject>Académie des langues kanak (Nouméa)</subject>
+		<subject>Langues -- Étude et enseignement</subject>
+		<subject>Enquêtes linguistiques</subject>
+		<subject>Dialogue</subject>
+		<subject>Récits personnels</subject>
+		<subject>Entretiens</subject>
 	</subjects>
 	<dates>
-		<date dateType="Available">2018-01-09</date>
+		<date dateType="Available">2017-02-10</date>
 	</dates>
-	<resourceType resourceTypeGeneral="Sound">Stimuli, Narration</resourceType>
+	<resourceType resourceTypeGeneral="Sound">(:unkn)</resourceType>
 	<alternateIdentifiers>
-		<alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-CHK_XUMI286_SOUND
+		<alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-SRSR8_2_2_SOUND
 		</alternateIdentifier>
-		<alternateIdentifier alternateIdentifierType="PURL">
-			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-CHK_XUMI286_SOUND
+		<alternateIdentifier alternateIdentifierType="PURL">http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-SRSR8_2_2_SOUND
 		</alternateIdentifier>
 	</alternateIdentifiers>
 	<relatedIdentifiers>
 		<relatedIdentifier relatedIdentifierType="ARK" relationType="IsIdenticalTo">
-			http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-845973
+			http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-767729
 		</relatedIdentifier>
 		<relatedIdentifier relatedIdentifierType="Handle" relationType="IsIdenticalTo">
-			http://hdl.handle.net/10670/1.6i1vc8
+			http://hdl.handle.net/10670/1.bmn046
 		</relatedIdentifier>
 		<relatedIdentifier relatedIdentifierType="PURL" relationType="IsRequiredBy">
-			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-CHK_XUMI286
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-SRSR8_2_2
 		</relatedIdentifier>
 		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5072/Pangloss</relatedIdentifier>
 	</relatedIdentifiers>
@@ -79,23 +87,16 @@
 		<format>x-wav</format>
 	</formats>
 	<sizes>
-		<size>PT02M22S</size>
+		<size>PT25M44S</size>
 	</sizes>
 	<descriptions>
-		<description descriptionType="Abstract">In this recording, Zhuma tells a story from a children picture book
-			about a cunning thirsty crow. It throws pebbles into a bottle with some water so that the level of the water
-			rises and it can drink
-		</description>
-		<description descriptionType="TechnicalInfo">Equipment: Fostex Fr-2 AKG C900 on the left channel (mono)
+		<description descriptionType="Abstract" xml:lang="fr">Dans la première moitié de l'enregistrement, un homme
+			décrit le travail du guérisseur et le compare aux méthodes de soin occidentales. Il exprime ensuite son
+			souhait de voir les nouvelles générations revenir à la médecine traditionnelle kanak. La seconde moitié de
+			l'enregistrement est un entretien. La locutrice travaille à l'ALK, l'Académie des Langues Kanak, où elle est
+			responsable de l'aire xârâcùù et chargée de proposer une écriture des langues de l'aire xârâcùù. Dans cet
+			entretien, elle présente l'aire xârâcùù, les différentes activités de l'ALK et ses travaux menés au sein de
+			l'Académie.
 		</description>
 	</descriptions>
-	<geoLocations>
-		<geoLocation>
-			<geoLocationPlace>China, Sichuan, Muli County, Shuiluo township</geoLocationPlace>
-			<geoLocationPoint>
-				<pointLongitude>100.666351</pointLongitude>
-				<pointLatitude>28.275358</pointLatitude>
-			</geoLocationPoint>
-		</geoLocation>
-	</geoLocations>
 </resource>
