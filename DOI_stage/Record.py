@@ -179,7 +179,7 @@ class Record:
 
         if self.labelLangue:
             for label in self.labelLangue:
-                subject = ET.SubElement(subjects, "subject", subjectScheme="language",
+                subject = ET.SubElement(subjects, "subject", subjectScheme="OLAC",
                                         schemeURI = SCHEME_URI)
                 subject.text = label[1]
                 subject.set("xml:lang", label[0])

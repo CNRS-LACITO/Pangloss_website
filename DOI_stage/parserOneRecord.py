@@ -427,7 +427,7 @@ subject.text = setSpec
 
 if labelLangue:
     for label in labelLangue:
-        subject = ET.SubElement(subjects, "subject", subjectScheme="language",
+        subject = ET.SubElement(subjects, "subject", subjectScheme="OLAC",
                                 schemeURI="http://search.language-archives.org/index.html")
         subject.text = label[1]
         subject.set("xml:lang", label[0])
