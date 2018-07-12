@@ -24,8 +24,6 @@ def parserRecord (record):
             identifiant = ""
             # print("La balise identifiant n'existe pas")
 
-        setSpec =  "Linguistique"
-
         # --------Parse.py metadata-OLAC--------#
 
         olac = record.find('.//olac:olac', NAMESPACES)
@@ -55,20 +53,21 @@ def parserRecord (record):
         # récupérer le contentnu de la balise titre
         if olac.find("dc:title", NAMESPACES) != None:
             titre = olac.find("dc:title", NAMESPACES).text
+            # récupérer la valeur de l'attribut xml:lang du titre
+            attributTitre = olac.find("dc:title", NAMESPACES).attrib
+            codeXmlLangTitre = attributTitre.get('{http://www.w3.org/XML/1998/namespace}lang')
         else:
             titre = ""
 
-        # récupérer la valeur de l'attribut xml:lang du titre
-        attributTitre = olac.find("dc:title", NAMESPACES).attrib
-        valeurXmlLang = attributTitre.get('{http://www.w3.org/XML/1998/namespace}lang')
 
         # récupérer le titre alternatif et la langue dans une liste
         titresSecondaire = []
+        codeXmlLangTitreSecond =""
         for titreAlternatif in olac.findall('dcterms:alternative', NAMESPACES):
             titreLabel = titreAlternatif.text
             attribLang = titreAlternatif.attrib
-            codeLangue = attribLang.get("{http://www.w3.org/XML/1998/namespace}lang")
-            titreLangList = [codeLangue, titreLabel]
+            codeXmlLangTitreSecond = attribLang.get("{http://www.w3.org/XML/1998/namespace}lang")
+            titreLangList = [codeXmlLangTitreSecond, titreLabel]
             titresSecondaire.append(titreLangList)
 
         droits =""
@@ -80,6 +79,7 @@ def parserRecord (record):
                 message = "Il y a une autre forme d'écrire les droits"
                 logging.info(message)
 
+        # les contributeurs
         contributeurs = []
         if olac.findall('dc:contributor', NAMESPACES) != None:
             for contributor in olac.findall('dc:contributor', NAMESPACES):
@@ -109,27 +109,27 @@ def parserRecord (record):
                         codeLangue.append(code)
                         # récupérer dans une liste la valeur de l'attribut xml:lang et le label de la langue et l'ajoute à la liste de label
                         label = sujet.text
-                        attribXmlLangLabel = sujetAttribut.get('{http://www.w3.org/XML/1998/namespace}lang')
-                        listeAttribXmlLabel = [attribXmlLangLabel, label]
+                        codeXmlLangLabel = sujetAttribut.get('{http://www.w3.org/XML/1998/namespace}lang')
+                        listeAttribXmlLabel = [codeXmlLangLabel, label]
                         labelLangue.append(listeAttribXmlLabel)
                     # si la balise subject contient l'attribut xml:lang, récupérer dans une liste la valeur de l'attribut et le contenu de l'élément
                     if cle == "{http://www.w3.org/XML/1998/namespace}lang" and "{http://www.w3.org/2001/XMLSchema-instance}type" not in sujetAttribut:
-                        attribXmlLang = valeur
+                        codeXmlLangSujet = valeur
                         motCle = sujet.text
-                        listeAttribMot = [attribXmlLang, motCle]
+                        listeAttribMot = [codeXmlLangSujet, motCle]
                         # ajout de la liste attribut langue et mot clé à la liste de mots clés
                         sujets.append(listeAttribMot)
 
         # Le type de ressource: récupère les informations des balises dc:type
         # liste qui récupère le contenu de la balise type et la valeur de l'attribut olac:code et qui vont être affectés à l'élément type en sortie
-        labelType = []
+        labelType = ""
         typeRessourceGeneral = ""
         bool = False
         for element in olac.findall("dc:type", NAMESPACES):
             typeAttribut = element.attrib
 
             if not typeAttribut:
-                sujet.append(element.text)
+                sujets.append(element.text)
 
             else :
                 for cle, valeur in typeAttribut.items():
@@ -141,11 +141,10 @@ def parserRecord (record):
                             typeRessourceGeneral = element.text
                     # on récupère le contenu de l'atttribut olac:code de la balise dc:type qui a comme valeur d'attribut olac:discourse-type,sinon afficher "(:unkn)"
                     elif cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "olac:discourse-type":
-                        labelCode = typeAttribut.get('{http://www.language-archives.org/OLAC/1.1/}code')
-                        labelType.append(labelCode)
+                        labelType = typeAttribut.get('{http://www.language-archives.org/OLAC/1.1/}code')
                         bool = True
         if bool == False:
-            labelType.append("(:unkn)")
+            labelType = "(:unkn)"
             bool = True
 
         isRequiredBy = []
@@ -302,5 +301,5 @@ def parserRecord (record):
             url = identifiantPrincipal[21:]
 
 
-        record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url, lienAnnotation)
+        record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeurs, codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)
         return record_object

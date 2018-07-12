@@ -2,57 +2,48 @@
 <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
 <record>
     <header>
-        <identifier>oai:crdo.vjf.cnrs.fr:crdo-SRSR8_2_2_SOUND</identifier>
-        <datestamp>2017-06-06</datestamp>
-        <setSpec>Lacito</setSpec>
+        <identifier>oai:crdo.vjf.cnrs.fr:crdo-CIR_FOURMI_SOUND</identifier>
+        <datestamp>2017-11-10</datestamp>
         <setSpec>LanguesDeFrance</setSpec>
+        <setSpec>Lacito</setSpec>
         <setSpec>Linguistique</setSpec>
     </header>
     <metadata>
         <olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd">
-            <dc:title xml:lang="fr">Mission en Nouvelle-Calédonie 2010: DVD 8 chapitre 2 partie 2</dc:title>
+            <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Moyse-Faurie, Claire</dc:contributor>
+            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Moyse-Faurie, Claire</dc:contributor>
             <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">audio/x-wav</dc:format>
             <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dc:type>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/SRSR8_2_2_22km.wav</dc:identifier>
             <dc:rights>Copyright (c) Moyse-Faurie, Claire</dc:rights>
-            <dc:subject>Santé</dc:subject>
-            <dc:subject>Plantes</dc:subject>
-            <dc:subject>Nouvelle-Calédonie -- Histoire</dc:subject>
-            <dc:subject>Nouvelle-Calédonie -- 1984-1988 (Événements)</dc:subject>
-            <dc:type>Dialogue</dc:type>
-            <dc:type>Récits personnels</dc:type>
-            <dc:type>Entretiens</dc:type>
-            <dc:subject>Xârâcùù (langue)</dc:subject>
-            <dc:subject>Académie des langues kanak (Nouméa)</dc:subject>
-            <dc:subject>Langues -- Étude et enseignement</dc:subject>
-            <dc:subject>Enquêtes linguistiques</dc:subject>
-            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Moyse-Faurie, Claire</dc:contributor>
-            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Moyse-Faurie, Claire</dc:contributor>
-            <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+            <dc:subject olac:code="cir" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Haméa</dc:subject>
+            <dc:title xml:lang="fr">Roussette et Fourmi noire de forêt</dc:title>
             <dc:type olac:code="primary_text" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
-            <dc:subject olac:code="text_and_corpus_linguistics" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-field"/>
-            <dc:contributor olac:code="recorder" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Reynès, José</dc:contributor>
-            <dc:contributor olac:code="recorder" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Jorédié, Karl</dc:contributor>
-            <dc:contributor olac:code="sponsor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Sorosoro</dc:contributor>
-            <dc:language olac:code="ane" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Xârâcùù</dc:language>
-            <dc:subject olac:code="ane" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Xârâcùù</dc:subject>
-            <dcterms:isRequiredBy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-SRSR8_2_2</dcterms:isRequiredBy>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/SRSR8_2_2.mp3</dcterms:isFormatOf>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/masters/SRSR8_2_2.wav</dcterms:isFormatOf>
-            <dcterms:extent>PT25M44S</dcterms:extent>
+            <dc:type olac:code="narrative" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:discourse-type"/>
+            <dc:contributor olac:code="speaker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Maria Hombwé</dc:contributor>
+            <dc:language olac:code="cir" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Haméa</dc:language>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/crdo-CIR_FOURMI.wav</dc:identifier>
+            <dc:type>Narration</dc:type>
+            <dc:subject>Animaux</dc:subject>
+            <dc:subject>Roussettes (mammifères)</dc:subject>
+            <dc:subject>Fourmis</dc:subject>
+            <dc:subject>Conflit (sociologie)</dc:subject>
+            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LANGUESDEFRANCE</dcterms:isPartOf>
+            <dcterms:extent>PT00M37S</dcterms:extent>
+            <dcterms:isRequiredBy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-CIR_FOURMI</dcterms:isRequiredBy>
+            <dcterms:spatial>New Caledonia, Goré</dcterms:spatial>
+            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2008-05-26</dcterms:created>
             <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
             <dcterms:license xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/</dcterms:license>
             <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
-            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LANGUESDEFRANCE</dcterms:isPartOf>
-            <dcterms:abstract xml:lang="fr">Dans la première moitié de l'enregistrement, un homme décrit le travail du guérisseur et le compare aux méthodes de soin occidentales. Il exprime ensuite son souhait de voir les nouvelles générations revenir à la médecine traditionnelle kanak. La seconde moitié de l'enregistrement est un entretien. La locutrice travaille à l'ALK, l'Académie des Langues Kanak, où elle est responsable de l'aire xârâcùù et chargée de proposer une écriture des langues de l'aire xârâcùù. Dans cet entretien, elle présente l'aire xârâcùù, les différentes activités de l'ALK et ses travaux menés au sein de l'Académie.</dcterms:abstract>
-            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2017-02-10</dcterms:available>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/crdo-CIR_FOURMI.mp3</dcterms:isFormatOf>
             <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">NC</dcterms:spatial>
-            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Period">start=2010-10-08; end=2010-11-15</dcterms:created>
-            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_MFC1</dcterms:isPartOf>
-            <dcterms:medium>DVD</dcterms:medium>
-            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2017-06-06T18:48:37+02:00</dcterms:issued>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-767729</dc:identifier>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.bmn046</dc:identifier>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/masters/crdo-CIR_FOURMI.wav</dcterms:isFormatOf>
+            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2016-09-26</dcterms:available>
+            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Point">east=165.73333; north=-21.5</dcterms:spatial>
+            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2017-06-03T18:29:41+02:00</dcterms:issued>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-767160</dc:identifier>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.n63g4r</dc:identifier>
         </olac:olac>
     </metadata>
 </record>

@@ -52,22 +52,21 @@ else:
 # récupérer le contentnu de la balise titre
 if olac.find("dc:title", NAMESPACES) != None:
     titre = olac.find("dc:title", NAMESPACES).text
+    # récupérer la valeur de l'attribut xml:lang du titre
+    attributTitre = olac.find("dc:title", NAMESPACES).attrib
+    codeXmlLangTitre = attributTitre.get('{http://www.w3.org/XML/1998/namespace}lang')
 else:
     titre = ""
     print("La balise Titre n'existe pas")
 
-
-# récupérer la valeur de l'attribut xml:lang du titre
-attributTitre = olac.find("dc:title", NAMESPACES).attrib
-valeurXmlLang = attributTitre.get('{http://www.w3.org/XML/1998/namespace}lang')
 
 # récupérer le titre alternatif et la langue dans une liste
 titresSecondaire = []
 for titreAlternatif in olac.findall('dcterms:alternative', NAMESPACES):
     titreLabel = titreAlternatif.text
     attribLang = titreAlternatif.attrib
-    codeLangue = attribLang.get("{http://www.w3.org/XML/1998/namespace}lang")
-    titreLangList = [codeLangue, titreLabel]
+    codeXmlLangTitreSecond = attribLang.get("{http://www.w3.org/XML/1998/namespace}lang")
+    titreLangList = [codeXmlLangTitreSecond, titreLabel]
     titresSecondaire.append(titreLangList)
 
 droits=''
@@ -80,7 +79,7 @@ if olac.find("dc:rights", NAMESPACES) != None:
         droits = ""
 
 
-
+# les contributeurs
 contributeurs = []
 if olac.findall('dc:contributor', NAMESPACES) != None:
     for contributor in olac.findall('dc:contributor', NAMESPACES):
@@ -112,14 +111,14 @@ for sujet in olac.findall('dc:subject', NAMESPACES):
                 codeLangue.append(code)
                 # récupérer dans une liste la valeur de l'attribut xml:lang et le label de la langue et l'ajoute à la liste de label
                 label = sujet.text
-                attribXmlLangLabel = sujetAttribut.get('{http://www.w3.org/XML/1998/namespace}lang')
-                listeAttribXmlLabel = [attribXmlLangLabel, label]
+                codeXmlLangLabel = sujetAttribut.get('{http://www.w3.org/XML/1998/namespace}lang')
+                listeAttribXmlLabel = [codeXmlLangLabel, label]
                 labelLangue.append(listeAttribXmlLabel)
             # si la balise subject contient l'attribut xml:lang, récupérer dans une liste la valeur de l'attribut et le contenu de l'élément
             if cle == "{http://www.w3.org/XML/1998/namespace}lang" and "{http://www.w3.org/2001/XMLSchema-instance}type" not in sujetAttribut:
-                attribXmlLang = valeur
+                codeXmlLangSujet = valeur
                 motCle = sujet.text
-                listeAttribMot = [attribXmlLang, motCle]
+                listeAttribMot = [codeXmlLangSujet, motCle]
                 # ajout de la liste attribut langue et mot clé à la liste de mots clés
                 sujets.append(listeAttribMot)
 
@@ -127,7 +126,8 @@ for sujet in olac.findall('dc:subject', NAMESPACES):
 # Le type de ressource: récupère les informations des balises dc:type
 # liste qui récupère le contenu de la balise type et la valeur de l'attribut olac:code et qui vont être affectés à l'élément type en sortie
 
-labelType = []
+labelType = ""
+typeRessourceGeneral = ""
 bool = False
 for element in olac.findall("dc:type", NAMESPACES):
     typeAttribut = element.attrib
@@ -143,18 +143,15 @@ for element in olac.findall("dc:type", NAMESPACES):
                     typeRessourceGeneral = "Audiovisual"
                 else:
                     typeRessourceGeneral = element.text
-
-
-            # on récupère le contenu de l'atttribut olac:code de la balise dc:type qui a comme valeur d'attribut olac:discourse-type,sinon afficher "Non renseigné"
+            # on récupère le contenu de l'atttribut olac:code de la balise dc:type qui a comme valeur d'attribut olac:discourse-type,sinon afficher "(:unkn)"
             elif cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "olac:discourse-type":
-                labelCode = typeAttribut.get('{http://www.language-archives.org/OLAC/1.1/}code')
-                labelType.append(labelCode)
+                labelType = typeAttribut.get('{http://www.language-archives.org/OLAC/1.1/}code')
                 bool = True
-
 if bool == False:
-    labelType.append("(:unkn)")
+    labelType = "(:unkn)"
     bool = True
 
+print(labelType)
 
 isRequiredBy = []
 if olac.find('dcterms:isRequiredBy', NAMESPACES) != None:
@@ -307,9 +304,6 @@ if identifiant:
 else:
     print("La balise IDENTIFIER est obligatoire!!")
 
-#le publisher
-publisher = ET.SubElement(racine, "publisher")
-publisher.text = "Pangloss"
 
 # les createurs et contributeurs
 creators = ET.SubElement(racine, "creators")
@@ -365,6 +359,7 @@ if booleen == False:
 if booleen == False:
     print("La balise CREATOR est obligatoire!")
 
+
 if publisherInstitution:
     for institution in publisherInstitution:
         contributor = ET.SubElement(contributors, "contributor", contributorType="Producer")
@@ -379,6 +374,7 @@ for institution in hostingInstitution:
     contributorName = ET.SubElement(contributor, "contributorName", nameType="Organizational")
     contributorName.text = institution
 
+# contributeur = role droit
 if droits:
     contributor = ET.SubElement(contributors, "contributor", contributorType='RightsHolder')
     contributorName = ET.SubElement(contributor, "contributorName")
@@ -391,16 +387,19 @@ if titre:
     titles = ET.SubElement(racine, "titles")
     title = ET.SubElement(titles, "title")
     title.text = titre
-    if valeurXmlLang:
-        title.set("xml:lang", valeurXmlLang)
+    if codeXmlLangTitre:
+        title.set("xml:lang", codeXmlLangTitre)
 else:
     print("La Balise TITLE est obligatoire")
 
 if titresSecondaire:
     for groupe in titresSecondaire:
         titreS = ET.SubElement(titles, "title")
-        titreS.text = groupe[1]
-        titreS.set("xml:lang", groupe[0])
+        if codeXmlLangTitreSecond:
+            titreS.text = groupe[1]
+            titreS.set("xml:lang", groupe[0])
+        else:
+            titreS.text = groupe[1]
 
 # le publisher
 publisher = ET.SubElement(racine, "publisher")
@@ -412,6 +411,7 @@ if annee:
     publicationYear.text = annee[:4]
 else:
     print("La balise PUBLICATIONYEAR est obligatoire")
+
 
 # la langue
 if codeLangue:
@@ -430,7 +430,13 @@ if labelLangue:
         subject = ET.SubElement(subjects, "subject", subjectScheme="OLAC",
                                 schemeURI="http://search.language-archives.org/index.html")
         subject.text = label[1]
-        subject.set("xml:lang", label[0])
+        # vérifier que la balise subject qui contient le label de la langue a un attribut xml:lang.
+        if codeXmlLangLabel:
+            subject.set("xml:lang", label[0])
+            subject.text = label[1]
+        else:
+            subject.text = label[1]
+
 
 if sujets:
     for mot in sujets:
@@ -442,21 +448,19 @@ if sujets:
             subject.text = mot[1]
             subject.set("xml:lang", mot[0])
 
-# les dates
-dates = ET.SubElement(racine, "dates")
-date = ET.SubElement(dates, "date", dateType="Available")
-date.text = annee
 
 # le type de ressource
 if labelType:
     resourceType = ET.SubElement(racine, "resourceType", resourceTypeGeneral=typeRessourceGeneral)
-    if len(labelType) >1 and "(:unkn)" in labelType:
-        labelType.remove("(:unkn)")
-        resourceType.text = ", ".join(labelType)
-    else:
-        resourceType.text = ", ".join(labelType)
+    resourceType.text = labelType
 else:
     print("La balise RESOURCETYPE est obligatoire")
+
+
+# les dates
+dates = ET.SubElement(racine, "dates")
+date = ET.SubElement(dates, "date", dateType="Available")
+date.text = annee
 
 
 alternateIdentifiers = ET.SubElement(racine, "alternateIdentifiers")

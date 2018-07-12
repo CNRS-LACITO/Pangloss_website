@@ -13,7 +13,7 @@ class Record:
     La classe contient la methode generatorFichierUrlDoi qui construit le fichier text contenant le numero DOI et l'adresse url de la ressource
     """
 
-    def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url, lienAnnotation):
+    def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeurs, codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url):
         self.identifiant = identifiant
         self.identifiantPrincipal = identifiantPrincipal
         self.setSpec = "Linguistique"
@@ -25,18 +25,21 @@ class Record:
         self.relatedIdPangloss = DOI_Pangloss
         self.taille = taille
         self.titre = titre
-        self.valeurXmlLang = valeurXmlLang
+        self.codeXmlLangTitre = codeXmlLangTitre
         self.titresSecondaire = titresSecondaire
+        self.codeXmlLangTitreSecond = codeXmlLangTitreSecond
         self.droits = droits
         self.contributeurs = contributeurs
         self.codeLangue = codeLangue
         self.labelLangue =labelLangue
         self.sujets = sujets
+        self.codeXmlLangLabel = codeXmlLangLabel
         self.labelType = labelType
         self.typeRessourceGeneral = typeRessourceGeneral
         self.isRequiredBy = isRequiredBy
         self.requires =requires
         self.identifiant_Ark_Handle = identifiant_Ark_Handle
+        self.lienAnnotation = lienAnnotation
         self.abstract = abstract
         self.tableDeMatiere = tableDeMatiere
         self.descriptionsOlac =descriptionsOlac
@@ -44,7 +47,7 @@ class Record:
         self.longitudeLatitude = longitudeLatitude
         self.pointCardinaux = pointCardinaux
         self.url = url
-        self.lienAnnotation = lienAnnotation
+
 
 
     def build(self):
@@ -120,17 +123,19 @@ class Record:
             message = "La balise CREATOR pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
             logging.info(message)
 
+        # laboratroire = role producteur
         for institution in self.publisherInstitution:
             contributor = ET.SubElement(contributors, "contributor", contributorType="Producer")
             contributorName = ET.SubElement(contributor, "contributorName", nameType="Organizational")
             contributorName.text = institution
 
+        # etablissement = role Hosting Institution
         for institution in self.hostingInstitution:
             contributor = ET.SubElement(contributors, "contributor", contributorType="HostingInstitution")
             contributorName = ET.SubElement(contributor, "contributorName", nameType="Organizational")
             contributorName.text = institution
 
-
+        # contributeur = role droit
         if self.droits:
             contributor = ET.SubElement(contributors, "contributor", contributorType='RightsHolder')
             contributorName = ET.SubElement(contributor, "contributorName")
@@ -141,8 +146,8 @@ class Record:
             titles = ET.SubElement(racine, "titles")
             title = ET.SubElement(titles, "title")
             title.text = self.titre
-            if self.valeurXmlLang:
-                title.set("xml:lang", self.valeurXmlLang)
+            if self.codeXmlLangTitre:
+                title.set("xml:lang", self.codeXmlLangTitre)
         else:
             message = "La balise TITLE pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
             logging.info(message)
@@ -150,8 +155,11 @@ class Record:
         if self.titresSecondaire:
             for groupe in self.titresSecondaire:
                 titreS = ET.SubElement(titles, "title")
-                titreS.text = groupe[1]
-                titreS.set("xml:lang", groupe[0])
+                if self.codeXmlLangTitreSecond:
+                    titreS.text = groupe[1]
+                    titreS.set("xml:lang", groupe[0])
+                else:
+                    titreS.text = groupe[1]
 
         # le publisher
         publisher = ET.SubElement(racine, "publisher")
@@ -181,8 +189,13 @@ class Record:
             for label in self.labelLangue:
                 subject = ET.SubElement(subjects, "subject", subjectScheme="OLAC",
                                         schemeURI = SCHEME_URI)
-                subject.text = label[1]
-                subject.set("xml:lang", label[0])
+
+                # vérifier que la balise subject qui contient le label de la langue a un attribut xml:lang.
+                if self.codeXmlLangLabel:
+                    subject.text = label[1]
+                    subject.set("xml:lang", label[0])
+                else:
+                    subject.text = label[1]
 
         if self.sujets:
             for mot in self.sujets:
@@ -194,19 +207,18 @@ class Record:
                     subject.text = mot[1]
                     subject.set("xml:lang", mot[0])
 
+        # le type de ressource
+        if self.labelType:
+            resourceType = ET.SubElement(racine, "resourceType", resourceTypeGeneral=self.typeRessourceGeneral)
+            resourceType.text = self.labelType
+        else:
+            message = "La balise RESOURCETYPE pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
+            logging.info(message)
+
         # les dates
         dates = ET.SubElement(racine, "dates")
         date = ET.SubElement(dates, "date", dateType="Available")
         date.text = self.annee
-
-        # le type de ressource
-        if self.labelType:
-            resourceType = ET.SubElement(racine, "resourceType", resourceTypeGeneral=self.typeRessourceGeneral)
-
-            resourceType.text = ", ".join(self.labelType)
-        else:
-            message = "La balise RESOURCETYPE pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
-            logging.info(message)
 
         #les identifiants
         alternateIdentifiers = ET.SubElement(racine, "alternateIdentifiers")
