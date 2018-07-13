@@ -1,6 +1,6 @@
 # --------Parsing XML ------------------#
 import xml.etree.ElementTree as ET
-from constantes import NAMESPACES, DOI_Pangloss
+from constantes import NAMESPACES, DOI_Pangloss, DOI_TEST
 import re
 
 tree = ET.parse("lacito_1verif.xml")
@@ -10,7 +10,7 @@ root = tree.getroot()
 
 if root.find('.//identifier') != None:
     identifiantPrincipal = root.find('.//identifier').text
-    identifiant = "10.5072/"+identifiantPrincipal[21:]
+    identifiant = DOI_TEST + identifiantPrincipal[21:]
 
 else:
     identifiant = ""
@@ -78,17 +78,50 @@ if olac.find("dc:rights", NAMESPACES) != None:
         print("Il y a une autre forme de droits")
         droits = ""
 
+# les contributeurs. On extrait d'abord les valeurs et les rôles des contributeurs Olac
+contributeursOlac = []
 
-# les contributeurs
-contributeurs = []
 if olac.findall('dc:contributor', NAMESPACES) != None:
     for contributor in olac.findall('dc:contributor', NAMESPACES):
         code = contributor.attrib['{http://www.language-archives.org/OLAC/1.1/}code']
         value = contributor.text
         contributorList = [value, code]
-        contributeurs.append(contributorList)
+        contributeursOlac.append(contributorList)
 else:
     print("La balise Contributeurs n'existe pas")
+
+
+contributeursDoi = []
+
+for elem in contributeursOlac:
+    if "transcriber" in elem[1] or "annotator" in elem[1] or "translator" in elem[1] or "compiler" in elem[1]:
+        listeCurator =[elem[0], "DataCurator"]
+        if listeCurator not in contributeursDoi:
+            contributeursDoi.append(listeCurator)
+    elif "interpreter" in elem[1] or "recorder" in elem[1] or "interviewer" in elem[1]:
+        listeCollector = [elem[0], "DataCollector"]
+        if listeCollector not in contributeursDoi:
+            contributeursDoi.append(listeCollector)
+    elif "performer" in elem[1] or "responder" in elem[1] or "singer" in elem[1] or "speaker" in elem[1]:
+        listeOther = [elem[0], "Other"]
+        if listeOther not in contributeursDoi:
+            contributeursDoi.append(listeOther)
+    elif "depositor" in elem[1]:
+        listeContactPerson = [elem[0], "ContactPerson"]
+        contributeursDoi.append(listeContactPerson)
+    elif "researcher" in elem[1]:
+        listeResearcher = [elem[0], "Researcher"]
+        contributeursDoi.append(listeResearcher)
+    elif "editor" in elem[1]:
+        listeEditor = [elem[0], "Editor"]
+        contributeursDoi.append(listeEditor)
+    elif "sponsor" in elem[1]:
+        listeSponsor = [elem[0], "Sponsor"]
+        contributeursDoi.append(listeSponsor)
+
+
+print(contributeursDoi)
+
 
 # récupère le code de la langue principale de la ressource
 codeLangue = []
@@ -151,7 +184,6 @@ if bool == False:
     labelType = "(:unkn)"
     bool = True
 
-print(labelType)
 
 isRequiredBy = []
 if olac.find('dcterms:isRequiredBy', NAMESPACES) != None:
@@ -310,8 +342,8 @@ creators = ET.SubElement(racine, "creators")
 contributors = ET.SubElement(racine, "contributors")
 
 booleen = False
-for personneRole in contributeurs:
-    if "researcher" in personneRole[1]:
+for personneRole in contributeursDoi:
+    if "Researcher" in personneRole[1]:
         creator = ET.SubElement(creators, "creator")
         creatorName = ET.SubElement(creator, "creatorName", nameType="Personal")
         creatorName.text = personneRole[0]
@@ -319,35 +351,34 @@ for personneRole in contributeurs:
         contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
         booleen = True
-    elif "annotator" in personneRole[1] or "transcriber" in personneRole[1] or "translator" in personneRole[1] or "compiler" in personneRole[1]:
+    elif "DataCurator" in personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='DataCurator')
         contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
-    elif "speaker" in personneRole[1] or "performer" in personneRole[1] or "singer" in personneRole[1] or "responder" in \
-            personneRole[1]:
+    elif "Other" in personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='Other')
         contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
-    elif "interviewer" in personneRole[1] or "interpreter" in personneRole[1] or "recorder" in personneRole[1]:
+    elif "DataCollector" in personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='DataCollector')
         contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
-    elif "depositor" in personneRole[1]:
+    elif "ContactPerson" in personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='ContactPerson')
         contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
-    elif "editor" in personneRole[1]:
+    elif "Editor" in personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='Editor')
         contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
         contributorName.text = personneRole[0]
-    elif "sponsor" in personneRole[1]:
+    elif "Sponsor" in personneRole[1]:
         contributor = ET.SubElement(contributors, "contributor", contributorType='Sponsor')
         contributorName = ET.SubElement(contributor, "contributorName")
         contributorName.text = personneRole[0]
 
 if booleen == False:
-    for personneRole in contributeurs:
-        if "depositor" in personneRole[1]:
+    for personneRole in contributeursDoi:
+        if "ContactPerson" in personneRole[1]:
             creator = ET.SubElement(creators, "creator")
             creatorName = ET.SubElement(creator, "creatorName", nameType="Personal")
             creatorName.text = personneRole[0]

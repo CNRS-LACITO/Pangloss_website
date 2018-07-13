@@ -13,7 +13,7 @@ class Record:
     La classe contient la methode generatorFichierUrlDoi qui construit le fichier text contenant le numero DOI et l'adresse url de la ressource
     """
 
-    def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeurs, codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url):
+    def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeursDoi, codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url):
         self.identifiant = identifiant
         self.identifiantPrincipal = identifiantPrincipal
         self.setSpec = "Linguistique"
@@ -29,7 +29,7 @@ class Record:
         self.titresSecondaire = titresSecondaire
         self.codeXmlLangTitreSecond = codeXmlLangTitreSecond
         self.droits = droits
-        self.contributeurs = contributeurs
+        self.contributeursDoi = contributeursDoi
         self.codeLangue = codeLangue
         self.labelLangue =labelLangue
         self.sujets = sujets
@@ -72,8 +72,8 @@ class Record:
         contributors = ET.SubElement(racine, "contributors")
 
         booleen = False
-        for personneRole in self.contributeurs:
-            if "researcher" in personneRole[1]:
+        for personneRole in self.contributeursDoi:
+            if "Researcher" in personneRole[1]:
                 creator = ET.SubElement(creators, "creator")
                 creatorName = ET.SubElement(creator, "creatorName", nameType="Personal")
                 creatorName.text = personneRole[0]
@@ -81,35 +81,34 @@ class Record:
                 contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
                 contributorName.text = personneRole[0]
                 booleen = True
-            elif "annotator" in personneRole[1] or "transcriber" in personneRole[1] or "translator" in personneRole[1] or "compiler" in personneRole[1]:
+            elif "DataCurator" in personneRole[1]:
                 contributor = ET.SubElement(contributors, "contributor", contributorType='DataCurator')
                 contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
                 contributorName.text = personneRole[0]
-            elif "speaker" in personneRole[1] or "performer" in personneRole[1] or "singer" in personneRole[
-                1] or "responder" in \
-                    personneRole[1]:
+            elif "Other" in personneRole[1]:
                 contributor = ET.SubElement(contributors, "contributor", contributorType='Other')
                 contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
                 contributorName.text = personneRole[0]
-            elif "interviewer" in personneRole[1] or "interpreter" in personneRole[1] or "recorder" in personneRole[1]:
+            elif "DataCollector" in personneRole[1]:
                 contributor = ET.SubElement(contributors, "contributor", contributorType='DataCollector')
                 contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
                 contributorName.text = personneRole[0]
-            elif "depositor" in personneRole[1]:
+            elif "ContactPerson" in personneRole[1]:
                 contributor = ET.SubElement(contributors, "contributor", contributorType='ContactPerson')
                 contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
                 contributorName.text = personneRole[0]
-            elif "editor" in personneRole[1]:
+            elif "Editor" in personneRole[1]:
                 contributor = ET.SubElement(contributors, "contributor", contributorType='Editor')
                 contributorName = ET.SubElement(contributor, "contributorName", nameType="Personal")
                 contributorName.text = personneRole[0]
-            elif "sponsor" in personneRole[1]:
+            elif "Sponsor" in personneRole[1]:
                 contributor = ET.SubElement(contributors, "contributor", contributorType='Sponsor')
                 contributorName = ET.SubElement(contributor, "contributorName")
                 contributorName.text = personneRole[0]
+
         if booleen == False:
-            for personneRole in self.contributeurs:
-                if "depositor" in personneRole[1]:
+            for personneRole in self.contributeursDoi:
+                if "ContactPerson" in personneRole[1]:
                     creator = ET.SubElement(creators, "creator")
                     creatorName = ET.SubElement(creator, "creatorName", nameType="Personal")
                     creatorName.text = personneRole[0]

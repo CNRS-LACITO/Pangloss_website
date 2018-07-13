@@ -79,14 +79,44 @@ def parserRecord (record):
                 message = "Il y a une autre forme d'écrire les droits"
                 logging.info(message)
 
-        # les contributeurs
-        contributeurs = []
+        # les contributeurs. On extrait d'abord les valeurs et les rôles des contributeurs Olac
+        contributeursOlac = []
         if olac.findall('dc:contributor', NAMESPACES) != None:
             for contributor in olac.findall('dc:contributor', NAMESPACES):
                 code = contributor.attrib['{http://www.language-archives.org/OLAC/1.1/}code']
                 value = contributor.text
                 contributorList = [value, code]
-                contributeurs.append(contributorList)
+                contributeursOlac.append(contributorList)
+
+        # conversion des rôles des contributeurs du OLAC vers DOI
+        contributeursDoi = []
+
+        for elem in contributeursOlac:
+            if "transcriber" in elem[1] or "annotator" in elem[1] or "translator" in elem[1] or "compiler" in elem[1]:
+                listeCurator = [elem[0], "DataCurator"]
+                if listeCurator not in contributeursDoi:
+                    contributeursDoi.append(listeCurator)
+            elif "interpreter" in elem[1] or "recorder" in elem[1] or "interviewer" in elem[1]:
+                listeCollector = [elem[0], "DataCollector"]
+                if listeCollector not in contributeursDoi:
+                    contributeursDoi.append(listeCollector)
+            elif "performer" in elem[1] or "responder" in elem[1] or "singer" in elem[1] or "speaker" in elem[1]:
+                listeOther = [elem[0], "Other"]
+                if listeOther not in contributeursDoi:
+                    contributeursDoi.append(listeOther)
+            elif "depositor" in elem[1]:
+                listeContactPerson = [elem[0], "ContactPerson"]
+                contributeursDoi.append(listeContactPerson)
+            elif "researcher" in elem[1]:
+                listeResearcher = [elem[0], "Researcher"]
+                contributeursDoi.append(listeResearcher)
+            elif "editor" in elem[1]:
+                listeEditor = [elem[0], "Editor"]
+                contributeursDoi.append(listeEditor)
+            elif "sponsor" in elem[1]:
+                listeSponsor = [elem[0], "Sponsor"]
+                contributeursDoi.append(listeSponsor)
+
 
         # récupère les codes des langues des corpus
         codeLangue = []
@@ -301,5 +331,5 @@ def parserRecord (record):
             url = identifiantPrincipal[21:]
 
 
-        record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeurs, codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)
+        record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeursDoi, codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)
         return record_object
