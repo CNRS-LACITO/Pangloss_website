@@ -8,7 +8,7 @@ root = tree.getroot()
 
 # --------Parse.py header--------#
 
-if root.find('.//identifier') != None:
+if root.find('*/identifier') != None:
     identifiantPrincipal = root.find('.//identifier').text
     identifiant = DOI_TEST + identifiantPrincipal[21:]
 
@@ -20,7 +20,7 @@ setSpec = "Linguistique"
 
 # --------Parse.py metadata-OLAC--------#
 
-olac = root.find('.//olac:olac', NAMESPACES)
+olac = root.find('*/olac:olac', NAMESPACES)
 
 #extraire les publisher
 publisherInstitution = []

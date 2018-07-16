@@ -1,0 +1,12 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): mds.datacite.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): mds.datacite.org
+INFO:root:La ressource oai:crdo.vjf.cnrs.fr:crdo-MYA_003_ZHC_SOUND ne contient pas de fichier d'annotations
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): mds.datacite.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): mds.datacite.org
+INFO:root:La ressource oai:crdo.vjf.cnrs.fr:crdo-MYA_003_ZHC_IMG ne contient pas de fichier d'annotations
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): mds.datacite.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): mds.datacite.org
+INFO:root:La ressource oai:crdo.vjf.cnrs.fr:crdo-MYA_004_PL_SOUND ne contient pas de fichier d'annotations
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): mds.datacite.org
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): mds.datacite.org
+INFO:root:La ressource oai:crdo.vjf.cnrs.fr:crdo-MYA_004_PL_IMG ne contient pas de fichier d'annotations

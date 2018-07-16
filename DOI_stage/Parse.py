@@ -16,7 +16,7 @@ def parserRecord (record):
 
         # --------Parse.py header--------#
         identifiantPrincipal = ""
-        if record.find('.//oai:identifier', NAMESPACES) != None:
+        if record.find('*/oai:identifier', NAMESPACES) != None:
             identifiantPrincipal = record.find('.//oai:identifier', NAMESPACES).text
             identifiant = DOI_TEST + identifiantPrincipal[21:]
 
@@ -26,7 +26,7 @@ def parserRecord (record):
 
         # --------Parse.py metadata-OLAC--------#
 
-        olac = record.find('.//olac:olac', NAMESPACES)
+        olac = record.find('*/olac:olac', NAMESPACES)
 
         publisherInstitution = []
         if olac.findall('dc:publisher', NAMESPACES) != None:

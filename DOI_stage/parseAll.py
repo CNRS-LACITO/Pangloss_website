@@ -14,7 +14,7 @@ logging.basicConfig(filename=logFileName,level=logging.INFO)
 
 tree = ETree.parse("metadata_cocoon.xml")
 root = tree.getroot()
-
+"""
 #creation et suppression d'un dossier et de son contenu
 shutil.rmtree("test")
 shutil.rmtree("testURL")
@@ -22,13 +22,13 @@ shutil.rmtree("testPhrase")
 shutil.rmtree("testURL_Phrase")
 os.remove("critical.log")
 os.remove("filename")
-
+"""
 os.mkdir("test")
 os.mkdir("testURL")
 os.mkdir("testPhrase")
 os.mkdir("testURL_Phrase")
 open('critical.log','w')
-
+open('filename','w')
 
 
 for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
