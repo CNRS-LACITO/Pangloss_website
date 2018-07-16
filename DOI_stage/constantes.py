@@ -3,7 +3,7 @@ NAMESPACES = {
             "dcterms": "http://purl.org/dc/terms/",
             "olac": "http://www.language-archives.org/OLAC/1.1/",
             "xsi": "http://www.w3.org/2001/XMLSchema-instance",
-            "nsDefault": "http://www.openarchives.org/OAI/2.0/"
+            "oai": "http://www.openarchives.org/OAI/2.0/"
         }
 DOI_TEST = "10.5072/"
 SHOW_TEXT = "http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id="

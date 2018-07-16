@@ -21,6 +21,7 @@ shutil.rmtree("testURL")
 shutil.rmtree("testPhrase")
 shutil.rmtree("testURL_Phrase")
 os.remove("critical.log")
+os.remove("filename")
 
 os.mkdir("test")
 os.mkdir("testURL")
@@ -30,7 +31,7 @@ open('critical.log','w')
 
 
 
-for index, record in enumerate(root.findall(".//nsDefault:record", NAMESPACES)):
+for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
 
     #---------------------------- PARSING RESSOURCE  ------------------ #
 
@@ -43,8 +44,8 @@ for index, record in enumerate(root.findall(".//nsDefault:record", NAMESPACES)):
     # on utilise la methode build de la classe Record pour créer le fichier xml
     fichier_xmlRessource = objetRecord.build()
 
+
     #methodes pour interroger l'API de Datacite et enregistrer le fichier de metadonnées et le fichier text avec l'url et le doi pour les ressources
-    
     if fichier_xmlRessource:
         enregistrer_metadonneesRessource(fichier_xmlRessource)
 
@@ -70,6 +71,7 @@ for index, record in enumerate(root.findall(".//nsDefault:record", NAMESPACES)):
                 # le fichier text avec le DOI et l'URL de la phrase
                 fichier_textPhrase = objetPhrase.generatorFichierUrlDoiPhrase()
 
+
                 # methodes pour interroger l'API de Datacite et enregistrer le fichier de metadonnées et le fichier text avec l'url et le doi pour les phrases
                 if fichier_xmlPhrase:
                     enregistrer_metadonneesPhrase(fichier_xmlPhrase)
@@ -84,8 +86,6 @@ for index, record in enumerate(root.findall(".//nsDefault:record", NAMESPACES)):
         message = "La ressource {} ne contient pas de fichier d'annotations".format(objetRecord.identifiantPrincipal)
         logging.info(message)
 
-
     if index == 3:
         break
 
-#allRecords = [parsing(record) for record in root.findall(".//nsDefault:record", nameSpaces)]

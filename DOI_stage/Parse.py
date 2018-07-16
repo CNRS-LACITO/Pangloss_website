@@ -16,8 +16,8 @@ def parserRecord (record):
 
         # --------Parse.py header--------#
         identifiantPrincipal = ""
-        if record.find('.//nsDefault:identifier', NAMESPACES) != None:
-            identifiantPrincipal = record.find('.//nsDefault:identifier', NAMESPACES).text
+        if record.find('.//oai:identifier', NAMESPACES) != None:
+            identifiantPrincipal = record.find('.//oai:identifier', NAMESPACES).text
             identifiant = DOI_TEST + identifiantPrincipal[21:]
 
         else:
@@ -124,6 +124,7 @@ def parserRecord (record):
         labelLangue = []
         # récupère des mots-clés sous forme de chaine de caractères et des listes de mot-clé et xml:lang
         sujets = []
+        codeXmlLangLabel = ""
 
         for sujet in olac.findall('dc:subject', NAMESPACES):
             sujetAttribut = sujet.attrib
