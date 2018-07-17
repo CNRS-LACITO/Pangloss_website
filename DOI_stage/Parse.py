@@ -52,12 +52,14 @@ def parserRecord (record):
 
         # récupérer le contentnu de la balise titre
         if olac.find("dc:title", NAMESPACES) != None:
-            titre = olac.find("dc:title", NAMESPACES).text
+            titreElement = olac.find("dc:title", NAMESPACES)
+            titre= titreElement.text
             # récupérer la valeur de l'attribut xml:lang du titre
-            attributTitre = olac.find("dc:title", NAMESPACES).attrib
-            codeXmlLangTitre = attributTitre.get('{http://www.w3.org/XML/1998/namespace}lang')
+            codeXmlLangTitre = titreElement.get('{http://www.w3.org/XML/1998/namespace}lang')
         else:
             titre = ""
+            message = "La balise <dc:title> n'existe pas"
+            logging.info(message)
 
 
         # récupérer le titre alternatif et la langue dans une liste
@@ -65,8 +67,7 @@ def parserRecord (record):
         codeXmlLangTitreSecond =""
         for titreAlternatif in olac.findall('dcterms:alternative', NAMESPACES):
             titreLabel = titreAlternatif.text
-            attribLang = titreAlternatif.attrib
-            codeXmlLangTitreSecond = attribLang.get("{http://www.w3.org/XML/1998/namespace}lang")
+            codeXmlLangTitreSecond = titreAlternatif.get("{http://www.w3.org/XML/1998/namespace}lang")
             titreLangList = [codeXmlLangTitreSecond, titreLabel]
             titresSecondaire.append(titreLangList)
 
@@ -83,7 +84,7 @@ def parserRecord (record):
         contributeursOlac = []
         if olac.findall('dc:contributor', NAMESPACES) != None:
             for contributor in olac.findall('dc:contributor', NAMESPACES):
-                code = contributor.attrib['{http://www.language-archives.org/OLAC/1.1/}code']
+                code = contributor.get('{http://www.language-archives.org/OLAC/1.1/}code')
                 value = contributor.text
                 contributorList = [value, code]
                 contributeursOlac.append(contributorList)
@@ -133,7 +134,7 @@ def parserRecord (record):
         for sujet in olac.findall('dc:subject', NAMESPACES):
             sujetAttribut = sujet.attrib
             # si la balise subject n'a pas d'attributs, la valeur de l'élement est ajouté à la liste de mots-cles
-            if not sujetAttribut:
+            if sujetAttribut is None:
                 sujets.append(sujet.text)
             else:
             # si la balise subject contient l'attribut type et la valeur olac:langue, recupérer les diférents informations sur les langues
@@ -163,7 +164,7 @@ def parserRecord (record):
         for element in olac.findall("dc:type", NAMESPACES):
             typeAttribut = element.attrib
 
-            if not typeAttribut:
+            if typeAttribut is None:
                 sujets.append(element.text)
 
             else :
@@ -227,7 +228,7 @@ def parserRecord (record):
                 # récupère les attributs et valeurs d'attributs sous la forme d'un dictionnaire
                 abstractAttrib = contenu.attrib
                 # si la balise ne contient pas d'attributs, alors ajouter le contenu de l'élément à la liste
-                if not abstractAttrib:
+                if abstractAttrib is None:
                     abstract.append(contenu.text)
                 # si la balise contient d'attributs (attributs xml:lang d'office), créer une liste avec le code de la langue et le contenu de la balise
                 else:
@@ -244,7 +245,7 @@ def parserRecord (record):
                 # récupère les attributs et valeurs de la balise sous la forme d'un dictionnaire
                 tableAttrib = contenu.attrib
                 # si la balise ne contient pas d'attributs, alors ajouter le contenu à la liste
-                if not tableAttrib:
+                if tableAttrib is None:
                     tableDeMatiere.append(contenu.text)
                 # si la balise contient d'attributs (attributs xml:lang d'office), créer une liste avec le code de la langue et le contenu de la balise
                 else:
@@ -259,7 +260,7 @@ def parserRecord (record):
 
             for texte in olac.findall("dc:description", NAMESPACES):
                 descriptionAttrib = texte.attrib
-                if not descriptionAttrib:
+                if descriptionAttrib is None:
                     descriptionsOlac.append(texte.text)
                 else:
                     langueDescription = descriptionAttrib.get("{http://www.w3.org/XML/1998/namespace}lang")
@@ -273,7 +274,7 @@ def parserRecord (record):
         pointCardiaux = []
         for lieu in olac.findall('dcterms:spatial', NAMESPACES):
             lieuAttrib = lieu.attrib
-            if not lieuAttrib:
+            if lieuAttrib is None:
                 labelLieux.append(lieu.text)
             for cle, valeur in lieuAttrib.items():
                 if cle == '{http://www.w3.org/XML/1998/namespace}lang':
