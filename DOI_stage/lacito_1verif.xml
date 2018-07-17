@@ -1,46 +1,100 @@
 <?xml version="1.0"?>
 <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
 <record>
-    <header>
-        <identifier>oai:crdo.vjf.cnrs.fr:crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP_SOUND</identifier>
-        <datestamp>2016-04-20</datestamp>
-        <setSpec>Lacito</setSpec>
-        <setSpec>Linguistique</setSpec>
-    </header>
-    <metadata>
-        <olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd">
-            <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
-            <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">audio/x-wav</dc:format>
-            <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dc:type>
-            <dc:contributor olac:code="speaker" xml:lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">He, Yong</dc:contributor>
-            <dc:contributor olac:code="speaker" xml:lang="cmn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">和涌</dc:contributor>
-            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
-            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
-            <dc:contributor olac:code="recorder" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
-            <dc:rights>Copyright (c) Michaud, Alexis</dc:rights>
-            <dc:description xml:lang="en">The consultant was shown the target items in writing, as part of a randomized list on paper. The imagined context was that people are watching a TV programme about calligraphy. The target words were recorded under two reading conditions: the context for the first reading, referred to as CAREFUL, is that a child asks which character is being written, and the consultant provides the answer. Under the second condition, referred to as IMPATIENT, the child is naughty, asking for the umpteenth time without paying attention to answers; the consultant says the answer again, but in a way that will clarify to the child that (s)he is being rude and should not speak up again. The reason for asking consultants to imagine a TV show, rather than a live performance, is so that they will not feel called upon to whisper the answer in order not to disturb the (fictitious) calligrapher.</dc:description>
-            <dc:subject olac:code="nxq" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Naxi</dc:subject>
-            <dc:language olac:code="nxq" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Naxi</dc:language>
-            <dc:title xml:lang="en">Monosyllabic words read in carrier sentence by consultant M5; reading condition: 'Careful'; with a topic marker following the target item</dc:title>
-            <dc:type olac:code="primary_text" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
-            <dc:type olac:code="narrative" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:discourse-type"/>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/michaud/crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP.wav</dc:identifier>
-            <dcterms:extent>PT7M00S</dcterms:extent>
-            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2004-08-01</dcterms:created>
-            <dcterms:isRequiredBy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP</dcterms:isRequiredBy>
-            <dcterms:spatial xml:lang="nxq">ɑ˧ʂə˞˩, gɤ˩tsʰæ˧-le˥pv˧lo˩, le˥pv˧lo˩</dcterms:spatial>
-            <dcterms:spatial xml:lang="cmn">中国 云南 丽江市 古城区 文化行政村 冷不罗自然村</dcterms:spatial>
-            <dcterms:spatial xml:lang="en">hamlet of Lengbuluo, village of Wenhua, Gucheng district, Lijiang, China</dcterms:spatial>
-            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
-            <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/michaud/crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP.mp3</dcterms:isFormatOf>
-            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">CN</dcterms:spatial>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/michaud/masters/crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP.wav</dcterms:isFormatOf>
-            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2015-02-02</dcterms:available>
-            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2015-06-16T17:04:26+02:00</dcterms:issued>
-            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Point">east=100.372652; north=26.947132;</dcterms:spatial>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-506056</dc:identifier>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.mkyfto</dc:identifier>
-        </olac:olac>
-    </metadata>
+	<header>
+		<identifier>oai:crdo.vjf.cnrs.fr:crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP_SOUND</identifier>
+		<datestamp>2016-04-20</datestamp>
+		<setSpec>Lacito</setSpec>
+		<setSpec>Linguistique</setSpec>
+	</header>
+	<metadata>
+		<olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		           xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/"
+		           xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd">
+			<dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+			<dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">audio/x-wav
+			</dc:format>
+			<dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dc:type>
+			<dc:contributor olac:code="speaker" xml:lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			                xsi:type="olac:role">He, Yong
+			</dc:contributor>
+			<dc:contributor olac:code="speaker" xml:lang="cmn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			                xsi:type="olac:role">和涌
+			</dc:contributor>
+			<dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			                xsi:type="olac:role">Michaud, Alexis
+			</dc:contributor>
+			<dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			                xsi:type="olac:role">Michaud, Alexis
+			</dc:contributor>
+			<dc:contributor olac:code="recorder" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			                xsi:type="olac:role">Michaud, Alexis
+			</dc:contributor>
+			<dc:rights>Copyright (c) Michaud, Alexis</dc:rights>
+			<dc:description xml:lang="en">The consultant was shown the target items in writing, as part of a randomized
+				list on paper. The imagined context was that people are watching a TV programme about calligraphy. The
+				target words were recorded under two reading conditions: the context for the first reading, referred to
+				as CAREFUL, is that a child asks which character is being written, and the consultant provides the
+				answer. Under the second condition, referred to as IMPATIENT, the child is naughty, asking for the
+				umpteenth time without paying attention to answers; the consultant says the answer again, but in a way
+				that will clarify to the child that (s)he is being rude and should not speak up again. The reason for
+				asking consultants to imagine a TV show, rather than a live performance, is so that they will not feel
+				called upon to whisper the answer in order not to disturb the (fictitious) calligrapher.
+			</dc:description>
+			<dc:subject olac:code="nxq" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">
+				Naxi
+			</dc:subject>
+			<dc:language olac:code="nxq" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">
+				Naxi
+			</dc:language>
+			<dc:title xml:lang="en">Monosyllabic words read in carrier sentence by consultant M5; reading condition:
+				'Careful'; with a topic marker following the target item
+			</dc:title>
+			<dc:type olac:code="primary_text" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			         xsi:type="olac:linguistic-type"/>
+			<dc:type olac:code="narrative" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			         xsi:type="olac:discourse-type"/>
+			<dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">
+				http://cocoon.huma-num.fr/data/michaud/crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP.wav
+			</dc:identifier>
+			<dcterms:extent>PT7M00S</dcterms:extent>
+			<dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">
+				2004-08-01
+			</dcterms:created>
+			<dcterms:isRequiredBy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">
+				oai:crdo.vjf.cnrs.fr:crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP
+			</dcterms:isRequiredBy>
+			<dcterms:spatial xml:lang="nxq">ɑ˧ʂə˞˩, gɤ˩tsʰæ˧-le˥pv˧lo˩, le˥pv˧lo˩</dcterms:spatial>
+			<dcterms:spatial xml:lang="cmn">中国 云南 丽江市 古城区 文化行政村 冷不罗自然村</dcterms:spatial>
+			<dcterms:spatial xml:lang="en">hamlet of Lengbuluo, village of Wenhua, Gucheng district, Lijiang, China
+			</dcterms:spatial>
+			<dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">
+				oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO
+			</dcterms:isPartOf>
+			<dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
+			<dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">
+				http://cocoon.huma-num.fr/data/michaud/crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP.mp3
+			</dcterms:isFormatOf>
+			<dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">CN
+			</dcterms:spatial>
+			<dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">
+				http://cocoon.huma-num.fr/data/michaud/masters/crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP.wav
+			</dcterms:isFormatOf>
+			<dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">
+				2015-02-02
+			</dcterms:available>
+			<dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">
+				2015-06-16T17:04:26+02:00
+			</dcterms:issued>
+			<dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Point">
+				east=100.372652; north=26.947132;
+			</dcterms:spatial>
+			<dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">
+				http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-506056
+			</dc:identifier>
+			<dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">
+				http://hdl.handle.net/10670/1.mkyfto
+			</dc:identifier>
+		</olac:olac>
+	</metadata>
 </record>

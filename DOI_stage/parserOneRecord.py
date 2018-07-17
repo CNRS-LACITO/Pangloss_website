@@ -9,7 +9,7 @@ root = tree.getroot()
 # --------Parse.py header--------#
 
 if root.find('*/identifier') != None:
-    identifiantPrincipal = root.find('.//identifier').text
+    identifiantPrincipal = root.find('*/identifier').text
     identifiant = DOI_TEST + identifiantPrincipal[21:]
 
 else:
@@ -120,7 +120,10 @@ for elem in contributeursOlac:
         contributeursDoi.append(listeSponsor)
 
 
-print(contributeursDoi)
+# droit d'accès
+droitAccess=""
+if olac.find("dcterms:accessRights", NAMESPACES) != None:
+    droitAccess = olac.find("dcterms:accessRights", NAMESPACES).text
 
 
 # récupère le code de la langue principale de la ressource
@@ -408,6 +411,14 @@ if droits:
     contributorName.text = droits
 else:
     print("L'attribut RightsHolder n'a pas pu être généré")
+
+# les droits d'accès
+
+if droitAccess:
+    rightsList = ET.SubElement(racine, "rightsList")
+    rights = ET.SubElement (rightsList, "rights")
+    rights.text = droitAccess
+
 
 # les titres
 if titre:

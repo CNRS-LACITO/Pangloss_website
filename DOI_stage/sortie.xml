@@ -1,2 +1,134 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd"><identifier identifierType="DOI">10.5072/crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP_SOUND</identifier><creators><creator><creatorName nameType="Personal">Michaud, Alexis</creatorName></creator></creators><contributors><contributor contributorType="Other"><contributorName nameType="Personal">He, Yong</contributorName></contributor><contributor contributorType="Other"><contributorName nameType="Personal">和涌</contributorName></contributor><contributor contributorType="ContactPerson"><contributorName nameType="Personal">Michaud, Alexis</contributorName></contributor><contributor contributorType="Researcher"><contributorName nameType="Personal">Michaud, Alexis</contributorName></contributor><contributor contributorType="DataCollector"><contributorName nameType="Personal">Michaud, Alexis</contributorName></contributor><contributor contributorType="Producer"><contributorName nameType="Organizational">Laboratoire de langues et civilisations à tradition orale</contributorName></contributor><contributor contributorType="HostingInstitution"><contributorName nameType="Organizational">COllections de COrpus Oraux Numériques</contributorName></contributor><contributor contributorType="HostingInstitution"><contributorName nameType="Organizational">Huma-Num</contributorName></contributor><contributor contributorType="HostingInstitution"><contributorName nameType="Organizational">Langues et Civilisations à Tradition Orale</contributorName></contributor><contributor contributorType="HostingInstitution"><contributorName nameType="Organizational">Centre Informatique National de l'Enseignement Supérieur</contributorName></contributor><contributor contributorType="RightsHolder"><contributorName>Michaud, Alexis</contributorName></contributor></contributors><titles><title xml:lang="en">Monosyllabic words read in carrier sentence by consultant M5; reading condition: 'Careful'; with a topic marker following the target item</title></titles><publisher>Pangloss</publisher><publicationYear>2015</publicationYear><language>nxq</language><subjects><subject>Linguistique</subject><subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="OLAC">Naxi</subject></subjects><resourceType resourceTypeGeneral="Sound">narrative</resourceType><dates><date dateType="Available">2015-02-02</date></dates><alternateIdentifiers><alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP_SOUND</alternateIdentifier><alternateIdentifier alternateIdentifierType="PURL">http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP_SOUND</alternateIdentifier></alternateIdentifiers><relatedIdentifiers><relatedIdentifier relatedIdentifierType="ARK" relationType="IsIdenticalTo">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-506056</relatedIdentifier><relatedIdentifier relatedIdentifierType="Handle" relationType="IsIdenticalTo">http://hdl.handle.net/10670/1.mkyfto</relatedIdentifier><relatedIdentifier relatedIdentifierType="PURL" relationType="IsRequiredBy">http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5072/Pangloss</relatedIdentifier></relatedIdentifiers><formats><format>audio</format><format>x-wav</format></formats><sizes><size>PT7M00S</size></sizes><descriptions><description descriptionType="Abstract" xml:lang="en">The consultant was shown the target items in writing, as part of a randomized list on paper. The imagined context was that people are watching a TV programme about calligraphy. The target words were recorded under two reading conditions: the context for the first reading, referred to as CAREFUL, is that a child asks which character is being written, and the consultant provides the answer. Under the second condition, referred to as IMPATIENT, the child is naughty, asking for the umpteenth time without paying attention to answers; the consultant says the answer again, but in a way that will clarify to the child that (s)he is being rude and should not speak up again. The reason for asking consultants to imagine a TV show, rather than a live performance, is so that they will not feel called upon to whisper the answer in order not to disturb the (fictitious) calligrapher.</description></descriptions><geoLocations><geoLocation><geoLocationPlace>ɑ˧ʂə˞˩, gɤ˩tsʰæ˧-le˥pv˧lo˩, le˥pv˧lo˩</geoLocationPlace></geoLocation><geoLocation><geoLocationPlace>中国 云南 丽江市 古城区 文化行政村 冷不罗自然村</geoLocationPlace></geoLocation><geoLocation><geoLocationPlace>hamlet of Lengbuluo, village of Wenhua, Gucheng district, Lijiang, China</geoLocationPlace><geoLocationPoint><pointLongitude>100.372652</pointLongitude><pointLatitude>26.947132</pointLatitude></geoLocationPoint></geoLocation></geoLocations></resource>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+	<identifier identifierType="DOI">10.5072/crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP_SOUND</identifier>
+	<creators>
+		<creator>
+			<creatorName nameType="Personal">Michaud, Alexis
+			</creatorName>
+		</creator>
+	</creators>
+	<contributors>
+		<contributor contributorType="Other">
+			<contributorName nameType="Personal">He, Yong
+			</contributorName>
+		</contributor>
+		<contributor contributorType="Other">
+			<contributorName nameType="Personal">和涌
+			</contributorName>
+		</contributor>
+		<contributor contributorType="ContactPerson">
+			<contributorName nameType="Personal">Michaud, Alexis
+			</contributorName>
+		</contributor>
+		<contributor contributorType="Researcher">
+			<contributorName nameType="Personal">Michaud, Alexis
+			</contributorName>
+		</contributor>
+		<contributor contributorType="DataCollector">
+			<contributorName nameType="Personal">Michaud, Alexis
+			</contributorName>
+		</contributor>
+		<contributor contributorType="Producer">
+			<contributorName nameType="Organizational">Laboratoire de langues et civilisations à tradition orale
+			</contributorName>
+		</contributor>
+		<contributor contributorType="HostingInstitution">
+			<contributorName nameType="Organizational">COllections de COrpus Oraux Numériques</contributorName>
+		</contributor>
+		<contributor contributorType="HostingInstitution">
+			<contributorName nameType="Organizational">Huma-Num</contributorName>
+		</contributor>
+		<contributor contributorType="HostingInstitution">
+			<contributorName nameType="Organizational">Langues et Civilisations à Tradition Orale</contributorName>
+		</contributor>
+		<contributor contributorType="HostingInstitution">
+			<contributorName nameType="Organizational">Centre Informatique National de l'Enseignement Supérieur
+			</contributorName>
+		</contributor>
+		<contributor contributorType="RightsHolder">
+			<contributorName>Michaud, Alexis</contributorName>
+		</contributor>
+	</contributors>
+	<rightsList>
+		<rights>Freely available for non-commercial use</rights>
+	</rightsList>
+	<titles>
+		<title xml:lang="en">Monosyllabic words read in carrier sentence by consultant M5; reading condition:
+			'Careful'; with a topic marker following the target item
+		</title>
+	</titles>
+	<publisher>Pangloss</publisher>
+	<publicationYear>
+	</publicationYear>
+	<language>nxq</language>
+	<subjects>
+		<subject>Linguistique</subject>
+		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="OLAC">
+			Naxi
+		</subject>
+	</subjects>
+	<resourceType resourceTypeGeneral="Sound">narrative</resourceType>
+	<dates>
+		<date dateType="Available">
+			2015-02-02
+		</date>
+	</dates>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="internal_ID">
+			oai:crdo.vjf.cnrs.fr:crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP_SOUND
+		</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="PURL">
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP_SOUND
+		</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="ARK" relationType="IsIdenticalTo">
+			http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-506056
+		</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="Handle" relationType="IsIdenticalTo">
+			http://hdl.handle.net/10670/1.mkyfto
+		</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="PURL" relationType="IsRequiredBy">
+			http://purl.org/poi/crdo.vjf.cnrs.fr/s.fr:crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP
+		</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5072/Pangloss</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>audio</format>
+		<format>x-wav
+		</format>
+	</formats>
+	<sizes>
+		<size>PT7M00S</size>
+	</sizes>
+	<descriptions>
+		<description descriptionType="Abstract" xml:lang="en">The consultant was shown the target items in writing, as
+			part of a randomized
+			list on paper. The imagined context was that people are watching a TV programme about calligraphy. The
+			target words were recorded under two reading conditions: the context for the first reading, referred to
+			as CAREFUL, is that a child asks which character is being written, and the consultant provides the
+			answer. Under the second condition, referred to as IMPATIENT, the child is naughty, asking for the
+			umpteenth time without paying attention to answers; the consultant says the answer again, but in a way
+			that will clarify to the child that (s)he is being rude and should not speak up again. The reason for
+			asking consultants to imagine a TV show, rather than a live performance, is so that they will not feel
+			called upon to whisper the answer in order not to disturb the (fictitious) calligrapher.
+		</description>
+	</descriptions>
+	<geoLocations>
+		<geoLocation>
+			<geoLocationPlace>ɑ˧ʂə˞˩, gɤ˩tsʰæ˧-le˥pv˧lo˩, le˥pv˧lo˩</geoLocationPlace>
+		</geoLocation>
+		<geoLocation>
+			<geoLocationPlace>中国 云南 丽江市 古城区 文化行政村 冷不罗自然村</geoLocationPlace>
+		</geoLocation>
+		<geoLocation>
+			<geoLocationPlace>hamlet of Lengbuluo, village of Wenhua, Gucheng district, Lijiang, China
+			</geoLocationPlace>
+			<geoLocationPoint>
+				<pointLongitude>100.372652</pointLongitude>
+				<pointLatitude>26.947132</pointLatitude>
+			</geoLocationPoint>
+		</geoLocation>
+	</geoLocations>
+</resource>

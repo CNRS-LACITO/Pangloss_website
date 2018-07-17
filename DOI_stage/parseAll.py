@@ -14,21 +14,20 @@ logging.basicConfig(filename=logFileName,level=logging.INFO)
 
 tree = ETree.parse("metadata_cocoon.xml")
 root = tree.getroot()
-"""
+
 #creation et suppression d'un dossier et de son contenu
 shutil.rmtree("test")
 shutil.rmtree("testURL")
 shutil.rmtree("testPhrase")
 shutil.rmtree("testURL_Phrase")
 os.remove("critical.log")
-os.remove("filename")
-"""
+
 os.mkdir("test")
 os.mkdir("testURL")
 os.mkdir("testPhrase")
 os.mkdir("testURL_Phrase")
 open('critical.log','w')
-open('filename','w')
+
 
 
 for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
@@ -53,7 +52,7 @@ for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
         enregistrer_urlRessource(fichier_textRessource, objetRecord.identifiant)
 
     #---------------------------- PARSING ANNOTATION ---------------------#
-
+    """
     # extraire le lien url pour chaque fichier xml
     if objetRecord.lienAnnotation:
         # on appelle la fonction parseAnnotation pour récupérer une liste avec les id des phrases
@@ -81,11 +80,11 @@ for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
 
                 if indexid == 5:
                     break
-
+    
     else:
         message = "La ressource {} ne contient pas de fichier d'annotations".format(objetRecord.identifiantPrincipal)
         logging.info(message)
-
+    """
     if index == 3:
         break
 

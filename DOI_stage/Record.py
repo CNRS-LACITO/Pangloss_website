@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 import logging
+import codecs
 from constantes import SCHEME_URI, PURL, logFileName, DOI_Pangloss
 
 logging.basicConfig(filename=logFileName,level=logging.INFO)
@@ -13,7 +14,7 @@ class Record:
     La classe contient la methode generatorFichierUrlDoi qui construit le fichier text contenant le numero DOI et l'adresse url de la ressource
     """
 
-    def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeursDoi, codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url):
+    def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeursDoi, droitAccess, codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url):
         self.identifiant = identifiant
         self.identifiantPrincipal = identifiantPrincipal
         self.setSpec = "Linguistique"
@@ -30,6 +31,7 @@ class Record:
         self.codeXmlLangTitreSecond = codeXmlLangTitreSecond
         self.droits = droits
         self.contributeursDoi = contributeursDoi
+        self.droitAccess= droitAccess
         self.codeLangue = codeLangue
         self.labelLangue =labelLangue
         self.sujets = sujets
@@ -135,6 +137,12 @@ class Record:
             contributor = ET.SubElement(contributors, "contributor", contributorType='RightsHolder')
             contributorName = ET.SubElement(contributor, "contributorName")
             contributorName.text = self.droits
+
+        # les droits d'accès
+        if self.droitAccess:
+            rightsList = ET.SubElement(racine, "rightsList")
+            rights = ET.SubElement(rightsList, "rights")
+            rights.text = self.droitAccess
 
         # les titres
         if self.titre:
@@ -353,10 +361,10 @@ class Record:
             return None
 
     def generatorFichierUrlDoi(self):
-        with open("testURL/" + self.identifiantPrincipal[21:]+".txt", "w") as fichierUrl:
-            url = "url= "+self.url
+        with codecs.open("testURL/" + self.identifiantPrincipal[21:]+".txt", "w") as fichierUrl:
+            url = "url= "+ self.url
             doi = "doi= "+ self.identifiant
-            fichierUrl.write(url + "\n" + doi)
+            fichierUrl.write(doi + "\n" + url)
 
         # vérifier que le fichier text est créé ou pas
         if "testURL/" + self.identifiantPrincipal[21:]+".txt":

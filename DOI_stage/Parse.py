@@ -17,7 +17,7 @@ def parserRecord (record):
         # --------Parse.py header--------#
         identifiantPrincipal = ""
         if record.find('*/oai:identifier', NAMESPACES) != None:
-            identifiantPrincipal = record.find('.//oai:identifier', NAMESPACES).text
+            identifiantPrincipal = record.find('*/oai:identifier', NAMESPACES).text
             identifiant = DOI_TEST + identifiantPrincipal[21:]
 
         else:
@@ -117,6 +117,10 @@ def parserRecord (record):
                 listeSponsor = [elem[0], "Sponsor"]
                 contributeursDoi.append(listeSponsor)
 
+        # droit d'accès
+        droitAccess = ""
+        if olac.find("dcterms:accessRights", NAMESPACES) != None:
+            droitAccess = olac.find("dcterms:accessRights", NAMESPACES).text
 
         # récupère les codes des langues des corpus
         codeLangue = []
@@ -332,5 +336,5 @@ def parserRecord (record):
             url = identifiantPrincipal[21:]
 
 
-        record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeursDoi, codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)
+        record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeursDoi, droitAccess, codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)
         return record_object
