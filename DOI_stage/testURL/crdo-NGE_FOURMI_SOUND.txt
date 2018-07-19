@@ -1,0 +1,2 @@
+doi= 10.5072/crdo-NGE_FOURMI_SOUND
+url= http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NGE_FOURMI_SOUND

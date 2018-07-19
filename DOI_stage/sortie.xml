@@ -1,8 +1,100 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd"><identifier identifierType="DOI">10.5072/crdo-BER_1966_BUR_044_B</identifier><creators><creator><creatorName nameType="Personal">Bernot, Denise</creatorName></creator></creators><contributors><contributor contributorType="Researcher"><contributorName nameType="Personal">Bernot, Denise</contributorName></contributor><contributor contributorType="Sponsor"><contributorName>Centre national de la recherche scientifique</contributorName></contributor><contributor contributorType="Sponsor"><contributorName>Institut national des langues et civilisations orientales</contributorName></contributor><contributor contributorType="ContactPerson"><contributorName nameType="Personal">Vittrant, Alice</contributorName></contributor><contributor contributorType="Producer"><contributorName nameType="Organizational">Laboratoire de langues et civilisations à tradition orale</contributorName></contributor><contributor contributorType="Producer"><contributorName nameType="Organizational">Dynamique du langage</contributorName></contributor><contributor contributorType="HostingInstitution"><contributorName nameType="Organizational">COllections de COrpus Oraux Numériques</contributorName></contributor><contributor contributorType="HostingInstitution"><contributorName nameType="Organizational">Huma-Num</contributorName></contributor><contributor contributorType="HostingInstitution"><contributorName nameType="Organizational">Langues et Civilisations à Tradition Orale</contributorName></contributor><contributor contributorType="HostingInstitution"><contributorName nameType="Organizational">Centre Informatique National de l'Enseignement Supérieur</contributorName></contributor><contributor contributorType="RightsHolder"><contributorName>Bernot, Denise</contributorName></contributor></contributors><rightsList><rights>Access restricted (password protected)</rights></rightsList><titles><title xml:lang="fr">Fonds Denise Bernot, birman, 1966, bande 044, face B</title><title xml:lang="en">Fonds Denise Bernot, Burmese, 1966, tape 044, side B</title></titles><publisher>Pangloss</publisher><publicationYear>2016</publicationYear><language>mya</language><subjects><subject>Linguistique</subject><subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="OLAC">Burmese</subject></subjects><resourceType resourceTypeGeneral="Sound">dialogue</resourceType><dates><date dateType="Available">2016-12-10</date></dates><alternateIdentifiers><alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-BER_1966_BUR_044_B</alternateIdentifier><alternateIdentifier alternateIdentifierType="PURL">http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-BER_1966_BUR_044_B</alternateIdentifier></alternateIdentifiers><relatedIdentifiers><relatedIdentifier relatedIdentifierType="Handle" relationType="IsIdenticalTo">http://hdl.handle.net/10670/1.7ga7iv</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5072/Pangloss</relatedIdentifier></relatedIdentifiers><formats><format>audio</format><format>x-wav</format></formats><sizes><size>PT59M24S</size></sizes><descriptions><description descriptionType="Abstract" xml:lang="fr">Le locuteur (U E Maung) annonce en français que c'est l'exercice pour les 1ére années ''La conversation téléphonique'' et invite les étudiants à écouter la conversation. Un dialogue s'ensuit entre U E Maung (appelé Than Thaik) et Ma Khin Mya Kyu (appelée Aye Chit) qui parlent de leur famille, de leur foyer (il y a beaucoup de grésillements), de leurs occupations (jusqu'à 2mn). Ensuite, le locuteur invite les étudiants à répéter et les phrases sont répétées une à une.(jusqu'à 10mn).
-Conversation birmane pour les 1ère années ''Au marché'' il faut d'abord écouter le texte.  Dialogue entre un vendeur (U E Maung) et une acheteuse (Daw Khin Mya Kyu). Cette dernière achète du boeuf et marchande, puis se ravise et achète du porc, meilleur marché (jusqu'à 11mn). Ensuite, le locuteur invite les étudiants à répéter et les phrases sont répétées une à une.
-Deuxième partie ''Au magasin de légumes'' (à 16.21): La locutruce (Daw Khin Mya Kyu) achète des gombos, des oignons et des tomates, le vendeur lui propose d'autres produits.
-''Au magasin de fruit'' (à 17.32mn): Elle achète des pommes-cannelle, des mangues, des prunes, des citrons.
-Le locuteur invite les étudiants à répéter phrase par phrase (de 18.20 à 25.13mn)
-Les 3ème années doivent ensuite écouter le texte suivant: un enseignant annonce aux étudiants qu'ils vont parler birman aujourd'hui et leur demande, en les appelant par leur nom birman, depuis combien de temps ils étudient le birman, combien il y a de mois dans une année, de jours dans un mois, d'heures dans un jour, plusieurs questions se suivent ainsi, sur Paris, ses monuments (jusqu'à 28.24mn) puis les étudiants sont invités à répéter les phrases une à une. (jusqu'à 39.38mn).
-Deuxième partie à écouter: combien d'aéroport à Paris et leur nom, les transports pour y aller, les rues sont-elles étroites ou larges à Paris? sont-elles longues ou courtes? Les immeubles sont-ils hauts ou bas? ce qu'aiment les parisiens, les sports, le cinéma, demande quels sont leurs hobbies, la classe est finie (jusqu'à 43.45mn). Les étudiants sont ensuite invités à répéter phrase par phrase. (jusqu'à la fin).</description></descriptions></resource>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+	<identifier identifierType="DOI">10.5072/crdo-NXQ_PIANDING_SYLLABLES</identifier>
+	<titles>
+		<title xml:lang="en">Syllabic inventory: recording of a table of attested syllables</title>
+	</titles>
+	<creators>
+		<creator>
+			<creatorName nameType="Personal">Michaud, Alexis</creatorName>
+		</creator>
+		<creator>
+			<creatorName nameType="Personal">He, Likun</creatorName>
+		</creator>
+	</creators>
+	<contributors>
+		<contributor contributorType="ContactPerson">
+			<contributorName nameType="Personal">Michaud, Alexis</contributorName>
+		</contributor>
+		<contributor contributorType="Researcher">
+			<contributorName nameType="Personal">Michaud, Alexis</contributorName>
+		</contributor>
+		<contributor contributorType="Researcher">
+			<contributorName nameType="Personal">He, Likun</contributorName>
+		</contributor>
+		<contributor contributorType="Sponsor">
+			<contributorName>Centre national de la recherche scientifique</contributorName>
+		</contributor>
+		<contributor contributorType="DataCurator">
+			<contributorName nameType="Personal">Michaud, Alexis</contributorName>
+		</contributor>
+		<contributor contributorType="Producer">
+			<contributorName nameType="Organizational">Laboratoire de langues et civilisations à tradition orale
+			</contributorName>
+		</contributor>
+		<contributor contributorType="HostingInstitution">
+			<contributorName nameType="Organizational">COllections de COrpus Oraux Numériques</contributorName>
+		</contributor>
+		<contributor contributorType="HostingInstitution">
+			<contributorName nameType="Organizational">Huma-Num</contributorName>
+		</contributor>
+		<contributor contributorType="HostingInstitution">
+			<contributorName nameType="Organizational">Langues et Civilisations à Tradition Orale</contributorName>
+		</contributor>
+		<contributor contributorType="HostingInstitution">
+			<contributorName nameType="Organizational">Centre Informatique National de l'Enseignement Supérieur
+			</contributorName>
+		</contributor>
+		<contributor contributorType="RightsHolder">
+			<contributorName>Michaud, Alexis</contributorName>
+		</contributor>
+	</contributors>
+	<rightsList>
+		<rights>Freely available for non-commercial use</rights>
+	</rightsList>
+	<publisher>Pangloss</publisher>
+	<publicationYear>2016</publicationYear>
+	<language>nxq</language>
+	<subjects>
+		<subject>Linguistique</subject>
+		<subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="OLAC">Naxi</subject>
+	</subjects>
+	<resourceType resourceTypeGeneral="Text">dialogue</resourceType>
+	<dates>
+		<date dateType="Available">2016-05-03</date>
+	</dates>
+	<alternateIdentifiers>
+		<alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-NXQ_PIANDING_SYLLABLES
+		</alternateIdentifier>
+		<alternateIdentifier alternateIdentifierType="PURL">
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NXQ_PIANDING_SYLLABLES
+		</alternateIdentifier>
+	</alternateIdentifiers>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="Handle" relationType="IsIdenticalTo">
+			http://hdl.handle.net/10670/1.g02xwg
+		</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="PURL" relationType="Requires">
+			http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-NXQ_PIANDING_SYLLABLES_SOUND
+		</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5072/Pangloss</relatedIdentifier>
+	</relatedIdentifiers>
+	<formats>
+		<format>text</format>
+		<format>xml</format>
+	</formats>
+	<descriptions>
+		<description descriptionType="Abstract" xml:lang="en">This is a recording of the syllables found in this dialect
+			of Naxi. Each syllable is said at least two times; often three or four times. The phonemic analysis on which
+			this recording is based is the following: Michaud, Alexis &amp; Likun He. 2015. Phonemic and tonal analysis
+			of the Pianding dialect of Naxi (Dadong County, Lijiang Municipality). Cahiers de Linguistique - Asie
+			Orientale 44(1). 1–35 plus online Appendices. Note that not all syllables were recorded: after recording, it
+			was noticed that there also exist the following syllables: /pɚ˩/ 拔; /vɚ˩vɚ˧/ 有嚼劲; /cʰwæ˧/ (Chinese loanword)
+			圈; /cwæ˧/ (Chinese loanword) 卷; /ndzɿ̠˧/ 唱; /ljæ˧ (Chinese loanword) 两; /ŋe˥/ (Chinese loanword) 硬; /ŋɤ˧/
+			我的; /ŋʋ̩˩/ 银; /ŋæ˩ (Chinese loanword) 挨; /ŋɑ˩/ 我; /tɚ˥/ 关; /tɯ˞˧/ 起疹; /twæ˧/ (Chinese loanword) 端; /tjɤ˧/
+			使辛苦; /tje˧˥/ (Chinese loanword) 碟; /tjæ˧/ (Chinese loanword) 点; /tjɑ˧/ (Chinese loanword) 叼; /çwæ˥/ (Chinese
+			loanword) 炫; /cʰɑ˧˥/ (Chinese loanword) 家; /ɟʏ˧/ 存在动词; /ɲɟʏ˧/ 硬.
+		</description>
+	</descriptions>
+</resource>

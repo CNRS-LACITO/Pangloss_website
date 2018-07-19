@@ -3,8 +3,7 @@ import logging
 import codecs
 from constantes import SCHEME_URI, PURL, logFileName, DOI_Pangloss
 
-logging.basicConfig(filename=logFileName,level=logging.INFO)
-
+logging.basicConfig(filename=logFileName, level=logging.INFO)
 
 
 class Record:
@@ -14,13 +13,19 @@ class Record:
     La classe contient la methode generatorFichierUrlDoi qui construit le fichier text contenant le numero DOI et l'adresse url de la ressource
     """
 
-    def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeursDoi, droitAccess, codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url):
+    def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre,
+                 codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeursDoi, droitAccess,
+                 codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy,
+                 requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac,
+                 labelLieux, longitudeLatitude, pointCardinaux, url):
         self.identifiant = identifiant
         self.identifiantPrincipal = identifiantPrincipal
         self.setSpec = "Linguistique"
         self.publisher = "Pangloss"
         self.publisherInstitution = publisherInstitution
-        self.hostingInstitution = ["COllections de COrpus Oraux Numériques", "Huma-Num", "Langues et Civilisations à Tradition Orale", "Centre Informatique National de l'Enseignement Supérieur"]
+        self.hostingInstitution = ["COllections de COrpus Oraux Numériques", "Huma-Num",
+                                   "Langues et Civilisations à Tradition Orale",
+                                   "Centre Informatique National de l'Enseignement Supérieur"]
         self.format = format
         self.annee = annee
         self.relatedIdPangloss = DOI_Pangloss
@@ -31,26 +36,24 @@ class Record:
         self.codeXmlLangTitreSecond = codeXmlLangTitreSecond
         self.droits = droits
         self.contributeursDoi = contributeursDoi
-        self.droitAccess= droitAccess
+        self.droitAccess = droitAccess
         self.codeLangue = codeLangue
-        self.labelLangue =labelLangue
+        self.labelLangue = labelLangue
         self.sujets = sujets
         self.codeXmlLangLabel = codeXmlLangLabel
         self.labelType = labelType
         self.typeRessourceGeneral = typeRessourceGeneral
         self.isRequiredBy = isRequiredBy
-        self.requires =requires
+        self.requires = requires
         self.identifiant_Ark_Handle = identifiant_Ark_Handle
         self.lienAnnotation = lienAnnotation
         self.abstract = abstract
         self.tableDeMatiere = tableDeMatiere
-        self.descriptionsOlac =descriptionsOlac
+        self.descriptionsOlac = descriptionsOlac
         self.labelLieux = labelLieux
         self.longitudeLatitude = longitudeLatitude
         self.pointCardinaux = pointCardinaux
         self.url = url
-
-
 
     def build(self):
         """Fonction qui construit le fichier xml à partir des attributs de la classe Record"""
@@ -68,6 +71,25 @@ class Record:
             message = "La balise IDENTIFIER pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
             logging.info(message)
 
+        # les titres
+        if self.titre:
+            titles = ET.SubElement(racine, "titles")
+            title = ET.SubElement(titles, "title")
+            title.text = self.titre
+            if self.codeXmlLangTitre:
+                title.set("xml:lang", self.codeXmlLangTitre)
+        else:
+            message = "La balise TITLE pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
+            logging.info(message)
+
+        if self.titresSecondaire:
+            for groupe in self.titresSecondaire:
+                titreS = ET.SubElement(titles, "title")
+                if self.codeXmlLangTitreSecond:
+                    titreS.text = groupe[1]
+                    titreS.set("xml:lang", groupe[0])
+                else:
+                    titreS.text = groupe[1]
 
         # les createurs et contributeurs
         creators = ET.SubElement(racine, "creators")
@@ -144,26 +166,6 @@ class Record:
             rights = ET.SubElement(rightsList, "rights")
             rights.text = self.droitAccess
 
-        # les titres
-        if self.titre:
-            titles = ET.SubElement(racine, "titles")
-            title = ET.SubElement(titles, "title")
-            title.text = self.titre
-            if self.codeXmlLangTitre:
-                title.set("xml:lang", self.codeXmlLangTitre)
-        else:
-            message = "La balise TITLE pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
-            logging.info(message)
-
-        if self.titresSecondaire:
-            for groupe in self.titresSecondaire:
-                titreS = ET.SubElement(titles, "title")
-                if self.codeXmlLangTitreSecond:
-                    titreS.text = groupe[1]
-                    titreS.set("xml:lang", groupe[0])
-                else:
-                    titreS.text = groupe[1]
-
         # le publisher
         publisher = ET.SubElement(racine, "publisher")
         publisher.text = self.publisher
@@ -191,7 +193,7 @@ class Record:
         if self.labelLangue:
             for label in self.labelLangue:
                 subject = ET.SubElement(subjects, "subject", subjectScheme="OLAC",
-                                        schemeURI = SCHEME_URI)
+                                        schemeURI=SCHEME_URI)
 
                 # vérifier que la balise subject qui contient le label de la langue a un attribut xml:lang.
                 if self.codeXmlLangLabel:
@@ -223,7 +225,7 @@ class Record:
         date = ET.SubElement(dates, "date", dateType="Available")
         date.text = self.annee
 
-        #les identifiants
+        # les identifiants
         alternateIdentifiers = ET.SubElement(racine, "alternateIdentifiers")
         alternateIdentifier = ET.SubElement(alternateIdentifiers, "alternateIdentifier",
                                             alternateIdentifierType="internal_ID")
@@ -255,10 +257,10 @@ class Record:
                 relatedIdentifier.text = PURL + identifiantRequires[21:]
 
         idPangloss = ET.SubElement(relatedIdentifiers, "relatedIdentifier", relatedIdentifierType="DOI",
-                                      relationType="IsPartOf")
+                                   relationType="IsPartOf")
         idPangloss.text = self.relatedIdPangloss
 
-        #le format
+        # le format
         if self.format:
             formats = ET.SubElement(racine, "formats")
             for element in self.format:
@@ -270,7 +272,7 @@ class Record:
             size = ET.SubElement(sizes, "size")
             size.text = self.taille
 
-        #les descriptions
+        # les descriptions
         if self.abstract or self.tableDeMatiere or self.descriptionsOlac:
             descriptions = ET.SubElement(racine, "descriptions")
 
@@ -352,25 +354,23 @@ class Record:
                 northBoundLatitude.text = self.pointCardinaux[3]
 
         tree = ET.ElementTree(racine)
-        tree.write("test/" + self.identifiantPrincipal[21:]+".xml", encoding="UTF-8", xml_declaration=True, default_namespace=None, method="xml")
+        tree.write("test/" + self.identifiantPrincipal[21:] + ".xml", encoding="UTF-8", xml_declaration=True,
+                   default_namespace=None, method="xml")
 
         # vérifier que le fichier XML est créé ou pas
-        if "test/" + self.identifiantPrincipal[21:]+".xml" :
-            return "test/" + self.identifiantPrincipal[21:]+".xml"
+        if "test/" + self.identifiantPrincipal[21:] + ".xml":
+            return "test/" + self.identifiantPrincipal[21:] + ".xml"
         else:
             return None
 
     def generatorFichierUrlDoi(self):
-        with codecs.open("testURL/" + self.identifiantPrincipal[21:]+".txt", "w") as fichierUrl:
-            url = "url= "+ self.url
-            doi = "doi= "+ self.identifiant
+        with codecs.open("testURL/" + self.identifiantPrincipal[21:] + ".txt", "w") as fichierUrl:
+            url = "url= " + self.url
+            doi = "doi= " + self.identifiant
             fichierUrl.write(doi + "\n" + url)
 
         # vérifier que le fichier text est créé ou pas
-        if "testURL/" + self.identifiantPrincipal[21:]+".txt":
-            return "testURL/" + self.identifiantPrincipal[21:]+".txt"
+        if "testURL/" + self.identifiantPrincipal[21:] + ".txt":
+            return "testURL/" + self.identifiantPrincipal[21:] + ".txt"
         else:
             return None
-
-
-

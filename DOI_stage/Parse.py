@@ -11,7 +11,8 @@ def parserRecord (record):
         Methode qui parse les éléments xml contenus dans la balise <record> du fichier metadata_cocoon.xml et récupère la valeur des attributs de l'objet
         :param record: les éléments contenus dans la balise <record>
         :type record: class 'xml.etree.ElementTree.Element'
-
+        :returns Objet contenant comme paramètres les noms des variables qui stockent les valeurs des attributs et des éléments
+        :rtype: object
         """
 
         # --------Parse.py header--------#
@@ -29,10 +30,9 @@ def parserRecord (record):
         olac = record.find('*/olac:olac', NAMESPACES)
 
         publisherInstitution = []
-        if olac.findall('dc:publisher', NAMESPACES) != None:
-            for institution in olac.findall('dc:publisher', NAMESPACES):
-                nomInstituion = institution.text
-                publisherInstitution.append(nomInstituion)
+        for institution in olac.findall('dc:publisher', NAMESPACES):
+            nomInstituion = institution.text
+            publisherInstitution.append(nomInstituion)
 
         if olac.find('dc:format', NAMESPACES) != None:
             format = olac.find('dc:format', NAMESPACES).text.split("/")
@@ -50,7 +50,7 @@ def parserRecord (record):
         else:
             taille = ""
 
-        # récupérer le contentnu de la balise titre
+        # récupérer le contenu de la balise titre et le code xml:lang
         if olac.find("dc:title", NAMESPACES) != None:
             titreElement = olac.find("dc:title", NAMESPACES)
             titre= titreElement.text
@@ -62,7 +62,7 @@ def parserRecord (record):
             logging.info(message)
 
 
-        # récupérer le titre alternatif et la langue dans une liste
+        # extrait le titre alternatif et le code xml:lang ety les stocke dans une liste
         titresSecondaire = []
         codeXmlLangTitreSecond =""
         for titreAlternatif in olac.findall('dcterms:alternative', NAMESPACES):
@@ -82,12 +82,11 @@ def parserRecord (record):
 
         # les contributeurs. On extrait d'abord les valeurs et les rôles des contributeurs Olac
         contributeursOlac = []
-        if olac.findall('dc:contributor', NAMESPACES) != None:
-            for contributor in olac.findall('dc:contributor', NAMESPACES):
-                code = contributor.get('{http://www.language-archives.org/OLAC/1.1/}code')
-                value = contributor.text
-                contributorList = [value, code]
-                contributeursOlac.append(contributorList)
+        for contributor in olac.findall('dc:contributor', NAMESPACES):
+            role = contributor.get('{http://www.language-archives.org/OLAC/1.1/}code')
+            nomPrenom = contributor.text
+            contributorList = [nomPrenom, role]
+            contributeursOlac.append(contributorList)
 
         # conversion des rôles des contributeurs du OLAC vers DOI
         contributeursDoi = []
@@ -129,16 +128,16 @@ def parserRecord (record):
         labelLangue = []
         # récupère des mots-clés sous forme de chaine de caractères et des listes de mot-clé et xml:lang
         sujets = []
-        codeXmlLangLabel = ""
 
+        codeXmlLangLabel = ""
         for sujet in olac.findall('dc:subject', NAMESPACES):
             sujetAttribut = sujet.attrib
             # si la balise subject n'a pas d'attributs, la valeur de l'élement est ajouté à la liste de mots-cles
-            if sujetAttribut is None:
+            if not sujetAttribut:
                 sujets.append(sujet.text)
             else:
-            # si la balise subject contient l'attribut type et la valeur olac:langue, recupérer les diférents informations sur les langues
                 for cle, valeur in sujetAttribut.items():
+                    # si la balise subject contient l'attribut type et la valeur olac:langue, recupérer le code et le label de la langue et le code xml:lang de la balise
                     if cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "olac:language":
                         # récupère le code de la langue et l'ajoute à la liste de code
                         code = sujetAttribut.get('{http://www.language-archives.org/OLAC/1.1/}code')
@@ -164,7 +163,7 @@ def parserRecord (record):
         for element in olac.findall("dc:type", NAMESPACES):
             typeAttribut = element.attrib
 
-            if typeAttribut is None:
+            if not typeAttribut :
                 sujets.append(element.text)
 
             else :
@@ -184,14 +183,12 @@ def parserRecord (record):
             bool = True
 
         isRequiredBy = []
-        if olac.find('dcterms:isRequiredBy', NAMESPACES) != None:
-            for ressource in olac.findall('dcterms:isRequiredBy', NAMESPACES):
-                isRequiredBy.append(ressource.text)
+        for ressource in olac.findall('dcterms:isRequiredBy', NAMESPACES):
+            isRequiredBy.append(ressource.text)
 
         requires = []
-        if olac.find('dcterms:requires', NAMESPACES) != None:
-            for ressource in olac.findall('dcterms:requires', NAMESPACES):
-                requires.append(ressource.text)
+        for ressource in olac.findall('dcterms:requires', NAMESPACES):
+            requires.append(ressource.text)
 
         # lien ark, handle
         identifiant_Ark_Handle = []
@@ -222,51 +219,45 @@ def parserRecord (record):
         # récupère la description de la balise abstract sous la forme d'une liste avec le contenu de la balise
         # et/ou avec une liste contenant l'attribut langue et le contenu de la balise
         abstract = []
-        if olac.findall("dcterms:abstract", NAMESPACES) != None:
-
-            for contenu in olac.findall("dcterms:abstract", NAMESPACES):
-                # récupère les attributs et valeurs d'attributs sous la forme d'un dictionnaire
-                abstractAttrib = contenu.attrib
-                # si la balise ne contient pas d'attributs, alors ajouter le contenu de l'élément à la liste
-                if abstractAttrib is None:
-                    abstract.append(contenu.text)
-                # si la balise contient d'attributs (attributs xml:lang d'office), créer une liste avec le code de la langue et le contenu de la balise
-                else:
-                    langueAbstract = abstractAttrib.get("{http://www.w3.org/XML/1998/namespace}lang")
-                    texteAbstract = contenu.text
-                    listeLangueContenu = [langueAbstract, texteAbstract]
-                    abstract.append(listeLangueContenu)
+        for contenu in olac.findall("dcterms:abstract", NAMESPACES):
+            # récupère les attributs et valeurs d'attributs sous la forme d'un dictionnaire
+            abstractAttrib = contenu.attrib
+            # si la balise ne contient pas d'attributs, alors ajouter le contenu de l'élément à la liste
+            if not abstractAttrib:
+                abstract.append(contenu.text)
+            # si la balise contient d'attributs (attributs xml:lang d'office), créer une liste avec le code de la langue et le contenu de la balise
+            else:
+                langueAbstract = abstractAttrib.get("{http://www.w3.org/XML/1998/namespace}lang")
+                texteAbstract = contenu.text
+                listeLangueContenu = [langueAbstract, texteAbstract]
+                abstract.append(listeLangueContenu)
 
         # récupérer le contenu de la balise tableOfContent
         tableDeMatiere = []
-        if olac.findall("dcterms:tableOfContents", NAMESPACES) != None:
-
-            for contenu in olac.findall("dcterms:tableOfContents", NAMESPACES):
-                # récupère les attributs et valeurs de la balise sous la forme d'un dictionnaire
-                tableAttrib = contenu.attrib
-                # si la balise ne contient pas d'attributs, alors ajouter le contenu à la liste
-                if tableAttrib is None:
-                    tableDeMatiere.append(contenu.text)
-                # si la balise contient d'attributs (attributs xml:lang d'office), créer une liste avec le code de la langue et le contenu de la balise
-                else:
-                    langueTable = tableAttrib.get("{http://www.w3.org/XML/1998/namespace}lang")
-                    texteTable = contenu.text
-                    listeLangueContenu = [langueTable, texteTable]
-                    tableDeMatiere.append(listeLangueContenu)
+        for contenu in olac.findall("dcterms:tableOfContents", NAMESPACES):
+            # récupère les attributs et valeurs de la balise sous la forme d'un dictionnaire
+            tableAttrib = contenu.attrib
+            # si la balise ne contient pas d'attributs, alors ajouter le contenu à la liste
+            if not tableAttrib:
+                tableDeMatiere.append(contenu.text)
+            # si la balise contient d'attributs (attributs xml:lang d'office), créer une liste avec le code de la langue et le contenu de la balise
+            else:
+                langueTable = tableAttrib.get("{http://www.w3.org/XML/1998/namespace}lang")
+                texteTable = contenu.text
+                listeLangueContenu = [langueTable, texteTable]
+                tableDeMatiere.append(listeLangueContenu)
 
         # récupérer la description
         descriptionsOlac = []
-        if olac.findall("dc:description", NAMESPACES):
-
-            for texte in olac.findall("dc:description", NAMESPACES):
-                descriptionAttrib = texte.attrib
-                if descriptionAttrib is None:
-                    descriptionsOlac.append(texte.text)
-                else:
-                    langueDescription = descriptionAttrib.get("{http://www.w3.org/XML/1998/namespace}lang")
-                    texteDescription = texte.text
-                    listeLangueContenu = [langueDescription, texteDescription]
-                    descriptionsOlac.append(listeLangueContenu)
+        for texte in olac.findall("dc:description", NAMESPACES):
+            descriptionAttrib = texte.attrib
+            if not descriptionAttrib:
+                descriptionsOlac.append(texte.text)
+            else:
+                langueDescription = descriptionAttrib.get("{http://www.w3.org/XML/1998/namespace}lang")
+                texteDescription = texte.text
+                listeLangueContenu = [langueDescription, texteDescription]
+                descriptionsOlac.append(listeLangueContenu)
 
         # liste qui récupère les labels du lieu
         labelLieux = []
@@ -274,7 +265,7 @@ def parserRecord (record):
         pointCardiaux = []
         for lieu in olac.findall('dcterms:spatial', NAMESPACES):
             lieuAttrib = lieu.attrib
-            if lieuAttrib is None:
+            if not lieuAttrib:
                 labelLieux.append(lieu.text)
             for cle, valeur in lieuAttrib.items():
                 if cle == '{http://www.w3.org/XML/1998/namespace}lang':

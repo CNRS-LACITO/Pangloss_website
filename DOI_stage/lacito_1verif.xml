@@ -2,52 +2,39 @@
 <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
 <record>
     <header>
-        <identifier>oai:crdo.vjf.cnrs.fr:crdo-BER_1966_BUR_044_B</identifier>
-        <datestamp>2018-02-14</datestamp>
-        <setSpec>Linguistique</setSpec>
+        <identifier>oai:crdo.vjf.cnrs.fr:crdo-NXQ_PIANDING_SYLLABLES</identifier>
+        <datestamp>2018-07-05</datestamp>
         <setSpec>Lacito</setSpec>
+        <setSpec>Linguistique</setSpec>
     </header>
     <metadata>
         <olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd">
-            <dc:title xml:lang="fr">Fonds Denise Bernot, birman, 1966, bande 044, face B</dc:title>
-            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Bernot, Denise</dc:contributor>
-            <dc:rights>Copyright (c) Bernot, Denise</dc:rights>
-            <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">audio/x-wav</dc:format>
-            <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dc:type>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/bernot/private_bernot/BER-1966-BUR-044-B_22km.wav</dc:identifier>
-            <dc:subject olac:code="mya" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Burmese</dc:subject>
-            <dc:description xml:lang="fr">Le locuteur (U E Maung) annonce en français que c'est l'exercice pour les 1ére années ''La conversation téléphonique'' et invite les étudiants à écouter la conversation. Un dialogue s'ensuit entre U E Maung (appelé Than Thaik) et Ma Khin Mya Kyu (appelée Aye Chit) qui parlent de leur famille, de leur foyer (il y a beaucoup de grésillements), de leurs occupations (jusqu'à 2mn). Ensuite, le locuteur invite les étudiants à répéter et les phrases sont répétées une à une.(jusqu'à 10mn).
-Conversation birmane pour les 1ère années ''Au marché'' il faut d'abord écouter le texte.  Dialogue entre un vendeur (U E Maung) et une acheteuse (Daw Khin Mya Kyu). Cette dernière achète du boeuf et marchande, puis se ravise et achète du porc, meilleur marché (jusqu'à 11mn). Ensuite, le locuteur invite les étudiants à répéter et les phrases sont répétées une à une.
-Deuxième partie ''Au magasin de légumes'' (à 16.21): La locutruce (Daw Khin Mya Kyu) achète des gombos, des oignons et des tomates, le vendeur lui propose d'autres produits.
-''Au magasin de fruit'' (à 17.32mn): Elle achète des pommes-cannelle, des mangues, des prunes, des citrons.
-Le locuteur invite les étudiants à répéter phrase par phrase (de 18.20 à 25.13mn)
-Les 3ème années doivent ensuite écouter le texte suivant: un enseignant annonce aux étudiants qu'ils vont parler birman aujourd'hui et leur demande, en les appelant par leur nom birman, depuis combien de temps ils étudient le birman, combien il y a de mois dans une année, de jours dans un mois, d'heures dans un jour, plusieurs questions se suivent ainsi, sur Paris, ses monuments (jusqu'à 28.24mn) puis les étudiants sont invités à répéter les phrases une à une. (jusqu'à 39.38mn).
-Deuxième partie à écouter: combien d'aéroport à Paris et leur nom, les transports pour y aller, les rues sont-elles étroites ou larges à Paris? sont-elles longues ou courtes? Les immeubles sont-ils hauts ou bas? ce qu'aiment les parisiens, les sports, le cinéma, demande quels sont leurs hobbies, la classe est finie (jusqu'à 43.45mn). Les étudiants sont ensuite invités à répéter phrase par phrase. (jusqu'à la fin).</dc:description>
-            <dc:contributor olac:code="consultant" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Candier, Aurore</dc:contributor>
+            <dc:title xml:lang="en">Syllabic inventory: recording of a table of attested syllables</dc:title>
+            <dc:subject olac:code="nxq" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Naxi</dc:subject>
+            <dc:language olac:code="nxq" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Naxi</dc:language>
+            <dc:description xml:lang="en">This is a recording of the syllables found in this dialect of Naxi. Each syllable is said at least two times; often three or four times. The phonemic analysis on which this recording is based is the following: Michaud, Alexis &amp; Likun He. 2015. Phonemic and tonal analysis of the Pianding dialect of Naxi (Dadong County, Lijiang Municipality). Cahiers de Linguistique - Asie Orientale 44(1). 1–35 plus online Appendices. Note that not all syllables were recorded: after recording, it was noticed that there also exist the following syllables: /pɚ˩/ 拔; /vɚ˩vɚ˧/ 有嚼劲; /cʰwæ˧/ (Chinese loanword) 圈; /cwæ˧/ (Chinese loanword) 卷; /ndzɿ̠˧/ 唱; /ljæ˧ (Chinese loanword) 两; /ŋe˥/ (Chinese loanword) 硬; /ŋɤ˧/ 我的; /ŋʋ̩˩/ 银; /ŋæ˩ (Chinese loanword) 挨; /ŋɑ˩/ 我; /tɚ˥/ 关; /tɯ˞˧/ 起疹; /twæ˧/ (Chinese loanword) 端; /tjɤ˧/ 使辛苦; /tje˧˥/ (Chinese loanword) 碟; /tjæ˧/ (Chinese loanword) 点; /tjɑ˧/ (Chinese loanword) 叼; /çwæ˥/ (Chinese loanword) 炫; /cʰɑ˧˥/ (Chinese loanword) 家; /ɟʏ˧/ 存在动词; /ɲɟʏ˧/ 硬.</dc:description>
+            <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">text/xml</dc:format>
+            <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Text</dc:type>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/michaud/masters/crdo-NXQ_PIANDING_SYLLABLES.xml</dc:identifier>
+            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
+            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
+            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">He, Likun</dc:contributor>
             <dc:contributor olac:code="sponsor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Centre national de la recherche scientifique</dc:contributor>
-            <dc:contributor olac:code="sponsor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Institut national des langues et civilisations orientales</dc:contributor>
-            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Vittrant, Alice</dc:contributor>
-            <dc:type olac:code="dialogue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:discourse-type"/>
-            <dc:language olac:code="mya" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Burmese</dc:language>
-            <dc:language olac:code="fra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Français</dc:language>
-            <dc:type olac:code="primary_text" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
+            <dc:contributor olac:code="transcriber" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
+            <dc:contributor olac:code="annotator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
+            <dc:contributor olac:code="translator" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Michaud, Alexis</dc:contributor>
             <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
-            <dc:publisher>Dynamique du langage</dc:publisher>
-            <dcterms:alternative xml:lang="en">Fonds Denise Bernot, Burmese, 1966, tape 044, side B</dcterms:alternative>
-            <dcterms:accessRights>Access restricted (password protected)</dcterms:accessRights>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/bernot/private_bernot/BER-1966-BUR-044-B.mp3</dcterms:isFormatOf>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/bernot/private_bernot/masters/BER-1966-BUR-044-B.wav</dcterms:isFormatOf>
-            <dcterms:extent>PT59M24S</dcterms:extent>
-            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">1966</dcterms:created>
-            <dcterms:spatial>Myanmar, Yangon</dcterms:spatial>
-            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">MM</dcterms:spatial>
-            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Point">east=96.15611; north=16.80528</dcterms:spatial>
-            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_BERNOT_1</dcterms:isPartOf>
+            <dc:type olac:code="lexicon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
+            <dc:type olac:code="dialogue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:discourse-type"/>
+            <dc:rights>Copyright (c) Michaud, Alexis</dc:rights>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/display/crdo-NXQ_PIANDING_SYLLABLES</dcterms:isFormatOf>
+            <dcterms:requires xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-NXQ_PIANDING_SYLLABLES_SOUND</dcterms:requires>
+            <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
+            <dcterms:license xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-sa/2.5/</dcterms:license>
             <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
-            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2016-12-10</dcterms:available>
-            <dcterms:medium xml:lang="fr">Bande magnétique</dcterms:medium>
-            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_BERNOT</dcterms:isPartOf>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.7ga7iv</dc:identifier>
+            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2016-05-03</dcterms:available>
+            <dcterms:conformsTo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-dtd_archive</dcterms:conformsTo>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.g02xwg</dc:identifier>
         </olac:olac>
     </metadata>
 </record>

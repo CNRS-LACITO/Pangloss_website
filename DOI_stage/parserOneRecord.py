@@ -24,12 +24,38 @@ olac = root.find('*/olac:olac', NAMESPACES)
 
 #extraire les publisher
 publisherInstitution = []
-if olac.findall('dc:publisher', NAMESPACES) != None:
-    for institution in olac.findall('dc:publisher', NAMESPACES):
-        nomInstitution = institution.text
-        publisherInstitution.append(nomInstitution)
+
+for institution in olac.findall('dc:publisher', NAMESPACES):
+    nomInstitution = institution.text
+    publisherInstitution.append(nomInstitution)
+
+
+# récupérer le contentnu de la balise titre
+if olac.find("dc:title", NAMESPACES) != None:
+    titreElement = olac.find("dc:title", NAMESPACES)
+    titre = titreElement.text
+    # récupérer la valeur de l'attribut xml:lang du titre
+    codeXmlLangTitre = titreElement.get('{http://www.w3.org/XML/1998/namespace}lang')
+
 else:
-    print ("La balise publisher n'existe pas")
+    titre = ""
+    print("La balise Titre n'existe pas")
+
+
+# récupérer le titre alternatif et la langue dans une liste
+titresSecondaire = []
+for titreAlternatif in olac.findall('dcterms:alternative', NAMESPACES):
+    titreLabel = titreAlternatif.text
+    codeXmlLangTitreSecond = titreAlternatif.get("{http://www.w3.org/XML/1998/namespace}lang")
+    titreLangList = [codeXmlLangTitreSecond, titreLabel]
+    titresSecondaire.append(titreLangList)
+
+
+# droit d'accès
+droitAccess=""
+if olac.find("dcterms:accessRights", NAMESPACES) != None:
+    droitAccess = olac.find("dcterms:accessRights", NAMESPACES).text
+
 
 if olac.find('dc:format', NAMESPACES) != None:
     format = olac.find('dc:format', NAMESPACES).text.split("/")
@@ -49,28 +75,6 @@ else:
     taille = ""
 
 
-# récupérer le contentnu de la balise titre
-if olac.find("dc:title", NAMESPACES) != None:
-    titreElement = olac.find("dc:title", NAMESPACES)
-    titre = titreElement.text
-    # récupérer la valeur de l'attribut xml:lang du titre
-    codeXmlLangTitre = titreElement.get('{http://www.w3.org/XML/1998/namespace}lang')
-    print(titre, codeXmlLangTitre)
-
-else:
-    titre = ""
-    print("La balise Titre n'existe pas")
-
-
-# récupérer le titre alternatif et la langue dans une liste
-titresSecondaire = []
-for titreAlternatif in olac.findall('dcterms:alternative', NAMESPACES):
-    titreLabel = titreAlternatif.text
-    codeXmlLangTitreSecond = titreAlternatif.get("{http://www.w3.org/XML/1998/namespace}lang")
-    titreLangList = [codeXmlLangTitreSecond, titreLabel]
-    titresSecondaire.append(titreLangList)
-
-
 droits=''
 if olac.find("dc:rights", NAMESPACES) != None:
     droitsComplet = olac.find("dc:rights", NAMESPACES).text
@@ -80,24 +84,23 @@ if olac.find("dc:rights", NAMESPACES) != None:
         print("Il y a une autre forme de droits")
         droits = ""
 
+
 # les contributeurs. On extrait d'abord les valeurs et les rôles des contributeurs Olac
 contributeursOlac = []
+for contributor in olac.findall('dc:contributor', NAMESPACES):
+    role = contributor.get('{http://www.language-archives.org/OLAC/1.1/}code')
+    nomPrenom = contributor.text
+    contributorList = [nomPrenom, role]
+    contributeursOlac.append(contributorList)
 
-if olac.findall('dc:contributor', NAMESPACES) != None:
-    for contributor in olac.findall('dc:contributor', NAMESPACES):
-        code = contributor.get('{http://www.language-archives.org/OLAC/1.1/}code')
-        value = contributor.text
-        contributorList = [value, code]
-        contributeursOlac.append(contributorList)
-else:
-    print("La balise Contributeurs n'existe pas")
 
 
 contributeursDoi = []
-
 for elem in contributeursOlac:
     if "transcriber" in elem[1] or "annotator" in elem[1] or "translator" in elem[1] or "compiler" in elem[1]:
+        # transforme les rôles Olac en Contributor Type
         listeCurator =[elem[0], "DataCurator"]
+        # si la liste n'est pas dans la liste globale contributeursDoi, l'ajouter à la liste
         if listeCurator not in contributeursDoi:
             contributeursDoi.append(listeCurator)
     elif "interpreter" in elem[1] or "recorder" in elem[1] or "interviewer" in elem[1]:
@@ -122,12 +125,6 @@ for elem in contributeursOlac:
         contributeursDoi.append(listeSponsor)
 
 
-# droit d'accès
-droitAccess=""
-if olac.find("dcterms:accessRights", NAMESPACES) != None:
-    droitAccess = olac.find("dcterms:accessRights", NAMESPACES).text
-
-
 # récupère le code de la langue principale de la ressource
 codeLangue = []
 # récupère les labels de la langue principale de la ressource
@@ -139,7 +136,7 @@ for sujet in olac.findall('dc:subject', NAMESPACES):
     sujetAttribut = sujet.attrib
 
     # si la balise subject n'a pas d'attributs, la valeur de l'élement est ajouté à la liste de mots-cles
-    if sujetAttribut is None:
+    if not sujetAttribut :
         sujets.append(sujet.text)
     else:
         # si la balise subject contient l'attribut type et la valeur olac:langue, recupérer les diférents informations sur les langues
@@ -173,7 +170,6 @@ for element in olac.findall("dc:type", NAMESPACES):
 
     if typeAttribut is None:
         sujets.append(element.text)
-
     else:
         for cle, valeur in typeAttribut.items():
             if cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "dcterms:DCMIType":
@@ -192,14 +188,12 @@ if bool == False:
 
 
 isRequiredBy = []
-if olac.find('dcterms:isRequiredBy', NAMESPACES) != None:
-    for ressource in olac.findall('dcterms:isRequiredBy', NAMESPACES):
-        isRequiredBy.append(ressource.text)
+for ressource in olac.findall('dcterms:isRequiredBy', NAMESPACES):
+    isRequiredBy.append(ressource.text)
 
 requires = []
-if olac.find('dcterms:requires', NAMESPACES) != None:
-    for ressource in olac.findall('dcterms:requires', NAMESPACES):
-        requires.append(ressource.text)
+for ressource in olac.findall('dcterms:requires', NAMESPACES):
+    requires.append(ressource.text)
 
 
 identifiant_Ark_Handle = []
@@ -342,6 +336,24 @@ if identifiant:
 else:
     print("La balise IDENTIFIER est obligatoire!!")
 
+# les titres
+if titre:
+    titles = ET.SubElement(racine, "titles")
+    title = ET.SubElement(titles, "title")
+    title.text = titre
+    if codeXmlLangTitre:
+        title.set("xml:lang", codeXmlLangTitre)
+else:
+    print("La Balise TITLE est obligatoire")
+
+if titresSecondaire:
+    for groupe in titresSecondaire:
+        titreS = ET.SubElement(titles, "title")
+        if codeXmlLangTitreSecond:
+            titreS.text = groupe[1]
+            titreS.set("xml:lang", groupe[0])
+        else:
+            titreS.text = groupe[1]
 
 # les createurs et contributeurs
 creators = ET.SubElement(racine, "creators")
@@ -422,25 +434,6 @@ if droitAccess:
     rights = ET.SubElement (rightsList, "rights")
     rights.text = droitAccess
 
-
-# les titres
-if titre:
-    titles = ET.SubElement(racine, "titles")
-    title = ET.SubElement(titles, "title")
-    title.text = titre
-    if codeXmlLangTitre:
-        title.set("xml:lang", codeXmlLangTitre)
-else:
-    print("La Balise TITLE est obligatoire")
-
-if titresSecondaire:
-    for groupe in titresSecondaire:
-        titreS = ET.SubElement(titles, "title")
-        if codeXmlLangTitreSecond:
-            titreS.text = groupe[1]
-            titreS.set("xml:lang", groupe[0])
-        else:
-            titreS.text = groupe[1]
 
 # le publisher
 publisher = ET.SubElement(racine, "publisher")

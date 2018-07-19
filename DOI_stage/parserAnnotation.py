@@ -35,7 +35,7 @@ def parseAnnotation (lienUrl):
 
         return listeID
 """
-req = requests.get("https://cocoon.huma-num.fr/exist/crdo/michaud/uby/crdo-UBY_HODJA.xml")
+req = requests.get("https://cocoon.huma-num.fr/data/michaud/masters/crdo-NRU_F4_DEM_CL3.xml")
 print(req.status_code)
 if req.status_code !=200 and req.status_code != 201:
     print("ups")
