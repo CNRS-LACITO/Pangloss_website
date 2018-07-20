@@ -36,20 +36,20 @@ if olac.find("dc:title", NAMESPACES) != None:
     titre = titreElement.text
     # récupérer la valeur de l'attribut xml:lang du titre
     codeXmlLangTitre = titreElement.get('{http://www.w3.org/XML/1998/namespace}lang')
-
 else:
     titre = ""
     print("La balise Titre n'existe pas")
-
+print(titre, ',', codeXmlLangTitre)
 
 # récupérer le titre alternatif et la langue dans une liste
 titresSecondaire = []
+
 for titreAlternatif in olac.findall('dcterms:alternative', NAMESPACES):
     titreLabel = titreAlternatif.text
     codeXmlLangTitreSecond = titreAlternatif.get("{http://www.w3.org/XML/1998/namespace}lang")
     titreLangList = [codeXmlLangTitreSecond, titreLabel]
     titresSecondaire.append(titreLangList)
-
+print (titresSecondaire)
 
 # droit d'accès
 droitAccess=""
@@ -92,7 +92,6 @@ for contributor in olac.findall('dc:contributor', NAMESPACES):
     nomPrenom = contributor.text
     contributorList = [nomPrenom, role]
     contributeursOlac.append(contributorList)
-
 
 
 contributeursDoi = []
@@ -157,8 +156,7 @@ for sujet in olac.findall('dc:subject', NAMESPACES):
                 listeAttribMot = [codeXmlLangSujet, motCle]
                 # ajout de la liste attribut langue et mot clé à la liste de mots clés
                 sujets.append(listeAttribMot)
-
-
+print(sujets)
 # Le type de ressource: récupère les informations des balises dc:type
 # liste qui récupère le contenu de la balise type et la valeur de l'attribut olac:code et qui vont être affectés à l'élément type en sortie
 
@@ -167,12 +165,16 @@ typeRessourceGeneral = ""
 bool = False
 for element in olac.findall("dc:type", NAMESPACES):
     typeAttribut = element.attrib
-
-    if typeAttribut is None:
+    if not typeAttribut:
         sujets.append(element.text)
     else:
         for cle, valeur in typeAttribut.items():
-            if cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "dcterms:DCMIType":
+            if cle == '{http://www.w3.org/XML/1998/namespace}lang':
+                codeXmlLangSujet = valeur
+                motCle = element.text
+                listeAttribMot = [codeXmlLangSujet, motCle]
+                sujets.append(listeAttribMot)
+            elif cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "dcterms:DCMIType":
                 # variable qui récupère le type de ressource general qui va être affecté à l'attribut typeRessourceGeneral en sortie
                 if element.text == "MovingImage":
                     typeRessourceGeneral = "Audiovisual"
@@ -228,7 +230,7 @@ for contenu in olac.findall("dcterms:abstract", NAMESPACES):
     # récupère les attributs et valeurs d'attributs sous la forme d'un dictionnaire
     abstractAttrib = contenu.attrib
     # si la balise ne contient pas d'attributs, alors ajouter le contenu de l'élément à la liste
-    if abstractAttrib is None:
+    if not abstractAttrib:
         abstract.append(contenu.text)
     # si la balise contient d'attributs (attributs xml:lang d'office), créer une liste avec le code de la langue et le contenu de la balise
     else:
@@ -243,7 +245,7 @@ for contenu in olac.findall("dcterms:tableOfContents", NAMESPACES):
     # récupère les attributs et valeurs de la balise sous la forme d'un dictionnaire
     tableAttrib = contenu.attrib
     # si la balise ne contient pas d'attributs, alors ajouter le contenu à la liste
-    if tableAttrib is None:
+    if not tableAttrib:
         tableDeMatiere.append(contenu.text)
     # si la balise contient d'attributs (attributs xml:lang d'office), créer une liste avec le code de la langue et le contenu de la balise
     else:
@@ -256,7 +258,7 @@ for contenu in olac.findall("dcterms:tableOfContents", NAMESPACES):
 descriptionsOlac = []
 for texte in olac.findall("dc:description", NAMESPACES):
     descriptionAttrib = texte.attrib
-    if descriptionAttrib is None:
+    if not descriptionAttrib:
         contenuDescription = texte.text
         descriptionsOlac.append(contenuDescription)
     else:
@@ -272,7 +274,7 @@ longitudeLatitude = []
 pointCardinaux = []
 for lieu in olac.findall('dcterms:spatial', NAMESPACES):
     lieuAttrib = lieu.attrib
-    if lieuAttrib is None:
+    if not lieuAttrib:
         labelLieux.append(lieu.text)
     for cle, valeur in lieuAttrib.items():
         if cle == '{http://www.w3.org/XML/1998/namespace}lang':
@@ -349,11 +351,12 @@ else:
 if titresSecondaire:
     for groupe in titresSecondaire:
         titreS = ET.SubElement(titles, "title")
-        if codeXmlLangTitreSecond:
+        if groupe [0] != None:
             titreS.text = groupe[1]
             titreS.set("xml:lang", groupe[0])
         else:
             titreS.text = groupe[1]
+
 
 # les createurs et contributeurs
 creators = ET.SubElement(racine, "creators")
@@ -431,7 +434,7 @@ else:
 
 if droitAccess:
     rightsList = ET.SubElement(racine, "rightsList")
-    rights = ET.SubElement (rightsList, "rights")
+    rights = ET.SubElement(rightsList, "rights")
     rights.text = droitAccess
 
 
@@ -464,8 +467,8 @@ if labelLangue:
         subject = ET.SubElement(subjects, "subject", subjectScheme="OLAC",
                                 schemeURI="http://search.language-archives.org/index.html")
         subject.text = label[1]
-        # vérifier que la balise subject qui contient le label de la langue a un attribut xml:lang.
-        if codeXmlLangLabel:
+        # vérifier que la liste contient un attribut xml:lang.
+        if label[0] != None:
             subject.set("xml:lang", label[0])
             subject.text = label[1]
         else:
@@ -568,29 +571,29 @@ if tableDeMatiere:
 if descriptionsOlac:
     for element in descriptionsOlac:
         if isinstance(element, str):
-            # si la balise abstract existe, alors la balise description aura l'attribut Other, si elle n'existe pas, l'attribut Abstract
-            if abstract:
-                description = ET.SubElement(descriptions, "description", descriptionType="Other")
-                description.text = element
-            # si la balise abstract n'existe pas et que le mot Equipment fait partie du contenu de la balise description, alors cet élément aura l'attribut Other
-            elif "Equipment" in element:
+            # si le mot Equipment fait partie du contenu de la balise description, alors cet élément aura l'attribut TechnicalInfo
+            if "Equipment" in element:
                 description = ET.SubElement(descriptions, "description", descriptionType="TechnicalInfo")
+                description.text = element
+
+            # sinon si la balise abstract existe, alors la balise description aura l'attribut Other, si elle n'existe pas, l'attribut Abstract
+            elif abstract:
+                description = ET.SubElement(descriptions, "description", descriptionType="Other")
                 description.text = element
             else:
                 description = ET.SubElement(descriptions, "description", descriptionType="Abstract")
                 description.text = element
             #la même chose, mais pour le cas où abstract contient l'attribut xml-lang
         else:
-            if abstract:
-                description = ET.SubElement(descriptions, "description", descriptionType="Other")
-                description.text = element[1]
-                description.set("xml:lang", element[0])
-
-            elif "Equipment" in element[1]:
+            if "Equipment" in element[1]:
                 description = ET.SubElement(descriptions, "description", descriptionType="TechnicalInfo")
                 description.text = element[1]
                 description.set("xml:lang", element[0])
 
+            elif abstract:
+                description = ET.SubElement(descriptions, "description", descriptionType="Other")
+                description.text = element[1]
+                description.set("xml:lang", element[0])
             else:
                 description = ET.SubElement(descriptions, "description", descriptionType="Abstract")
                 description.text = element[1]

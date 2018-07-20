@@ -14,8 +14,8 @@ class Record:
     """
 
     def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre,
-                 codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeursDoi, droitAccess,
-                 codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy,
+                 codeXmlLangTitre, titresSecondaire, droits, contributeursDoi, droitAccess,
+                 codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy,
                  requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac,
                  labelLieux, longitudeLatitude, pointCardinaux, url):
         self.identifiant = identifiant
@@ -33,14 +33,14 @@ class Record:
         self.titre = titre
         self.codeXmlLangTitre = codeXmlLangTitre
         self.titresSecondaire = titresSecondaire
-        self.codeXmlLangTitreSecond = codeXmlLangTitreSecond
+        #self.codeXmlLangTitreSecond = codeXmlLangTitreSecond
         self.droits = droits
         self.contributeursDoi = contributeursDoi
         self.droitAccess = droitAccess
         self.codeLangue = codeLangue
         self.labelLangue = labelLangue
         self.sujets = sujets
-        self.codeXmlLangLabel = codeXmlLangLabel
+        #self.codeXmlLangLabel = codeXmlLangLabel
         self.labelType = labelType
         self.typeRessourceGeneral = typeRessourceGeneral
         self.isRequiredBy = isRequiredBy
@@ -85,7 +85,7 @@ class Record:
         if self.titresSecondaire:
             for groupe in self.titresSecondaire:
                 titreS = ET.SubElement(titles, "title")
-                if self.codeXmlLangTitreSecond:
+                if groupe[0] != None:
                     titreS.text = groupe[1]
                     titreS.set("xml:lang", groupe[0])
                 else:
@@ -195,8 +195,8 @@ class Record:
                 subject = ET.SubElement(subjects, "subject", subjectScheme="OLAC",
                                         schemeURI=SCHEME_URI)
 
-                # vérifier que la balise subject qui contient le label de la langue a un attribut xml:lang.
-                if self.codeXmlLangLabel:
+                # vérifier que la liste contient un attribut xml:lang.
+                if label[0] != None:
                     subject.text = label[1]
                     subject.set("xml:lang", label[0])
                 else:
@@ -300,29 +300,29 @@ class Record:
         if self.descriptionsOlac:
             for element in self.descriptionsOlac:
                 if isinstance(element, str):
-                    # si la balise abstract existe, alors la balise description aura l'attribut Other, si elle n'existe pas, l'attribut Abstract
-                    if self.abstract:
-                        description = ET.SubElement(descriptions, "description", descriptionType="Other")
-                        description.text = element
-                    # si la balise abstract n'existe pas et que le mot Equipment fait partie du contenu de la balise description, alors cet élément aura l'attribut Other
-                    elif "Equipment" in element:
+                    # si le mot Equipment fait partie du contenu de la balise description, alors cet élément aura l'attribut TechnicalInfo
+                    if "Equipment" in element:
                         description = ET.SubElement(descriptions, "description", descriptionType="TechnicalInfo")
+                        description.text = element
+
+                    # sinon si la balise abstract existe, alors la balise description aura l'attribut Other, si elle n'existe pas, l'attribut Abstract
+                    elif self.abstract:
+                        description = ET.SubElement(descriptions, "description", descriptionType="Other")
                         description.text = element
                     else:
                         description = ET.SubElement(descriptions, "description", descriptionType="Abstract")
                         description.text = element
                     # la même chose, mais pour le cas où abstract contient l'attribut xml-lang
                 else:
-                    if self.abstract:
-                        description = ET.SubElement(descriptions, "description", descriptionType="Other")
-                        description.text = element[1]
-                        description.set("xml:lang", element[0])
-
-                    elif "Equipment" in element[1]:
+                    if "Equipment" in element[1]:
                         description = ET.SubElement(descriptions, "description", descriptionType="TechnicalInfo")
                         description.text = element[1]
                         description.set("xml:lang", element[0])
 
+                    elif self.abstract:
+                        description = ET.SubElement(descriptions, "description", descriptionType="Other")
+                        description.text = element[1]
+                        description.set("xml:lang", element[0])
                     else:
                         description = ET.SubElement(descriptions, "description", descriptionType="Abstract")
                         description.text = element[1]

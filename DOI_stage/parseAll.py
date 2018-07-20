@@ -85,6 +85,6 @@ for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
         message = "La ressource {} ne contient pas de fichier d'annotations".format(objetRecord.identifiantPrincipal)
         logging.info(message)
 
-    if index == 13:
+    if index == 3:
         break
 

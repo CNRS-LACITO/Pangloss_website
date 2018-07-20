@@ -64,7 +64,6 @@ def parserRecord (record):
 
         # extrait le titre alternatif et le code xml:lang ety les stocke dans une liste
         titresSecondaire = []
-        codeXmlLangTitreSecond =""
         for titreAlternatif in olac.findall('dcterms:alternative', NAMESPACES):
             titreLabel = titreAlternatif.text
             codeXmlLangTitreSecond = titreAlternatif.get("{http://www.w3.org/XML/1998/namespace}lang")
@@ -129,7 +128,7 @@ def parserRecord (record):
         # récupère des mots-clés sous forme de chaine de caractères et des listes de mot-clé et xml:lang
         sujets = []
 
-        codeXmlLangLabel = ""
+
         for sujet in olac.findall('dc:subject', NAMESPACES):
             sujetAttribut = sujet.attrib
             # si la balise subject n'a pas d'attributs, la valeur de l'élement est ajouté à la liste de mots-cles
@@ -162,13 +161,16 @@ def parserRecord (record):
         bool = False
         for element in olac.findall("dc:type", NAMESPACES):
             typeAttribut = element.attrib
-
-            if not typeAttribut :
+            if not typeAttribut:
                 sujets.append(element.text)
-
-            else :
+            else:
                 for cle, valeur in typeAttribut.items():
-                    if cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "dcterms:DCMIType":
+                    if cle == '{http://www.w3.org/XML/1998/namespace}lang':
+                        codeXmlLangSujet = valeur
+                        motCle = element.text
+                        listeAttribMot = [codeXmlLangSujet, motCle]
+                        sujets.append(listeAttribMot)
+                    elif cle == "{http://www.w3.org/2001/XMLSchema-instance}type" and valeur == "dcterms:DCMIType":
                         # variable qui récupère le type de ressource general qui va être affecté à l'attribut typeRessourceGeneral en sortie
                         if element.text == "MovingImage":
                             typeRessourceGeneral = "Audiovisual"
@@ -231,7 +233,6 @@ def parserRecord (record):
                 texteAbstract = contenu.text
                 listeLangueContenu = [langueAbstract, texteAbstract]
                 abstract.append(listeLangueContenu)
-
         # récupérer le contenu de la balise tableOfContent
         tableDeMatiere = []
         for contenu in olac.findall("dcterms:tableOfContents", NAMESPACES):
@@ -328,5 +329,5 @@ def parserRecord (record):
             url = identifiantPrincipal[21:]
 
 
-        record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, codeXmlLangTitreSecond, droits, contributeursDoi, droitAccess, codeLangue, labelLangue, sujets, codeXmlLangLabel, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)
+        record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, droits, contributeursDoi, droitAccess, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)
         return record_object
