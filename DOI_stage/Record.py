@@ -1,8 +1,8 @@
 import xml.etree.ElementTree as ET
 import logging
-from constantes import SCHEME_URI, PURL, logFileName, DOI_Pangloss
+from constantes import SCHEME_URI, PURL, CRITICAL_LOG, DOI_PANGLOSS
 
-logging.basicConfig(filename=logFileName, level=logging.INFO)
+logging.basicConfig(filename=CRITICAL_LOG, level=logging.INFO)
 
 
 class Record:
@@ -17,6 +17,10 @@ class Record:
                  codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy,
                  requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac,
                  labelLieux, longitudeLatitude, pointCardinaux, url):
+        """Constructeur de la classe Record.
+        Il contient des attributs avec des valeurs par défaut (setSpec, publisher, hostingInstitution)
+        Il contient aussi des attributs d'objet qui va prendre des valeurs à la création de l'objet
+        """
         self.identifiant = identifiant
         self.identifiantPrincipal = identifiantPrincipal
         self.setSpec = "Linguistique"
@@ -27,7 +31,7 @@ class Record:
                                    "Centre Informatique National de l'Enseignement Supérieur"]
         self.format = format
         self.annee = annee
-        self.relatedIdPangloss = DOI_Pangloss
+        self.relatedIdPangloss = DOI_PANGLOSS
         self.taille = taille
         self.titre = titre
         self.codeXmlLangTitre = codeXmlLangTitre

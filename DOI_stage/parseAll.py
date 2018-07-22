@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ETree
 from Parse import parserRecord
 import shutil
 from API_DataCite_Metadata import enregistrer_metadonneesRessource, enregistrer_metadonneesPhrase
-from API_DataCite_DOI import enregistrer_urlRessource, enregistrer_urlPhrase
+from API_DataCite_DOI import enregistrer_url_doiRessource, enregistrer_url_doiPhrase
 from constantes import NAMESPACES, logFileName
 from parserAnnotation import parseAnnotation
 from Phrase import Phrase
@@ -16,12 +16,13 @@ tree = ETree.parse("metadata_cocoon.xml")
 root = tree.getroot()
 
 #creation et suppression d'un dossier et de son contenu
+"""
 shutil.rmtree("test")
 shutil.rmtree("testURL")
 shutil.rmtree("testPhrase")
 shutil.rmtree("testURL_Phrase")
 os.remove("critical.log")
-
+"""
 os.mkdir("test")
 os.mkdir("testURL")
 os.mkdir("testPhrase")
@@ -37,19 +38,20 @@ for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
     #on utilise la fonction parserRecord pour parser chaque record
     objetRecord = parserRecord(record)
 
-    #on utilise la fonction generatorFichierUrlDoi pour créer les fichiers avec les url et les DOI
-    fichier_textRessource = objetRecord.generatorFichierUrlDoi()
-
     # on utilise la methode build de la classe Record pour créer le fichier xml
     fichier_xmlRessource = objetRecord.build()
+
+    # on utilise la fonction generatorFichierUrlDoi pour créer les fichiers avec les url et les DOI
+    fichier_textRessource = objetRecord.generatorFichierUrlDoi()
 
 
     #methodes pour interroger l'API de Datacite et enregistrer le fichier de metadonnées et le fichier text avec l'url et le doi pour les ressources
     if fichier_xmlRessource:
-        enregistrer_metadonneesRessource(fichier_xmlRessource)
+        enregistrer_metadonneesRessource(fichier_xmlRessource, objetRecord.identifiant)
 
     if fichier_textRessource:
-        enregistrer_urlRessource(fichier_textRessource, objetRecord.identifiant)
+        enregistrer_url_doiRessource(fichier_textRessource, objetRecord.identifiant)
+
     """
     #---------------------------- PARSING ANNOTATION ---------------------#
 
@@ -73,10 +75,10 @@ for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
 
                 # methodes pour interroger l'API de Datacite et enregistrer le fichier de metadonnées et le fichier text avec l'url et le doi pour les phrases
                 if fichier_xmlPhrase:
-                    enregistrer_metadonneesPhrase(fichier_xmlPhrase)
+                    enregistrer_metadonneesPhrase(fichier_xmlPhrase, id)
     
                 if fichier_textPhrase:
-                    enregistrer_urlPhrase(fichier_textPhrase, doiPhrase)
+                    enregistrer_url_doiPhrase(fichier_textPhrase, doiPhrase, id)
 
                 if indexid == 3:
                     break
@@ -85,6 +87,6 @@ for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
         message = "La ressource {} ne contient pas de fichier d'annotations".format(objetRecord.identifiantPrincipal)
         logging.info(message)
 """
-    if index == 13:
+    if index == 2:
         break
 
