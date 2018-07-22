@@ -1,6 +1,6 @@
 # --------Parsing XML ------------------#
 import xml.etree.ElementTree as ET
-from constantes import NAMESPACES, DOI_Pangloss, DOI_TEST
+from constantes import NAMESPACES, DOI_Pangloss, DOI_TEST, EASTLING_PLAYER, SHOW_TEXT, SHOW_OTHER, IDREF
 import re
 
 tree = ET.parse("lacito_1verif.xml")
@@ -196,7 +196,9 @@ for ressource in olac.findall('dcterms:isRequiredBy', NAMESPACES):
 requires = []
 for ressource in olac.findall('dcterms:requires', NAMESPACES):
     requires.append(ressource.text)
+print(requires)
 
+idPangloss = DOI_Pangloss
 
 identifiant_Ark_Handle = []
 for identifiantAlternatif in olac.findall('dc:identifier', NAMESPACES):
@@ -325,6 +327,24 @@ for lieu in olac.findall('dcterms:spatial', NAMESPACES):
             pointCardinaux.append(sud)
             pointCardinaux.append(nord)
 
+url = ""
+if typeRessourceGeneral == "Audiovisual" or typeRessourceGeneral == "Sound":
+    url = SHOW_TEXT + identifiantPrincipal[21:]
+elif typeRessourceGeneral == "Text" and format[0] == "image" and requires:
+    for lienRequires in requires:
+        if "SOUND" not in lienRequires:
+            url = EASTLING_PLAYER + lienRequires[21:]
+elif typeRessourceGeneral == "Text" and format[0] == "text" and requires:
+    for lienRequires in requires:
+        url = SHOW_TEXT + lienRequires[21:] + IDREF + identifiantPrincipal[21:]
+elif typeRessourceGeneral == "Text" and format[0] == "application" and requires:
+    for lienRequires in requires:
+        url = SHOW_OTHER + lienRequires[21:] + IDREF + identifiantPrincipal[21:]
+elif typeRessourceGeneral == "Collection":
+    url = 'http://lacito.vjf.cnrs.fr/pangloss/index.html'
+
+print(url)
+
 # --------Building XML ------------------#
 
 racine = ET.Element("resource", xmlns="http://datacite.org/schema/kernel-4")
@@ -427,8 +447,7 @@ if droits:
     contributor = ET.SubElement(contributors, "contributor", contributorType='RightsHolder')
     contributorName = ET.SubElement(contributor, "contributorName")
     contributorName.text = droits
-else:
-    print("L'attribut RightsHolder n'a pas pu être généré")
+
 
 # les droits d'accès
 
@@ -508,7 +527,7 @@ alternateIdentifier = ET.SubElement(alternateIdentifiers, "alternateIdentifier",
                                     alternateIdentifierType="PURL")
 alternateIdentifier.text = "http://purl.org/poi/crdo.vjf.cnrs.fr/"+identifiantPrincipal[21:]
 
-if identifiant_Ark_Handle or isRequiredBy or requires:
+if identifiant_Ark_Handle or isRequiredBy or requires or idPangloss:
     relatedIdentifiers = ET.SubElement(racine, "relatedIdentifiers")
 
 if identifiant_Ark_Handle:
@@ -529,9 +548,9 @@ if requires:
                                       relationType="Requires")
         relatedIdentifier.text = "http://purl.org/poi/crdo.vjf.cnrs.fr/"+identifiantRequires[21:]
 
-relatedIdPangloss = ET.SubElement(relatedIdentifiers, "relatedIdentifier", relatedIdentifierType="DOI",
+idPangloss = ET.SubElement(relatedIdentifiers, "relatedIdentifier", relatedIdentifierType="DOI",
                                       relationType="IsPartOf")
-relatedIdPangloss.text = DOI_Pangloss
+idPangloss.text = DOI_Pangloss
 
 if format:
     formats = ET.SubElement(racine, "formats")
@@ -623,6 +642,8 @@ if labelLieux:
         southBoundLatitude.text = pointCardinaux[2]
         northBoundLatitude = ET.SubElement(geoLocationBox, "northBoundLatitude")
         northBoundLatitude.text = pointCardinaux[3]
+
+
 
 tree = ET.ElementTree(racine)
 tree.write("sortie.xml", encoding="UTF-8", xml_declaration=True, default_namespace=None, method="xml")

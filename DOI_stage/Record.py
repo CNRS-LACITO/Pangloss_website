@@ -1,6 +1,5 @@
 import xml.etree.ElementTree as ET
 import logging
-import codecs
 from constantes import SCHEME_URI, PURL, logFileName, DOI_Pangloss
 
 logging.basicConfig(filename=logFileName, level=logging.INFO)
@@ -364,7 +363,7 @@ class Record:
             return None
 
     def generatorFichierUrlDoi(self):
-        with codecs.open("testURL/" + self.identifiantPrincipal[21:] + ".txt", "w") as fichierUrl:
+        with open("testURL/" + self.identifiantPrincipal[21:] + ".txt", "w") as fichierUrl:
             url = "url= " + self.url
             doi = "doi= " + self.identifiant
             fichierUrl.write(doi + "\n" + url)

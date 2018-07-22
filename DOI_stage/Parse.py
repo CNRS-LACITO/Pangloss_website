@@ -1,5 +1,5 @@
 from Record import Record
-from constantes import NAMESPACES, DOI_TEST, SHOW_TEXT, IDREF, SHOW_OTHER, logFileName
+from constantes import NAMESPACES, DOI_TEST, SHOW_TEXT, IDREF, EASTLING_PLAYER, SHOW_OTHER, logFileName
 import re
 import logging
 
@@ -319,14 +319,18 @@ def parserRecord (record):
         url = ""
         if typeRessourceGeneral == "Audiovisual" or typeRessourceGeneral == "Sound":
             url = SHOW_TEXT + identifiantPrincipal[21:]
+        elif typeRessourceGeneral == "Text" and format[0] == "image" and requires:
+            for lienRequires in requires:
+                if "SOUND" not in lienRequires:
+                    url = EASTLING_PLAYER + lienRequires[21:]
         elif typeRessourceGeneral == "Text" and format[0] == "text" and requires:
             for lienRequires in requires:
                 url = SHOW_TEXT + lienRequires[21:] + IDREF + identifiantPrincipal[21:]
         elif typeRessourceGeneral == "Text" and format[0] == "application" and requires:
             for lienRequires in requires:
                 url = SHOW_OTHER + lienRequires[21:] + IDREF + identifiantPrincipal[21:]
-        else:
-            url = identifiantPrincipal[21:]
+        elif typeRessourceGeneral == "Collection":
+            url = 'http://lacito.vjf.cnrs.fr/pangloss/index.html'
 
 
         record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, droits, contributeursDoi, droitAccess, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)

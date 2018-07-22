@@ -50,7 +50,7 @@ for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
 
     if fichier_textRessource:
         enregistrer_urlRessource(fichier_textRessource, objetRecord.identifiant)
-
+    """
     #---------------------------- PARSING ANNOTATION ---------------------#
 
     # extraire le lien url pour chaque fichier xml
@@ -84,7 +84,7 @@ for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
     else:
         message = "La ressource {} ne contient pas de fichier d'annotations".format(objetRecord.identifiantPrincipal)
         logging.info(message)
-
-    if index == 3:
+"""
+    if index == 13:
         break
 

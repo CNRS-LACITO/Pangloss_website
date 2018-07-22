@@ -9,6 +9,7 @@ DOI_TEST = "10.5072/"
 SHOW_TEXT = "http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id="
 IDREF = "&idref="
 SHOW_OTHER = "http://lacito.vjf.cnrs.fr/pangloss/corpus/show_other.php?id="
+EASTLING_PLAYER = 'http://lacito.vjf.cnrs.fr/pangloss/corpus/eastling_player.php?idref='
 SCHEME_URI = "http://search.language-archives.org/index.html"
 PURL = "http://purl.org/poi/crdo.vjf.cnrs.fr/"
 USERNAME = "INIST.LACITO"
