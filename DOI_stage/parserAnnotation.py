@@ -2,9 +2,9 @@
 import xml.etree.ElementTree as ET
 import requests
 import logging
-from constantes import logFileName
+from constantes import CRITICAL_LOG
 
-logging.basicConfig(filename=logFileName,level=logging.INFO)
+logging.basicConfig(filename=CRITICAL_LOG,level=logging.INFO)
 
 
 def parseAnnotation (lienUrl):
@@ -32,10 +32,14 @@ def parseAnnotation (lienUrl):
                 # extraire la valeur de l'attribut "id"
                 idMot = attributsMot.get("id")
                 listeID.append(idMot)
+        else:
+            message = "Le fichier {} d'annotation n'est pas structuré".format(lienUrl)
+            logging.error(message)
 
         return listeID
+
 """
-req = requests.get("https://cocoon.huma-num.fr/data/michaud/masters/crdo-NRU_F4_DEM_CL3.xml")
+req = requests.get("https://cocoon.huma-num.fr/data/jacques/masters/crdo-JYA_HIST-28-CAMWGDW.xml")
 print(req.status_code)
 if req.status_code !=200 and req.status_code != 201:
     print("ups")
@@ -60,5 +64,8 @@ else:
             # extraire la valeur de l'attribut "id"
             idMot = attributsMot.get("id")
             listeID.append(idMot)
+    else:
+        message = "Le fichier d'annotation https://cocoon.huma-num.fr/data/jacques/masters/crdo-JYA_HIST-28-CAMWGDW.xml n'est pas structuré"
+        logging.error(message)
     print(listeID)
 """
