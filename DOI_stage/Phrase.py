@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import logging
 from constantes import SCHEME_URI, logFileName
 
-logging.basicConfig(filename=logFileName,level=logging.INFO)
+logging.basicConfig(filename=CRITICAL_LOG,level=logging.INFO)
 
 
 
@@ -10,11 +10,6 @@ class Phrase:
     """
     Classe Phrase qui hérite de la classe Record
     """
-
-    #def __init__(self, id, doiPhrase, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url, lienAnnotation):
-    #    self.objetRecord.doiPhrase = doiPhrase
-     #   self.objetRecord.id = id
-     #   Record.__init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, valeurXmlLang, titresSecondaire, droits, contributeurs, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardinaux, url, lienAnnotation)
 
     def __init__(self, id, doiPhrase, objetRecord):
             self.doiPhrase = doiPhrase
@@ -129,7 +124,7 @@ class Phrase:
         with open("testURL_Phrase/" + self.objetRecord.identifiantPrincipal[21:]+"."+self.id +".txt", "w") as fichierUrlPhrase:
             url = "url= " + self.objetRecord.url + "/#/" + self.id
             doi = "doi= " + self.doiPhrase
-            fichierUrlPhrase.write(url + "\n" + doi)
+            fichierUrlPhrase.write(doi + "\n" + url)
 
         # vérifier que le fichier text est créé ou pas
         if "testURL_Phrase/" + self.objetRecord.identifiantPrincipal[21:]+"."+self.id +".txt":

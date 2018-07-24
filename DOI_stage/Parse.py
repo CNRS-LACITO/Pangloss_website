@@ -4,7 +4,7 @@ import re
 import logging
 
 
-logging.basicConfig(filename=logFileName,level=logging.INFO)
+logging.basicConfig(filename=CRITICAL_LOG,level=logging.INFO)
 
 def parserRecord (record):
         """

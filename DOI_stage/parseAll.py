@@ -5,7 +5,7 @@ from Parse import parserRecord
 import shutil
 from API_DataCite_Metadata import enregistrer_metadonneesRessource, enregistrer_metadonneesPhrase
 from API_DataCite_DOI import enregistrer_url_doiRessource, enregistrer_url_doiPhrase
-from constantes import NAMESPACES, logFileName
+from constantes import NAMESPACES, CRITICAL_LOG
 from parserAnnotation import parseAnnotation
 from Phrase import Phrase
 import logging
@@ -52,7 +52,7 @@ for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
     if fichier_textRessource:
         enregistrer_url_doiRessource(fichier_textRessource, objetRecord.identifiant)
 
-    """
+
     #---------------------------- PARSING ANNOTATION ---------------------#
 
     # extraire le lien url pour chaque fichier xml
@@ -86,7 +86,7 @@ for index, record in enumerate(root.findall(".//oai:record", NAMESPACES)):
     else:
         message = "La ressource {} ne contient pas de fichier d'annotations".format(objetRecord.identifiantPrincipal)
         logging.info(message)
-"""
+
     if index == 2:
         break
 
