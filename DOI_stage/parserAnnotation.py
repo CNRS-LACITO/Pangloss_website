@@ -8,6 +8,7 @@ logging.basicConfig(filename=CRITICAL_LOG,level=logging.INFO)
 
 
 def parseAnnotation (lienUrl):
+    type=""
     req = requests.get(lienUrl)
     if req.status_code !=200 and req.status_code != 201:
         message = "Le lien {} ne fonctionne pas".format(lienUrl)
@@ -17,6 +18,7 @@ def parseAnnotation (lienUrl):
         listeID = []
         #vérifier que la balise <S> existe
         if root.findall('.//S'):
+            type="sentence"
             #boucler sur chaque élément <S>
             for phrase in root.findall('.//S'):
                 #parser les attributs de la balise <S>
@@ -25,6 +27,7 @@ def parseAnnotation (lienUrl):
                 idPhrase = attributsPhrase.get("id")
                 listeID.append(idPhrase)
         elif root.findall('.//W'):
+            type = "word"
             #si la balise <S> n'existe pas, il faut parser la balise <W>
             for mot in root.findall('.//W'):
                 # parser les attributs de la balise <W>
@@ -36,7 +39,7 @@ def parseAnnotation (lienUrl):
             message = "Le fichier {} d'annotation n'est pas structuré".format(lienUrl)
             logging.error(message)
 
-        return listeID
+        return listeID, type
 
 """
 req = requests.get("https://cocoon.huma-num.fr/data/jacques/masters/crdo-JYA_HIST-28-CAMWGDW.xml")

@@ -12,7 +12,7 @@ class Record:
     La classe contient la methode generatorFichierUrlDoi qui construit le fichier text contenant le numero DOI et l'adresse url de la ressource
     """
 
-    def __init__(self, identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre,
+    def __init__(self, identifiant, identifiantOAI, publisherInstitution, format, annee, taille, titre,
                  codeXmlLangTitre, titresSecondaire, droits, contributeursDoi, droitAccess,
                  codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy,
                  requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac,
@@ -22,7 +22,7 @@ class Record:
         Il contient aussi des attributs d'objet qui va prendre des valeurs à la création de l'objet
         """
         self.identifiant = identifiant
-        self.identifiantPrincipal = identifiantPrincipal
+        self.identifiantOAI = identifiantOAI
         self.setSpec = "Linguistique"
         self.publisher = "Pangloss"
         self.publisherInstitution = publisherInstitution
@@ -62,8 +62,8 @@ class Record:
         """Fonction qui construit le fichier xml à partir des attributs de la classe Record"""
 
         racine = ET.Element("resource", xmlns="http://datacite.org/schema/kernel-4")
-        racineXmlns = racine.set("xmlns:xsi", "http://www.w3.org/2001/XMLSchema-instance")
-        racineXsi = racine.set("xsi:schemaLocation",
+        racine.set("xmlns:xsi", "http://www.w3.org/2001/XMLSchema-instance")
+        racine.set("xsi:schemaLocation",
                                "http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd")
 
         # l'identifiant DOI
@@ -71,7 +71,7 @@ class Record:
             identifier = ET.SubElement(racine, "identifier", identifierType="DOI")
             identifier.text = self.identifiant
         else:
-            message = "La balise IDENTIFIER pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
+            message = "La balise IDENTIFIER pour le record {} est obligatoire!!".format(self.identifiantOAI)
             logging.info(message)
 
         # les titres
@@ -82,7 +82,7 @@ class Record:
             if self.codeXmlLangTitre:
                 title.set("xml:lang", self.codeXmlLangTitre)
         else:
-            message = "La balise TITLE pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
+            message = "La balise TITLE pour le record {} est obligatoire!!".format(self.identifiantOAI)
             logging.info(message)
 
         if self.titresSecondaire:
@@ -142,7 +142,7 @@ class Record:
                     booleen = True
 
         if booleen == False:
-            message = "La balise CREATOR pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
+            message = "La balise CREATOR pour le record {} est obligatoire!!".format(self.identifiantOAI)
             logging.info(message)
 
         # laboratroire = role producteur
@@ -178,7 +178,7 @@ class Record:
             publicationYear = ET.SubElement(racine, "publicationYear")
             publicationYear.text = self.annee[:4]
         else:
-            message = "La balise PUBLICATIONYEAR pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
+            message = "La balise PUBLICATIONYEAR pour le record {} est obligatoire!!".format(self.identifiantOAI)
             logging.info(message)
 
         # la langue
@@ -220,7 +220,7 @@ class Record:
             resourceType = ET.SubElement(racine, "resourceType", resourceTypeGeneral=self.typeRessourceGeneral)
             resourceType.text = self.labelType
         else:
-            message = "La balise RESOURCETYPE pour le record {} est obligatoire!!".format(self.identifiantPrincipal)
+            message = "La balise RESOURCETYPE pour le record {} est obligatoire!!".format(self.identifiantOAI)
             logging.info(message)
 
         # les dates
@@ -232,10 +232,10 @@ class Record:
         alternateIdentifiers = ET.SubElement(racine, "alternateIdentifiers")
         alternateIdentifier = ET.SubElement(alternateIdentifiers, "alternateIdentifier",
                                             alternateIdentifierType="internal_ID")
-        alternateIdentifier.text = self.identifiantPrincipal
+        alternateIdentifier.text = self.identifiantOAI
         alternateIdentifier = ET.SubElement(alternateIdentifiers, "alternateIdentifier",
                                             alternateIdentifierType="PURL")
-        alternateIdentifier.text = PURL + self.identifiantPrincipal[21:]
+        alternateIdentifier.text = PURL + self.identifiantOAI[21:]
 
         if self.identifiant_Ark_Handle or self.isRequiredBy or self.requires or self.relatedIdPangloss:
             relatedIdentifiers = ET.SubElement(racine, "relatedIdentifiers")
@@ -357,23 +357,23 @@ class Record:
                 northBoundLatitude.text = self.pointCardinaux[3]
 
         tree = ET.ElementTree(racine)
-        tree.write("test/" + self.identifiantPrincipal[21:] + ".xml", encoding="UTF-8", xml_declaration=True,
+        tree.write("test/" + self.identifiantOAI[21:] + ".xml", encoding="UTF-8", xml_declaration=True,
                    default_namespace=None, method="xml")
 
         # vérifier que le fichier XML est créé ou pas
-        if "test/" + self.identifiantPrincipal[21:] + ".xml":
-            return "test/" + self.identifiantPrincipal[21:] + ".xml"
+        if "test/" + self.identifiantOAI[21:] + ".xml":
+            return "test/" + self.identifiantOAI[21:] + ".xml"
         else:
             return None
 
     def generatorFichierUrlDoi(self):
-        with open("testURL/" + self.identifiantPrincipal[21:] + ".txt", "w") as fichierUrl:
+        with open("testURL/" + self.identifiantOAI[21:] + ".txt", "w") as fichierUrl:
             url = "url= " + self.url
             doi = "doi= " + self.identifiant
             fichierUrl.write(doi + "\n" + url)
 
         # vérifier que le fichier text est créé ou pas
-        if "testURL/" + self.identifiantPrincipal[21:] + ".txt":
-            return "testURL/" + self.identifiantPrincipal[21:] + ".txt"
+        if "testURL/" + self.identifiantOAI[21:] + ".txt":
+            return "testURL/" + self.identifiantOAI[21:] + ".txt"
         else:
             return None

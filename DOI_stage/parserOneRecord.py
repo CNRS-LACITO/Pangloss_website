@@ -1,16 +1,18 @@
 # --------Parsing XML ------------------#
 import xml.etree.ElementTree as ET
-from constantes import NAMESPACES, DOI_Pangloss, DOI_TEST, EASTLING_PLAYER, SHOW_TEXT, SHOW_OTHER, IDREF
+from constantes import NAMESPACES, DOI_PANGLOSS, DOI_TEST, EASTLING_PLAYER, SHOW_TEXT, SHOW_OTHER, IDREF
 import re
 
 tree = ET.parse("lacito_1verif.xml")
 root = tree.getroot()
 
 # --------Parse.py header--------#
+for identifiant in root.findall('.//dc:identifier', NAMESPACES):
+    print (identifiant)
 
 if root.find('*/identifier') != None:
-    identifiantPrincipal = root.find('*/identifier').text
-    identifiant = DOI_TEST + identifiantPrincipal[21:]
+    identifiantOAI = root.find('*/identifier').text
+    identifiant = DOI_TEST + identifiantOAI[21:]
 
 else:
     identifiant = ""
@@ -198,7 +200,7 @@ for ressource in olac.findall('dcterms:requires', NAMESPACES):
     requires.append(ressource.text)
 print(requires)
 
-idPangloss = DOI_Pangloss
+idPangloss = DOI_PANGLOSS
 
 identifiant_Ark_Handle = []
 for identifiantAlternatif in olac.findall('dc:identifier', NAMESPACES):
@@ -329,17 +331,17 @@ for lieu in olac.findall('dcterms:spatial', NAMESPACES):
 
 url = ""
 if typeRessourceGeneral == "Audiovisual" or typeRessourceGeneral == "Sound":
-    url = SHOW_TEXT + identifiantPrincipal[21:]
+    url = SHOW_TEXT + identifiantOAI[21:]
 elif typeRessourceGeneral == "Text" and format[0] == "image" and requires:
     for lienRequires in requires:
         if "SOUND" not in lienRequires:
             url = EASTLING_PLAYER + lienRequires[21:]
 elif typeRessourceGeneral == "Text" and format[0] == "text" and requires:
     for lienRequires in requires:
-        url = SHOW_TEXT + lienRequires[21:] + IDREF + identifiantPrincipal[21:]
+        url = SHOW_TEXT + lienRequires[21:] + IDREF + identifiantOAI[21:]
 elif typeRessourceGeneral == "Text" and format[0] == "application" and requires:
     for lienRequires in requires:
-        url = SHOW_OTHER + lienRequires[21:] + IDREF + identifiantPrincipal[21:]
+        url = SHOW_OTHER + lienRequires[21:] + IDREF + identifiantOAI[21:]
 elif typeRessourceGeneral == "Collection":
     url = 'http://lacito.vjf.cnrs.fr/pangloss/index.html'
 
@@ -522,10 +524,10 @@ date.text = annee
 alternateIdentifiers = ET.SubElement(racine, "alternateIdentifiers")
 alternateIdentifier = ET.SubElement(alternateIdentifiers, "alternateIdentifier",
                                     alternateIdentifierType="internal_ID")
-alternateIdentifier.text = identifiantPrincipal
+alternateIdentifier.text = identifiantOAI
 alternateIdentifier = ET.SubElement(alternateIdentifiers, "alternateIdentifier",
                                     alternateIdentifierType="PURL")
-alternateIdentifier.text = "http://purl.org/poi/crdo.vjf.cnrs.fr/"+identifiantPrincipal[21:]
+alternateIdentifier.text = "http://purl.org/poi/crdo.vjf.cnrs.fr/"+identifiantOAI[21:]
 
 if identifiant_Ark_Handle or isRequiredBy or requires or idPangloss:
     relatedIdentifiers = ET.SubElement(racine, "relatedIdentifiers")
@@ -550,7 +552,7 @@ if requires:
 
 idPangloss = ET.SubElement(relatedIdentifiers, "relatedIdentifier", relatedIdentifierType="DOI",
                                       relationType="IsPartOf")
-idPangloss.text = DOI_Pangloss
+idPangloss.text = DOI_PANGLOSS
 
 if format:
     formats = ET.SubElement(racine, "formats")

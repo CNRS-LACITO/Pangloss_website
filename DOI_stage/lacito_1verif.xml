@@ -2,74 +2,43 @@
 <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
 <record>
     <header>
-        <identifier>oai:crdo.vjf.cnrs.fr:crdo-SRSR8_1_1_SOUND</identifier>
-        <datestamp>2017-06-06</datestamp>
+        <identifier>oai:crdo.vjf.cnrs.fr:crdo-MYA_003_ZHC_SOUND</identifier>
+        <datestamp>2015-05-07</datestamp>
         <setSpec>Lacito</setSpec>
-        <setSpec>LanguesDeFrance</setSpec>
         <setSpec>Linguistique</setSpec>
     </header>
     <metadata>
         <olac:olac xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:olac="http://www.language-archives.org/OLAC/1.1/" xsi:schemaLocation="http://www.language-archives.org/OLAC/1.1/ http://www.language-archives.org/OLAC/1.1/olac.xsd">
-            <dc:title xml:lang="fr">Mission en Nouvelle-Calédonie 2010: DVD 8 chapitre 1 partie 1</dc:title>
+            <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
             <dc:format xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:IMT">audio/x-wav</dc:format>
             <dc:type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:DCMIType">Sound</dc:type>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/SRSR8_1_1_22km.wav</dc:identifier>
-            <dc:rights>Copyright (c) Moyse-Faurie, Claire</dc:rights>
-            <dc:subject>Guerre</dc:subject>
-            <dc:subject>Arbres</dc:subject>
-            <dc:subject>Argent (monnaie)</dc:subject>
-            <dc:subject>Vêtements</dc:subject>
-            <dc:subject>Couture</dc:subject>
-            <dc:subject>Café</dc:subject>
-            <dc:subject>Agriculture</dc:subject>
-            <dc:subject>Animaux</dc:subject>
-            <dc:subject>Oiseaux</dc:subject>
-            <dc:subject>Roussettes (mammifères)</dc:subject>
-            <dc:subject>Habitations</dc:subject>
-            <dc:subject>Nouvelle-Calédonie -- Histoire</dc:subject>
-            <dc:subject>Nouvelle-Calédonie -- 1988 (Affaire d'Ouvéa)</dc:subject>
-            <dc:subject>Nouvelle-Calédonie -- 1984-1988 (Événements)</dc:subject>
-            <dc:subject>Religion</dc:subject>
-            <dc:subject>Famille</dc:subject>
-            <dc:subject>Écoles</dc:subject>
-            <dc:subject>Enseignement</dc:subject>
-            <dc:subject>Marchés</dc:subject>
-            <dc:subject>Langues -- Étude et enseignement</dc:subject>
-            <dc:subject>Xârâcùù (langue)</dc:subject>
-            <dc:subject>Perspective temporelle</dc:subject>
-            <dc:subject>Professions</dc:subject>
-            <dc:subject>Sports</dc:subject>
-            <dc:subject>Fruits</dc:subject>
-            <dc:type>Narration</dc:type>
-            <dc:type>Récits personnels</dc:type>
-            <dc:type>Dialogue</dc:type>
-            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Moyse-Faurie, Claire</dc:contributor>
-            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Moyse-Faurie, Claire</dc:contributor>
-            <dc:publisher>Laboratoire de langues et civilisations à tradition orale</dc:publisher>
+            <dc:contributor olac:code="speaker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">ZHC</dc:contributor>
+            <dc:contributor olac:code="depositor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Hnin Tun, San San</dc:contributor>
+            <dc:contributor olac:code="researcher" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Hnin Tun, San San</dc:contributor>
+            <dc:rights>Copyright (c) Hnin Tun, San San</dc:rights>
+            <dc:subject olac:code="mya" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Birman</dc:subject>
+            <dc:language olac:code="mya" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Birman</dc:language>
+            <dc:language olac:code="eng" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Anglais</dc:language>
+            <dc:title xml:lang="fr">En route pour les USA</dc:title>
             <dc:type olac:code="primary_text" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-type"/>
-            <dc:subject olac:code="text_and_corpus_linguistics" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:linguistic-field"/>
-            <dc:contributor olac:code="recorder" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Reynès, José</dc:contributor>
-            <dc:contributor olac:code="recorder" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Jorédié, Karl</dc:contributor>
-            <dc:contributor olac:code="sponsor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:role">Sorosoro</dc:contributor>
-            <dc:language olac:code="ane" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Xârâcùù</dc:language>
-            <dc:subject olac:code="ane" xml:lang="fr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:language">Xârâcùù</dc:subject>
-            <dcterms:isRequiredBy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-SRSR8_1_1</dcterms:isRequiredBy>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/SRSR8_1_1.mp3</dcterms:isFormatOf>
-            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/moyse-faurie/masters/SRSR8_1_1.wav</dcterms:isFormatOf>
-            <dcterms:extent>PT37M07S</dcterms:extent>
-            <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
-            <dcterms:license xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://creativecommons.org/licenses/by-nc-nd/2.5/</dcterms:license>
+            <dc:type olac:code="narrative" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="olac:discourse-type"/>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/hnin_tun/crdo-MYA_003_ZHC.wav</dc:identifier>
+            <dcterms:extent>PT41M54S</dcterms:extent>
+            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2010-03-11</dcterms:created>
+            <dcterms:isRequiredBy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-MYA_003_ZHC_IMG</dcterms:isRequiredBy>
+            <dcterms:spatial xml:lang="fr">Etats-Unis, Université de Cornell</dcterms:spatial>
+            <dcterms:alternative xml:lang="en">Casual conversation</dcterms:alternative>
             <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LACITO</dcterms:isPartOf>
-            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_LANGUESDEFRANCE</dcterms:isPartOf>
-            <dcterms:abstract xml:lang="fr">Le locuteur décrit les différentes conséquences de la colonisation européenne en Nouvelle-Calédonie et plus spécialement dans la région de Canala. Quatre points sont abordés : l'agriculture avec une description du banian « témoin des générations », les coutumes locales à travers la culture du café, les événements de 1884-1888, et en conclusion l'influence occidentale sur la jeunesse kanak.</dcterms:abstract>
-            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2017-02-10</dcterms:available>
-            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">NC</dcterms:spatial>
-            <dcterms:created xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Period">start=2010-10-08; end=2010-11-15</dcterms:created>
-            <dcterms:isPartOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">oai:crdo.vjf.cnrs.fr:crdo-COLLECTION_MFC1</dcterms:isPartOf>
-            <dcterms:medium>DVD</dcterms:medium>
-            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2017-06-06T18:46:35+02:00</dcterms:issued>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-767728</dc:identifier>
-            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.vuborg</dc:identifier>
+            <dcterms:accessRights>Freely available for non-commercial use</dcterms:accessRights>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/hnin_tun/crdo-MYA_003_ZHC.mp3</dcterms:isFormatOf>
+            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:ISO3166">US</dcterms:spatial>
+            <dcterms:isFormatOf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/data/hnin_tun/masters/crdo-MYA_003_ZHC.wav</dcterms:isFormatOf>
+            <dcterms:available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2015-02-26</dcterms:available>
+            <dcterms:issued xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:W3CDTF">2015-05-07T10:19:07+02:00</dcterms:issued>
+            <dcterms:spatial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:Point">east=-76.47; north=42.45</dcterms:spatial>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-498121</dc:identifier>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">http://hdl.handle.net/10670/1.3h4diw</dc:identifier>
+            <dc:identifier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="dcterms:URI">doi:10.5072/PANGLOSS-0000001</dc:identifier>
         </olac:olac>
     </metadata>
 </record>

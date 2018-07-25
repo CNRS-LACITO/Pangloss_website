@@ -1,32 +1,37 @@
 from Record import Record
-from constantes import NAMESPACES, DOI_TEST, SHOW_TEXT, IDREF, EASTLING_PLAYER, SHOW_OTHER, logFileName
+from constantes import NAMESPACES, DOI_TEST, SHOW_TEXT, IDREF, EASTLING_PLAYER, SHOW_OTHER, CRITICAL_LOG
 import re
 import logging
+import csv
+import os
 
 
 logging.basicConfig(filename=CRITICAL_LOG,level=logging.INFO)
 
-def parserRecord (record):
+def parserRecord (record, parameter):
         """
         Methode qui parse les éléments xml contenus dans la balise <record> du fichier metadata_cocoon.xml et récupère la valeur des attributs de l'objet
         :param record: les éléments contenus dans la balise <record>
         :type record: class 'xml.etree.ElementTree.Element'
-        :returns Objet contenant comme paramètres les noms des variables qui stockent les valeurs des attributs et des éléments
+        :param parameter : représente le mode d'execution du programme, soit add pour ajouter des ressources, soit update pour mise à jour
+        :type str
+        :return Objet contenant comme paramètres les noms des variables qui stockent les valeurs des attributs et des éléments
         :rtype: object
+
         """
+        doiIdentifiant = ""
+        for identifiant in record.findall('.//dc:identifier', NAMESPACES):
+            if "doi:" in identifiant.text:
+                doiIdentifiant = identifiant.text[4:]
 
         # --------Parse.py header--------#
-        identifiantPrincipal = ""
-        if record.find('*/oai:identifier', NAMESPACES) != None:
-            identifiantPrincipal = record.find('*/oai:identifier', NAMESPACES).text
-            identifiant = DOI_TEST + identifiantPrincipal[21:]
 
-        else:
-            identifiant = ""
-            # print("La balise identifiant n'existe pas")
+        identifiantOAI = ""
+        if record.find('*/oai:identifier', NAMESPACES) != None:
+            identifiantOAI = record.find('*/oai:identifier', NAMESPACES).text
+
 
         # --------Parse.py metadata-OLAC--------#
-
         olac = record.find('*/olac:olac', NAMESPACES)
 
         publisherInstitution = []
@@ -318,20 +323,24 @@ def parserRecord (record):
 
         url = ""
         if typeRessourceGeneral == "Audiovisual" or typeRessourceGeneral == "Sound":
-            url = SHOW_TEXT + identifiantPrincipal[21:]
+            url = SHOW_TEXT + identifiantOAI[21:]
         elif typeRessourceGeneral == "Text" and format[0] == "image" and requires:
             for lienRequires in requires:
                 if "SOUND" not in lienRequires:
                     url = EASTLING_PLAYER + lienRequires[21:]
         elif typeRessourceGeneral == "Text" and format[0] == "text" and requires:
             for lienRequires in requires:
-                url = SHOW_TEXT + lienRequires[21:] + IDREF + identifiantPrincipal[21:]
+                url = SHOW_TEXT + lienRequires[21:] + IDREF + identifiantOAI[21:]
         elif typeRessourceGeneral == "Text" and format[0] == "application" and requires:
             for lienRequires in requires:
-                url = SHOW_OTHER + lienRequires[21:] + IDREF + identifiantPrincipal[21:]
+                url = SHOW_OTHER + lienRequires[21:] + IDREF + identifiantOAI[21:]
         elif typeRessourceGeneral == "Collection":
             url = 'http://lacito.vjf.cnrs.fr/pangloss/index.html'
 
-
-        record_object = Record(identifiant, identifiantPrincipal, publisherInstitution, format, annee, taille, titre, codeXmlLangTitre, titresSecondaire, droits, contributeursDoi, droitAccess, codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)
+        record_object = Record(doiIdentifiant, identifiantOAI, publisherInstitution, format, annee, taille, titre,
+                               codeXmlLangTitre, titresSecondaire, droits, contributeursDoi, droitAccess, codeLangue,
+                               labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy, requires,
+                               identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere,
+                               descriptionsOlac, labelLieux, longitudeLatitude, pointCardiaux, url)
         return record_object
+

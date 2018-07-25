@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 import logging
-from constantes import SCHEME_URI, logFileName
+from constantes import CRITICAL_LOG
 
 logging.basicConfig(filename=CRITICAL_LOG,level=logging.INFO)
 
@@ -11,18 +11,19 @@ class Phrase:
     Classe Phrase qui hérite de la classe Record
     """
 
-    def __init__(self, id, doiPhrase, objetRecord):
+    def __init__(self, id, doiPhrase, affixe, objetRecord):
             self.doiPhrase = doiPhrase
             self.objetRecord = objetRecord
             self.id = id
+            self.affixe = affixe
 
     def build(self):
         """Fonction qui construit le fichier xml à partir des attributs de la classe Record"""
 
 
         racine = ET.Element("resource", xmlns="http://datacite.org/schema/kernel-4")
-        racineXmlns = racine.set("xmlns:xsi", "http://www.w3.org/2001/XMLSchema-instance")
-        racineXsi = racine.set("xsi:schemaLocation",
+        racine.set("xmlns:xsi", "http://www.w3.org/2001/XMLSchema-instance")
+        racine.set("xsi:schemaLocation",
                                "http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd")
 
         # l'identifiant DOI
@@ -52,18 +53,18 @@ class Phrase:
                     booleen = True
 
         if booleen == False:
-            message = "La balise CREATOR pour le record {} est obligatoire!!".format(self.objetRecord.identifiantPrincipal)
+            message = "La balise CREATOR pour le record {} est obligatoire!!".format(self.objetRecord.identifiantOAI)
             logging.info(message)
 
         # les titres
         if self.objetRecord.titre:
             titles = ET.SubElement(racine, "titles")
             title = ET.SubElement(titles, "title")
-            title.text = self.id + ':' + self.objetRecord.titre
+            title.text = self.affixe + ':' + self.objetRecord.titre
             if self.objetRecord.codeXmlLangTitre:
                 title.set("xml:lang", self.objetRecord.codeXmlLangTitre)
         else:
-            message = "La balise TITLE pour le record {} est obligatoire!!".format(self.objetRecord.identifiantPrincipal)
+            message = "La balise TITLE pour le record {} est obligatoire!!".format(self.objetRecord.identifiantOAI)
             logging.info(message)
 
         # le publisher
@@ -75,7 +76,7 @@ class Phrase:
             publicationYear = ET.SubElement(racine, "publicationYear")
             publicationYear.text = self.objetRecord.annee[:4]
         else:
-            message = "La balise PUBLICATIONYEAR pour le record {} est obligatoire!!".format(self.objetRecord.identifiantPrincipal)
+            message = "La balise PUBLICATIONYEAR pour le record {} est obligatoire!!".format(self.objetRecord.identifiantOAI)
             logging.info(message)
 
         # la langue
@@ -89,7 +90,7 @@ class Phrase:
             resourceType = ET.SubElement(racine, "resourceType", resourceTypeGeneral=self.objetRecord.typeRessourceGeneral)
             resourceType.text = self.objetRecord.labelType
         else:
-            message = "La balise RESOURCETYPE pour le record {} est obligatoire!!".format(self.objetRecord.identifiantPrincipal)
+            message = "La balise RESOURCETYPE pour le record {} est obligatoire!!".format(self.objetRecord.identifiantOAI)
             logging.info(message)
 
         alternateIdentifiers = ET.SubElement(racine, "alternateIdentifiers")
@@ -111,24 +112,24 @@ class Phrase:
         
 
         tree = ET.ElementTree(racine)
-        tree.write("testPhrase/" + self.objetRecord.identifiantPrincipal[21:] + "." + self.id + ".xml", encoding="UTF-8", xml_declaration=True, default_namespace=None, method="xml")
+        tree.write("testPhrase/" + self.objetRecord.identifiantOAI[21:] + "." + self.id + ".xml", encoding="UTF-8", xml_declaration=True, default_namespace=None, method="xml")
 
         # vérifier que le fichier XML est créé ou pas
-        if "testPhrase/" + self.objetRecord.identifiantPrincipal[21:]+"."+self.id+".xml":
-            return "testPhrase/" + self.objetRecord.identifiantPrincipal[21:]+ "." +self.id + ".xml"
+        if "testPhrase/" + self.objetRecord.identifiantOAI[21:]+"."+self.id+".xml":
+            return "testPhrase/" + self.objetRecord.identifiantOAI[21:]+ "." +self.id + ".xml"
         else:
             return None
 
 
     def generatorFichierUrlDoiPhrase(self):
-        with open("testURL_Phrase/" + self.objetRecord.identifiantPrincipal[21:]+"."+self.id +".txt", "w") as fichierUrlPhrase:
+        with open("testURL_Phrase/" + self.objetRecord.identifiantOAI[21:]+"."+self.id +".txt", "w") as fichierUrlPhrase:
             url = "url= " + self.objetRecord.url + "/#/" + self.id
             doi = "doi= " + self.doiPhrase
             fichierUrlPhrase.write(doi + "\n" + url)
 
         # vérifier que le fichier text est créé ou pas
-        if "testURL_Phrase/" + self.objetRecord.identifiantPrincipal[21:]+"."+self.id +".txt":
-            return "testURL_Phrase/" + self.objetRecord.identifiantPrincipal[21:]+"."+self.id +".txt"
+        if "testURL_Phrase/" + self.objetRecord.identifiantOAI[21:]+"."+self.id +".txt":
+            return "testURL_Phrase/" + self.objetRecord.identifiantOAI[21:]+"."+self.id +".txt"
         else:
             return None
 
