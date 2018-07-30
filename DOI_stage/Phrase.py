@@ -17,7 +17,7 @@ class Phrase:
             self.id = id
             self.affixe = affixe
 
-    def build(self):
+    def buildMetadataPhrase(self):
         """Fonction qui construit le fichier xml à partir des attributs de la classe Record"""
 
 

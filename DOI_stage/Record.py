@@ -12,16 +12,17 @@ class Record:
     La classe contient la methode generatorFichierUrlDoi qui construit le fichier text contenant le numero DOI et l'adresse url de la ressource
     """
 
-    def __init__(self, identifiant, identifiantOAI, publisherInstitution, format, annee, taille, titre,
+    def __init__(self, doiIdentifiant, identifiantOAI, publisherInstitution, format, annee, taille, titre,
                  codeXmlLangTitre, titresSecondaire, droits, contributeursDoi, droitAccess,
                  codeLangue, labelLangue, sujets, labelType, typeRessourceGeneral, isRequiredBy,
                  requires, identifiant_Ark_Handle, lienAnnotation, abstract, tableDeMatiere, descriptionsOlac,
                  labelLieux, longitudeLatitude, pointCardinaux, url):
-        """Constructeur de la classe Record.
+        """
+        Constructeur de la classe Record.
         Il contient des attributs avec des valeurs par défaut (setSpec, publisher, hostingInstitution)
         Il contient aussi des attributs d'objet qui va prendre des valeurs à la création de l'objet
         """
-        self.identifiant = identifiant
+        self.doiIdentifiant = doiIdentifiant
         self.identifiantOAI = identifiantOAI
         self.setSpec = "Linguistique"
         self.publisher = "Pangloss"
@@ -36,14 +37,12 @@ class Record:
         self.titre = titre
         self.codeXmlLangTitre = codeXmlLangTitre
         self.titresSecondaire = titresSecondaire
-        #self.codeXmlLangTitreSecond = codeXmlLangTitreSecond
         self.droits = droits
         self.contributeursDoi = contributeursDoi
         self.droitAccess = droitAccess
         self.codeLangue = codeLangue
         self.labelLangue = labelLangue
         self.sujets = sujets
-        #self.codeXmlLangLabel = codeXmlLangLabel
         self.labelType = labelType
         self.typeRessourceGeneral = typeRessourceGeneral
         self.isRequiredBy = isRequiredBy
@@ -67,9 +66,9 @@ class Record:
                                "http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd")
 
         # l'identifiant DOI
-        if self.identifiant:
+        if self.doiIdentifiant:
             identifier = ET.SubElement(racine, "identifier", identifierType="DOI")
-            identifier.text = self.identifiant
+            identifier.text = self.doiIdentifiant
         else:
             message = "La balise IDENTIFIER pour le record {} est obligatoire!!".format(self.identifiantOAI)
             logging.info(message)
@@ -369,7 +368,7 @@ class Record:
     def generatorFichierUrlDoi(self):
         with open("testURL/" + self.identifiantOAI[21:] + ".txt", "w") as fichierUrl:
             url = "url= " + self.url
-            doi = "doi= " + self.identifiant
+            doi = "doi= " + self.doiIdentifiant
             fichierUrl.write(doi + "\n" + url)
 
         # vérifier que le fichier text est créé ou pas

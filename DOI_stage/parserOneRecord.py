@@ -7,6 +7,9 @@ tree = ET.parse("lacito_1verif.xml")
 root = tree.getroot()
 
 # --------Parse.py header--------#
+if root.find('*/identifier', NAMESPACES).text == "oai:crdo.vjf.cnrs.fr:crdo-dtd_archive":
+    print("la dtd est là")
+
 for identifiant in root.findall('.//dc:identifier', NAMESPACES):
     print (identifiant)
 
@@ -350,7 +353,7 @@ print(url)
 # --------Building XML ------------------#
 
 racine = ET.Element("resource", xmlns="http://datacite.org/schema/kernel-4")
-racineXmlns = racine.set ("xmlns:xsi", "http://www.w3.org/2001/XMLSchema-instance")
+racineXmlns = racine.set("xmlns:xsi", "http://www.w3.org/2001/XMLSchema-instance")
 racineXsi = racine.set("xsi:schemaLocation", "http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd")
 
 # l'identifiant DOI

@@ -13,6 +13,7 @@ def parseAnnotation (lienUrl):
     if req.status_code !=200 and req.status_code != 201:
         message = "Le lien {} ne fonctionne pas".format(lienUrl)
         logging.error(message)
+        print(message)
     else:
         root = ET.fromstring(req.text)
         listeID = []
@@ -41,8 +42,8 @@ def parseAnnotation (lienUrl):
 
         return listeID, type
 
-"""
-req = requests.get("https://cocoon.huma-num.fr/data/jacques/masters/crdo-JYA_HIST-28-CAMWGDW.xml")
+    """
+req = requests.get("http://cocoon.huma-num.fr/data/michaud/masters/nxq/crdo-NXQ_F1_ORIGIN.xml")
 print(req.status_code)
 if req.status_code !=200 and req.status_code != 201:
     print("ups")
@@ -68,7 +69,8 @@ else:
             idMot = attributsMot.get("id")
             listeID.append(idMot)
     else:
-        message = "Le fichier d'annotation https://cocoon.huma-num.fr/data/jacques/masters/crdo-JYA_HIST-28-CAMWGDW.xml n'est pas structuré"
+        message = "Le fichier d'annotation n'est pas structuré"
         logging.error(message)
     print(listeID)
-"""
+    
+    """

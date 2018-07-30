@@ -1,2 +1,2 @@
-doi= 10.5072/PANGLOSS-0000013
+doi= 10.5072/PANGLOSS-0000012
 url= http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-TYJ_EFEO_MS_TH9_COMREAD5_SOUND

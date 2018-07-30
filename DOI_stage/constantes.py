@@ -1,3 +1,4 @@
+PARSE_FILE= "metadata_cocoon.xml"
 NAMESPACES = {
             "dc": "http://purl.org/dc/elements/1.1/",
             "dcterms": "http://purl.org/dc/terms/",
@@ -5,10 +6,7 @@ NAMESPACES = {
             "xsi": "http://www.w3.org/2001/XMLSchema-instance",
             "oai": "http://www.openarchives.org/OAI/2.0/"
         }
-#NAMESPACES_DOI = {"http://datacite.org/schema/kernel-4""
-#                  "http://www.w3.org/2001/XMLSchema-instance"
-#                  "http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd"}
-DOI_TEST = "10.5072/PANGLOSS-"
+DOI_PREFIX = "10.5072/PANGLOSS-"
 SHOW_TEXT = "http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id="
 IDREF = "&idref="
 SHOW_OTHER = "http://lacito.vjf.cnrs.fr/pangloss/corpus/show_other.php?id="

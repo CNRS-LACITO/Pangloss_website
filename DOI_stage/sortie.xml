@@ -1,2 +1,95 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd"><identifier identifierType="DOI">10.5072/PANGLOSS-crdo-MYA_003_ZHC_SOUND</identifier><titles><title xml:lang="fr">En route pour les USA</title><title xml:lang="en">Casual conversation</title></titles><creators><creator><creatorName nameType="Personal">Hnin Tun, San San</creatorName></creator></creators><contributors><contributor contributorType="Other"><contributorName nameType="Personal">ZHC</contributorName></contributor><contributor contributorType="ContactPerson"><contributorName nameType="Personal">Hnin Tun, San San</contributorName></contributor><contributor contributorType="Researcher"><contributorName nameType="Personal">Hnin Tun, San San</contributorName></contributor><contributor contributorType="Producer"><contributorName nameType="Organizational">Laboratoire de langues et civilisations à tradition orale</contributorName></contributor><contributor contributorType="HostingInstitution"><contributorName nameType="Organizational">COllections de COrpus Oraux Numériques</contributorName></contributor><contributor contributorType="HostingInstitution"><contributorName nameType="Organizational">Huma-Num</contributorName></contributor><contributor contributorType="HostingInstitution"><contributorName nameType="Organizational">Langues et Civilisations à Tradition Orale</contributorName></contributor><contributor contributorType="HostingInstitution"><contributorName nameType="Organizational">Centre Informatique National de l'Enseignement Supérieur</contributorName></contributor><contributor contributorType="RightsHolder"><contributorName>Hnin Tun, San San</contributorName></contributor></contributors><rightsList><rights>Freely available for non-commercial use</rights></rightsList><publisher>Pangloss</publisher><publicationYear>2015</publicationYear><language>mya</language><subjects><subject>Linguistique</subject><subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="OLAC" xml:lang="fr">Birman</subject></subjects><resourceType resourceTypeGeneral="Sound">narrative</resourceType><dates><date dateType="Available">2015-02-26</date></dates><alternateIdentifiers><alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-MYA_003_ZHC_SOUND</alternateIdentifier><alternateIdentifier alternateIdentifierType="PURL">http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-MYA_003_ZHC_SOUND</alternateIdentifier></alternateIdentifiers><relatedIdentifiers><relatedIdentifier relatedIdentifierType="ARK" relationType="IsIdenticalTo">http://cocoon.huma-num.fr/exist/crdo/ark:/87895/1.17-498121</relatedIdentifier><relatedIdentifier relatedIdentifierType="Handle" relationType="IsIdenticalTo">http://hdl.handle.net/10670/1.3h4diw</relatedIdentifier><relatedIdentifier relatedIdentifierType="PURL" relationType="IsRequiredBy">http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-MYA_003_ZHC_IMG</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5072/Pangloss</relatedIdentifier></relatedIdentifiers><formats><format>audio</format><format>x-wav</format></formats><sizes><size>PT41M54S</size></sizes><geoLocations><geoLocation><geoLocationPlace>Etats-Unis, Université de Cornell</geoLocationPlace><geoLocationPoint><pointLongitude>-76.47</pointLongitude><pointLatitude>42.45</pointLatitude></geoLocationPoint></geoLocation></geoLocations></resource>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+    <identifier identifierType="DOI">10.5072/PANGLOSS-crdo-TYJ_IDIOMS_page1_IMG</identifier>
+    <titles>
+        <title xml:lang="en">Reading of Tai Yo idioms and proverbs</title>
+        <title xml:lang="fr">Lecture de dictons et proverbes</title>
+        <title xml:lang="vn">Đọc thành ngữ và tục ngữ tiếng Thái Do</title>
+    </titles>
+    <creators>
+        <creator>
+            <creatorName nameType="Personal">Michaud, Alexis</creatorName>
+        </creator>
+    </creators>
+    <contributors>
+        <contributor contributorType="ContactPerson">
+            <contributorName nameType="Personal">Michaud, Alexis</contributorName>
+        </contributor>
+        <contributor contributorType="Researcher">
+            <contributorName nameType="Personal">Michaud, Alexis</contributorName>
+        </contributor>
+        <contributor contributorType="Other">
+            <contributorName nameType="Personal">Vi, Khăm Mun</contributorName>
+        </contributor>
+        <contributor contributorType="DataCollector">
+            <contributorName nameType="Personal">Ferlus, Michel</contributorName>
+        </contributor>
+        <contributor contributorType="Sponsor">
+            <contributorName>Centre national de la recherche scientifique</contributorName>
+        </contributor>
+        <contributor contributorType="Producer">
+            <contributorName nameType="Organizational">Laboratoire de langues et civilisations à tradition orale
+            </contributorName>
+        </contributor>
+        <contributor contributorType="HostingInstitution">
+            <contributorName nameType="Organizational">COllections de COrpus Oraux Numériques</contributorName>
+        </contributor>
+        <contributor contributorType="HostingInstitution">
+            <contributorName nameType="Organizational">Huma-Num</contributorName>
+        </contributor>
+        <contributor contributorType="HostingInstitution">
+            <contributorName nameType="Organizational">Langues et Civilisations à Tradition Orale</contributorName>
+        </contributor>
+        <contributor contributorType="HostingInstitution">
+            <contributorName nameType="Organizational">Centre Informatique National de l'Enseignement Supérieur
+            </contributorName>
+        </contributor>
+        <contributor contributorType="RightsHolder">
+            <contributorName>Ferlus, Michel</contributorName>
+        </contributor>
+    </contributors>
+    <rightsList>
+        <rights>Freely available for non-commercial use</rights>
+    </rightsList>
+    <publisher>Pangloss</publisher>
+    <publicationYear>2017</publicationYear>
+    <language>tyj</language>
+    <subjects>
+        <subject>Linguistique</subject>
+        <subject schemeURI="http://search.language-archives.org/index.html" subjectScheme="OLAC">Tai Yo</subject>
+    </subjects>
+    <resourceType resourceTypeGeneral="Text">(:unkn)</resourceType>
+    <dates>
+        <date dateType="Available">2017-06-26</date>
+    </dates>
+    <alternateIdentifiers>
+        <alternateIdentifier alternateIdentifierType="internal_ID">oai:crdo.vjf.cnrs.fr:crdo-TYJ_IDIOMS_page1_IMG
+        </alternateIdentifier>
+        <alternateIdentifier alternateIdentifierType="PURL">
+            http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-TYJ_IDIOMS_page1_IMG
+        </alternateIdentifier>
+    </alternateIdentifiers>
+    <relatedIdentifiers>
+        <relatedIdentifier relatedIdentifierType="PURL" relationType="Requires">
+            http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-TYJ_1487000245480
+        </relatedIdentifier>
+        <relatedIdentifier relatedIdentifierType="PURL" relationType="Requires">
+            http://purl.org/poi/crdo.vjf.cnrs.fr/crdo-TYJ_IDIOMS_SOUND
+        </relatedIdentifier>
+        <relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5072/Pangloss</relatedIdentifier>
+    </relatedIdentifiers>
+    <formats>
+        <format>image</format>
+        <format>jpeg</format>
+    </formats>
+    <geoLocations>
+        <geoLocation>
+            <geoLocationPlace>Tương Dương, Nghệ An, Việt Nam</geoLocationPlace>
+            <geoLocationPoint>
+                <pointLongitude>104.6496727</pointLongitude>
+                <pointLatitude>19.2909151</pointLatitude>
+            </geoLocationPoint>
+        </geoLocation>
+    </geoLocations>
+</resource>
