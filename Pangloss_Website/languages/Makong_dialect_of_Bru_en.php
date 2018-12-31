@@ -279,9 +279,9 @@ narratives</small></td>
                   <small>(Brou;
 Bru; B'ru; Baru; Brou; S&ocirc;)</small></td>
                   <td
- style="background-color: rgb(255, 255, 255); text-align: center;"><!--<a
+ style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc_en.php?lg=Bru" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a>--><i>Coming soon</i></td>
+ src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Bru
 is a <span style="font-style: italic;">Katuic
 language</span> of the Austroasiatic
@@ -323,9 +323,9 @@ Bru</a> (<span style="font-style: italic;">Ethnologue</span>)<br>
                   <small>(Khamet;
 Lamet; Xmet)</small></td>
                   <td
- style="background-color: rgb(255, 255, 255); text-align: center;"><!--<a
+ style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc_en.php?lg=Rmet" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a>--><i>Coming soon</i></td>
+ src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Rmet
 is a <span style="font-style: italic;">Palaungic/Palaung-Wa
 language</span> of the Austroasiatic

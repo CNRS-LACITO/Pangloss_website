@@ -274,10 +274,9 @@ r&eacute;cits</small></td>
                   </div>
                   <small>(Brou;
 Bru; B'ru; Baru; Brou; S&ocirc;)</small></td>
-                  <td
- style="background-color: rgb(255, 255, 255); text-align: center;"><!--<a
+                  <td style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc.php?lg=Bru" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a>--><i>En cours de traitement</i></td>
+ src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Katuic</span></small></td>
                   <td
@@ -316,10 +315,10 @@ Bru</a> (<span style="font-style: italic;">Ethnologue</span>)<br>
                   </div>
                   <small>(Khamet;
 Lamet; Xmet)</small></td>
-                  <td
- style="background-color: rgb(255, 255, 255); text-align: center;"><!--<a
- href="../corpus/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a>--><i>En cours de traitement</i></td>
+<td
+ style="background-color: rgb(255, 255, 255); text-align: center;"><a
+ href="../corpus/list_rsc.php?lg=Rmet" target="_blank"><img
+ src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Palaungic/Palaung-Wa&nbsp;</span></small></td>
                   <td
