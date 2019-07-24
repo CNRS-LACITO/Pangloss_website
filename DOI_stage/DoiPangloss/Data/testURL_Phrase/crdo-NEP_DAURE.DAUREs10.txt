@@ -1,2 +1,0 @@
-doi= 10.5072/PANGLOSS-0000022.S1
-url= http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NEP_DAURE_SOUND&idref=crdo-NEP_DAURE/#/DAUREs10

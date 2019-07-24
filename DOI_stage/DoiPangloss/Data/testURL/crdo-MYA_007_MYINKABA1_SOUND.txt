@@ -1,2 +1,0 @@
-doi= 10.5072/PANGLOSS-0000009
-url= http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-MYA_007_MYINKABA1_SOUND
