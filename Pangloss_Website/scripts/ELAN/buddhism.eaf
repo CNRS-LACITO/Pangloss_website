@@ -1,0 +1,2803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2009-04-20T10:14:27-08:00" FORMAT="2.6" VERSION="2.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.6.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///V:/Text files/UBRS_buddhism_narrative/nr_k_09Feb25_ubrs.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="file:/./nr_k_09Feb25_ubrs.wav"/>
+        <PROPERTY NAME="lastUsedAnnotationId">519</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="51780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="51780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="53680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="53690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="53690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="55310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="55310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="55320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="60450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="60460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="62790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="62800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="62800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="66520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="66520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="66530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="66530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="68840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="68840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="68840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="68850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="68850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="71150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="71150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="71160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="71160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="74340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="74350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="76360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="76370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="77330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="77340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="79600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="79610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="81610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="81620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="81620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="85050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="85050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="85060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="86280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="86290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="88330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="88330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="88340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="93240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="93250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="93250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="97010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="97020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="97020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="100880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="100880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="100890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="103150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="103160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="103170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="103170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="107320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="107330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="107920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="107930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="109640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="109650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="111880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="111890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="114750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="114760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="116900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="116910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="116920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="116920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="120080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="120080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="120860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="120860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="122690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="123140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="126500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="126510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="126970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="126980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="129020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="129020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="129980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="129980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="130540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="130540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="133020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="133020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="133050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="133050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="135620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="135630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="137640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="137650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="137660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="137680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="139351"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="139360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="141290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="141290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="143450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="143450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="144640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="144640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="144641"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="144650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="145610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="145610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="148650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="148650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="148660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="148660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="150680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="150710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="152550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="152550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="154020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="154030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="154030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="154070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="155750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="155760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="156321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="156330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="157400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="157400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="158510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="158510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="162370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="162380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="162400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="162430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="164881"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="164900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="165540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="165580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="167870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="167870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="167870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="167880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="169490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="169490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="170670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="170680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="173190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="173190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="174150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="174150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="178121"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="178121"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="text" TIER_ID="Dzala Sentence">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>guru rinpoche ... ǝm níke-raŋ ǝm ǝm ... guru rinpoche mà ... truŋsa ŋòma mà gyegar lhòchok ... lho -- .. gyegar lhòchok manali tsho pema ɲèkhala hine ɲèkse.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>chi tsho pemake bese chi juke:  ǝ ǝ:  guru rinpoche chi bökha gyelpo soŋtse gampo böku soŋtsen gampogi chi bökha yà lhase-- .. lhasa samye ʒenmaku chidule yà bökha dendeʒune</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>chike: yà bökha gelpo soŋtsen gampogi yà bökha lhasa samye samye potala ʒeŋmaku chidule yà chi ràmne:kha yà guru rinpoche dendeʒu hine ɲèkse</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>chike: yàr ʒuse chike: bökha lhasa samye ʒeŋ ràmne: náŋ tsho lhasa samye lhasa samye ʒeŋmaku chidule yà guru rinpoche dendeʒune</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>chi lhasa samye ʒeŋ-puliŋ chi dü tiŋ chi dre: lhamasin dege:naŋgi ʒeŋ mathau namesame, chi tho: guru rinpoche yà: jonse guru rinpochegi ramne:naŋ
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE>chi guru rinpochegi umu beseke chi ə: chike guru rinpochegi ramne:naŋseke thumonnanseke
+: </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts97">
+                <ANNOTATION_VALUE>chi umunaŋ tsharseke chi lhasa samye namesame liku bese ʒente
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts107">
+                <ANNOTATION_VALUE>chike lhamasin dege:dre umala-naŋ-gi chi thoŋ-u hine maŋʃe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts111">
+                <ANNOTATION_VALUE>ɲante mi-i thoŋ sente mànʃe bera=i thoŋ be-se chi lhasa samye ʒeŋ ràmne: náŋ
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts119">
+                <ANNOTATION_VALUE>chi bö-kha chike: ə: bö-ku mì-naŋ yónka chö=le tsut</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts131">
+                <ANNOTATION_VALUE>chi bon-ku chö mono-u cö chi chö suŋ chike: mì-naŋ ya kor- ə: dre tiŋ dü-naŋ yónka tü
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts139">
+                <ANNOTATION_VALUE>chi ya böke màra jonse chi ə: chi böke mara bese druk bumthaŋ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts151">
+                <ANNOTATION_VALUE>chike druk troŋsa drukku sacha màŋyodzop the nèŋa darum guru rinpochegi dö tiŋ umunaŋ ŋám ne ɲekse tüte jonse chi yónka chöle tshut.
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="text" TIER_ID="Dzala IU">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>guru rinpoche ... ǝm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>níke-raŋ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>ǝm ǝm ... guru rinpoche mà ... truŋsa ŋòma</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>mà gyegar lhòchok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>... lho -- .. gyegar lhòchok manali</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>tsho pema ɲè-khala hine ɲèk-se</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>... hine</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>chi tsho pema=ke be-se chi juke:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>ǝ ǝ:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>guru rinpoche</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>chi bö=kha gyelpo soŋtsen gampo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>bö=ku gyelpo soŋtsen gampo=gi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>chi bö=kha yà lhase-- .. lhasa samye ʒen-ma=ku</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>chidule</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>yà bö=kha dendeʒu-ne</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>chike: yà bö=kha gelpo soŋtsen gampo=gi yà bö=kha lhasa samye</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>samye potala ʒeŋ-ma=ku chidule yà chi yà ràmne:=kha</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>yà guru rinpoche dendeʒu hine ɲèk-se</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>chike: yàr ʒu-se chike: bö=kha lhasa samye</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>ʒeŋ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>ràmne: náŋ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>tsho lhasa samye  ǝm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>lhasa samye ʒeŋ-ma-ku chidule yà</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>guru rinpoche dendeʒu-ne</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>chi lhasa samye ʒeŋ-puliŋ chi dü tiŋ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>chi dre</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>lhamasin dege:-naŋ=gi ʒeŋ ma-tha-u</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
+                <ANNOTATION_VALUE>namesame chi tho: guru rinpoche yà: jon-se guru rinpoche=gi ramne: naŋ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>chi guru rinpoche=gi umu be-se=ke chi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>ə:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>chike</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>guru rinpoche=gi ramne: naŋ-se=ke thumon naŋ-se=ke
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>chi umu-naŋ tshar-se=ke chi:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>lhasa samye namesame liku be-se ʒen-te</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE>chike lhamasin</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
+                <ANNOTATION_VALUE>dege dre umulanaŋgi chi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
+                <ANNOTATION_VALUE>t- ə:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
+                <ANNOTATION_VALUE>thoŋ-u hine maŋʃe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts109">
+                <ANNOTATION_VALUE>ɲante mi=i thoŋ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>sente mànʃe bera=i thoŋ be-se chi lhasa samye ʒeŋ ràmne: náŋ 
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
+                <ANNOTATION_VALUE>chi bö=kha chike:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
+                <ANNOTATION_VALUE>ə: bö=ku mì</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>naŋ yónka chö=le tsut</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts123">
+                <ANNOTATION_VALUE>chi bon=ku chö mono-u cö
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+                <ANNOTATION_VALUE>chö suŋ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+                <ANNOTATION_VALUE>chike:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>mìnaŋ ya kor- ə: dre tiŋ dünaŋ yónka tü
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
+                <ANNOTATION_VALUE>chi ya böke màra jonse chi ə:</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>böke mara bese ki druk bumthaŋ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts143">
+                <ANNOTATION_VALUE>chike druk troŋsa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
+                <ANNOTATION_VALUE>drukku sacha</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
+                <ANNOTATION_VALUE>màŋyodzop the nèŋa darum guru rinpochegi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
+                <ANNOTATION_VALUE>dö tiŋ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>umu-naŋ ŋám ne ɲek-se.
+
+tü-te jon-se chi yónka chö=le tshut.
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="text" TIER_ID="Transcriber Notes">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Kunlay translated níkeraŋ as 'before I tell the rest'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Manali is a placename</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Kunlay translates ɲè-khala as 'called', but does not know a meaning for -khala; may be lexicalized</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>Lhasa Samye is a place about 2 hours from Lhasa, known for its large temple complex.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>This stretch is untranscribed, as it contains conversation in English and is not part of the story.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>potala refers to the Potala Palace in Lhasa, Tibet, which is the historical residence of the Dalai Lama.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="timed_chunk" PARENT_REF="Dzala Sentence" TIER_ID="Dzala Clause"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation" PARENT_REF="Dzala Sentence" TIER_ID="English Free Translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Guru Rinpoche was born down in India south near Manali, at a place called Tsho Pema (Lotus Lake).</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>So later Guru Rinpoche was invited by King Songtsen Gampo to Tibet from Tsho Pema (Lotus Lake) to build Lhasa Samye.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>King Songtsen Gampo invited Guru Rinpoche to Lhasa Samye for a ceremony to build the Potala Palace.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Since Guru Rinpoche was invited to Tibet, Lhasa Samye was built, the ceremony was performed, and so he had been invited to build Lhasa Samye.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>So while Lhasa Samye was built, the demons, ghosts, asura and local dieties did not allow Lhasa Same to be built much, so over there, after Guru Rinpoche arrived, (he) gave the ceremony.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>After (since) Guru Rinpoche arrived there and did the eremony, then Guru Rinpoche performed the ceremony and gave a positive dedication for others. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Those were finished and (people) were able to build Lhasa Samye well.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>So asura, local deity, ghost, those built more.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>During the day time, people built, and during the night time, they built more, and then Lhasa Samye was built and ceremony was performed.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>In Tibet,(he=GR) made all Tibetan people  into Buddhists (lit. (he) put dharma into all Tibetan people.) </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>So he destroyed the Bon teachings (lit. he made the Bon teachings non existant), and (he) taught the dharma (to Tibetan people) and (he) made all the ghosts and spirits good, calm and peaceful.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>So he traveled down from up in Tibet to Bumthang in Bhutan. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>And Trongsa in Bhutan, Bhutan's places, in many places, (they say) there were ghosts and the like, and again, Guru Rinpoche arrived and converted all of them to Dharma.  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="chunk" PARENT_REF="Dzala IU" TIER_ID="Dzala Words and Morphemes">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>guru rinpoche</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a90">
+                <ANNOTATION_VALUE>... ǝm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>níke-raŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ǝm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a17" PREVIOUS_ANNOTATION="a93">
+                <ANNOTATION_VALUE>ǝm ... </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a17" PREVIOUS_ANNOTATION="a94">
+                <ANNOTATION_VALUE>guru rinpoche</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a17" PREVIOUS_ANNOTATION="a95">
+                <ANNOTATION_VALUE>mà</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a17" PREVIOUS_ANNOTATION="a96">
+                <ANNOTATION_VALUE>truŋsa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a17" PREVIOUS_ANNOTATION="a97">
+                <ANNOTATION_VALUE>ŋóma</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>mà</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a18" PREVIOUS_ANNOTATION="a99">
+                <ANNOTATION_VALUE>gyegar</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a18" PREVIOUS_ANNOTATION="a100">
+                <ANNOTATION_VALUE>lhòchok</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>... lho -- ..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a19" PREVIOUS_ANNOTATION="a102">
+                <ANNOTATION_VALUE>gyegar</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a19" PREVIOUS_ANNOTATION="a103">
+                <ANNOTATION_VALUE>lhòchok</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a19" PREVIOUS_ANNOTATION="a104">
+                <ANNOTATION_VALUE>manali</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>tsho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a106">
+                <ANNOTATION_VALUE>pema</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a107">
+                <ANNOTATION_VALUE>ɲè-khala</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a108">
+                <ANNOTATION_VALUE>hine</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a109">
+                <ANNOTATION_VALUE>ɲèk-se</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>... hine</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a22" PREVIOUS_ANNOTATION="a112">
+                <ANNOTATION_VALUE>tsho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a22" PREVIOUS_ANNOTATION="a113">
+                <ANNOTATION_VALUE>pema=ke</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a22" PREVIOUS_ANNOTATION="a114">
+                <ANNOTATION_VALUE>be-se</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a22" PREVIOUS_ANNOTATION="a115">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a22" PREVIOUS_ANNOTATION="a116">
+                <ANNOTATION_VALUE>juke:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>ǝ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a118">
+                <ANNOTATION_VALUE>ǝ:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>guru rinpoche</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a25" PREVIOUS_ANNOTATION="a121">
+                <ANNOTATION_VALUE>bö=kha</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a25" PREVIOUS_ANNOTATION="a122">
+                <ANNOTATION_VALUE>gyelpo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a25" PREVIOUS_ANNOTATION="a123">
+                <ANNOTATION_VALUE>soŋtsen gampo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>bö=ku</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a125">
+                <ANNOTATION_VALUE>gyelpo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a126">
+                <ANNOTATION_VALUE>soŋtsen gampo=gi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a128">
+                <ANNOTATION_VALUE>bö=kha</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a129">
+                <ANNOTATION_VALUE>yà</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a130">
+                <ANNOTATION_VALUE>lhase-- ..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a131">
+                <ANNOTATION_VALUE>lhasa samye</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a132">
+                <ANNOTATION_VALUE>ʒen-ma=ku</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>chidule</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>yà</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a135">
+                <ANNOTATION_VALUE>bö=kha</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a136">
+                <ANNOTATION_VALUE>dendeʒu-ne</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>chike:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a138">
+                <ANNOTATION_VALUE>yà</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a139">
+                <ANNOTATION_VALUE>bö=kha</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a140">
+                <ANNOTATION_VALUE>gelpo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a141">
+                <ANNOTATION_VALUE>soŋtsen gampo=gi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a142">
+                <ANNOTATION_VALUE>yà</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a143">
+                <ANNOTATION_VALUE>bö=kha</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a144">
+                <ANNOTATION_VALUE>lhasa samye</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>samye</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a146">
+                <ANNOTATION_VALUE>potala</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a147">
+                <ANNOTATION_VALUE>ʒeŋ-ma=ku</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a148">
+                <ANNOTATION_VALUE>chidule</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a149">
+                <ANNOTATION_VALUE>yà</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a150">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a151">
+                <ANNOTATION_VALUE>yà</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a152">
+                <ANNOTATION_VALUE>ràmne:=kha</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>yà</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a32" PREVIOUS_ANNOTATION="a154">
+                <ANNOTATION_VALUE>guru rinpoche</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a32" PREVIOUS_ANNOTATION="a155">
+                <ANNOTATION_VALUE>dendeʒu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a32" PREVIOUS_ANNOTATION="a156">
+                <ANNOTATION_VALUE>hine</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a32" PREVIOUS_ANNOTATION="a157">
+                <ANNOTATION_VALUE>ɲèk-se</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>chike:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a33" PREVIOUS_ANNOTATION="a159">
+                <ANNOTATION_VALUE>yàr</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a33" PREVIOUS_ANNOTATION="a160">
+                <ANNOTATION_VALUE>ʒu-se</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a33" PREVIOUS_ANNOTATION="a161">
+                <ANNOTATION_VALUE>chike:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a33" PREVIOUS_ANNOTATION="a162">
+                <ANNOTATION_VALUE>bö=kha</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a33" PREVIOUS_ANNOTATION="a163">
+                <ANNOTATION_VALUE>lhasa samye</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>ʒeŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>ràmne:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a35" PREVIOUS_ANNOTATION="a166">
+                <ANNOTATION_VALUE>náŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>tsho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a168">
+                <ANNOTATION_VALUE>lhasa samye</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a169">
+                <ANNOTATION_VALUE>ǝm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>lhasa samye</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a37" PREVIOUS_ANNOTATION="a171">
+                <ANNOTATION_VALUE>ʒeŋ-ma=ku</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a37" PREVIOUS_ANNOTATION="a172">
+                <ANNOTATION_VALUE>chidule</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a37" PREVIOUS_ANNOTATION="a173">
+                <ANNOTATION_VALUE>yà</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>guru rinpoche</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a175">
+                <ANNOTATION_VALUE>dendeʒu-ne</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a39" PREVIOUS_ANNOTATION="a177">
+                <ANNOTATION_VALUE>lhasa samye</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a39" PREVIOUS_ANNOTATION="a178">
+                <ANNOTATION_VALUE>zheŋ-puliŋ
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a39" PREVIOUS_ANNOTATION="a179">
+                <ANNOTATION_VALUE>chi
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a39" PREVIOUS_ANNOTATION="a180">
+                <ANNOTATION_VALUE>dü</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a39" PREVIOUS_ANNOTATION="a181">
+                <ANNOTATION_VALUE>tiŋ
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>chi
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a40" PREVIOUS_ANNOTATION="a183">
+                <ANNOTATION_VALUE>dre
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>lhamasin</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a41" PREVIOUS_ANNOTATION="a185">
+                <ANNOTATION_VALUE>dege:-naŋ=gi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a41" PREVIOUS_ANNOTATION="a186">
+                <ANNOTATION_VALUE>ʒeŋ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a41" PREVIOUS_ANNOTATION="a187">
+                <ANNOTATION_VALUE>ma-tha-u</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>namesame</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a42" PREVIOUS_ANNOTATION="a189">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a42" PREVIOUS_ANNOTATION="a190">
+                <ANNOTATION_VALUE>tho:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a42" PREVIOUS_ANNOTATION="a191">
+                <ANNOTATION_VALUE>guru rinpoche</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a42" PREVIOUS_ANNOTATION="a192">
+                <ANNOTATION_VALUE>yà:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a42" PREVIOUS_ANNOTATION="a193">
+                <ANNOTATION_VALUE>jon-se</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a42" PREVIOUS_ANNOTATION="a194">
+                <ANNOTATION_VALUE>guru rinpoche=gi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a42" PREVIOUS_ANNOTATION="a195">
+                <ANNOTATION_VALUE>ramne</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a42" PREVIOUS_ANNOTATION="a196">
+                <ANNOTATION_VALUE>náŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a43" PREVIOUS_ANNOTATION="a198">
+                <ANNOTATION_VALUE>guru rinpoche=gi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a43" PREVIOUS_ANNOTATION="a199">
+                <ANNOTATION_VALUE>umu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a43" PREVIOUS_ANNOTATION="a200">
+                <ANNOTATION_VALUE>be-se=ke</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a43" PREVIOUS_ANNOTATION="a201">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>ə:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>chike</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>guru rinpoche=gi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a46" PREVIOUS_ANNOTATION="a205">
+                <ANNOTATION_VALUE>ramne:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a46" PREVIOUS_ANNOTATION="a206">
+                <ANNOTATION_VALUE>naŋ-se=ke</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a46" PREVIOUS_ANNOTATION="a207">
+                <ANNOTATION_VALUE>thumon</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a46" PREVIOUS_ANNOTATION="a208">
+                <ANNOTATION_VALUE>naŋ-se=ke</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a210">
+                <ANNOTATION_VALUE>umu-naŋ
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a211">
+                <ANNOTATION_VALUE>tshar-se=ke</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a212">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>lhasa samye</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a214">
+                <ANNOTATION_VALUE>namesame</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a215">
+                <ANNOTATION_VALUE>liku</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a216">
+                <ANNOTATION_VALUE>be-se</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a217">
+                <ANNOTATION_VALUE>ʒen-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>chike</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a49" PREVIOUS_ANNOTATION="a219">
+                <ANNOTATION_VALUE>lhamasin</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>dege</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a50" PREVIOUS_ANNOTATION="a221">
+                <ANNOTATION_VALUE>dre</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a50" PREVIOUS_ANNOTATION="a222">
+                <ANNOTATION_VALUE>umu=la=naŋ=gi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a50" PREVIOUS_ANNOTATION="a223">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>t- ə: </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>thoŋ-u</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a226">
+                <ANNOTATION_VALUE>hine</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a227">
+                <ANNOTATION_VALUE>màŋʃe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a229" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>ɲènte</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a230" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a229">
+                <ANNOTATION_VALUE>mi=i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a230">
+                <ANNOTATION_VALUE>thoŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>sente</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a233" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a232">
+                <ANNOTATION_VALUE>mànʃe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a233">
+                <ANNOTATION_VALUE>bera=i</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a235" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a234">
+                <ANNOTATION_VALUE>thoŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a235">
+                <ANNOTATION_VALUE>be-se</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a237" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a236">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a238" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a237">
+                <ANNOTATION_VALUE>lhasa samye</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a239" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a238">
+                <ANNOTATION_VALUE>ʒeŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a240" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a239">
+                <ANNOTATION_VALUE>ràmne:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a241" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a240">
+                <ANNOTATION_VALUE>náŋ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a242">
+                <ANNOTATION_VALUE>bö=kha</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a243">
+                <ANNOTATION_VALUE>chike</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>ə:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a246" ANNOTATION_REF="a56" PREVIOUS_ANNOTATION="a245">
+                <ANNOTATION_VALUE>bö=ku</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a247" ANNOTATION_REF="a56" PREVIOUS_ANNOTATION="a246">
+                <ANNOTATION_VALUE>mì=naŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>yónka</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a249" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a248">
+                <ANNOTATION_VALUE>chö=le</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a250" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a249">
+                <ANNOTATION_VALUE>tsut</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a251" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a252" ANNOTATION_REF="a58" PREVIOUS_ANNOTATION="a251">
+                <ANNOTATION_VALUE>bon=ku</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a253" ANNOTATION_REF="a58" PREVIOUS_ANNOTATION="a252">
+                <ANNOTATION_VALUE>chö</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a254" ANNOTATION_REF="a58" PREVIOUS_ANNOTATION="a253">
+                <ANNOTATION_VALUE>mono-u</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a255" ANNOTATION_REF="a58" PREVIOUS_ANNOTATION="a254">
+                <ANNOTATION_VALUE>cö</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a257" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>chö</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a60" PREVIOUS_ANNOTATION="a257">
+                <ANNOTATION_VALUE>suŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a259" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>chike</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>mì=naŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a261" ANNOTATION_REF="a62" PREVIOUS_ANNOTATION="a260">
+                <ANNOTATION_VALUE>ya</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a62" PREVIOUS_ANNOTATION="a261">
+                <ANNOTATION_VALUE>kor-</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a263" ANNOTATION_REF="a62" PREVIOUS_ANNOTATION="a262">
+                <ANNOTATION_VALUE>ə:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a264" ANNOTATION_REF="a62" PREVIOUS_ANNOTATION="a263">
+                <ANNOTATION_VALUE>dre</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a265" ANNOTATION_REF="a62" PREVIOUS_ANNOTATION="a264">
+                <ANNOTATION_VALUE>tiŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a266" ANNOTATION_REF="a62" PREVIOUS_ANNOTATION="a265">
+                <ANNOTATION_VALUE>dü=naŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a267" ANNOTATION_REF="a62" PREVIOUS_ANNOTATION="a266">
+                <ANNOTATION_VALUE>yónka tü</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a268" ANNOTATION_REF="a62" PREVIOUS_ANNOTATION="a267">
+                <ANNOTATION_VALUE> tü</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a269" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a270" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a269">
+                <ANNOTATION_VALUE>yà</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a271" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a270">
+                <ANNOTATION_VALUE>bö-ke</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a272" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a271">
+                <ANNOTATION_VALUE>mà-ra</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a273" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a272">
+                <ANNOTATION_VALUE>jon-se</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a274" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a273">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a275" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a274">
+                <ANNOTATION_VALUE>ə:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a276" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a277" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>bö-ke</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a278" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a277">
+                <ANNOTATION_VALUE>mà-ra
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a279" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a278">
+                <ANNOTATION_VALUE>be-se</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a280" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a279">
+                <ANNOTATION_VALUE>ki</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a281" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a280">
+                <ANNOTATION_VALUE>druk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a282" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a281">
+                <ANNOTATION_VALUE>bumthaŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a283" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>chike</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a66" PREVIOUS_ANNOTATION="a283">
+                <ANNOTATION_VALUE>druk</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a285" ANNOTATION_REF="a66" PREVIOUS_ANNOTATION="a284">
+                <ANNOTATION_VALUE>troŋsa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a286" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>druk=ku</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a287" ANNOTATION_REF="a67" PREVIOUS_ANNOTATION="a286">
+                <ANNOTATION_VALUE>sacha</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>màŋyodzop</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a289" ANNOTATION_REF="a68" PREVIOUS_ANNOTATION="a288">
+                <ANNOTATION_VALUE> the</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a290" ANNOTATION_REF="a68" PREVIOUS_ANNOTATION="a289">
+                <ANNOTATION_VALUE> nèŋ=a </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a291" ANNOTATION_REF="a68" PREVIOUS_ANNOTATION="a290">
+                <ANNOTATION_VALUE>darum </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a68" PREVIOUS_ANNOTATION="a291">
+                <ANNOTATION_VALUE>guru rinpoche=gi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a293" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>dö</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a294" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a293">
+                <ANNOTATION_VALUE> tiŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a295" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>umu-naŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a296" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a295">
+                <ANNOTATION_VALUE>ŋám</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a297" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a296">
+                <ANNOTATION_VALUE>ne</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a298" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a297">
+                <ANNOTATION_VALUE> ɲek-se</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a299" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a298">
+                <ANNOTATION_VALUE>tü-te</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a299">
+                <ANNOTATION_VALUE> jon-se</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a301" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a300">
+                <ANNOTATION_VALUE> chi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a301">
+                <ANNOTATION_VALUE>yónka</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a302">
+                <ANNOTATION_VALUE> chö=le</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a304" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a303">
+                <ANNOTATION_VALUE>tshut</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation" PARENT_REF="Dzala Words and Morphemes" TIER_ID="Gloss">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a305" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>guru rinpoche (personal name)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a306" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>... HES</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a307" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>front-?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a308" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>HES</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a309" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>HES ...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a310" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>guru rinpoche (personal name)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a311" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>down</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a312" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>birthplace</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a313" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>real</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a314" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>down</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>India</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a316" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>south</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a317" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>... FS ..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a318" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>India</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a319" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>south</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a320" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>manali (placename)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a321" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>lake</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a322" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>lotus</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a323" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE>say-?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a324" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>COP.PST1</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a325" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>say-CNV</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a326" ANNOTATION_REF="a111">
+                <ANNOTATION_VALUE>COP.PST1</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a327" ANNOTATION_REF="a112">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a328" ANNOTATION_REF="a113">
+                <ANNOTATION_VALUE>lake</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a329" ANNOTATION_REF="a114">
+                <ANNOTATION_VALUE>lotus=ABL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a330" ANNOTATION_REF="a115">
+                <ANNOTATION_VALUE>do-CNV</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a331" ANNOTATION_REF="a116">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a332" ANNOTATION_REF="a117">
+                <ANNOTATION_VALUE>later</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a333" ANNOTATION_REF="a118">
+                <ANNOTATION_VALUE>HES</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a334" ANNOTATION_REF="a119">
+                <ANNOTATION_VALUE>HES</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a335" ANNOTATION_REF="a120">
+                <ANNOTATION_VALUE>guru rinpoche (personal name)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a336" ANNOTATION_REF="a121">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a337" ANNOTATION_REF="a122">
+                <ANNOTATION_VALUE>Tibet=LOC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a338" ANNOTATION_REF="a123">
+                <ANNOTATION_VALUE>king</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a339" ANNOTATION_REF="a124">
+                <ANNOTATION_VALUE>Songtsen Gampo (personal name)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a340" ANNOTATION_REF="a125">
+                <ANNOTATION_VALUE>Tibet=GEN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a341" ANNOTATION_REF="a126">
+                <ANNOTATION_VALUE>king</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a342" ANNOTATION_REF="a127">
+                <ANNOTATION_VALUE>Songtsen Gampo=ERG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a343" ANNOTATION_REF="a128">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a344" ANNOTATION_REF="a129">
+                <ANNOTATION_VALUE>Tibet=LOC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a345" ANNOTATION_REF="a130">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a346" ANNOTATION_REF="a131">
+                <ANNOTATION_VALUE>FS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a347" ANNOTATION_REF="a132">
+                <ANNOTATION_VALUE>Lhasa Samye (placename)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a348" ANNOTATION_REF="a133">
+                <ANNOTATION_VALUE>build-INF?=GEN?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a349" ANNOTATION_REF="a134">
+                <ANNOTATION_VALUE>for.that.purpose</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a350" ANNOTATION_REF="a135">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a351" ANNOTATION_REF="a136">
+                <ANNOTATION_VALUE>Tibet=LOC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a352" ANNOTATION_REF="a137">
+                <ANNOTATION_VALUE>invite-PST1</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a353" ANNOTATION_REF="a138">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a354" ANNOTATION_REF="a139">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a355" ANNOTATION_REF="a140">
+                <ANNOTATION_VALUE>Tibet=LOC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a356" ANNOTATION_REF="a141">
+                <ANNOTATION_VALUE>king</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a357" ANNOTATION_REF="a142">
+                <ANNOTATION_VALUE>Songtsen Gampo (personal name)=ERG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a358" ANNOTATION_REF="a143">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a359" ANNOTATION_REF="a144">
+                <ANNOTATION_VALUE>Tibet=LOC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a360" ANNOTATION_REF="a145">
+                <ANNOTATION_VALUE>Lhasa Samye (placename)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a361" ANNOTATION_REF="a146">
+                <ANNOTATION_VALUE>Samye (placename)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a362" ANNOTATION_REF="a147">
+                <ANNOTATION_VALUE>Potala (placename)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a363" ANNOTATION_REF="a148">
+                <ANNOTATION_VALUE>build-INF?=GEN?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a364" ANNOTATION_REF="a149">
+                <ANNOTATION_VALUE>for</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a365" ANNOTATION_REF="a150">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a366" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a367" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a368" ANNOTATION_REF="a153">
+                <ANNOTATION_VALUE>ceremony=LOC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a369" ANNOTATION_REF="a154">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a370" ANNOTATION_REF="a155">
+                <ANNOTATION_VALUE>Guru Rinpoche (personal name)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a371" ANNOTATION_REF="a156">
+                <ANNOTATION_VALUE>invite</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a372" ANNOTATION_REF="a157">
+                <ANNOTATION_VALUE>COP.PST1</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a373" ANNOTATION_REF="a158">
+                <ANNOTATION_VALUE>say-CNV</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a374" ANNOTATION_REF="a159">
+                <ANNOTATION_VALUE>since</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a375" ANNOTATION_REF="a160">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a376" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>invite-CNV</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a377" ANNOTATION_REF="a162">
+                <ANNOTATION_VALUE>then</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a378" ANNOTATION_REF="a163">
+                <ANNOTATION_VALUE>Tibet=LOC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a379" ANNOTATION_REF="a164">
+                <ANNOTATION_VALUE>Lhasa Samye (placename)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a380" ANNOTATION_REF="a165">
+                <ANNOTATION_VALUE>build</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a381" ANNOTATION_REF="a166">
+                <ANNOTATION_VALUE>ceremony</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a382" ANNOTATION_REF="a167">
+                <ANNOTATION_VALUE>give</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a383" ANNOTATION_REF="a168">
+                <ANNOTATION_VALUE>?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a384" ANNOTATION_REF="a169">
+                <ANNOTATION_VALUE>Lhasa Samye (placename)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a385" ANNOTATION_REF="a170">
+                <ANNOTATION_VALUE>HES</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a386" ANNOTATION_REF="a171">
+                <ANNOTATION_VALUE>Lhasa Samye (placename)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a387" ANNOTATION_REF="a172">
+                <ANNOTATION_VALUE>build-INF?=GEN?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a388" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>for</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a389" ANNOTATION_REF="a174">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a390" ANNOTATION_REF="a175">
+                <ANNOTATION_VALUE>Guru Rinpoche (personal name)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a391" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>invite-PST1</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a392" ANNOTATION_REF="a177">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a393" ANNOTATION_REF="a178">
+                <ANNOTATION_VALUE>(placename)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a394" ANNOTATION_REF="a179">
+                <ANNOTATION_VALUE>build-while</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a395" ANNOTATION_REF="a180">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a396" ANNOTATION_REF="a181">
+                <ANNOTATION_VALUE>demons</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a397" ANNOTATION_REF="a182">
+                <ANNOTATION_VALUE>and</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a398" ANNOTATION_REF="a183">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a399" ANNOTATION_REF="a184">
+                <ANNOTATION_VALUE>ghost</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a400" ANNOTATION_REF="a185">
+                <ANNOTATION_VALUE>asura</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a401" ANNOTATION_REF="a186">
+                <ANNOTATION_VALUE>local.deity-PL=ERG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a402" ANNOTATION_REF="a187">
+                <ANNOTATION_VALUE>build</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a403" ANNOTATION_REF="a188">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a404" ANNOTATION_REF="a189">
+                <ANNOTATION_VALUE>a.lot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a405" ANNOTATION_REF="a190">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a406" ANNOTATION_REF="a191">
+                <ANNOTATION_VALUE>over.there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a407" ANNOTATION_REF="a192">
+                <ANNOTATION_VALUE>(personal name)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a408" ANNOTATION_REF="a193">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a409" ANNOTATION_REF="a194">
+                <ANNOTATION_VALUE>arrive-CNV</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a410" ANNOTATION_REF="a195">
+                <ANNOTATION_VALUE>(personal name)=ERG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a411" ANNOTATION_REF="a196">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a412" ANNOTATION_REF="a197">
+                <ANNOTATION_VALUE>give</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a413" ANNOTATION_REF="a198">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a414" ANNOTATION_REF="a199">
+                <ANNOTATION_VALUE>(person name)=ERG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a415" ANNOTATION_REF="a200">
+                <ANNOTATION_VALUE>that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a416" ANNOTATION_REF="a201">
+                <ANNOTATION_VALUE>do-CNV-ABL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a417" ANNOTATION_REF="a202">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a418" ANNOTATION_REF="a203">
+                <ANNOTATION_VALUE>HESI</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a419" ANNOTATION_REF="a204">
+                <ANNOTATION_VALUE>then
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a420" ANNOTATION_REF="a205">
+                <ANNOTATION_VALUE>(personal name)=ERG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a421" ANNOTATION_REF="a206">
+                <ANNOTATION_VALUE>ceremony</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a422" ANNOTATION_REF="a207">
+                <ANNOTATION_VALUE>give-CNV-ABL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a423" ANNOTATION_REF="a208">
+                <ANNOTATION_VALUE>wish for others</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a424" ANNOTATION_REF="a209">
+                <ANNOTATION_VALUE>give-CNV-ABL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a425" ANNOTATION_REF="a210">
+                <ANNOTATION_VALUE>so
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a426" ANNOTATION_REF="a211">
+                <ANNOTATION_VALUE>that-PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a427" ANNOTATION_REF="a212">
+                <ANNOTATION_VALUE>finish-CNV-APL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a428" ANNOTATION_REF="a213">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a429" ANNOTATION_REF="a214">
+                <ANNOTATION_VALUE>(place name)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a430" ANNOTATION_REF="a215">
+                <ANNOTATION_VALUE>a.lot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a431" ANNOTATION_REF="a216">
+                <ANNOTATION_VALUE>good</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a432" ANNOTATION_REF="a217">
+                <ANNOTATION_VALUE>do-CNV</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a433" ANNOTATION_REF="a218">
+                <ANNOTATION_VALUE>built-be.able.to</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a434" ANNOTATION_REF="a219">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a435" ANNOTATION_REF="a220">
+                <ANNOTATION_VALUE>asura
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a436" ANNOTATION_REF="a221">
+                <ANNOTATION_VALUE>local.deity</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a437" ANNOTATION_REF="a222">
+                <ANNOTATION_VALUE>ghost</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a438" ANNOTATION_REF="a223">
+                <ANNOTATION_VALUE>that=IND=PL-ERG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a439" ANNOTATION_REF="a224">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a440" ANNOTATION_REF="a225">
+                <ANNOTATION_VALUE>HESI</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a441" ANNOTATION_REF="a226">
+                <ANNOTATION_VALUE>build-PST2</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a442" ANNOTATION_REF="a227">
+                <ANNOTATION_VALUE>COP
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a443" ANNOTATION_REF="a228">
+                <ANNOTATION_VALUE>more</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a444" ANNOTATION_REF="a229">
+                <ANNOTATION_VALUE>daytime</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a445" ANNOTATION_REF="a230">
+                <ANNOTATION_VALUE>people=ERG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a446" ANNOTATION_REF="a231">
+                <ANNOTATION_VALUE>build</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a447" ANNOTATION_REF="a232">
+                <ANNOTATION_VALUE>nighttime</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a448" ANNOTATION_REF="a233">
+                <ANNOTATION_VALUE>more</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a449" ANNOTATION_REF="a234">
+                <ANNOTATION_VALUE>3PL=ERG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a450" ANNOTATION_REF="a235">
+                <ANNOTATION_VALUE>build</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a451" ANNOTATION_REF="a236">
+                <ANNOTATION_VALUE>do-CNV</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a452" ANNOTATION_REF="a237">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a453" ANNOTATION_REF="a238">
+                <ANNOTATION_VALUE>(place name)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a454" ANNOTATION_REF="a239">
+                <ANNOTATION_VALUE>build</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a455" ANNOTATION_REF="a240">
+                <ANNOTATION_VALUE>ceremony</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a456" ANNOTATION_REF="a241">
+                <ANNOTATION_VALUE>give</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a457" ANNOTATION_REF="a242">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a458" ANNOTATION_REF="a243">
+                <ANNOTATION_VALUE>Tibet=LOC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a459" ANNOTATION_REF="a244">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a460" ANNOTATION_REF="a245">
+                <ANNOTATION_VALUE>HESI</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a461" ANNOTATION_REF="a246">
+                <ANNOTATION_VALUE>Tibet=GEN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a462" ANNOTATION_REF="a247">
+                <ANNOTATION_VALUE>people=PL
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a463" ANNOTATION_REF="a248">
+                <ANNOTATION_VALUE>all</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a464" ANNOTATION_REF="a249">
+                <ANNOTATION_VALUE>dharma=DAT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a465" ANNOTATION_REF="a250">
+                <ANNOTATION_VALUE>put.inside</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a466" ANNOTATION_REF="a251">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a467" ANNOTATION_REF="a252">
+                <ANNOTATION_VALUE>Bon.faith=GEN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a468" ANNOTATION_REF="a253">
+                <ANNOTATION_VALUE>dharma</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a469" ANNOTATION_REF="a254">
+                <ANNOTATION_VALUE>NEG.COP-PST2</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a470" ANNOTATION_REF="a255">
+                <ANNOTATION_VALUE>make</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a471" ANNOTATION_REF="a256">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a472" ANNOTATION_REF="a257">
+                <ANNOTATION_VALUE>dharma</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a473" ANNOTATION_REF="a258">
+                <ANNOTATION_VALUE>teach (formal)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a474" ANNOTATION_REF="a259">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a475" ANNOTATION_REF="a260">
+                <ANNOTATION_VALUE>people=PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a476" ANNOTATION_REF="a261">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a477" ANNOTATION_REF="a262">
+                <ANNOTATION_VALUE>?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a478" ANNOTATION_REF="a263">
+                <ANNOTATION_VALUE>HESI</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a479" ANNOTATION_REF="a264">
+                <ANNOTATION_VALUE>ghost</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a480" ANNOTATION_REF="a265">
+                <ANNOTATION_VALUE>and</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a481" ANNOTATION_REF="a266">
+                <ANNOTATION_VALUE>spirits=PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a482" ANNOTATION_REF="a267">
+                <ANNOTATION_VALUE>all</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a483" ANNOTATION_REF="a268">
+                <ANNOTATION_VALUE>make.good.peaceful</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a484" ANNOTATION_REF="a269">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a485" ANNOTATION_REF="a270">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a486" ANNOTATION_REF="a271">
+                <ANNOTATION_VALUE>Tibet-ABL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a487" ANNOTATION_REF="a272">
+                <ANNOTATION_VALUE>down-come</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a488" ANNOTATION_REF="a273">
+                <ANNOTATION_VALUE>arrive-CNV</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a489" ANNOTATION_REF="a274">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a490" ANNOTATION_REF="a275">
+                <ANNOTATION_VALUE>HESI</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a491" ANNOTATION_REF="a276">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a492" ANNOTATION_REF="a277">
+                <ANNOTATION_VALUE>Tibet-ABL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a493" ANNOTATION_REF="a278">
+                <ANNOTATION_VALUE>down-come</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a494" ANNOTATION_REF="a279">
+                <ANNOTATION_VALUE>do-CNV</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a495" ANNOTATION_REF="a280">
+                <ANNOTATION_VALUE>?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a496" ANNOTATION_REF="a281">
+                <ANNOTATION_VALUE>Bhutan</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a497" ANNOTATION_REF="a282">
+                <ANNOTATION_VALUE>(place name)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a498" ANNOTATION_REF="a283">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a499" ANNOTATION_REF="a284">
+                <ANNOTATION_VALUE>Bhutan</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a500" ANNOTATION_REF="a285">
+                <ANNOTATION_VALUE>(place name)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a501" ANNOTATION_REF="a286">
+                <ANNOTATION_VALUE>Bhutan=GEN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a502" ANNOTATION_REF="a287">
+                <ANNOTATION_VALUE>place</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a503" ANNOTATION_REF="a288">
+                <ANNOTATION_VALUE>many.places</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a504" ANNOTATION_REF="a289">
+                <ANNOTATION_VALUE>one</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a505" ANNOTATION_REF="a290">
+                <ANNOTATION_VALUE>inside=LOC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a506" ANNOTATION_REF="a291">
+                <ANNOTATION_VALUE>again</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a507" ANNOTATION_REF="a292">
+                <ANNOTATION_VALUE>(personal name)=ERG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a508" ANNOTATION_REF="a293">
+                <ANNOTATION_VALUE>ghost</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a509" ANNOTATION_REF="a294">
+                <ANNOTATION_VALUE>and</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a510" ANNOTATION_REF="a295">
+                <ANNOTATION_VALUE>that-PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a511" ANNOTATION_REF="a296">
+                <ANNOTATION_VALUE>many</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a512" ANNOTATION_REF="a297">
+                <ANNOTATION_VALUE>COP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a513" ANNOTATION_REF="a298">
+                <ANNOTATION_VALUE>say-CNV</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a514" ANNOTATION_REF="a299">
+                <ANNOTATION_VALUE>make.good-IMP1</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a515" ANNOTATION_REF="a300">
+                <ANNOTATION_VALUE>arrive-CNV</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a516" ANNOTATION_REF="a301">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a517" ANNOTATION_REF="a302">
+                <ANNOTATION_VALUE>all</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a518" ANNOTATION_REF="a303">
+                <ANNOTATION_VALUE>dharma=DAT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a519" ANNOTATION_REF="a304">
+                <ANNOTATION_VALUE>put.inside</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="timed_chunk" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="chunk" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
