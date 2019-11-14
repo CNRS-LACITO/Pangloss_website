@@ -12,12 +12,11 @@ The  `.eaf` file `buddhism.eaf` (a document recorded and transcribed by Nathanie
 
 ## 2. Scripts by Séverine Guillaume
 
-(being finalized, as of November 2019)
+(being finalized, as of Nov./Dec. 2019)
 
 ## 3. Scripts by the team of the DoReCo project
 
-(being finalized, as of November 2019)
-
+(see relevant folder, up one level)
 
 
 
