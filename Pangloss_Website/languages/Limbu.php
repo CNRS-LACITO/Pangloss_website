@@ -2,11 +2,11 @@
            <div class="page-header"><h1><a name="up"></a>Corpus limbu</h1></div>
            <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Limbu_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">limbu<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
+      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Limbu_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">limbu<img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
       <p>&nbsp;</p>
      <h4 align="left">Ressources :</h4>
      <p align="left" class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Limbu&aff=limbu" target="_blank">Accès à toutes les ressources</a>
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Limbu&aff=limbu" target="_blank">Accès à toutes les ressources</a>
       </p>
        <p align="left" class="intertitre">&nbsp;</p>
       <p class="intertitre">Le limbu est parl&eacute; par quelque 380000 locuteurs au Népal (selon le recensement national de 2011). Ceux-ci habitent, en grande majorité,en grande majorit&eacute;, le N&eacute;pal &agrave; l&rsquo;est de la rivi&egrave;re Arun, mais aussi les &Eacute;tats du Sikkim et du Bengal-Occidental (district de Darjeeling) en Inde. Appel&eacute;s Limbu en n&eacute;pali, ils se d&eacute;signent eux-m&ecirc;mes comme &quot;Yakthung&quot;. Tous parlent &eacute;galement le n&eacute;pali, la langue nationale du N&eacute;pal, qui appartient &agrave; la famille indo-aryenne.</p>
@@ -24,18 +24,18 @@
      
       <p>&nbsp;</p>
         
-      <p class="intertitre"><a name="dico"></a><strong>Dictionnaire en ligne</strong> <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="up" width="10" height="9" border="0"></a></p>
+      <p class="intertitre"><a name="dico"></a><strong>Dictionnaire en ligne</strong> <a href="#up"><img src="../images/icones/fleche-haut.gif" alt="up" width="10" height="9" border="0"></a></p>
      <!-- <p>Les documents de l'archive sont li&eacute;s &agrave; un dictionnaire en ligne (cit&eacute; ci-dessous) de sorte que :</p>
       <ul>
         <li> cliquer sur un morph&egrave;me limbu dans la transcription morph&eacute;mique donne acc&egrave;s (sauf erreur ou emprunt) &agrave; l'entr&eacute;e correspondante du dictionnaire</li>
         <li>cliquer sur une phrase cit&eacute;e comme exemple dans le dictionnaire donne acc&egrave;s au document d'origine, si l'exemple provient d'un document de l'archive.</li>
       </ul>-->
-      <p>Un dictionnaire hypertexte du dialecte de Libang (Michailovsky 2002) est disponible <a href="../../pangloss/dictionaries/limbu" target="_blank">ici</a>. L'introduction (<a href="http://lacito.vjf.cnrs.fr/documents/publi/L22Ib.pdf" target="_blank">pdf</a>) du dictionnaire comporte des informations sur la phonologie et la morphologie du Limbu. Le dictionnaire inclut les suffixes verbaux et d'autres éléments grammaticaux en plus des lexèmes.</p>
+      <p>Un dictionnaire hypertexte du dialecte de Libang (Michailovsky 2002) est disponible <a href="../../dictionaries/limbu" target="_blank">ici</a>. L'introduction (<a href="http://lacito.vjf.cnrs.fr/documents/publi/L22Ib.pdf" target="_blank">pdf</a>) du dictionnaire comporte des informations sur la phonologie et la morphologie du Limbu. Le dictionnaire inclut les suffixes verbaux et d'autres éléments grammaticaux en plus des lexèmes.</p>
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre"><a name="references"></a><strong>R&eacute;f&eacute;rences</strong> <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="up" width="10" height="9" border="0"></a></p>
+      <p class="intertitre"><a name="references"></a><strong>R&eacute;f&eacute;rences</strong> <a href="#up"><img src="../images/icones/fleche-haut.gif" alt="up" width="10" height="9" border="0"></a></p>
       <ul>
         <li> Michailovsky, Boyd, sous presse. Limbu. [Esquisse en fran&ccedil;ais du parler de la vall&eacute;e du Mewa Khola. <a href="http://halshs.archives-ouvertes.fr/halshs-00008057/en/" target="_blank">Pr&eacute;-&eacute;dition</a> disponible en format pdf]</li>
-        <li>Michailovsky, Boyd, 2002, Limbu-English Dictionary of the Mewa Khola Dialect with English-Limbu index, Kathmandu, Mandala Book Point. [Version hypertexte en ligne <a href="http://lacito.vjf.cnrs.fr/pangloss/dictionaries/limbu" target="_blank">ici</a>. Introduction disponible en <a href="http://lacito.vjf.cnrs.fr/documents/publi/L22Ib.pdf" target="_blank">pdf</a>]</li>
+        <li>Michailovsky, Boyd, 2002, Limbu-English Dictionary of the Mewa Khola Dialect with English-Limbu index, Kathmandu, Mandala Book Point. [Version hypertexte en ligne <a href="http://pangloss.cnrs.fr/dictionaries/limbu" target="_blank">ici</a>. Introduction disponible en <a href="http://lacito.vjf.cnrs.fr/documents/publi/L22Ib.pdf" target="_blank">pdf</a>]</li>
         <li>Royal Nepal Academy, 2002, Limbu-Nepali-English Dictionary edited by Bairagi Kainla [Til Bikram Nembang]. [De loin le dictionnaire le plus complet, multi-dialectal]</li>
         <li>Van Driem, George, 1987. A grammar of Limbu. Berlin. Mouton de Gruyter. [Dialecte de Phedap]</li>
         <li>Weidert, A. and B. Subba [D. Bikram Ingwaba], 1985, Concise Limbu Grammar and Dictionary. Amsterdam. Lobster. [Dialecte de Panchthar]</li>
@@ -45,9 +45,9 @@
          <p>Les mat&eacute;riaux pr&eacute;sent&eacute;s ici ont &eacute;t&eacute; enregistr&eacute;s en 1977 dans le village de Libang dans la vall&eacute;e de la rivi&egrave;re Mewa (district de Taplejung). Il s'agit principalement de r&eacute;cits, souvent &agrave; caract&egrave;re autobiographique, de la vie limbu.</p>
         <p>&nbsp;</p>
          <p class="intertitre"><a name="doc_chant"></a><strong>Un document chanté</strong></p>
-         <p>Ce document, daté de 1956, exprime les craintes et les aspirations pour son peuple d'un chef traditionnel limbu de cette période. Il est présenté (en anglais) sur une page à part <a href="http://lacito.vjf.cnrs.fr/pangloss/languages/Limbu_more1_en.php"> ici</a>.</p>
+         <p>Ce document, daté de 1956, exprime les craintes et les aspirations pour son peuple d'un chef traditionnel limbu de cette période. Il est présenté (en anglais) sur une page à part <a href="http://pangloss.cnrs.fr/languages/Limbu_more1_en.php"> ici</a>.</p>
       <p>&nbsp;</p>
-      <p class="intertitre"><a name="remarques"></a><strong>Remarques sur l'annotation des textes</strong> <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="up" width="10" height="9" border="0"></a></p>
+      <p class="intertitre"><a name="remarques"></a><strong>Remarques sur l'annotation des textes</strong> <a href="#up"><img src="../images/icones/fleche-haut.gif" alt="up" width="10" height="9" border="0"></a></p>
       <p>La traduction en fran&ccedil;ais est disponible pour deux textes, &quot;Untimely death&quot; et &quot;Father-in-law&quot;.</p>
       <p>Une traduction en anglais au niveau de l'&eacute;nonc&eacute; est disponible pour tous les textes. Des gloses de morph&egrave;me en anglais sont disponibles pour les textes suivants: &quot;Untimely death&quot; (gloses en fran&ccedil;ais et anglais), &quot;Ogre Kanayongba&quot;, &quot;Manioc&quot;, &quot;Father-in-law&quot;, &quot;Wife-stealing&quot;, et &quot;Paddy-dancing&quot;.</p>
       <p>La transcription est bas&eacute;e sur l'API, sauf que &quot;y&quot; est employ&eacute; pour la semivoyelle palatale (IPA [j]).</p>
@@ -61,7 +61,7 @@
       </ul>
       <p>Les gloses de morph&egrave;me sont n&eacute;cessairement incompl&egrave;tes; des informations plus compl&egrave;tes sont disponibles dans le dictionnaire. Il est &agrave; noter que celui-ci comprend des formes grammaticaux qui n'apparaissent pas normalement dans un dictionnaire.</p>
       <p>&nbsp;</p>
-      <p class="intertitre"><a name="abreviations"></a><strong>Abr&eacute;viations employ&eacute;es dans les gloses</strong> <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="up" width="10" height="9" border="0"></a></p>
+      <p class="intertitre"><a name="abreviations"></a><strong>Abr&eacute;viations employ&eacute;es dans les gloses</strong> <a href="#up"><img src="../images/icones/fleche-haut.gif" alt="up" width="10" height="9" border="0"></a></p>
      <table width="98%" border="1" cellpadding="5" cellspacing="0" class="table-avec-bordures">
         <tr>
           <th width="15%">Glose</th>

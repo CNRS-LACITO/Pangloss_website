@@ -4,7 +4,7 @@
            <div class="page-header"><h1>Oubykh</h1></div>
            <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre">Fiche technique sur l'<a href="../../ALC/Languages/Ubykh_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">oubykh<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
+      <p class="intertitre">Fiche technique sur l'<a href="../../ALC/Languages/Ubykh_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">oubykh<img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
       <p align="left">&nbsp;</p>
       <p>La langue oubykh a fait l'objet de nombreuses &eacute;tudes par le caucasologue Georges Dum&eacute;zil (1898-1986). Elle repr&eacute;sentait, pour les m&eacute;dias de la fin du 20e si&egrave;cle, le type m&ecirc;me de langue en danger, puis de langue &eacute;teinte sous nos yeux avec la disparition du dernier locuteur en 1992. La richesse de son inventaire de consonnes est rest&eacute;e l&eacute;gendaire dans le monde de la linguistique.</p>
       <p>Les textes pr&eacute;sent&eacute;s ici proviennent d'une s&eacute;rie de dix bandes enregistr&eacute;es par G. Dum&eacute;zil &agrave; Paris en 1968 avec le dernier locuteur, M. Tevfik Esen&ccedil; (ou Tevfic Sani&ccedil;). Nous pr&eacute;sentons ici une s&eacute;rie de sept enregistrements de r&eacute;cits tir&eacute;s de la bande n&deg; 3.</p>
@@ -14,10 +14,10 @@
       <p align="left">&nbsp;</p>
       <h4 align="left">Ressources :</h4>
      <p align="left" class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Ubykh&aff=oubykh" target="_blank">Accès à toutes les ressources</a>
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Ubykh&aff=oubykh" target="_blank">Accès à toutes les ressources</a>
       </p>
        <p align="left" class="intertitre">&nbsp;</p>
-      <p class="intertitre"><strong><a href="../corpus/show_text.php?id=crdo-UBY_POISSON_SOUND&idref=crdo-UBY_POISSON"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Consulter le texte "La chair de poisson rend intelligent"</a></strong></p>
+      <p class="intertitre"><strong><a href="../corpus/show_text.php?id=cocoon-2b11e515-358b-3c21-8fa5-4ad299b6a613&idref=cocoon-bae938b3-ed5b-361c-b33d-c441c0612187"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Consulter le texte "La chair de poisson rend intelligent"</a></strong></p>
       <p>La liste compl&egrave;te des enregistrements et des annotations de cet ensemble de textes est la suivante:</p>
       <p> 1. &quot;La ch&egrave;vre et le mouton&quot; enregistrement (wav); annotation ms. de Dum&eacute;zil (pdf).<br>
         2. &quot;La chair du poisson rend intelligent&quot; enregistrement (wav); annotation ms. de Dum&eacute;zil (pdf); deuxi&egrave;me annotation (pdf).<br>
@@ -51,10 +51,10 @@
       <p>En mars 2008, un étudiant américain en linguistique travaillant sur l'oubykh, M. Brian Fell, nous a proposé de saisir, transcrire et traduire les sept histoires enregistrées par Dumézil. Nous présentons ici ses transcriptions des quatre histoires déjà transcrites par Dumézil, avec leur traduction en anglais. Les annotations sont largement basées sur les annotations manuscrites de Dumézil, avec quelques modifications dans la transcription. Ces annotations, synchronisées avec les enregistrements d'origine, sont accessibles ci-dessous :<strong><strong>
       </strong></strong></p>
       <ul class="liste-liens">
-        <li><strong><strong><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-UBY_CHEVRE_SOUND&idref=crdo-UBY_CHEVRE">La chèvre et le mouton</a></strong></strong></li>
-        <li><strong><strong><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-UBY_POISSON_SOUND&idref=crdo-UBY_POISSON">La chair de  poisson rend intelligent</a></strong></strong></li>
-        <li><strong><strong><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-UBY_FIN_DU_MONDE_SOUND&idref=crdo-UBY_FIN_DU_MONDE">C'est demain la fin du monde</a></strong></strong></li>
-        <li><strong><strong><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-UBY_HODJA_SOUND&idref=crdo-UBY_HODJA">Le Hodjah est mort</a></strong></strong></li>
+        <li><strong><strong><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-03c7f3a0-b6a2-3df6-b67d-5e6ef019c281&idref=cocoon-bb839640-d38c-33cd-97bd-30bd00bfb542">La chèvre et le mouton</a></strong></strong></li>
+        <li><strong><strong><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-2b11e515-358b-3c21-8fa5-4ad299b6a613&idref=cocoon-bae938b3-ed5b-361c-b33d-c441c0612187">La chair de  poisson rend intelligent</a></strong></strong></li>
+        <li><strong><strong><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-f3cccaf0-cd8e-3353-b227-fc6e196577ce&idref=cocoon-81e5e086-e55c-3636-a835-586929d58316">C'est demain la fin du monde</a></strong></strong></li>
+        <li><strong><strong><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-ac836d96-0d5c-365a-9b60-8ee932e51413&idref=cocoon-9b811572-c389-32c7-8c00-ad67e50ee790">Le Hodjah est mort</a></strong></strong></li>
       </ul>
       
       <p>L'annotation des trois histoires restantes, pour lesquelles nous ne disposons actuellement ni de transcription ni de traduction, est en cours.</p>

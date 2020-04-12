@@ -6,7 +6,7 @@
             <p class="intertitre">&nbsp;</p>
             <h3 align="left"><a name="resources"></a>Resources</h3>
             <p class="intertitre" align="left"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
             <a href="../corpus/list_rsc.php?lg=Japhug&amp;aff=Japhug"
  target="_blank">Click here to access a full list of resources</a> </p>
             <p class="intertitre" align="left"></p>

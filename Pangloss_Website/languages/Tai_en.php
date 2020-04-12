@@ -161,7 +161,7 @@ Tai Don (White Tai, Tay Donx, Th&aacute;i trắng) </h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Don&amp;aff=Tai%20Don" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Don&amp;aff=Tai%20Don" target="_blank">All
 available resources here </a></p>
 
             <p>About this
@@ -178,7 +178,7 @@ Yo (Tay Yo)&nbsp;</h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Yo&amp;aff=Tai%20Yo" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Yo&amp;aff=Tai%20Yo" target="_blank">All
 available resources here </a></p>
 
             <p class="intertitre">&nbsp;</p>
@@ -223,7 +223,7 @@ Tai Paw (Tay Pao, Tai Pao) </h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Paw&amp;aff=Tai%20Paw" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Paw&amp;aff=Tai%20Paw" target="_blank">All
 available resources here </a></p>
 
             <p class="intertitre">This
@@ -243,7 +243,7 @@ Tai Deng (Tai Daeng, Th&aacute;i Thanh) </h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Deng&amp;aff=Tai%20Deng" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Deng&amp;aff=Tai%20Deng" target="_blank">All
 available resources here </a></p>
 
             <p class="intertitre"><br>
@@ -258,7 +258,7 @@ Saek (S&aelig;k, S&egrave;k) </h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Saek%20Yo&amp;aff=Saek" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Saek%20Yo&amp;aff=Saek" target="_blank">All
 available resources here </a></p>
 
             <p class="intertitre">This
@@ -276,7 +276,7 @@ Tay Khang </h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tay%20Khang&amp;aff=Tay%20Khang" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tay%20Khang&amp;aff=Tay%20Khang" target="_blank">All
 available resources here </a></p>
 
             <p class="intertitre">(Only
@@ -294,7 +294,7 @@ Kh&uuml;n (Kh&oelig;n) </h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Kh%C3%BCn&amp;aff=Kh%C3%BCn" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Kh%C3%BCn&amp;aff=Kh%C3%BCn" target="_blank">All
 available resources here </a></p>
 
             <p class="intertitre"><br>
@@ -320,7 +320,7 @@ trắng) </h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Don&amp;aff=Tai%20Don" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Don&amp;aff=Tai%20Don" target="_blank">All
 available resources here </a></p>
 
             <br>
@@ -337,7 +337,7 @@ Tổng)</h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Yo&amp;aff=Tai%20Yo" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Yo&amp;aff=Tai%20Yo" target="_blank">All
 available resources here </a></p>
 
             <h3>Presentation of the language</h3>
@@ -373,7 +373,7 @@ liệu tiếng&nbsp;Tai Pao (Tay Pao, Tai Paw)</h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Paw&amp;aff=Tai%20Paw" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Paw&amp;aff=Tai%20Paw" target="_blank">All
 available resources here </a></p>
 
             <p>Tai Pao, được coi
@@ -405,7 +405,7 @@ Tai Deng (Tai Daeng, Th&aacute;i Thanh) </h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Deng&amp;aff=Tai%20Deng" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tai%20Deng&amp;aff=Tai%20Deng" target="_blank">All
 available resources here </a></p>
 
             <p class="intertitre"><br>
@@ -422,7 +422,7 @@ Saek (S&aelig;k, S&egrave;k) </h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Saek%20Yo&amp;aff=Saek" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Saek%20Yo&amp;aff=Saek" target="_blank">All
 available resources here </a></p>
 
             <p class="intertitre"><br>
@@ -439,7 +439,7 @@ Tay Khang </h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tay%20Khang&amp;aff=Tay%20Khang" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Tay%20Khang&amp;aff=Tay%20Khang" target="_blank">All
 available resources here </a></p>
 
             <p class="intertitre">(1
@@ -457,7 +457,7 @@ Kh&uuml;n (Kh&oelig;n) </h2>
             <h4 align="left">Resources
 :</h4>
 
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Kh%C3%BCn&amp;aff=Kh%C3%BCn" target="_blank">All
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="../corpus/list_rsc_en.php?lg=Kh%C3%BCn&amp;aff=Kh%C3%BCn" target="_blank">All
 available resources here </a></p>
 
             <br>
@@ -472,7 +472,7 @@ số <a href="http://www.bibliothequescientifiquenumerique.fr/" target="_blank">
 tr&igrave;nh của Bộ Gi&aacute;o dục đại học v&agrave;
 Nghi&ecirc;n cứu Ph&aacute;p.&nbsp;</span></p>
 
-            <a href="http://www.bibliothequescientifiquenumerique.fr/" target="_blank"> <img src="../images/logos/bsn.png" alt="Digital Scientific Library" border="0" height="75"></a>
+            <a href="http://www.bibliothequescientifiquenumerique.fr/" target="_blank"> <img src="images/logos/bsn.png" alt="Digital Scientific Library" border="0" height="75"></a>
             <p style="font-style: italic;"><span style="font-style: italic;"></span></p>
 
 Last updated 2015.

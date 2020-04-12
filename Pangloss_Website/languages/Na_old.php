@@ -4,7 +4,7 @@
            <div class="page-header"><h1>Corpus na</h1></div>
            <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Na_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=1000,height=1000,scrollbars=yes,resizable=yes',1);return false">na<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"><br>
+      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Na_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=1000,height=1000,scrollbars=yes,resizable=yes',1);return false">na<img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"><br>
       </a>Carnet de terrain sur le na (<a href="../fieldwork/Na_fw-Yongning.htm">Yongning 2006-2012</a>)</p>
       <p class="intertitre">&nbsp;</p>
      <p></p>      
@@ -26,25 +26,25 @@
       <p>&nbsp;</p>
       <h3 align="left"><a name="resources"></a>Ressources</h3>
      <p align="left" class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Na&aff=na" target="_blank">Accès à toutes les ressources</a>
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Na&aff=na" target="_blank">Accès à toutes les ressources</a>
       </p>
        <p align="left" class="intertitre">&nbsp;</p>
-      <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-NRU_MARIAGE_DE_LA_SOEUR_V1_SOUND&idref=crdo-NRU_Mariage_De_La_Soeur_V1"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0">Le mariage de la soeur (Version 1)</a><br>
+      <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-3dd9341b-647a-33d3-b0fd-2b0ab0e7f638&idref=cocoon-46ae2130-95ad-342d-9606-ef3d47594bee"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0">Le mariage de la soeur (Version 1)</a><br>
       Chine, province du Yunnan, Latami Dashi-Lame, 2006, <a href="../../membres/michaud.htm">Alexis Michaud</a></p>
-      <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-NRU_Mariage_De_La_Soeur_V2_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Le mariage de la soeur (Version 2)</a><br>
+      <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-9b6fe6cf-0338-3482-9125-b1628aa0e459"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Le mariage de la soeur (Version 2)</a><br>
       Chine, province du Yunnan, Latami Dashi-Lame, 2007, <a href="../../membres/michaud.htm">Alexis Michaud</a></p>
-      <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-NRU_Mariage_De_La_Soeur_V3_SOUND&idref=crdo-NRU_Mariage_De_La_Soeur_V3"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0">Le mariage de la soeur (Version 3)</a><br>
+      <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-9245e7d0-3e19-3eac-8f3e-2dc3a04bbf43&idref=cocoon-b5285065-cb88-3de1-b3d6-9cab013681f7"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0">Le mariage de la soeur (Version 3)</a><br>
       Chine, province du Yunnan, Latami Dashi-Lame, 2008, <a href="../../membres/michaud.htm">Alexis Michaud</a></p>
 <p>Ce mythe raconte l'origine du rite pratiqué lors du décès d'une femme qui s'est mariée et a quitté la maison où elle est née. Ce rite, nommé «sɯ˧kʰɯ˩», remonterait à un siècle environ d'après la conteuse : il aurait été établi à un moment où l'institution du mariage commençait à gagner la plaine de Yongning, en contradiction avec la coutume plus ancienne selon laquelle les enfants passent leur vie entière dans la maisonnée de leur mère et de ses frères et sœurs (tantes et oncles maternelles), avec leurs frères et sœurs et leurs cousins du côté maternel, le rôle social du père/amant étant discret voire quasi-inexistant. D'après la conteuse, l'institution de ce rite reflèterait l'acceptation de l'existence de cas de mariage, tout en les représentant comme douloureux : le mariage distend les liens entre la femme et sa famille d'origine.
 Trois versions sont présentées ici, enregistrées sur trois ans. La première et la troisième comportent transcription et gloses. Le meilleur enregistrement au plan technique/acoustique est celui de la troisième version.
 
 </p>
 <p>&nbsp;</p>
-      <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-NRU_Naissance_du_Lac_V1_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">La naissance du lac (version 1)</a><br>
+      <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-4bd41f19-8a74-3607-bb8e-fc9709d9d5bc"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">La naissance du lac (version 1)</a><br>
       Chine, province du Yunnan, Latami Dashi-Lame, 2006,  <a href="../../membres/michaud.htm">Alexis Michaud</a></p>
-      <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-NRU_Naissance_du_Lac_V2_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">La naissance du lac (version 2)</a><br>
+      <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-ff590185-32d0-3939-a8d1-f3ed34b98673"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">La naissance du lac (version 2)</a><br>
       Chine, province du Yunnan, Latami Dashi-Lame, 2007,  <a href="../../membres/michaud.htm">Alexis Michaud</a></p>
-      <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-NRU_Naissance_du_Lac_V3_SOUND&idref=crdo-NRU_Naissance_du_Lac_V3"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0">La naissance du lac (version 3)</a><br>
+      <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-1fee21d5-125f-313d-aab7-121aa9c2cac5&idref=cocoon-2c55a91e-c666-3033-8d07-09da47d9f2ba"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0">La naissance du lac (version 3)</a><br>
       Chine, province du Yunnan, Latami Dashi-Lame, 2008,  <a href="../../membres/michaud.htm">Alexis Michaud</a></p>
       
 <p>Le lac de /ɭo˧ʂv̩˩/, appelé « lac Lugu » en chinois, est généralement désigné en na comme « le Lac », /hi˩nɑ˧mi˧/. Il tient une place centrale dans la géographie du territoire na, et est l'un des principaux lieux symboliques de la culture na/mosuo. Cette légende raconte comment il serait né d'un déluge causé par l'avidité des hommes. Elle explique aussi l'origine des bateaux traditionnellement employés sur le lac.

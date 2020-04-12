@@ -8,7 +8,7 @@ arem</h1></div>
             <h4 align="left">Ressources
 :</h4>
             <p class="intertitre" align="left"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
             <a href="../corpus/list_rsc.php?lg=Arem&amp;aff=arem"
  target="_blank">Acc&egrave;s
 &agrave; toutes les ressources</a></p>

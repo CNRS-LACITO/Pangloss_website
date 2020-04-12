@@ -10,7 +10,7 @@
 
 
       
-            <p class="intertitre"><a href="../../ALC/Languages/Na_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="a" border="0" height="15" width="15">Na</a>: a brief note<br>
+            <p class="intertitre"><a href="../../ALC/Languages/Na_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../images/icones/info.gif" alt="a" border="0" height="15" width="15">Na</a>: a brief note<br>
               Na: Fieldwork blog (<a href="../fieldwork/Na_fw-Yongning_en.htm">Yongning 2006-2012</a>)</p>
 
 
@@ -63,7 +63,7 @@ of Yongning
 
 
       
-            <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/list_rsc_en.php?lg=Na&amp;aff=Na" target="_blank"> Click here to access a list of all
+            <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="http://pangloss.cnrs.fr/corpus/list_rsc_en.php?lg=Na&amp;aff=Na" target="_blank"> Click here to access a list of all
 available resources</a></p>
 
 
@@ -313,7 +313,7 @@ and translated narratives</h3>
             <p>To date, 18 transcribed narratives are available. Eight
 of
 them have word-level, sentence-level and text-level translations into
-Chinese and French; to date, only one of these (<a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_MARIAGE_DE_LA_SOEUR_V1_SOUND&amp;idref=crdo-NRU_Mariage_De_La_Soeur_V1" target="_blank">"The
+Chinese and French; to date, only one of these (<a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-3dd9341b-647a-33d3-b0fd-2b0ab0e7f638&amp;idref=cocoon-46ae2130-95ad-342d-9606-ef3d47594bee" target="_blank">"The
 sister's wedding", version 1</a>)
 has English glosses. The others have word-level,
 sentence-level and text-level translations into French; some also have
@@ -357,7 +357,7 @@ to study the numerous tonal processes at play in Na.</p>
           <tr>
 
 
-            <td> <img src="../../images/images_pangloss/haut_parleur_s.png" height="22" width="20"> </td>
+            <td> <img src="../images/images_pangloss/haut_parleur_s.png" height="22" width="20"> </td>
 
 
             <td> Click on this icon to access the <b>sound
@@ -370,7 +370,7 @@ recording</b> </td>
           <tr>
 
 
-            <td> <img src="../../images/icones/Txt_Inter_parchemin.jpg" height="30" width="30"> </td>
+            <td> <img src="../images/icones/Txt_Inter_parchemin.jpg" height="30" width="30"> </td>
 
 
             <td> Click on this icon to access the <b>text,
@@ -388,7 +388,7 @@ until the entire sound file has been loaded before clicking the
           <tr>
 
 
-            <td> <img src="../../images/icones/egg2.jpg" height="25" width="25"> </td>
+            <td> <img src="../images/icones/egg2.jpg" height="25" width="25"> </td>
 
 
             <td>This icon indicates that an <b>electroglottographic
@@ -418,21 +418,21 @@ right-click to download. </td>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_MARIAGE_DE_LA_SOEUR_V1_SOUND&amp;idref=crdo-NRU_Mariage_De_La_Soeur_V1" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">The sister's
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-3dd9341b-647a-33d3-b0fd-2b0ab0e7f638&amp;idref=cocoon-46ae2130-95ad-342d-9606-ef3d47594bee" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">The sister's
 wedding (version 1)</a><br>
 
 
 Date recorded: 2006.</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NRU_Mariage_De_La_Soeur_V2_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">The sister's
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-9b6fe6cf-0338-3482-9125-b1628aa0e459" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">The sister's
 wedding (version 2)</a><br>
 
 
 Date recorded: 2007.</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_Mariage_De_La_Soeur_V3_SOUND&amp;idref=crdo-NRU_Mariage_De_La_Soeur_V3" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">The sister's
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-9245e7d0-3e19-3eac-8f3e-2dc3a04bbf43&amp;idref=cocoon-b5285065-cb88-3de1-b3d6-9cab013681f7" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">The sister's
 wedding (version 3)</a><br>
 
 
@@ -481,14 +481,14 @@ recording is the best.<br>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NRU_Naissance_du_Lac_V1_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">How the Lake
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-4bd41f19-8a74-3607-bb8e-fc9709d9d5bc" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">How the Lake
 was created (version 1)</a><br>
 
 
 Date recorded: 2006.</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NRU_Naissance_du_Lac_V2_SOUND" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../../images/images_pangloss/haut_parleur_s.png" alt="a">How
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-ff590185-32d0-3939-a8d1-f3ed34b98673" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../images/images_pangloss/haut_parleur_s.png" alt="a">How
 the Lake
 was created (version 2)</a><br>
 
@@ -496,14 +496,14 @@ was created (version 2)</a><br>
 Date recorded: 2007.</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_Naissance_du_Lac_V3_SOUND&amp;idref=crdo-NRU_Naissance_du_Lac_V3" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">How the Lake
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-1fee21d5-125f-313d-aab7-121aa9c2cac5&amp;idref=cocoon-2c55a91e-c666-3033-8d07-09da47d9f2ba" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">How the Lake
 was created (version 3)</a><br>
 
 
 Date recorded: 2008.</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_Naissance_du_Lac_V4_SOUND&amp;idref=crdo-NRU_Naissance_du_Lac_V4" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">How the Lake
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-cc14e484-fec4-3372-9ea9-27c155fdb682&amp;idref=cocoon-0868d774-d053-3f73-b9e1-d5a4eebb69f4" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">How the Lake
 was created (version 4)</a><br>
 
 
@@ -542,15 +542,15 @@ more detailed.</p>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_AGRICULTURAL_ACTIVITIES_SOUND&amp;idref=crdo-NRU_AGRICULTURAL_ACTIVITIES" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Agriculture
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-411e7a4a-d4f4-39d2-babb-2fa8ab22d2a1&amp;idref=cocoon-332421c6-3162-3e8b-8127-9968f5576ae5" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Agriculture
 (version 1)</a><br>
 
 
 Date recorded: 2007. </td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_AGRICULTURE2_SOUND" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../../images/images_pangloss/haut_parleur_s.png" alt="a">Agriculture
-(version 2)</a> <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-NRU_F4_AGRICULTURE2_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25"><span style="font-weight: bold;"></span></a><br>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-3bdc1168-be17-3675-88f0-53c9a4bc06f3" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../images/images_pangloss/haut_parleur_s.png" alt="a">Agriculture
+(version 2)</a> <a href="http://pangloss.cnrs.fr/audio/crdo-NRU_F4_AGRICULTURE2_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25"><span style="font-weight: bold;"></span></a><br>
 
 
 Date recorded: 2012.</td>
@@ -581,14 +581,14 @@ one another in the course of one year.</p>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_TIGER_SOUND&amp;idref=crdo-NRU_TIGER" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Tiger
-(version 1)</a> <a target="_blank" href="http://lacito.vjf.cnrs.fr/pangloss/audio/F4_36_Tiger_withEGG_EGG.wav" title="Le fichier EGG"> <img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25"></a><br>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-58fde9ab-4848-3235-a975-778c3c45fbe9&amp;idref=cocoon-cf5caeff-404f-3bd7-bee4-9e31aeea6af7" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Tiger
+(version 1)</a> <a target="_blank" href="http://pangloss.cnrs.fr/audio/F4_36_Tiger_withEGG_EGG.wav" title="Le fichier EGG"> <img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25"></a><br>
 
 
 Date recorded: 2011. </td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TIGER2_SOUND&amp;idref=crdo-NRU_F4_TIGER2" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../../images/images_pangloss/haut_parleur_s.png" alt="a">Tiger
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-e00d9957-232f-3ea1-96a1-71e4b6ad67aa&amp;idref=cocoon-637a5f52-cc6a-38e5-a551-5cd424d8f211" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../images/images_pangloss/haut_parleur_s.png" alt="a">Tiger
 (version 2)</a><span style="font-weight: bold;"></span><br>
 
 
@@ -623,8 +623,8 @@ heavenly justice.</p>
 
             <td>
             
-                  <p><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_DOG_SOUND&amp;idref=crdo-NRU_DOG" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Dog (version
-1)</a>&nbsp;<a target="_blank" href="http://lacito.vjf.cnrs.fr/pangloss/audio/F4_35_Dog_withEGG_EGG.wav" title="Le fichier EGG"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25"></a>
+                  <p><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-a7055e49-797d-3784-a6fd-a0569f2cccda&amp;idref=cocoon-291fcf81-447d-3969-b900-99383564021c" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Dog (version
+1)</a>&nbsp;<a target="_blank" href="http://pangloss.cnrs.fr/audio/F4_35_Dog_withEGG_EGG.wav" title="Le fichier EGG"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25"></a>
             <br>
 
 
@@ -634,7 +634,7 @@ Date recorded: 2011. </p>
             </td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_DOG2_SOUND&amp;idref=crdo-NRU_F4_DOG2" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a">Dog
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-4a89f909-3102-3033-8afa-0b3bf27fe908&amp;idref=cocoon-846ea293-6326-3a13-8a5d-973f69d19b35" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a">Dog
 (version 2)</a><span style="font-weight: bold;"></span><br>
 
 
@@ -670,8 +670,8 @@ in Na culture.</p>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_REWARD_SOUND&amp;idref=crdo-NRU_F4_REWARD" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Reward</a>
-            <a target="_blank" href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-NRU_F4_REWARD_EGG.wav" title="Le fichier EGG"> <img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25"></a><br>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-1d91ab4c-fea9-3fd7-976f-e6753a255d1c&amp;idref=cocoon-df9440ad-68a1-31ed-92fa-9be9305ba0d5" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Reward</a>
+            <a target="_blank" href="http://pangloss.cnrs.fr/audio/crdo-NRU_F4_REWARD_EGG.wav" title="Le fichier EGG"> <img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25"></a><br>
 
 
 Date
@@ -713,15 +713,15 @@ undeviating honesty.</td>
 
             <td>
             
-                  <p><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_HOUSEBUILDING_SOUND&amp;idref=crdo-NRU_F4_HOUSEBUILDING" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Housebuilding:
-the process of building a house (version 1)</a>&nbsp;<a target="_blank" href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-NRU_F4_HOUSEBUILDING_EGG.wav" title="Le fichier EGG"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25"></a>
+                  <p><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-d1b7aaca-f105-3917-9bb3-36365afe85f1&amp;idref=cocoon-c0475f29-6935-3a53-8da5-6ff8b012ef7c" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Housebuilding:
+the process of building a house (version 1)</a>&nbsp;<a target="_blank" href="http://pangloss.cnrs.fr/audio/crdo-NRU_F4_HOUSEBUILDING_EGG.wav" title="Le fichier EGG"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25"></a>
 (date recorded: 2011) </p>
 
 
             </td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_HOUSEBUILDING2_SOUND" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../../images/images_pangloss/haut_parleur_s.png" alt="a">Housebuilding:
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-fef3d2b8-7b82-371e-be90-c02850fa95e6" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../images/images_pangloss/haut_parleur_s.png" alt="a">Housebuilding:
 the process of building a house (version 2)</a><span style="font-weight: bold;"></span><br>
 
 
@@ -768,7 +768,7 @@ available:</h3>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_BURIEDALIVE_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">Buried
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-b1074859-ea4d-36af-abbc-66e53f845ba1" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">Buried
 alive
 (version 1)</a><span style="font-weight: bold;"></span><br>
 
@@ -776,8 +776,8 @@ alive
 Date recorded: 2011.&nbsp;<span style="font-weight: bold;"></span></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_BURIEDALIVE2_SOUND&amp;idref=crdo-NRU_F4_BURIEDALIVE2" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Buried alive
-(version 2)</a>&nbsp;<a href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-NRU_F4_BURIEDALIVE2_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-0f6d7ca2-2fbd-3601-b3a5-b54232b43def&amp;idref=cocoon-fa2b453c-61b6-3551-aa70-570cf921cd79" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Buried alive
+(version 2)</a>&nbsp;<a href="http://pangloss.cnrs.fr/audio/crdo-NRU_F4_BURIEDALIVE2_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
             </a><br>
 
 
@@ -785,8 +785,8 @@ Date recorded: 2012. [Only French translations have been provided so
 far.]</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_BURIEDALIVE3_SOUND&amp;idref=crdo-NRU_F4_BURIEDALIVE3" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Buried alive
-(version 3)</a>&nbsp;<a href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-NRU_F4_BURIEDALIVE3_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25"></a><br>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-a272f349-18eb-34bf-82d6-6a7d9f66df5e&amp;idref=cocoon-65f0ae3c-b14b-3445-92a8-9b59b6228a4e" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Buried alive
+(version 3)</a>&nbsp;<a href="http://pangloss.cnrs.fr/audio/crdo-NRU_F4_BURIEDALIVE3_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25"></a><br>
 
 
 Date recorded: 2012. (Note: this is the narrator's preferred version.)</td>
@@ -823,7 +823,7 @@ marriage, and how the two families came to the rescue.</p>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_CARAVANS_SOUND&amp;idref=crdo-NRU_F4_CARAVANS" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Caravans</a>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-8784cd43-3edf-3396-b026-bd0fd068578b&amp;idref=cocoon-fc5c16dc-541c-324c-b25e-040d65fcd0f0" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Caravans</a>
             <br>
 
 
@@ -859,7 +859,7 @@ twentieth century.&nbsp;</td>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_RENAMING_SOUND&amp;idref=crdo-NRU_F4_RENAMING" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Renaming</a><br>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-e891f346-fbec-3fb4-8037-8d0c5de3a898&amp;idref=cocoon-58a9027a-6908-3bd2-8149-d6df286df3e5" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Renaming</a><br>
 
 
 Date recorded: 2011. [Only French translations have been provided so
@@ -899,15 +899,15 @@ parent--a role comparable to that of stepfather or stepmother.</td>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_SEEDS_SOUND" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../../images/images_pangloss/haut_parleur_s.png" alt="a">Seeds
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-dcdaa62d-55ee-3a42-9c5d-e2ec0124c11e" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../images/images_pangloss/haut_parleur_s.png" alt="a">Seeds
 (version 1)</a><span style="font-weight: bold;"></span><br>
 
 
 Date recorded: August 2011.</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_SEEDS2_SOUND&amp;idref=crdo-NRU_F4_SEEDS2" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Seeds
-(version 2)</a> <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-NRU_F4_SEEDS2_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25"></a><br>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-ee4ba82e-1228-30b8-ad55-2aec90f327e3&amp;idref=cocoon-9ea4eb64-e373-34c0-9bf9-469c9802cfc4" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Seeds
+(version 2)</a> <a href="http://pangloss.cnrs.fr/audio/crdo-NRU_F4_SEEDS2_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25"></a><br>
 
 
 Date recorded: November 2011. [Only
@@ -941,7 +941,7 @@ crops.</p>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_HEALING_SOUND&amp;idref=crdo-NRU_F4_HEALING" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Healing </a><br>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-c2525592-ae0b-3331-953d-5b597a933605&amp;idref=cocoon-e0861ff5-5fe5-30d3-9722-bcdb8d92bec6" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Healing </a><br>
 
 
 Date recorded: 2011. [Only French translations have
@@ -975,21 +975,21 @@ disease, mostly through rituals, in traditional Na society.</td>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_ELDERS_SOUND" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../../images/images_pangloss/haut_parleur_s.png" alt="a">Elders
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-8803bd88-6652-36bf-9279-4b9f3171f5d1" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../images/images_pangloss/haut_parleur_s.png" alt="a">Elders
 (version 1)</a><span style="font-weight: bold;"></span><br>
 
 
 Date recorded: 2006.</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_ELDERS2_SOUND" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../../images/images_pangloss/haut_parleur_s.png" alt="a">Elders
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-ece41e79-6030-3687-9427-179b2bfae651" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../images/images_pangloss/haut_parleur_s.png" alt="a">Elders
 (version 2)</a><span style="font-weight: bold;"></span><br>
 
 
 Date recorded: 2007.</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_ELDERS3_SOUND&amp;idref=crdo-NRU_F4_ELDERS3" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Elders
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-c9cc6c44-aac1-340b-8bb1-b1a9a5909572&amp;idref=cocoon-f1d051f8-3671-3550-bff7-ae51a6340eff" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Elders
 (version 3) </a><br>
 
 
@@ -997,14 +997,14 @@ Date recorded: 2011. [Only French
 translations have been provided so far.]</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_ELDERS4_SOUND" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../../images/images_pangloss/haut_parleur_s.png" alt="a">Elders
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-9f86f34e-8804-3af1-b85d-1a1a78767607" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../images/images_pangloss/haut_parleur_s.png" alt="a">Elders
 (version 4)<span style="font-weight: bold;"></span></a><br>
 
 
 Date recorded: 2011.</td>
 
 
-            <td><img style="border: 0px solid ; width: 20px; height: 20px;" src="../../images/images_pangloss/haut_parleur_s.png" alt="a">Elders
+            <td><img style="border: 0px solid ; width: 20px; height: 20px;" src="../images/images_pangloss/haut_parleur_s.png" alt="a">Elders
 (version 5)<span style="font-weight: bold;"></span><br>
 
 
@@ -1041,13 +1041,13 @@ and&nbsp;life in the traditional extended family.</p>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_FOOD_SHORTAGE_SOUND&amp;idref=crdo-NRU_F4_FOOD_SHORTAGE" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Food shortage</a><br>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-a65d0fef-a043-3384-90ee-4a2d96cc4da2&amp;idref=cocoon-7d45f80a-c5df-32eb-b3c7-2cbc213b440f" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Food shortage</a><br>
 
 
 Date recorded: 2011.&nbsp;</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_FOOD_SHORTAGE2_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">Food
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-adf9c39f-e558-36ac-963a-e5bf8f76e812" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">Food
 shortage, version 2.</a><br>
 
 
@@ -1081,7 +1081,7 @@ parents set out to sell children, and then changed their mind.</td>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_FUNERAL_SOUND&amp;idref=crdo-NRU_F4_FUNERAL" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Funeral</a><br>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-e0b6b035-0165-3741-ab0a-4acf46894dea&amp;idref=cocoon-1aef53a8-ea13-3309-828f-588cc8c9f115" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Funeral</a><br>
 
 
 Date recorded: 2012.&nbsp;</td>
@@ -1113,7 +1113,7 @@ Date recorded: 2012.&nbsp;</td>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_MOUNTAINS_SOUND&amp;idref=crdo-NRU_F4_MOUNTAINS" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Mountains</a><br>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-59c8c373-fa1e-3667-b855-a30c8e686136&amp;idref=cocoon-d4be7eb6-7397-3b62-b28e-5da0bd41e5aa" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Mountains</a><br>
 
 
 Date recorded: 2011.&nbsp;</td>
@@ -1170,10 +1170,10 @@ narratives</h3>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_FUNERAL_CUSTOM_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-64746e47-e29e-36fc-9b81-444433975f36" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_FUNERAL_CUSTOM_SOUND&amp;lg=Na" title="A propos de A funeral custom" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-64746e47-e29e-36fc-9b81-444433975f36&amp;lg=Na" title="A propos de A funeral custom" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1192,10 +1192,10 @@ funeral custom</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_ADOPTING_PETS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-7c65df70-5f06-369e-a029-c0d82dab64eb" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_ADOPTING_PETS_SOUND&amp;lg=Na" title="A propos de Adopting pets: dogs and cats" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-7c65df70-5f06-369e-a029-c0d82dab64eb&amp;lg=Na" title="A propos de Adopting pets: dogs and cats" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1213,10 +1213,10 @@ funeral custom</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_ASHES_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-007ffc02-bc97-3ffb-8396-44e481792cfd" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_ASHES_SOUND&amp;lg=Na" title="A propos de Ashes: How the ashes are collected after cremation" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-007ffc02-bc97-3ffb-8396-44e481792cfd&amp;lg=Na" title="A propos de Ashes: How the ashes are collected after cremation" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1234,10 +1234,10 @@ funeral custom</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_BEGGARS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-8216d123-9f92-35f1-9f22-5d1a12cf107a" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_BEGGARS_SOUND&amp;lg=Na" title="A propos de Beggars" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-8216d123-9f92-35f1-9f22-5d1a12cf107a&amp;lg=Na" title="A propos de Beggars" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1255,10 +1255,10 @@ funeral custom</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_BELIEF_IN_GHOSTS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-3b1b8a4a-7a41-34af-b23c-6ea0c15ec5fd" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_BELIEF_IN_GHOSTS_SOUND&amp;lg=Na" title="A propos de Belief in ghosts: a conversational account of vampires, and of how the living miss their dead relatives" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-3b1b8a4a-7a41-34af-b23c-6ea0c15ec5fd&amp;lg=Na" title="A propos de Belief in ghosts: a conversational account of vampires, and of how the living miss their dead relatives" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1276,10 +1276,10 @@ funeral custom</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_BENEVOLENCE_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-1914898a-058e-3801-a440-1d21efeca266" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_BENEVOLENCE_SOUND&amp;lg=Na" title="A propos de Benevolence" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-1914898a-058e-3801-a440-1d21efeca266&amp;lg=Na" title="A propos de Benevolence" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1297,10 +1297,10 @@ funeral custom</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_BOUNDARIES_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-b72306e7-be09-3f54-90a5-6f33e3eda488" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_BOUNDARIES_SOUND&amp;lg=Na" title="A propos de Boundaries: an account of boundaries within the Na geography" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-b72306e7-be09-3f54-90a5-6f33e3eda488&amp;lg=Na" title="A propos de Boundaries: an account of boundaries within the Na geography" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1318,10 +1318,10 @@ funeral custom</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_CHICKEN_DIVINATION_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-9d99ae7b-b211-3a97-8682-74fdbc4139a2" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_CHICKEN_DIVINATION_SOUND&amp;lg=Na" title="A propos de Chicken divination: Fortune-telling by examining chicken bones" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-9d99ae7b-b211-3a97-8682-74fdbc4139a2&amp;lg=Na" title="A propos de Chicken divination: Fortune-telling by examining chicken bones" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1339,10 +1339,10 @@ funeral custom</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_CHILDREN_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-e454068b-9049-3387-9343-02a8ea3e6ded" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_CHILDREN_SOUND&amp;lg=Na" title="A propos de Children: Customs and rites surrounding the birth of a child" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-e454068b-9049-3387-9343-02a8ea3e6ded&amp;lg=Na" title="A propos de Children: Customs and rites surrounding the birth of a child" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1360,10 +1360,10 @@ funeral custom</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_CHOOSING_A_DABA_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-559d10be-359d-30bf-9d71-b71ab515200b" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_CHOOSING_A_DABA_SOUND&amp;lg=Na" title="A propos de Choosing a Daba: on preferences in choosing a priest of the local religion to perform rituals" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-559d10be-359d-30bf-9d71-b71ab515200b&amp;lg=Na" title="A propos de Choosing a Daba: on preferences in choosing a priest of the local religion to perform rituals" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1381,10 +1381,10 @@ funeral custom</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_COMING_OF_AGE_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-81e86412-7c0f-3aa5-8857-0a105e0ceec0" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_COMING_OF_AGE_SOUND&amp;lg=Na" title="A propos de Coming of age: the ritual performed at age 13 (version 1)" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-81e86412-7c0f-3aa5-8857-0a105e0ceec0&amp;lg=Na" title="A propos de Coming of age: the ritual performed at age 13 (version 1)" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1402,10 +1402,10 @@ funeral custom</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_COMING_OF_AGE2_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-769f2865-8ebe-33d6-87c4-b6b7cd7d6e83" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_COMING_OF_AGE2_SOUND&amp;lg=Na" title="A propos de Coming of age: the ritual performed at age 13 (version 2)" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-769f2865-8ebe-33d6-87c4-b6b7cd7d6e83&amp;lg=Na" title="A propos de Coming of age: the ritual performed at age 13 (version 2)" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1423,10 +1423,10 @@ funeral custom</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_CONVERSATIONS_OF_YORE_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-e8d508ce-ff9e-350c-973e-5c38616484c7" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_CONVERSATIONS_OF_YORE_SOUND&amp;lg=Na" title="A propos de Conversations of yore: an account of some conversations in the family" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-e8d508ce-ff9e-350c-973e-5c38616484c7&amp;lg=Na" title="A propos de Conversations of yore: an account of some conversations in the family" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1444,10 +1444,10 @@ funeral custom</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_COOKING_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-3e93a41d-9664-3e9f-90ee-09307ce6c86e" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_COOKING_SOUND&amp;lg=Na" title="A propos de Cooking" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-3e93a41d-9664-3e9f-90ee-09307ce6c86e&amp;lg=Na" title="A propos de Cooking" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1465,10 +1465,10 @@ funeral custom</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_COOKING_HABITS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-ab2ba77a-adce-381c-adbb-45f74b5367fb" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_COOKING_HABITS_SOUND&amp;lg=Na" title="A propos de Cooking habits: A humorous saying about the Na, Pumi and Han (Chinese)" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-ab2ba77a-adce-381c-adbb-45f74b5367fb&amp;lg=Na" title="A propos de Cooking habits: A humorous saying about the Na, Pumi and Han (Chinese)" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1486,10 +1486,10 @@ funeral custom</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_DABA_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-d8a75c17-b026-3eed-baf0-1fd5188f2882" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_DABA_SOUND&amp;lg=Na" title="A propos de Daba: the priest of the local religion (version 1)" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-d8a75c17-b026-3eed-baf0-1fd5188f2882&amp;lg=Na" title="A propos de Daba: the priest of the local religion (version 1)" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1507,10 +1507,10 @@ funeral custom</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_DABA2_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-65cfa1f5-2d25-365c-8014-04a7984ac423" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_DABA2_SOUND&amp;lg=Na" title="A propos de Daba: the priest of the local religion (version 2)" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-65cfa1f5-2d25-365c-8014-04a7984ac423&amp;lg=Na" title="A propos de Daba: the priest of the local religion (version 2)" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1528,10 +1528,10 @@ funeral custom</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_DANCING_DEMON_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-7dfbf5b1-73a5-32f4-b6d3-361cf51a3f13" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_DANCING_DEMON_SOUND&amp;lg=Na" title="A propos de Dancing Demon" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-7dfbf5b1-73a5-32f4-b6d3-361cf51a3f13&amp;lg=Na" title="A propos de Dancing Demon" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1550,10 +1550,10 @@ Demon</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_DEMISE_OF_PRESERVED_PIG_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-f64de769-1d41-3fac-8f52-d81053ad361d" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_DEMISE_OF_PRESERVED_PIG_SOUND&amp;lg=Na" title="A propos de Demise of preserved pig: A story of changing customs" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-f64de769-1d41-3fac-8f52-d81053ad361d&amp;lg=Na" title="A propos de Demise of preserved pig: A story of changing customs" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1571,10 +1571,10 @@ Demon</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_DEMON_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-c24b7892-ee59-3b7d-adeb-1c90037f517c" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_DEMON_SOUND&amp;lg=Na" title="A propos de Demon: a brief presentation of beliefs concerning female demons" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-c24b7892-ee59-3b7d-adeb-1c90037f517c&amp;lg=Na" title="A propos de Demon: a brief presentation of beliefs concerning female demons" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1592,10 +1592,10 @@ Demon</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_DEMON2_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-78b9a4e1-7a47-3279-b543-21b3ab586c8b" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_DEMON2_SOUND&amp;lg=Na" title="A propos de Demon, version 2: a very short addition to the &quot;Demon&quot; recording, explaining that demons like sparsely populated areas" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-78b9a4e1-7a47-3279-b543-21b3ab586c8b&amp;lg=Na" title="A propos de Demon, version 2: a very short addition to the &quot;Demon&quot; recording, explaining that demons like sparsely populated areas" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1613,10 +1613,10 @@ Demon</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_DOMESTIC_ANIMALS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-bb76b652-df80-3ff3-b3db-91635815cfc4" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_DOMESTIC_ANIMALS_SOUND&amp;lg=Na" title="A propos de Domestic animals, part 1: Horses and cows" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-bb76b652-df80-3ff3-b3db-91635815cfc4&amp;lg=Na" title="A propos de Domestic animals, part 1: Horses and cows" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1635,10 +1635,10 @@ animals, part 1: Horses a...</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_DOMESTIC_ANIMALS2_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-e3970ff2-c284-3c02-a64c-889f2e13b623" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_DOMESTIC_ANIMALS2_SOUND&amp;lg=Na" title="A propos de Domestic animals, part 2: Chicken and cats" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-e3970ff2-c284-3c02-a64c-889f2e13b623&amp;lg=Na" title="A propos de Domestic animals, part 2: Chicken and cats" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1657,10 +1657,10 @@ animals, part 2: Chicken ...</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_DOMESTIC_ANIMALS3_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-cb4ec93a-5efc-3dc4-8b9f-148cf1ed60e3" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_DOMESTIC_ANIMALS3_SOUND&amp;lg=Na" title="A propos de Domestic animals, part 3: Dogs" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-cb4ec93a-5efc-3dc4-8b9f-148cf1ed60e3&amp;lg=Na" title="A propos de Domestic animals, part 3: Dogs" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1678,10 +1678,10 @@ animals, part 2: Chicken ...</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_DOMESTIC_ANIMALS4_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-96b029e1-fa34-365b-983f-8b036c0acf7c" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_DOMESTIC_ANIMALS4_SOUND&amp;lg=Na" title="A propos de Domestic animals, part 4: Water buffalos and other large cattle" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-96b029e1-fa34-365b-983f-8b036c0acf7c&amp;lg=Na" title="A propos de Domestic animals, part 4: Water buffalos and other large cattle" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1699,10 +1699,10 @@ animals, part 2: Chicken ...</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_DUMB_CHILDREN_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-42e5922a-84f7-3a06-888b-e793dee7c5cb" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_DUMB_CHILDREN_SOUND&amp;lg=Na" title="A propos de Dumb children: how people used to conduct rites for children who did not yet speak at age two" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-42e5922a-84f7-3a06-888b-e793dee7c5cb&amp;lg=Na" title="A propos de Dumb children: how people used to conduct rites for children who did not yet speak at age two" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1720,10 +1720,10 @@ animals, part 2: Chicken ...</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_FEASTS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-28f4be37-b146-3c51-b309-f59711b4e242" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_FEASTS_SOUND&amp;lg=Na" title="A propos de Feasts" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-28f4be37-b146-3c51-b309-f59711b4e242&amp;lg=Na" title="A propos de Feasts" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1741,10 +1741,10 @@ animals, part 2: Chicken ...</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_FISHING_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-f345f524-1f96-3b83-a18e-4891783077bb" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href=""http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_FISHING_SOUND&amp;lg=Na" title="A propos de Fishing" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href=""http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-f345f524-1f96-3b83-a18e-4891783077bb&amp;lg=Na" title="A propos de Fishing" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1779,10 +1779,10 @@ animals, part 2: Chicken ...</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_FOLK_ETYMOLOGY_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-28f32c28-4a67-3226-96e6-5a8664ac0cd5" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_FOLK_ETYMOLOGY_SOUND&amp;lg=Na" title="A propos de Folk etymology: Yongning as 'the restful place'" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-28f32c28-4a67-3226-96e6-5a8664ac0cd5&amp;lg=Na" title="A propos de Folk etymology: Yongning as 'the restful place'" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1800,10 +1800,10 @@ animals, part 2: Chicken ...</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_FOUNDING_NEW_HOME_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-4bfeea72-594c-327b-9190-3b07b0acc87b" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_FOUNDING_NEW_HOME_SOUND&amp;lg=Na" title="A propos de Founding New Home: How families handle situations where the family members are so numerous that the house cannot accommodate them all anymore" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-4bfeea72-594c-327b-9190-3b07b0acc87b&amp;lg=Na" title="A propos de Founding New Home: How families handle situations where the family members are so numerous that the house cannot accommodate them all anymore" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1821,10 +1821,10 @@ animals, part 2: Chicken ...</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_GHOSTS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-9b188430-642c-3d45-af63-46c8ccf5e38a" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_GHOSTS_SOUND&amp;lg=Na" title="A propos de Ghosts: an expanded version of the description of ghosts in the recording &quot;Ghosts and Spirits&quot;" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-9b188430-642c-3d45-af63-46c8ccf5e38a&amp;lg=Na" title="A propos de Ghosts: an expanded version of the description of ghosts in the recording &quot;Ghosts and Spirits&quot;" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1842,10 +1842,10 @@ animals, part 2: Chicken ...</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_GHOSTS_AND_SPIRITS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-c19a04ba-5b8c-3424-9a88-24408c431c93" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_GHOSTS_AND_SPIRITS_SOUND&amp;lg=Na" title="A propos de Ghosts and spirits: Types of ghosts and spirits in Na culture" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-c19a04ba-5b8c-3424-9a88-24408c431c93&amp;lg=Na" title="A propos de Ghosts and spirits: Types of ghosts and spirits in Na culture" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1863,16 +1863,16 @@ animals, part 2: Chicken ...</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_HOW_I_LEARNT_AUDIO_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-f0fce6c1-a087-3f4f-a26b-46e6b9065ea3" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_HOW_I_LEARNT_AUDIO_SOUND&amp;lg=Na" title="A propos de How I learnt: an account of how the narrator learnt about the Na's traditions" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-f0fce6c1-a087-3f4f-a26b-46e6b9065ea3&amp;lg=Na" title="A propos de How I learnt: an account of how the narrator learnt about the Na's traditions" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
 
 
-                  <td valign="top"><a target="_blank" href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-NRU_F4_HOW_I_LEARNT_EGG.wav" title="Le fichier EGG"> <img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25"></a></td>
+                  <td valign="top"><a target="_blank" href="http://pangloss.cnrs.fr/audio/crdo-NRU_F4_HOW_I_LEARNT_EGG.wav" title="Le fichier EGG"> <img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25"></a></td>
 
 
                   <td title="How I learnt: an account of how the narrator learnt about the Na's traditions" valign="top">How I learnt: an account of how th...</td>
@@ -1884,10 +1884,10 @@ animals, part 2: Chicken ...</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_LIFESTORY_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-85ead1cb-b461-3296-8420-72079b846fc6" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_LIFESTORY_SOUND&amp;lg=Na" title="A propos de Life story: the narrator's life story" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-85ead1cb-b461-3296-8420-72079b846fc6&amp;lg=Na" title="A propos de Life story: the narrator's life story" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1905,10 +1905,10 @@ animals, part 2: Chicken ...</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_LONESOME_ELDERS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-44cb677c-4d11-386b-a22e-86d56d5c7844" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_LONESOME_ELDERS_SOUND&amp;lg=Na" title="A propos de Lonesome elders" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-44cb677c-4d11-386b-a22e-86d56d5c7844&amp;lg=Na" title="A propos de Lonesome elders" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1927,10 +1927,10 @@ elders</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_MARKET_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-bb02e7ae-c2e9-32c0-84ef-e05ea4f96264" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_MARKET_SOUND&amp;lg=Na" title="A propos de Market" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-bb02e7ae-c2e9-32c0-84ef-e05ea4f96264&amp;lg=Na" title="A propos de Market" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1948,10 +1948,10 @@ elders</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_MONGOLIAN_VISIT_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-32630b11-4a33-3067-9157-be0e90dd74df" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_MONGOLIAN_VISIT_SOUND&amp;lg=Na" title="A propos de Mongolian visit: the time when a team of artists from Mongolia visited the Na area" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-32630b11-4a33-3067-9157-be0e90dd74df&amp;lg=Na" title="A propos de Mongolian visit: the time when a team of artists from Mongolia visited the Na area" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1969,10 +1969,10 @@ elders</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_MUSHROOMS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-64a19c21-459c-359d-8fbc-e85b1080706e" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_MUSHROOMS_SOUND&amp;lg=Na" title="A propos de Mushrooms: which ones are collected for cooking and for medicine" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-64a19c21-459c-359d-8fbc-e85b1080706e&amp;lg=Na" title="A propos de Mushrooms: which ones are collected for cooking and for medicine" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -1990,10 +1990,10 @@ elders</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_NA_SOCIETY_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-72aad413-f533-3442-8d71-6c834949c5dd" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_NA_SOCIETY_SOUND&amp;lg=Na" title="A propos de Na society" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-72aad413-f533-3442-8d71-6c834949c5dd&amp;lg=Na" title="A propos de Na society" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2012,10 +2012,10 @@ society</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_NAMES_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-b8522dab-b744-30cf-8cf1-f05d74aebc15" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_NAMES_SOUND&amp;lg=Na" title="A propos de Names: how names are given to children" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-b8522dab-b744-30cf-8cf1-f05d74aebc15&amp;lg=Na" title="A propos de Names: how names are given to children" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2033,10 +2033,10 @@ society</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_NAXI_DISCUSSIONS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-9b8aee65-cc0d-3cad-8eb0-ee48c79d3dc5" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_NAXI_DISCUSSIONS_SOUND&amp;lg=Na" title="A propos de Naxi discussions: about conversations with a Naxi friend living in Yongning, close to the narrator's home" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-9b8aee65-cc0d-3cad-8eb0-ee48c79d3dc5&amp;lg=Na" title="A propos de Naxi discussions: about conversations with a Naxi friend living in Yongning, close to the narrator's home" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2054,10 +2054,10 @@ society</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_PRIESTS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-95174d87-92f8-395e-a522-143cfa93d9a5" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_PRIESTS_SOUND&amp;lg=Na" title="A propos de Priests" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-95174d87-92f8-395e-a522-143cfa93d9a5&amp;lg=Na" title="A propos de Priests" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2075,10 +2075,10 @@ society</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_RICE_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-8da8dca4-ded2-36d3-9733-36c2fb5d4f71" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_RICE_SOUND&amp;lg=Na" title="A propos de Rice: the introduction of rice as a crop in the plain of Yongning" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-8da8dca4-ded2-36d3-9733-36c2fb5d4f71&amp;lg=Na" title="A propos de Rice: the introduction of rice as a crop in the plain of Yongning" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2096,10 +2096,10 @@ society</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_SHOES_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-52882fa0-4da8-3e05-968a-9b6427b616e9" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_SHOES_SOUND&amp;lg=Na" title="A propos de Shoes" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-52882fa0-4da8-3e05-968a-9b6427b616e9&amp;lg=Na" title="A propos de Shoes" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2117,10 +2117,10 @@ society</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_SINGING_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-8e656578-c947-3bf1-8e47-15d54f4d5f5d" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_SINGING_SOUND&amp;lg=Na" title="A propos de Singing: a conversational account of how and when the Na used to sing" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-8e656578-c947-3bf1-8e47-15d54f4d5f5d&amp;lg=Na" title="A propos de Singing: a conversational account of how and when the Na used to sing" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2138,10 +2138,10 @@ society</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_SPIRITS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-ded9b3e5-2a07-31c6-9503-b8c9791e63fc" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_SPIRITS_SOUND&amp;lg=Na" title="A propos de Spirits: about two spirits in a sanctuary close to the Yongning monastery" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-ded9b3e5-2a07-31c6-9503-b8c9791e63fc&amp;lg=Na" title="A propos de Spirits: about two spirits in a sanctuary close to the Yongning monastery" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2159,10 +2159,10 @@ society</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_STREAMERS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-011825b9-166c-3f26-8115-0a55366d4c08" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_STREAMERS_SOUND&amp;lg=Na" title="A propos de Streamers: a description of the Buddhist streamers hung on houses" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-011825b9-166c-3f26-8115-0a55366d4c08&amp;lg=Na" title="A propos de Streamers: a description of the Buddhist streamers hung on houses" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2180,10 +2180,10 @@ society</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_SWING_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-b7d87b24-b18f-365e-a9e9-a73c43d26f25" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_SWING_SOUND&amp;lg=Na" title="A propos de Swing: a leisure of the old times" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-b7d87b24-b18f-365e-a9e9-a73c43d26f25&amp;lg=Na" title="A propos de Swing: a leisure of the old times" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2201,10 +2201,10 @@ society</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_SWORD_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-16761985-076b-373a-a00a-6352ec1c9743" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_SWORD_SOUND&amp;lg=Na" title="A propos de Sword: the symbolic value of swords and their use to ward off evil" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-16761985-076b-373a-a00a-6352ec1c9743&amp;lg=Na" title="A propos de Sword: the symbolic value of swords and their use to ward off evil" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2222,10 +2222,10 @@ society</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TABOOS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-95c0d0c0-0078-31a0-a662-26c382f202c9" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_TABOOS_SOUND&amp;lg=Na" title="A propos de Taboos: an account of prohibitions in daily life" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-95c0d0c0-0078-31a0-a662-26c382f202c9&amp;lg=Na" title="A propos de Taboos: an account of prohibitions in daily life" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2243,10 +2243,10 @@ society</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TAKING_CHARGE_OF_RITUALS_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-3b866f72-2ab9-375f-a976-bc325d78db13" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_TAKING_CHARGE_OF_RITUALS_SOUND&amp;lg=Na" title="A propos de Taking charge of rituals: how the narrator takes charge of rituals at the request of others" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-3b866f72-2ab9-375f-a976-bc325d78db13&amp;lg=Na" title="A propos de Taking charge of rituals: how the narrator takes charge of rituals at the request of others" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2264,10 +2264,10 @@ society</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TERRESTRIAL_BRANCHES_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-bcd82e6d-050b-39fe-b475-59f468815ea0" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_TERRESTRIAL_BRANCHES_SOUND&amp;lg=Na" title="A propos de Terrestrial branches: properties associated with one's year of birth" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-bcd82e6d-050b-39fe-b475-59f468815ea0&amp;lg=Na" title="A propos de Terrestrial branches: properties associated with one's year of birth" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2285,16 +2285,16 @@ society</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TOOTH_AUDIO_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-aa681c9b-0a6d-38f8-804d-6c7ddbfa3553" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_TOOTH_AUDIO_SOUND&amp;lg=Na" title="A propos de Tooth: how a fake relic became a real one" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-aa681c9b-0a6d-38f8-804d-6c7ddbfa3553&amp;lg=Na" title="A propos de Tooth: how a fake relic became a real one" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
 
 
-                  <td valign="top"><a target="_blank" href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-NRU_F4_TOOTH_EGG.wav" title="Le fichier EGG"> <img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25"></a></td>
+                  <td valign="top"><a target="_blank" href="http://pangloss.cnrs.fr/audio/crdo-NRU_F4_TOOTH_EGG.wav" title="Le fichier EGG"> <img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25"></a></td>
 
 
                   <td title="Tooth: how a fake relic became a real one" valign="top">Tooth:
@@ -2307,10 +2307,10 @@ how a fake relic became a r...</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TOOTH2_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-97d8c4ce-7326-306d-a052-08a00e4ec089" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_TOOTH2_AUDIO_SOUND&amp;lg=Na" title="A propos de Tooth: how a fake relic became a real one (version 2)" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=crdo-NRU_F4_TOOTH2_AUDIO_SOUND&amp;lg=Na" title="A propos de Tooth: how a fake relic became a real one (version 2)" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2329,16 +2329,16 @@ how a fake relic... (version 2)</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TRADER_AND_HIS_SON_AUDIO_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-f244875e-2231-3a46-9f16-b507bc12b7a6" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_TRADER_AND_HIS_SON_AUDIO_SOUND&amp;lg=Na" title="A propos de Trader and his son: how a trader taught his son how to handle the ups and downs of commerce" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-f244875e-2231-3a46-9f16-b507bc12b7a6&amp;lg=Na" title="A propos de Trader and his son: how a trader taught his son how to handle the ups and downs of commerce" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
 
 
-                  <td valign="top"><a target="_blank" href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-NRU_F4_TRADER_AND_HIS_SON_EGG.wav" title="Le fichier EGG"> <img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25"></a></td>
+                  <td valign="top"><a target="_blank" href="http://pangloss.cnrs.fr/audio/crdo-NRU_F4_TRADER_AND_HIS_SON_EGG.wav" title="Le fichier EGG"> <img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25"></a></td>
 
 
                   <td title="Trader and his son: how a trader taught his son how to handle the ups and downs of commerce" valign="top">Trader and his son: how a trader t...</td>
@@ -2350,16 +2350,16 @@ how a fake relic... (version 2)</td>
                 <tr>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TRADING_AUDIO_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-5831f37a-a1e3-3c9b-a86f-6f920641d708" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_TRADING_AUDIO_SOUND&amp;lg=Na" title="A propos de Trading" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-5831f37a-a1e3-3c9b-a86f-6f920641d708&amp;lg=Na" title="A propos de Trading" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
 
 
-                  <td valign="top"><a target="_blank" href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-NRU_F4_TRADING_EGG.wav" title="Le fichier EGG"> <img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25"></a></td>
+                  <td valign="top"><a target="_blank" href="http://pangloss.cnrs.fr/audio/crdo-NRU_F4_TRADING_EGG.wav" title="Le fichier EGG"> <img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25"></a></td>
 
 
                   <td title="Trading" valign="top">Trading</td>
@@ -2371,10 +2371,10 @@ how a fake relic... (version 2)</td>
                 <tr class="odd">
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_VAMPIRE_SOUND" title="Ecouter" target="_blank"><img class="sansBordure" src="../../images/images_pangloss/haut_parleur_s.png"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-434947fc-00c8-3067-972f-45b26a2ac234" title="Ecouter" target="_blank"><img class="sansBordure" src="../images/images_pangloss/haut_parleur_s.png"></a></td>
 
 
-                  <td valign="top"> <a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-NRU_F4_VAMPIRE_SOUND&amp;lg=Na" title="A propos de Vampire: an expanded version of the description of vampires in the &quot;Ghosts and Spirits&quot; recording" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
+                  <td valign="top"> <a href="http://pangloss.cnrs.fr/corpus/show_metadatas.php?id=cocoon-434947fc-00c8-3067-972f-45b26a2ac234&amp;lg=Na" title="A propos de Vampire: an expanded version of the description of vampires in the &quot;Ghosts and Spirits&quot; recording" target="_blank" onClick="window.open(this.href,'popupLink','width=640,height=400,scrollbars=yes,resizable=yes',1);return false"></a></td>
 
 
                   <td valign="top"> </td>
@@ -2674,7 +2674,7 @@ relevant laws and regulations.&nbsp;</p>
             <p>With a view to strengthening the case for open access to
 the
 data, I also wished to collect the speaker's own views on the topic of
-data diffusion. <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_INTRODUCTION_SOUND" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../../images/images_pangloss/haut_parleur_s.png" alt="a"> An
+data diffusion. <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-97d3136a-4fdd-32a3-b12e-8c9a0afd4066" target="_blank"><img style="border: 0px solid ; width: 20px; height: 20px;" src="../images/images_pangloss/haut_parleur_s.png" alt="a"> An
 oral consent was therefore recorded</a>. My idea was to record a
 short message addressed to
 listeners of the recordings placed online for public access: the
@@ -3167,7 +3167,7 @@ using a real example</th>
       
             <p>A&nbsp;recording was conducted in 2007 to illustrate
 (and verify) tonal oppositions between the tone categories of
-disyllables. This document, <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE_NOUNSINFRAME_2007_SOUND&amp;idref=crdo-NRU_F4_TONE_NOUNSINFRAME_2007" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
+disyllables. This document, <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-55447d76-28e8-3dc7-89ae-d3bd32631b30&amp;idref=cocoon-b725376f-8c57-3cae-86b7-d8b5117c6725" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
 F4_TONE_NOUNSINFRAME_2007</a>,
 essentially
 contains disyllabic nouns (about 300 tokens). The nouns are followed by
@@ -3285,26 +3285,26 @@ categories of verbs, and also to study the tonal behaviour of affixes.</p>
             <td>Reduplication</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_VERB_REDUPL_2007_SOUND&amp;idref=crdo-NRU_F4_VERB_REDUPL_2007" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Verbs_Redupl_F4_2007</a>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-96acb03e-734e-302f-8fe3-c4c4230edb69&amp;idref=cocoon-da8612b1-9059-3cb8-aeff-779d0bcade49" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Verbs_Redupl_F4_2007</a>
             <br>
 
 
 (12 tokens)<br>
 
 
-&nbsp;<a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_VERB_REDUPL_2012_SOUND&amp;idref=crdo-NRU_F4_VERB_REDUPL_2012" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Verbs_Redupl_F4_2012</a>
+&nbsp;<a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-2213501d-eb5f-3d6a-b923-7e6d37f76209&amp;idref=cocoon-d2bdbc68-e164-34ab-a788-1f6a5690220e" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Verbs_Redupl_F4_2012</a>
 (10
 tokens of reduplication, plus 9 non-reduplicated tokens)</td>
 
 
-            <td> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_VERB_REDUPL_2007_SOUND&amp;idref=crdo-NRU_F4_VERB_REDUPL_2007" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Verbs_Redupl_F4_2007</a>
+            <td> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-96acb03e-734e-302f-8fe3-c4c4230edb69&amp;idref=cocoon-da8612b1-9059-3cb8-aeff-779d0bcade49" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Verbs_Redupl_F4_2007</a>
 is an incomplete recording, with tones
 M, H, L and MH only. <br>
 
 
 All six tone categories of verbs (distinguishing M<sub>a</sub>
 and M<sub>b</sub>, L<sub>a</sub> and L<sub>b</sub>)
-are represented in <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_VERB_REDUPL_2012_SOUND&amp;idref=crdo-NRU_F4_VERB_REDUPL_2012" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
+are represented in <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-2213501d-eb5f-3d6a-b923-7e6d37f76209&amp;idref=cocoon-d2bdbc68-e164-34ab-a788-1f6a5690220e" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
 Verbs_Redupl_F4_2012</a>.</td>
 
 
@@ -3317,7 +3317,7 @@ Verbs_Redupl_F4_2012</a>.</td>
             <td>Accomplished</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_ACCOMP_PFV_SOUND&amp;idref=crdo-NRU_F4_ACCOMP_PFV" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Verbs in the
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-13cc3f1f-3769-3668-add0-c47dcc4b3cc9&amp;idref=cocoon-ad66f382-2c49-3728-84fd-16e0260f8590" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Verbs in the
 frame /lə+V+ze/
 (accomplished+verb+perfective)</a> (25 tokens)</td>
 
@@ -3334,7 +3334,7 @@ frame /lə+V+ze/
             <td>Durative</td>
 
 
-            <td> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_VERB_DURATIVE_2007_SOUND&amp;idref=crdo-NRU_F4_VERB_DURATIVE_2007" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Verbs in the
+            <td> <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-39c27a05-d474-35f9-bca6-8136bb144c10&amp;idref=cocoon-de7e9f22-fa41-3e9c-a4e0-e38a993cbaf0" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Verbs in the
 frame /tʰi+V+dʑo/ (durative+verb+progressive)</a> (43 tokens)</td>
 
 
@@ -3353,11 +3353,11 @@ frame /tʰi+V+dʑo/ (durative+verb+progressive)</a> (43 tokens)</td>
             <td>Verbs preceded by the prohibitive: <br>
 
 
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_VERB_PROHIB_2007_SOUND&amp;idref=crdo-NRU_F4_VERB_PROHIB_2007" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">2007
+            <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-820da97c-01cd-3552-bca6-a7290eed311e&amp;idref=cocoon-48fd26d2-1ee1-3fdb-9cad-d1fed1a6d402" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">2007
 recording</a> (29 tokens)<br>
 
 
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_VERB_PROHIB_2008_SOUND&amp;idref=crdo-NRU_F4_VERB_PROHIB_2008" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">2008
+            <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-4397a272-ad03-31c5-9472-221ec0bc8db8&amp;idref=cocoon-3b7f6b0f-f18c-33bb-8edb-78277121643a" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">2008
 recording</a> (10 tokens)</td>
 
 
@@ -3393,7 +3393,7 @@ spatial orientation</h3>
 
 
       
-            <p><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_SPATIAL_ORIENTATION_SOUND&amp;idref=crdo-NRU_F4_SPATIAL_ORIENTATION" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">SpatialOrientation</a></p>
+            <p><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-38ee7eb6-78e9-31c9-9523-ce40dbc03112&amp;idref=cocoon-9e0a0ba2-eb8b-340f-8af0-e2f08145358f" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">SpatialOrientation</a></p>
 
 
       
@@ -4322,18 +4322,18 @@ electroglottographic component</th>
             <td>chunks</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_H1_CHUNKS_003_SOUND&amp;idref=crdo-NRU_H1_CHUNKS_003" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>&nbsp;+
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_H1_Chunks_30to100_F4_26Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">EGG</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-5206b066-e8e7-32d5-acdc-934f3387cb2e&amp;idref=cocoon-bda1f654-d6bf-381a-9776-d148626cbcd5" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>&nbsp;+
+            <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_H1_Chunks_30to100_F4_26Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">EGG</a></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_H1_CHUNKS_002_SOUND&amp;idref=crdo-NRU_H1_CHUNKS_002" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>&nbsp;+&nbsp;<a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_H1_Chunks_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-9e35061d-d6eb-380c-850a-665c42e8082f&amp;idref=cocoon-5b7863c3-beec-37f0-b0c9-df527af94960" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>&nbsp;+&nbsp;<a href="http://pangloss.cnrs.fr/audio/NumPlusCL_H1_Chunks_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_H1_CHUNKS_001_SOUND&amp;idref=crdo-NRU_H1_CHUNKS_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-421b2581-4020-3c01-8432-0420d901169a&amp;idref=cocoon-4c2b9b0c-9511-327c-9ff4-84f6cd5e87af" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
 
 
           </tr>
@@ -4348,8 +4348,8 @@ EGG</a></td>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_H1_HANDSPAN_001_SOUND&amp;idref=crdo-NRU_H1_HANDSPAN_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_H1_Handspan_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-bb37b586-9997-3081-9a2f-d06f0c2a3c71&amp;idref=cocoon-75257e89-abfe-3a85-bee8-c393c13496e0" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_H1_Handspan_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a><br>
 
 
@@ -4434,16 +4434,16 @@ electroglottographic component</th>
             <td>days</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_H2_DAY_003_SOUND&amp;idref=crdo-NRU_H2_DAY_003" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>&nbsp;+
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_H2_Day_30to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">EGG</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-0495876e-1d9e-318a-9f98-982480515c1a&amp;idref=cocoon-690069fd-5d92-392c-9ba0-78980bac6623" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>&nbsp;+
+            <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_H2_Day_30to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">EGG</a></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_H2_DAY_002_SOUND&amp;idref=crdo-NRU_H2_DAY_002" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_H2_Day_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-7f9f8056-d111-3119-bafe-526f4160f0a4&amp;idref=cocoon-817a1ce5-1a84-3734-b6cd-396e26b665b9" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_H2_Day_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_H2_DAY_001_SOUND&amp;idref=crdo-NRU_H2_DAY_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-e101b0bd-68e9-3f2a-91ff-0ce81e3019be&amp;idref=cocoon-9e11285b-cb3e-359c-825b-146477ada21a" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
 
 
           </tr>
@@ -4518,17 +4518,17 @@ electroglottographic component</th>
             <td>knives</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M1_KNIFE_003_SOUND&amp;idref=crdo-NRU_M1_KNIFE_003" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_M1_Knife_30to100_F4_26Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-91489ac2-40dc-383a-af4d-e34c7726a16f&amp;idref=cocoon-51b581ad-0ec9-38ec-b10f-ad2b83a6f68d" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_M1_Knife_30to100_F4_26Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M1_KNIFE_002_SOUND&amp;idref=crdo-NRU_M1_KNIFE_002" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_M1_Knife_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-037c0b5f-33ba-34fb-83c6-39c26e4d09f8&amp;idref=cocoon-a4fc0ab3-149d-3d7a-9e2e-3698c8811b86" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_M1_Knife_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M1_KNIFE_001_SOUND&amp;idref=crdo-NRU_M1_KNIFE_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-40c8b949-16fb-337d-a87e-d5bd908bb15f&amp;idref=cocoon-00af4057-c79b-3b6f-b038-a617dc5993b9" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
 
 
           </tr>
@@ -4543,8 +4543,8 @@ EGG</a></td>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M1_HANDFUL_001_SOUND&amp;idref=crdo-NRU_M1_HANDFUL_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_M1_Handful_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-32e125d4-6487-343e-a583-9723e40c5a7b&amp;idref=cocoon-d8a81bf0-8a6c-37f5-909c-b453d9b16936" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_M1_Handful_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
@@ -4563,8 +4563,8 @@ EGG</a></td>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M1_HEAP_001_SOUND&amp;idref=crdo-NRU_M1_HEAP_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_M1_Heap_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-e84a5ce8-8f59-3c30-b579-4e1758ed04ba&amp;idref=cocoon-dfb0dea6-15fa-3236-b6d8-a85878bc0bb1" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_M1_Heap_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
@@ -4643,7 +4643,7 @@ electroglottographic component</th>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M2_MONTH_001_SOUND&amp;idref=crdo-NRU_M2_MONTH_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-c1967ef7-8ed6-37ad-9114-b49daa52468c&amp;idref=cocoon-17ca6f4e-098f-3a12-a3f3-7b3452a99af0" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
 
 
           </tr>
@@ -4655,8 +4655,8 @@ electroglottographic component</th>
             <td>pairs</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M2_PAIRS_001_SOUND&amp;idref=crdo-NRU_M2_PAIRS_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_M2_Pairs_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-0ce38fef-4386-3446-b5b2-fc420d4cf148&amp;idref=cocoon-b243cd2d-7ef2-34bc-b3c3-ebbfdbe19a54" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_M2_Pairs_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
@@ -4672,8 +4672,8 @@ EGG</a></td>
             <td>round objects</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M2_ROUNDOBJECTS_001_SOUND&amp;idref=crdo-NRU_M2_ROUNDOBJECTS_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_M2_RoundObjects_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-d0426cec-6a33-3710-82be-89449bb18585&amp;idref=cocoon-85cf29c6-910b-37b3-8970-6ee934033a49" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_M2_RoundObjects_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
@@ -4758,7 +4758,7 @@ electroglottographic component</th>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_MH1_MEMBEROFPAIR_001_SOUND&amp;idref=crdo-NRU_MH1_MEMBEROFPAIR_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-6c87371d-f9ad-3496-83a4-5d5bf02b9388&amp;idref=cocoon-f25d8e6b-8b23-3552-b26e-ce20ce489ec4" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
 
 
           </tr>
@@ -4770,17 +4770,17 @@ electroglottographic component</th>
             <td>years</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_MH1_YEAR_003_SOUND&amp;idref=crdo-NRU_MH1_YEAR_003" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_MH1_Year_30to100_F4_26Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-6b82bb0f-27b4-317b-82b9-42b2e79587b5&amp;idref=cocoon-7452fe68-c9e6-337a-88c2-51f063c8c2ce" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_MH1_Year_30to100_F4_26Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_MH1_YEAR_002_SOUND&amp;idref=crdo-NRU_MH1_YEAR_002" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_MH1_Year_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-507ee6d0-15e7-3fc5-9288-cab5476c2e99&amp;idref=cocoon-041f7210-f263-3572-9efa-5e73b6260dac" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_MH1_Year_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_MH1_YEAR_001_SOUND&amp;idref=crdo-NRU_MH1_YEAR_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-5a006333-133d-3952-94e0-cf77a4e0ca4b&amp;idref=cocoon-57121419-3967-354f-b42b-5e25b6fd5708" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
 
 
           </tr>
@@ -4795,8 +4795,8 @@ EGG</a></td>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_MH1_POUND_001_SOUND&amp;idref=crdo-NRU_MH1_POUND_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_MH1_Pound_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-7af967c5-d09c-332d-9bcd-9144c40e65b2&amp;idref=cocoon-fc590c46-a96c-384f-aa06-f98acfe0115f" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_MH1_Pound_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
@@ -4872,12 +4872,12 @@ electroglottographic component</th>
             <td>people</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_MH2_PEOPLE_002_SOUND&amp;idref=crdo-NRU_MH2_PEOPLE_002" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_MH2_People_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-285cfebf-5ba1-3c90-b6c7-ce7ea0a2197f&amp;idref=cocoon-8287c747-2343-3782-bd09-9fe11d4bc440" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_MH2_People_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_MH2_PEOPLE_001_SOUND&amp;idref=crdo-NRU_MH2_PEOPLE_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-3997c59d-026c-3436-9001-ff29247b2e84&amp;idref=cocoon-b12065b3-936b-32ed-9468-38958b8bc01a" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
 
 
           </tr>
@@ -4955,19 +4955,19 @@ electroglottographic component</th>
             <td>money (currency)</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L1_MONETARYUNIT_003_SOUND&amp;idref=crdo-NRU_L1_MONETARYUNIT_003" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>&nbsp;+
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L1_MonetaryUnit_30to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">EGG</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-ecaff366-c3d1-341b-b725-78bfbc7bc7e2&amp;idref=cocoon-b8f0c77a-b602-335c-9c7b-0dddc656706f" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>&nbsp;+
+            <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L1_MonetaryUnit_30to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">EGG</a></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L1_MONETARYUNIT_002_SOUND&amp;idref=crdo-NRU_L1_MONETARYUNIT_002" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L1_MonetaryUnit_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-c7b996ec-6482-3110-840d-4dd21df67c51&amp;idref=cocoon-78746554-bd66-3a5f-9cf3-c20e0b92d546" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L1_MonetaryUnit_1to100_F4_3oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L1_MONETARYUNIT_001_SOUND&amp;idref=crdo-NRU_L1_MONETARYUNIT_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-c8101691-2a1f-37c9-82fd-64739074a2ce&amp;idref=cocoon-975ec0ec-2dd9-3e15-af4f-dfb5b7a9ad63" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
 
 
           </tr>
@@ -4985,7 +4985,7 @@ EGG</a></td>
             <td></td>
 
 
-            <td><span style="text-decoration: underline;"></span><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L1_ROADSECTION_001_SOUND&amp;idref=crdo-NRU_L1_ROADSECTION_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
+            <td><span style="text-decoration: underline;"></span><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-7089661f-2866-3b5c-aa42-4809720b0dcf&amp;idref=cocoon-a1e65340-a589-3fff-bc8c-c29fafb5fd78" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
 
 
             <td></td>
@@ -5003,8 +5003,8 @@ EGG</a></td>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L1_SETOFTWO_001_SOUND&amp;idref=crdo-NRU_L1_SETOFTWO_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L1_SetOfTwo_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-f01593c3-dddb-3902-a11b-47802e61e7e7&amp;idref=cocoon-5fa47807-aff7-3b25-b2ba-59494086f053" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L1_SetOfTwo_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
@@ -5095,8 +5095,8 @@ electroglottographic component</th>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L2_BIRDS_002_SOUND&amp;idref=crdo-NRU_L2_BIRDS_002" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L2_Birds_30to100_F4_26Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-4880b2bd-aadc-3b3b-96ae-c77be6b0fcb2&amp;idref=cocoon-c2013f00-246d-38c8-8980-0614a4e91b09" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L2_Birds_30to100_F4_26Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
@@ -5106,7 +5106,7 @@ EGG</a></td>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L2_BIRDS_001_SOUND&amp;idref=crdo-NRU_L2_BIRDS_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-8e777be5-ab06-3fe9-b4f6-ac4123603ab7&amp;idref=cocoon-caa70448-dede-3493-8664-e48d8576c42f" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
 
 
           </tr>
@@ -5121,19 +5121,19 @@ EGG</a></td>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L2_ROPE_003_SOUND&amp;idref=crdo-NRU_L2_ROPE_003" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>&nbsp;+
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L2_Rope_30to100_F4_26Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">EGG</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-df224c00-5f12-3f15-9f5f-5333bddd90fc&amp;idref=cocoon-358c9506-978d-3ed3-a2f8-7295691d7b1e" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>&nbsp;+
+            <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L2_Rope_30to100_F4_26Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">EGG</a></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L2_ROPE_002_SOUND&amp;idref=crdo-NRU_L2_ROPE_002" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L2_Rope_1to100_F4_4oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-2bf8107a-6054-31b9-a355-38cb1f16706b&amp;idref=cocoon-e2fe98dc-6702-3a76-8d64-78966d8666c7" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L2_Rope_1to100_F4_4oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L2_ROPE_001_SOUND&amp;idref=crdo-NRU_L2_ROPE_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-f71b9c41-93dd-344b-8b2b-6e5430353839&amp;idref=cocoon-44eedd65-86c6-3020-b691-6a3eeed174ac" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
 
 
           </tr>
@@ -5151,13 +5151,13 @@ EGG</a></td>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L2_ARMSPAN_002_SOUND&amp;idref=crdo-NRU_L2_ARMSPAN_002" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L2_Armspan_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-0f4576b5-e917-35a2-92f6-fed919660f5e&amp;idref=cocoon-b5937cda-1045-34d1-bf06-3e7fe391fbb3" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L2_Armspan_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a> (1st recording); <br>
 
 
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L2_ARMSPAN_001_SOUND&amp;idref=crdo-NRU_L2_ARMSPAN_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L2_Armspan_1to100_F4_4oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-a621a209-2758-31b3-a2e8-4c8f7581394f&amp;idref=cocoon-104243c0-b312-3947-9c83-566839ef618f" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L2_Armspan_1to100_F4_4oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a> (2nd recording)</td>
 
 
@@ -5182,8 +5182,8 @@ EGG</a> (2nd recording)</td>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L2_MEALS_001_SOUND&amp;idref=crdo-NRU_L2_MEALS_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L2_Meals_1to100_F4_4oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-47b6f834-292d-35a4-aa01-1a6c1d20eefd&amp;idref=cocoon-473f6248-142a-3e33-8a5a-2d3b1a96d744" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L2_Meals_1to100_F4_4oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
@@ -5208,8 +5208,8 @@ EGG</a></td>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L2_TIMES_001_SOUND&amp;idref=crdo-NRU_L2_TIMES_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L2_Times_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-33af109e-537a-35d2-ae13-2985df07af42&amp;idref=cocoon-243217a3-0340-3667-aee9-dbf6a9bf8596" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L2_Times_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
@@ -5228,8 +5228,8 @@ EGG</a></td>
             <td>ounces</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L2_OUNCES_001_SOUND&amp;idref=crdo-NRU_L2_OUNCES_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-e8fd0974-c12e-30d7-8ff6-54b483a200fa&amp;idref=cocoon-438e4e6f-49a5-3f06-b2f8-f4c0b07dbb61" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L2_Ounces_1to10_F4_26Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a></td>
 
 
@@ -5263,7 +5263,7 @@ EGG</a></td>
             <td></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L2_TREES_001_SOUND&amp;idref=crdo-NRU_L2_TREES_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-16ec9003-b85f-3294-b6b2-f98bcd551a30&amp;idref=cocoon-f64997f7-e75e-3e12-a331-829223a16387" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a></td>
 
 
             <td></td>
@@ -5331,13 +5331,13 @@ component</th>
             <td>bundles of hay</td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L3_BUNDLEOFHAY_002_SOUND&amp;idref=crdo-NRU_L3_BUNDLEOFHAY_002" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L3_BundleOfHay_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-6bd9a90b-95ac-374c-b12c-590fab22ad3c&amp;idref=cocoon-50dcfda7-dd8d-3983-bb13-dec249a17e5d" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L3_BundleOfHay_1to100_F4_24Sept2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a> (1st recording)<br>
 
 
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_L3_BUNDLEOFHAY_001_SOUND&amp;idref=crdo-NRU_L3_BUNDLEOFHAY_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
-+ <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/NumPlusCL_L3_BundleOfHay_1to100_F4_4oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-71bb9ae8-6794-3509-a8a1-d48f585b1e5e&amp;idref=cocoon-21e78e45-62d9-324e-b9c8-7d43ca886667" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">AUDIO</a>
++ <a href="http://pangloss.cnrs.fr/audio/NumPlusCL_L3_BundleOfHay_1to100_F4_4oct2011_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG</a> (2nd recording) </td>
 
 
@@ -5356,7 +5356,7 @@ EGG</a> (2nd recording) </td>
 
       
             <p class="intertitre">One last file contains audio
-recordings of some <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_VERIFICATIONS_001_SOUND&amp;idref=crdo-NRU_VERIFICATIONS_001" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
+recordings of some <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-bcf31657-dc11-32d4-8eed-bdbbfe109f2f&amp;idref=cocoon-ac2c1fd3-ba49-39cc-afe4-87ddd5a084d7" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
 verifications of various combinations</a>.</p>
 
 
@@ -5389,14 +5389,14 @@ recordings are available:</p>
 
 
       
-            <p>- <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE_VERB3_SOUND&amp;idref=crdo-NRU_F4_TONE_VERB3" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
+            <p>- <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-e588c6ab-af99-36cf-a077-1a2aaa42293b&amp;idref=cocoon-ec10a9fd-f298-346a-bd01-c6d1a8bf9542" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
 Combinations of subject and verb</a></p>
 
 
       
-            <p>- Object and verb: <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE_VERB1_SOUND&amp;idref=crdo-NRU_F4_TONE_VERB1" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
-some combinations recorded in 2007</a>, <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE_VERB2_SOUND&amp;idref=crdo-NRU_F4_TONE_VERB2" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
-a second set collected in 2009</a>, and <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE_OBJECT_VERB_2012_SOUND&amp;idref=crdo-NRU_F4_TONE_OBJECT_VERB_2012" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20"> a
+            <p>- Object and verb: <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-5029d836-08e5-35e7-a306-dc6d52c9d382&amp;idref=cocoon-d885578c-901d-3bc0-a9aa-093df2c604cd" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
+some combinations recorded in 2007</a>, <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-68552504-d9c9-3283-941e-f13497c156af&amp;idref=cocoon-7d7f5a08-ee94-31b0-9807-e61e1d9b264e" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
+a second set collected in 2009</a>, and <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-9a649630-9522-374d-92a1-811339fd18ba&amp;idref=cocoon-88e7654f-aaae-3107-94fe-402b1dd21998" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20"> a
 supplement recorded in 2012</a>.</p>
 
 
@@ -5451,12 +5451,12 @@ consulting these data is:&nbsp;</p>
 
 
       
-            <p><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE12_SOUND&amp;idref=crdo-NRU_F4_TONE12" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Tone_BodyPartsOfAnimals_12_F4_2008_withEGG</a></p>
+            <p><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-db3cf0e1-30bb-3225-b012-019252bb4f4d&amp;idref=cocoon-5970d5ad-f863-33f5-adf9-71842837be9b" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Tone_BodyPartsOfAnimals_12_F4_2008_withEGG</a></p>
 
 
       
             <p>as this file contains the most complete and systematic
-recording, <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/Tone_BodyPartsOfAnimals_12_F4_2008_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+recording, <a href="http://pangloss.cnrs.fr/audio/Tone_BodyPartsOfAnimals_12_F4_2008_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 with an accompanying electroglottographic
 signal</a>. The compound nouns are framed in the sentence 'This
 is...':
@@ -5540,22 +5540,22 @@ ELECTROGLOTTOGRAPHIC SIGNAL, and annotations</td>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE1TO4_SOUND&amp;idref=crdo-NRU_F4_TONE1TO4" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">1 to 4</a>;
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE5_SOUND&amp;idref=crdo-NRU_F4_TONE5" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">5</a>;
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE6_SOUND&amp;idref=crdo-NRU_F4_TONE6" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">6</a>;
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE11_SOUND&amp;idref=crdo-NRU_F4_TONE11" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">11</a>;
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE13_SOUND&amp;idref=crdo-NRU_F4_TONE13" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">13</a>;
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE14_SOUND&amp;idref=crdo-NRU_F4_TONE14" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">14</a>;
-and <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE15_SOUND&amp;idref=crdo-NRU_F4_TONE15" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-2f5bb477-5267-38ea-bf77-f4e6dc258e9d&amp;idref=cocoon-1c3cdc71-1138-333f-a121-70b147a64836" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">1 to 4</a>;
+            <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-c1ccbc6b-5705-341a-b82d-fe085294aa70&amp;idref=cocoon-3260f9a2-0830-3add-b8ab-48fada830b8f" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">5</a>;
+            <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-d62e5852-a63f-3674-b09c-6b175a21cb81&amp;idref=cocoon-81577471-15e8-385f-8acb-8ed8ece263bd" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">6</a>;
+            <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-f2ccf71a-1f4b-3499-b644-e025720d242c&amp;idref=cocoon-41d307b9-d0e9-34b9-bfde-4af3af054a68" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">11</a>;
+            <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-651442a2-fb93-39c0-8a49-955a6194ca14&amp;idref=cocoon-36d22488-0e77-36c9-84ce-4a15ffc9730f" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">13</a>;
+            <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-343bc484-9561-30de-9303-bec17f501625&amp;idref=cocoon-2ef5938e-8455-38c1-9427-5dbd79d01549" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">14</a>;
+and <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-18439024-7df5-3482-bd84-dd5bfed9b20b&amp;idref=cocoon-1fce1512-2c29-3d05-86b7-bc6747be8c8b" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
 15</a></td>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE6_SOUND&amp;idref=crdo-NRU_F4_TONE6" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">7</a>
-(+link to the <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/Tone_BodyPartsOfAnimals_7_ExtensiveSet_F4_2008_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
-EGG signal</a>); <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE8TO10_SOUND&amp;idref=crdo-NRU_F4_TONE8TO10" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
-8 to 10</a> (+link to the <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/Tone_BodyPartsOfAnimals_8to10_Complements_F4_2008_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
-EGG signal</a>); <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE12_SOUND&amp;idref=crdo-NRU_F4_TONE12" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
-12</a>&nbsp;(+link to the <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/Tone_BodyPartsOfAnimals_12_F4_2008_EGG.wav" target="_blank"><img class="sansBordure" src="../../images/icones/egg2.jpg" height="25" width="25">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-d62e5852-a63f-3674-b09c-6b175a21cb81&amp;idref=cocoon-81577471-15e8-385f-8acb-8ed8ece263bd" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">7</a>
+(+link to the <a href="http://pangloss.cnrs.fr/audio/Tone_BodyPartsOfAnimals_7_ExtensiveSet_F4_2008_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
+EGG signal</a>); <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-6bccb80b-22f6-3986-92e3-4c6ed75ef0b5&amp;idref=cocoon-af48cf1c-b232-31ca-929a-35f2585f8ac0" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
+8 to 10</a> (+link to the <a href="http://pangloss.cnrs.fr/audio/Tone_BodyPartsOfAnimals_8to10_Complements_F4_2008_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
+EGG signal</a>); <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-db3cf0e1-30bb-3225-b012-019252bb4f4d&amp;idref=cocoon-5970d5ad-f863-33f5-adf9-71842837be9b" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
+12</a>&nbsp;(+link to the <a href="http://pangloss.cnrs.fr/audio/Tone_BodyPartsOfAnimals_12_F4_2008_EGG.wav" target="_blank"><img class="sansBordure" src="../images/icones/egg2.jpg" height="25" width="25">
 EGG signal</a>) </td>
 
 
@@ -5627,7 +5627,7 @@ linguistic uses are made of this latitude of variation?</p>
 
 
       
-            <p>2) <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONEPEOPLES_SOUND&amp;idref=crdo-NRU_F4_TONEPEOPLES" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
+            <p>2) <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-014b91c5-06a7-336c-8dc0-94b7fceca3ef&amp;idref=cocoon-ef171a05-d8a4-32d9-a35d-908a40bd0ae5" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
 Names of peoples+names of objects</a>
 (and some other
 nouns)</p>
@@ -5702,13 +5702,13 @@ were found: pairs of animal names of the two sexes, and their
 offspring, such as &lsquo;ewe and ram&rsquo; and &lsquo;ewe
 and lamb&rsquo;; and pairs of kinship terms, such as
 &lsquo;uncle and nephew&rsquo; and &lsquo;mother and
-daughter&rsquo;. The recording <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_COORDINATIVE_COMPOUNDS_SOUND&amp;idref=crdo-NRU_F4_COORDINATIVE_COMPOUNDS" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Coordinative
+daughter&rsquo;. The recording <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-2f282ddc-cd08-32e0-b6b3-82f77cf0bf30&amp;idref=cocoon-80ada9c9-d1dc-3d0d-a219-a70abf3bba71" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Coordinative
 Compounds (2012)</a> presents about 100 tokens, covering a number
 of tonal combinations, though not all of them: the language consultant
 (F4) clearly preferred to remain within the bounds of common sense, and
 semantically inappropriate pairs such as &lsquo;mother and
 nephew&rsquo; or &lsquo;grandmother and brother&rsquo; were
-avoided. The recording&nbsp;<a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_COORDINATIVE_COMPOUNDS2_SOUND&amp;idref=crdo-NRU_F4_COORDINATIVE_COMPOUNDS2" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Coordinative
+avoided. The recording&nbsp;<a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-09234d10-1173-3fe4-b2cb-cd7ba0ced197&amp;idref=cocoon-2bcba697-8519-3384-9231-e2e8e1133c38" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Coordinative
 Compounds 2</a> (also made in 2012) presents compounds based on
 'day', 'month' and 'year': 'one or two years', 'two-three years', from
 1-2 to 9-10.</p>
@@ -5754,7 +5754,7 @@ possessive constructions</h3>
 
       
             <p>Pronouns do not behave like nouns in possessive
-constructions. The recording <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_POSSESSION_PRONOUNS_SOUND&amp;idref=crdo-NRU_F4_POSSESSION_PRONOUNS" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">"Possession
+constructions. The recording <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-78efaa41-62d8-3bfa-a6c9-e3e4e15d3b10&amp;idref=cocoon-3c1b7fb7-bd20-38c2-8cac-b344804b29ae" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">"Possession
 - Pronouns: possessive constructions with pronouns, without an
 intervening particle"</a> (2012) presents three categories of
 pronouns
@@ -5778,7 +5778,7 @@ spatial orientation</h3>
 
       
             <p>Postpositions indicating spatial orientation combine
-tonally with nouns. The recording <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_NOUNS_SPATIAL_ORIENTATION_SOUND&amp;idref=crdo-NRU_F4_NOUNS_SPATIAL_ORIENTATION" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">"Nouns_Spatial
+tonally with nouns. The recording <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-f90e016d-9919-360e-9caa-acf585da51bc&amp;idref=cocoon-5ce1b401-f1ee-336f-ac64-8a90ec675b6b" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">"Nouns_Spatial
 orientation" (2012)</a> presents the various categories of nouns
 with 'beside', 'behind', 'to the left', and 'to the right'.</p>
 
@@ -5798,7 +5798,7 @@ with 'beside', 'behind', 'to the left', and 'to the right'.</p>
 
 
       
-            <p>A recording presents <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE_EVEN_SOUND&amp;idref=crdo-NRU_F4_TONE_EVEN" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">the various
+            <p>A recording presents <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-b89460d1-25d7-3279-b88e-dc55fc68de0e&amp;idref=cocoon-53f21e54-14b5-3945-bb02-a91da071d94b" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">the various
 categories of nouns followed by 'even' ('even a tiger', 'even a dog'...)</a>.</p>
 
 
@@ -5817,7 +5817,7 @@ categories of nouns followed by 'even' ('even a tiger', 'even a dog'...)</a>.</p
 
 
       
-            <p>A recording presents <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_F4_TONE_ONLY_AND_SOUND&amp;idref=crdo-NRU_F4_TONE_ONLY_AND" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">the various
+            <p>A recording presents <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-3e084f49-332e-3744-88fc-cf5098405829&amp;idref=cocoon-78fcd55c-3efc-3daa-ac84-a3018f2528e5" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">the various
 categories of nouns followed by 'and/only' ('...and a dog', etc)</a>.</p>
 
 
@@ -5883,7 +5883,7 @@ vowel is more strongly apicalized for the latter than for the former.</p>
 
       
             <p class="intertitre"><a name="alveolopalatal"></a>
-      <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NRU_F4_PALATALIZED_APICALIZED_SOUND&amp;idref=crdo-NRU_F4_PALATALIZED_APICALIZED" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Palatalized
+      <a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-8fd61350-7519-3b5d-a8b0-ba88cd629b97&amp;idref=cocoon-a617c4c3-e5d7-38d8-b88e-fada6d36ce09" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Palatalized
 Apicalized (2012)</a>: words containing /i/ or /ɯ/ after an
 alveolopalatal affricate<br>
 
@@ -5919,7 +5919,7 @@ exploration: a transcribed elicitation session</h2>
 
 
       
-            <p>This is a <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M28_VOCABULARY_SOUND&amp;idref=crdo-NRU_M28_VOCABULARY" target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
+            <p>This is a <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-fe9c5676-8e6f-3872-984d-2c37465f6539&amp;idref=cocoon-fa48111e-beb6-3b2c-9a06-73412684db1c" target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">
 recording of an exploratory elicitation
 session</a>. The items were transcribed on the fly; the speaker
 and the
@@ -5959,7 +5959,7 @@ set of five untranscribed narratives</h2>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M28_DOG_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png">Dog</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-00261335-d55e-3ec0-914a-e3daffb57fb6" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png">Dog</a></td>
 
 
             <td>Once upon a time, dogs and men exchanged their
@@ -5973,7 +5973,7 @@ the Yongning plain.</td>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M28_TRICKSTER_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png">Trickster</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-909d9ad3-cc6b-3c67-981f-c1248dada0cb" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png">Trickster</a></td>
 
 
             <td>This is an anecdote about a colourful character
@@ -5986,7 +5986,7 @@ of the village of Labai with whom the narrator was familiar</td>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M28_DAPE_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png">Dape</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-803e2245-07ba-375e-bc9d-ef1e422ed7cb" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png">Dape</a></td>
 
 
             <td>This is an excerpt from a ritual of the local
@@ -6000,7 +6000,7 @@ said, then chanted (out of memory).</td>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M28_SISTER_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png">Sister</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-c7dc8d8c-e444-3ee3-920a-9860d84dd99d" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png">Sister</a></td>
 
 
             <td>Once upon a time,&nbsp;there were two
@@ -6019,7 +6019,7 @@ the Yongning plain, and in the village of Fengke.</td>
           <tr>
 
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-NRU_M28_FLOOD_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png">Flood</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-ff347c68-8747-3516-b2b5-e7b20b5e7774" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png">Flood</a></td>
 
 
             <td>This is a story of the flood and the origin of

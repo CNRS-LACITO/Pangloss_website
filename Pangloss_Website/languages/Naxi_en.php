@@ -8,7 +8,7 @@ data </h1></div>
             <p class="intertitre"><a
  href="../../ALC/Languages/Naxi_popup.htm" target="_blank"
  onclick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img
- src="../../images/icones/info.gif" alt="a" border="0" height="15"
+ src="../images/icones/info.gif" alt="a" border="0" height="15"
  width="15">Naxi</a>:
 a brief note </p>
             <p>&nbsp;</p>
@@ -23,7 +23,7 @@ which Na (Mosuo) and Laze also belong.</p>
             <h4 align="left">Resources
 :</h4>
             <p class="intertitre">
-            <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a"
+            <img src="../images/images_pangloss/haut_parleur_s.png" alt="a"
  height="20" width="20"> <a
  href="../../archiva../corpus/list_rsc_en.php?lg=Naxi&amp;aff=Naxi"
  target="_blank"> All available resources here </a></p>
@@ -135,14 +135,14 @@ of the "Toad child" story is transcribed and translated in full.
               <tbody>
                 <tr>
                   <td><span style="font-weight: bold;"></span><a
- href="../corpus/show_text_en.php?id=crdo-NBF_TOADCHILD_SOUND&amp;idref=crdo-NBF_TOADCHILD"><img
+ href="../corpus/show_text_en.php?id=cocoon-16586ac3-6bba-3c3f-86d9-0b9f877c605a&amp;idref=cocoon-ec43abba-bd90-3970-a9a3-1f69ddbd75c0"><img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a">Toad
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a">Toad
 child</a><br>
 Date recorded: August 2009.&nbsp;</td>
                   <td><a
- href="../tools/show_en.php?id=crdo-NBF_TOADCHILD2_SOUND"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text_en.php?id=cocoon-65de8836-65eb-3338-978b-5d93093cfa2d"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20">&nbsp;Toad
 child
 (version 2)</a><br>
@@ -161,27 +161,27 @@ available online nonetheless;
 the versions made available here are slightly edited, but&nbsp;for
 documentary precision's sake the originals are also archived and can be
 consulted&nbsp;(files <a
- href="../tools/show_en.php?id=crdo-NXQ_M27_JOKE_ORIGINAL_SOUND">1</a>,
+ href="../corpus/show_text_en.php?id=cocoon-bf653dfb-23a5-399b-a407-497b7dac243a">1</a>,
             <a
- href="../tools/show_en.php?id=crdo-NXQ_M27_JOKE2_ORIGINAL_SOUND">2</a>
-and <a href="../tools/show_en.php?id=crdo-NXQ_M27_JOKE3_ORIGINAL_SOUND">3</a>).</p>
+ href="../corpus/show_text_en.php?id=cocoon-0542d91e-63e9-3278-ad82-de9207922446">2</a>
+and <a href="../corpus/show_text_en.php?id=cocoon-58972871-ae37-3500-9ec2-9a68bdd191b2">3</a>).</p>
             <table style="text-align: left; width: 100%;" border="1"
  cellpadding="2" cellspacing="2">
               <tbody>
                 <tr>
                   <td><a
- href="../tools/show_en.php?id=crdo-NXQ_M27_JOKE_EDITED_SOUND"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text_en.php?id=cocoon-1fb8f91e-3b8a-32dd-ba54-4f1781514e77"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20"> 1st
 joke</a></td>
                   <td><a
- href="../tools/show_en.php?id=crdo-NXQ_M27_JOKE2_EDITED_SOUND"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text_en.php?id=cocoon-1e642ddf-a328-32c5-a842-872a1892b82b"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20"> 2nd
 joke</a></td>
                   <td><a
- href="../tools/show_en.php?id=crdo-NXQ_M27_JOKE3_EDITED_SOUND"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text_en.php?id=cocoon-fc771c7e-b66f-3207-ae24-e9caea770183"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20"> 3rd
 joke</a></td>
                 </tr>
@@ -190,10 +190,10 @@ joke</a></td>
             <p>Recordings of
 vocabulary by Xu Jirong were also conducted. The first document to be
 made available online is <a
- href="../corpus/show_text_en.php?id=crdo-NXQ_CIENDING_READ_VOCABULARY_SOUND&amp;idref=crdo-NXQ_CIENDING_READ_VOCABULARY"
+ href="../corpus/show_text_en.php?id=cocoon-bb48e7d7-971a-3ac4-aa18-61fb5a7861fd&amp;idref=cocoon-8bd29d83-ead9-3ba9-bc09-a4675d56b1b5"
  target="_blank"> <img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a">a
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a">a
 reading of part
 of a vocabulary list</a> drawn up by
 Xu Jirong in collaboration with A. Michaud.</p>
@@ -235,27 +235,27 @@ while using them for learning and research purposes!<span
               <tbody>
                 <tr>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_FILLE_UNIQUE_SOUND&amp;idref=crdo-NXQ_FILLE_UNIQUE"
+ href="../corpus/show_text_en.php?id=cocoon-b3b0112a-e6bb-3ea7-b2f8-9d838aa172e2&amp;idref=cocoon-390794f4-15ff-3a78-8bcf-9580614ff98e"
  target="_blank"><img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a">Only
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a">Only
 daughter
 (version 1)</a> |&nbsp;<a
- href="../tools/audio/M10_FilleUnique_version1_EGG.wav"><img
+ href="../corpus/audio/M10_FilleUnique_version1_EGG.wav"><img
  style="border: 0px solid ; width: 25px; height: 25px;" alt="EGG signal"
- class="sansBordure" src="../../images/icones/egg2.jpg"></a><span
+ class="sansBordure" src="../images/icones/egg2.jpg"></a><span
  style="font-weight: bold;"></span><br>
 Date recorded: 2004.&nbsp;</td>
                   <td><a
- href="../corpus/show_text.php?id=crdo-NXQ_FILLE_UNIQUE2_SOUND&amp;idref=crdo-NXQ_FILLE_UNIQUE2"
- target="_blank"><img src="../../images/icones/Txt_Inter_parchemin1.jpg"
+ href="../corpus/show_text.php?id=cocoon-47a6589c-d95f-33d9-a06e-7f2255174dea&amp;idref=cocoon-83273f27-4490-3bca-8b3f-3c6193a21270"
+ target="_blank"><img src="../images/icones/Txt_Inter_parchemin1.jpg"
  alt="a" border="0" height="20" width="20"> Only
 daughter
 (version 2)</a> |&nbsp;<a
  href="../audio/crdo-NXQ_M10_ONLY_DAUGHTER2_EGG.wav"><img
  style="border: 0px solid ; width: 25px; height: 25px;"
  alt="Electroglottographic recording" class="sansBordure"
- src="../../images/icones/egg2.jpg"></a><br>
+ src="../images/icones/egg2.jpg"></a><br>
 Date recorded: 2004.<br>
                   </td>
                 </tr>
@@ -268,13 +268,13 @@ Date recorded: 2004.<br>
               <tbody>
                 <tr>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M10_TRICKSTER_SOUND&amp;idref=crdo-NXQ_M10_TRICKSTER"><img
+ href="../corpus/show_text_en.php?id=cocoon-62869db6-47ff-3e41-a9ab-e3d48df0f0e6&amp;idref=cocoon-8965592b-747a-3d6d-9ef0-93c10ef7fc36"><img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a">Trickster:
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a">Trickster:
 six stories of /ə˧ʝi˩ɳɖə˞˧/ the Trickster</a>
 |&nbsp; <a href="../audio/crdo-NXQ_M10_TRICKSTER_EGG.wav"><img
  style="border: 0px solid ; width: 25px; height: 25px;" alt="EGG signal"
- class="sansBordure" src="../../images/icones/egg2.jpg"></a><br>
+ class="sansBordure" src="../images/icones/egg2.jpg"></a><br>
 Date recorded: 2004.</td>
                 </tr>
               </tbody>
@@ -392,7 +392,7 @@ is provided as notes in the XML document (annotation).&nbsp;</p>
             <p>The recordings
 comprise audio + electroglottographic (EGG) signals. To download the
 EGG signals, go to the <a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M5_MONOSYLLINFRAME_R_I_SOUND&amp;idref=crdo-NXQ_M5_MONOSYLLINFRAME_R_I">
+ href="../corpus/show_text_en.php?id=cocoon-33ea5cf5-9051-347f-90eb-80a7eca0b94b&amp;idref=cocoon-60e729e2-17b4-3101-acae-f55e360f1bcc">
 list of documents</a> and click on
 the EGG icon corresponding to the document.</p>
             <table style="text-align: left; width: 100%;" border="1"
@@ -415,9 +415,9 @@ consult the document (annotation+audio)</td>
                   <td>yes</td>
                   <td>'Careful'</td>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_F2_MONOSYLLINFRAME_C_SOUND&amp;idref=crdo-NXQ_F2_MONOSYLLINFRAME_C"><img
+ href="../corpus/show_text_en.php?id=cocoon-95f185db-9ba2-3566-af48-f4f6b7732b44&amp;idref=cocoon-c701dd95-1f57-3790-b5ed-f6dfbaaacdef"><img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;</td>
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;</td>
                 </tr>
                 <tr>
                   <td>F2</td>
@@ -425,10 +425,10 @@ consult the document (annotation+audio)</td>
                   <td>yes</td>
                   <td>'Impatient'</td>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_F2_MONOSYLLINFRAME_I_SOUND&amp;idref=crdo-NXQ_F2_MONOSYLLINFRAME_I">
+ href="../corpus/show_text_en.php?id=cocoon-116d41bd-16fc-3e32-8506-b478e45e81fb&amp;idref=cocoon-95eb9365-9139-3c7d-bc3b-bfe5ca0aa597">
                   <img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
                   </td>
                 </tr>
                 <tr>
@@ -437,10 +437,10 @@ consult the document (annotation+audio)</td>
                   <td>no</td>
                   <td>'Careful'</td>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M9_MONOSYLLINFRAME_C_SOUND&amp;idref=crdo-NXQ_M9_MONOSYLLINFRAME_C">
+ href="../corpus/show_text_en.php?id=cocoon-c9ed822f-aa73-3cbd-b189-43812e856bb0&amp;idref=cocoon-61f26444-dc28-3088-991a-101e7d005acd">
                   <img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
                   </td>
                 </tr>
                 <tr>
@@ -449,10 +449,10 @@ consult the document (annotation+audio)</td>
                   <td>no</td>
                   <td>'Impatient'</td>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M9_MONOSYLLINFRAME_I_SOUND&amp;idref=crdo-NXQ_M9_MONOSYLLINFRAME_I">
+ href="../corpus/show_text_en.php?id=cocoon-5b3b8fb1-bfd2-30a4-b5d4-754c713b045c&amp;idref=cocoon-f6400d7c-8e80-3b4a-8a06-da61b6af2a7e">
                   <img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
                   </td>
                 </tr>
                 <tr>
@@ -461,10 +461,10 @@ consult the document (annotation+audio)</td>
                   <td>no</td>
                   <td>'Careful'</td>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M7_MONOSYLLINFRAME_C_SOUND&amp;idref=crdo-NXQ_M7_MONOSYLLINFRAME_C">
+ href="../corpus/show_text_en.php?id=cocoon-9ec3fdab-431d-3411-b626-58e15f3e46e4&amp;idref=cocoon-290f00c5-f7b6-3792-8bf3-770a6202935b">
                   <img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
                   </td>
                 </tr>
                 <tr>
@@ -473,10 +473,10 @@ consult the document (annotation+audio)</td>
                   <td>no</td>
                   <td>'Impatient'</td>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M7_MONOSYLLINFRAME_I_SOUND&amp;idref=crdo-NXQ_M7_MONOSYLLINFRAME_I">
+ href="../corpus/show_text_en.php?id=cocoon-fa7b3170-aeed-3c8e-ba6b-1530bcd8a2fb&amp;idref=cocoon-5f6f3e66-7701-3635-ac42-b1d186252278">
                   <img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
                   </td>
                 </tr>
                 <tr>
@@ -492,10 +492,10 @@ consult the document (annotation+audio)</td>
                   <td>no</td>
                   <td>'Impatient'</td>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M5_MONOSYLLINFRAME_I_SOUND&amp;idref=crdo-NXQ_M5_MONOSYLLINFRAME_I">
+ href="../corpus/show_text_en.php?id=cocoon-b36f06a7-5a49-3b8e-9a29-c9d5f4a5e0a4&amp;idref=cocoon-7a3d1a8c-7bef-317b-b02e-ffdab59ebab7">
                   <img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
                   </td>
                 </tr>
                 <tr>
@@ -504,10 +504,10 @@ consult the document (annotation+audio)</td>
                   <td>yes</td>
                   <td>'Careful'</td>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP_SOUND&amp;idref=crdo-NXQ_M5_MONOSYLLINFRAME_C_TOP">
+ href="../corpus/show_text_en.php?id=cocoon-e9892084-4d90-3ff7-9b64-521c341d4532&amp;idref=cocoon-e69ca5ad-3dde-337b-8920-29fc5e56e51c">
                   <img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
                   </td>
                 </tr>
                 <tr>
@@ -517,10 +517,10 @@ M, L</td>
                   <td>yes</td>
                   <td>'Impatient'</td>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M5_MONOSYLLINFRAME_I_TOP_SOUND&amp;idref=crdo-NXQ_M5_MONOSYLLINFRAME_I_TOP">
+ href="../corpus/show_text_en.php?id=cocoon-448cf0e5-a78f-3c2d-9999-fd1fc21acbbe&amp;idref=cocoon-16e9f830-b024-3482-bf36-83a19f27cf78">
                   <img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
                   </td>
                 </tr>
                 <tr>
@@ -529,10 +529,10 @@ M, L</td>
                   <td>no</td>
                   <td>'Careful'</td>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M5_MONOSYLLINFRAME_R_C_SOUND&amp;idref=crdo-NXQ_M5_MONOSYLLINFRAME_R_C">
+ href="../corpus/show_text_en.php?id=cocoon-491bdd14-7704-35b6-8c5b-f1a7cd818661&amp;idref=cocoon-874dae0e-aabe-3b58-bd04-180f4d09fe17">
                   <img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
                   </td>
                 </tr>
                 <tr>
@@ -541,10 +541,10 @@ M, L</td>
                   <td>no</td>
                   <td>'Impatient'</td>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M5_MONOSYLLINFRAME_R_I_SOUND&amp;idref=crdo-NXQ_M5_MONOSYLLINFRAME_R_I">
+ href="../corpus/show_text_en.php?id=cocoon-33ea5cf5-9051-347f-90eb-80a7eca0b94b&amp;idref=cocoon-60e729e2-17b4-3101-acae-f55e360f1bcc">
                   <img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
                   </td>
                 </tr>
                 <tr>
@@ -554,10 +554,10 @@ M, L</td>
                   <td>'Impatient'
 (with a different final particle)</td>
                   <td><a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M5_MONOSYLLINFRAME_R_I2_SOUND&amp;idref=crdo-NXQ_M5_MONOSYLLINFRAME_R_I2">
+ href="../corpus/show_text_en.php?id=cocoon-5d17a3cc-b11c-310f-89e4-a781130b20e3&amp;idref=cocoon-42e3d823-836c-3e68-a58d-b9dcc1d0ec82">
                   <img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a"></a>&nbsp;
                   </td>
                 </tr>
               </tbody>
@@ -597,28 +597,28 @@ Limin 和力民老师的录音资料</a></h2>
             <p>He Limin, a
 connoisseur of Naxi rituals, did some
 recordings in September 2012: two rituals, <a
- href="../tools/show_en.php?id=crdo-NXQ_M7_HEQSHUL_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-84575665-2785-36b0-9662-6739eeed74e9"
  target="_blank">Heq Shul</a>
-and <a href="../tools/show_en.php?id=crdo-NXQ_M7_SVQGGVQ_SOUND"
+and <a href="../corpus/show_text_en.php?id=cocoon-be9f2ef4-116f-3fb3-aa01-918182ee0563"
  target="_blank">Svq Ggvq</a>;
 explanations (in Naxi)
 about the process of <a
- href="../tools/show_en.php?id=crdo-NXQ_M7_HEQSHUL_MS_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-206418d0-cd89-3d0c-8c7e-801797c1fb21"
  target="_blank">learning a ritual and copying a
 manuscript</a>;
 about <a
- href="../tools/show_en.php?id=crdo-NXQ_M7_LEARNING_HEQSHUL_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-cbfbf3c5-2e42-30ee-8a41-b23a43aeebc1"
  target="_blank">how he learnt the ritual Heq Shul</a>;
 a more general account of <a
- href="../tools/show_en.php?id=crdo-NXQ_M7_LEARNING_SCRIPTURES_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-58f742ce-e256-330f-ac2c-a9cd9c12351a"
  target="_blank">how he learnt Naxi rituals</a>;
 and
 two stories: <a
- href="../tools/show_en.php?id=crdo-NXQ_M7_LIFESPAN_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-f962ea10-d339-3dfa-b628-bcac5c037460"
  target="_blank">How man and chicken exchanged their
 lifespan</a>,
 and a short version of <a
- href="../tools/show_en.php?id=crdo-NXQ_M7_SISTER_SOUND" target="_blank">the
+ href="../corpus/show_text_en.php?id=cocoon-eca03a3f-8761-362d-8f5c-0699a0e11143" target="_blank">the
 story of the two separated
 siblings</a>,
 explaining the origin of a ritual conducted by a woman's relatives when
@@ -637,9 +637,9 @@ Xuewen 和学文先生的录音资料</a></h2>
             <p>The Naxi priest He
 Xuewen (1922-2007) reads the
 Great Prayer to the Wind: as full-fledged <a
- href="../corpus/show_text.php?id=crdo-NXQ_RITUAL_CHANTING_SOUND"
+ href="../corpus/show_text.php?id=cocoon-62a15b46-09c2-3560-9de7-4473d00b7b0b"
  target="_blank">chanting</a>,
-then as <a href="../corpus/show_text.php?id=crdo-NXQ_RITUAL_READING_SOUND"
+then as <a href="../corpus/show_text.php?id=cocoon-9b6f49d4-0a4d-317f-98c5-376e4e1dd447"
  target="_blank">rhythmic reading</a>.
 The text was
 read from the pictographic manuscript reproduced on pp. 151-167 of the
@@ -701,22 +701,22 @@ transcribed yet.</p>
 专注于东巴文化的研究工作。主要作品有：《祭天古歌》、《格拉茨姆》、《纳西东巴骨卜和象形文骨卜书》、《滇川藏纳西东巴文化及源流考察》、《纳西象形文
 舞谱的现状及其新生前景》等。（《戈阿干纳西学论集》作者简介，北京：民族出版社，2007年）</p>
             <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NXQ_LIFE_STORY_SOUND"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text.php?id=cocoon-37a8850c-14ba-3caa-b197-9aab8404f651"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20">Ge
 A-Gan's
 life story</a><br>
 China, Yunnan, Lijiang, 2011, Ge A-Gan 戈阿干</p>
             <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NXQ_TOM_BA_RITUALS_SOUND"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text.php?id=cocoon-9e657ce8-5fa6-3aeb-a61e-f2384ad4734c"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20">Ge
 A-Gan's
 experience of to-mba rituals</a><br>
 China, Yunnan, Lijiang, 2011, Ge A-Gan 戈阿干</p>
             <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NXQ_CULT_OF_HEAVEN_SOUND"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text.php?id=cocoon-ea3aa83c-3083-3e2f-9159-1daafb86892a"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20">Ge
 A-Gan
 reads (and discusses) the first pages of a to-mba pictographic book,
@@ -753,48 +753,48 @@ transferred from the original Digital Audio Tape. <br>
 之力。
 这六首歌没有通过任何处理，是直接从DAT母带转录而来的。</p>
             <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NXQ_F9_SONG1_SOUND" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text.php?id=cocoon-b24a92ff-4cd2-30fc-8cc3-21445dbfeee8" target="_blank"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20">Naxi
 songs
 from Tacheng (song 1)</a> by Ms.
 Xiao Rulian<br>
 2002</p>
             <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NXQ_F9_SONG2_SOUND" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text.php?id=cocoon-a1995d10-5885-312b-88ba-d17611c87a61" target="_blank"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20">Naxi
 songs
 from Tacheng (song 2)</a> by Ms.
 Xiao Rulian<br>
 2002</p>
             <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NXQ_F9_SONG3_SOUND" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text.php?id=cocoon-b4eacc63-65fc-3090-9851-ff9c391ab43d" target="_blank"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20">Naxi
 songs
 from Tacheng (song 3)</a> by Ms.
 Xiao Rulian<br>
 2002</p>
             <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NXQ_F9_SONG4_SOUND" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text.php?id=cocoon-27dea82c-8719-34ac-82f2-760bf7dc81dd" target="_blank"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20">Naxi
 songs
 from Tacheng (song 4)</a> by Ms.
 Xiao Rulian<br>
 2002</p>
             <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NXQ_F9_SONG5_SOUND" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text.php?id=cocoon-d07375d9-505c-3653-a762-7f59763cc507" target="_blank"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20">Naxi
 songs
 from Tacheng (song 5)</a> by Ms.
 Xiao Rulian<br>
 2002</p>
             <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NXQ_F9_SONG6_SOUND" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
+ href="../corpus/show_text.php?id=cocoon-779b937b-0daf-3dbb-b960-7b864bc9b369" target="_blank"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20"
  width="20">Naxi
 songs
 from Tacheng (song 6)</a> by Ms.
@@ -823,31 +823,31 @@ the recording at his residence within the Museum of Dongba Culture. <br>
 2002年，郭大烈老师为了保存纳西口传文化遗产，建议我录制著名艺人李秀香女士的歌曲。李秀香是丽江拉市海北南尧村人，擅长演唱多种不同风格的纳西歌
 曲。 在此非常感谢郭大烈老师与丽江东巴文化博物馆领导们的建议与大力支持，也感谢已故的和学文先生出借了他在东巴文化博物馆内的房间进行录音。
 这些资料没有通过任何处理，是直接从DAT母带转录而来。 </p>
-            <p><a href="../corpus/show_text.php?id=crdo-NXQ_XUQ_JJIL_SOUND"
+            <p><a href="../corpus/show_text.php?id=cocoon-430b6b29-79dc-3bd2-aa29-d3266bf3cbf7"
  target="_blank">Xuq Jjil</a>
 (ɕy˩ ndʑi˥:
 Blessings;&nbsp;popular Naxi songs) is sung in the wɤ˧-mə˧-ndɑ˩
-style. The <a href="../corpus/show_text.php?id=crdo-NXQ_GREAT_PRAYER_SOUND"
+style. The <a href="../corpus/show_text.php?id=cocoon-e239ff95-d31f-3bb9-af02-7ff85119653b"
  target="_blank">Great Prayer to the Wind</a>,
 the
 ballad about hunting, <a
- href="../corpus/show_text.php?id=crdo-NXQ_KEE_KEEL_SOUND" target="_blank">/kʰɯ˧kʰɯ˥/
+ href="../corpus/show_text.php?id=cocoon-45ea513d-4c19-3134-964e-67e23df89530" target="_blank">/kʰɯ˧kʰɯ˥/
 (Romanized Naxi: "Kee
 Keel")</a>,
 and the ritual <a
- href="../tools/show_en.php?id=crdo-NXQ_RITUAL_LOVERS_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-54c42301-5f63-35da-b3a6-3ef9b79df7e1"
  target="_blank">Lv Bber Lv Ssaq</a>
 are in "Guqi"
 style (骨气调). Ms. Li Xiuxiang also recorded a song in the post-1949
-style <a href="../corpus/show_text.php?id=crdo-NXQ_ALILI_SOUND"
+style <a href="../corpus/show_text.php?id=cocoon-b5b3c341-fcb3-38ee-9b52-2e6d908d0ca0"
  target="_blank">A-li-li</a>,&nbsp;a
 melody played
 with
-the <a href="../corpus/show_text.php?id=crdo-NXQ_JEW_HARP_SOUND"
+the <a href="../corpus/show_text.php?id=cocoon-e7e34c96-d38f-35d9-acf2-a61e1b1b4f51"
  target="_blank">Jew's harp</a>,
 and&nbsp;a brief
 outline of her <a
- href="../corpus/show_text.php?id=crdo-NXQ_LIFE_STORY2_SOUND" target="_blank">life
+ href="../corpus/show_text.php?id=cocoon-fd41536f-6e96-3ec0-b817-81487eda3f64" target="_blank">life
 story</a>.&nbsp;</p>
             <p>See each document's
 metadata (available via the
@@ -886,30 +886,30 @@ data from this dialect since.&nbsp;</p>
             <p>The set of
 recordings consist of six documents. Three of these are transcribed:
 (i) "<a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M17_PARROT_SONG_SOUND&amp;idref=crdo-NXQ_M17_PARROT_SONG"
+ href="../corpus/show_text_en.php?id=cocoon-d105c0fb-0ae4-3702-a0fb-d1a8e1623dbb&amp;idref=cocoon-d2fb2694-25a4-3b1c-a8bf-65a3414cb8bf"
  target="_blank"><img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a">The
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a">The
 Parrot And The Myna Birds</a>":
 A song improvised in the "Guqi" style; (ii) the same song in the <a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M17_ALILI_SOUND&amp;idref=crdo-NXQ_M17_ALILI"
+ href="../corpus/show_text_en.php?id=cocoon-0bf22b35-4570-3438-acaa-43e0b9ce99f8&amp;idref=cocoon-39470a0c-522e-374f-94f1-91a776b33a50"
  target="_blank"><img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a">A-li-li
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a">A-li-li
 style</a>;
 and an <a
- href="../corpus/show_text_en.php?id=crdo-NXQ_M17_PARROT_SONG_EXP_SOUND&amp;idref=crdo-NXQ_M17_PARROT_SONG_EXP"
+ href="../corpus/show_text_en.php?id=cocoon-ecc85d1c-e85c-32e7-9aa5-36d2319c686c&amp;idref=cocoon-5f9856ee-13c8-3a0c-83ca-87c38741c08d"
  target="_blank"><img
  style="border: 0px solid ; width: 20px; height: 20px;"
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a">explanation</a>
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a">explanation</a>
 about this song. The other three are (i) a <a
- href="../tools/show_en.php?id=crdo-NXQ_M17_M32_LOVERS_SONG_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-34e17db5-facf-3e15-b7ca-c2378de8f42b"
  target="_blank">love song</a>
 by Mr. He Xuemin; (ii) a <a
- href="../tools/show_en.php?id=crdo-NXQ_M32_A_SONG_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-64726534-7e20-3e91-8d71-c2b749f5d08b"
  target="_blank">love song</a>
 by the speaker M32 (anonymous); and (iii) an <a
- href="../tools/show_en.php?id=crdo-NXQ_M32_LOVERS_SONG_EXP_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-ec1f5be4-f131-3898-9c53-4b01bb3df6ae"
  target="_blank">explanation</a>
 about this song, again by M32.</p>
             <a href="Naxi_en.htm#contents"><span
@@ -944,7 +944,7 @@ husband of Mrs. Yang Guikai 杨桂开.</p>
  alt="Schedule of the music festival at Baisha" width="40%"><br>
             </p>
             <p>The <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_1_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-56007e0e-207a-303a-8a5f-2e9ab2b4d7c0"
  target="_blank">first document</a>
 is an instrumental
 piece played on
@@ -956,9 +956,9 @@ performer's direction. The right channel is from a cardioid microphone
 that remained in the same position; it gives a sense of the musician's
 movement.</p>
             <p>The <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_2_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-1f6c6f15-3ba1-3121-9ac0-51b5ca2cd337"
  target="_blank">second</a>
-and <a href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_3_SOUND"
+and <a href="../corpus/show_text_en.php?id=cocoon-3fb8a9f0-a752-3664-a314-a02439a59847"
  target="_blank">third</a>
 documents are two parts of a
 song
@@ -992,7 +992,7 @@ In thirty or forty years' time, could she become a leading figure
 within the Third-Age Association?</span>
             </p>
             <p>The <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_4_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-08697c77-d1c9-3881-9a1d-6451f225efb8"
  target="_blank">fourth document</a>
 is a song also
 sung outside while
@@ -1016,7 +1016,7 @@ taking place, without trying to change the settings chosen by the
 organizers.</p>
             <p>The loudspeakers
 are rather obtrusive in the <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_5_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-bc6cb034-b33b-34ef-8530-3609c58d56de"
  target="_blank">5th
 recording</a>, giving a
 rather tinny sound to this song sung by two young women.</p>
@@ -1026,32 +1026,32 @@ are
 songs in which one
 or two persons lead and the entire group repeats their lines. (Link to
 sound files: <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_6_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-c3621a57-e12a-3bfd-a6ce-4b894760b723"
  target="_blank">6th</a>;
             <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_7_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-212d0f40-2565-326e-a1e5-92857f1188e1"
  target="_blank">7th</a>;
             <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_8_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-a165646d-d69a-366e-8b29-74ec708b8b65"
  target="_blank">8th</a>;
             <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_9_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-37040172-add0-33b9-8960-b226e40e8c22"
  target="_blank">9th</a>;
             <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_10_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-0d5323e3-46a3-303c-aa42-036d440afc8a"
  target="_blank">10th</a>;
             <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_11_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-f4e47614-9398-3c4a-89ae-a69e6f6028da"
  target="_blank">11th</a>;
             <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_12_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-11289fe8-4037-38c4-a51f-38775343e350"
  target="_blank">12th</a>;
             <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_14_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-e59cf549-d186-3177-87b1-5cdcc6108686"
  target="_blank">14th</a>.)
             </p>
             <p>The <a
- href="../tools/show_en.php?id=crdo-NXQ_BAIDIMUSIC_13_SOUND"
+ href="../corpus/show_text_en.php?id=cocoon-d54d2f62-75c0-33cd-a93a-0d0684d956d1"
  target="_blank">13th piece</a>
 is a song by a young
 woman. After a

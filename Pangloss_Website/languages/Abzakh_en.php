@@ -4,21 +4,21 @@
             <div class="page-header"><h1>Adyghe (Circassian): Abzakh Dialect</h1></div>
             <div class="text-left">
       <p align="left">&nbsp;</p>
-      <p class="intertitre"><a href="../../ALC/Languages/Abzakh_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="infos" width="15" height="15" border="0">Abzakh</a>: a brief note</p>
+      <p class="intertitre"><a href="../../ALC/Languages/Abzakh_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../images/icones/info.gif" alt="infos" width="15" height="15" border="0">Abzakh</a>: a brief note</p>
       <p align="left">&nbsp;</p>
       <h4 align="left">Resources :</h4>
       <p class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Abzakh&aff=abzakh" target="_blank"> All available resources here
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Abzakh&aff=abzakh" target="_blank"> All available resources here
       </a></p>
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre"><a href="../tools/show_text_en.php?id=crdo-ADY_GARCON_SOUND"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="tohear" width="20" height="20" border="0"> The Adopted Son</a><br>
+      <p class="intertitre"><a href="..//show_text_en.php?id=cocoon-50b6e2a5-3628-357f-83e5-e2441af8f014"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="tohear" width="20" height="20" border="0"> The Adopted Son</a><br>
         Turkey, Ankara, 1970, Catherine Paris</p>
       <p>Source: Paris, Catherine. 1980. Le gar&ccedil;on adoptif. <i>Bedi Kartlisa</i> 38:198-232</p>
       <p>This story, told by a native of Reyhaniye, in southern Turkey, was recorded by Catherine Paris in Ankara during the summer of 1970. It was transcribed in Paris with the help of Niaz Batouka (see below). The published transcription corresponds to the speech of Mr Batouka and differs from the recording in some respects. In preparing this document for the web, Dina Dabjen-Bailly has changed the published transcription to accord with the recording, reordering sentences 27-29 (the published sentence numbers from no. 26 to 35 are included here in square brackets), adding the words in parentheses in sentences 11 and 30, and inverting the first two words of sentence 34.</p>
-      <p class="intertitre"><a href="../tools/show_text_en.php?id=crdo-ADY_LISTE_NIAZ_SOUND"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="tohear" width="20" height="20" border="0"> Word List</a><br>
+      <p class="intertitre"><a href="../corpus/show_text_en.php?id=cocoon-107ce570-3abf-3f3c-995a-17f5af17595d"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="tohear" width="20" height="20" border="0"> Word List</a><br>
         France, Paris, 1974, Catherine Paris</p>
       <p>This list was prepared by Catherine Paris and Niaz Batouka, an Abzakh speaker from the Syrian village of Berike in the Golan Heights, to illustrate the phonology of the Abzakh dialect, and recorded by Mr Batouka.</p>
-      <p class="intertitre"><a href="../tools/show_text_en.php?id=crdo-ADY_PATSITSE_SOUND"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="tohear" width="20" height="20" border="0"> Patsitse the Crow</a><br>
+      <p class="intertitre"><a href="../corpus/show_text_en.php?id=cocoon-397bf64a-0319-38b8-b6c8-3e4a4acddb17"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="tohear" width="20" height="20" border="0"> Patsitse the Crow</a><br>
         Serbia, Kosovo, Stanovce, 1982, René Gsell</p>
       <p>This story in the Abzakh dialect was told by Mr Isak Tsey, an engineer originally from the village of Stanovce in Kosovo, and was recorded in Pristina in 1982 by Prof. Ren&eacute; Gsell. It was transcribed with the help of two Abzakh speakers under the direction of Catherine Paris in her seminar in 1983.</p>
       <p>Gsell, Ren&eacute;, Isak Tsey, Catherine Paris, Niaz Batouka, A. Tlich, Pierre Dr&eacute;an, Marc-Yves Lautrou. 1984. Patsitse-le-corbeau, conte tcherkesse en dialecte abzakh. <i>Bedi Kartlisa</i> 62:253-292.</p>

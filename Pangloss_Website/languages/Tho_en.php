@@ -24,7 +24,7 @@ thiệu bằng tiếng Việt</span></a></p>
             <h4 align="left">Resources
 :</h4>
             <p class="intertitre">
-            <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a"
+            <img src="../images/images_pangloss/haut_parleur_s.png" alt="a"
  height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=Cu%E1%BB%91i+Ch%C4%83m&amp;aff=Cu%E1%BB%91i+Ch%C4%83m"
  target="_blank"> All
@@ -284,7 +284,7 @@ by the <a href="http://www.bibliothequescientifiquenumerique.fr/"
 French Ministry for Higher
 Education and Research.&nbsp;</span></p>
             <a href="http://www.bibliothequescientifiquenumerique.fr/"
- target="_blank"> <img src="../../images/logos/bsn.png"
+ target="_blank"> <img src="../images/logos/bsn.png"
  alt="Digital Scientific Library" border="0" height="75"></a>
             <p style="font-style: italic;"></p>
             <p style="font-style: italic;"><span
@@ -300,7 +300,7 @@ thiệu bằng tiếng Việt</span></a></p>
             <h4 align="left">Resources
 :</h4>
             <p class="intertitre">
-            <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a"
+            <img src="../images/images_pangloss/haut_parleur_s.png" alt="a"
  height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=Th%E1%BB%95&amp;aff=Th%E1%BB%95"
  target="_blank"> All
@@ -953,7 +953,7 @@ số <a href="http://www.bibliothequescientifiquenumerique.fr/"
 tr&igrave;nh của Bộ Gi&aacute;o dục đại học v&agrave;
 Nghi&ecirc;n cứu Ph&aacute;p.&nbsp;</span></p>
             <a href="http://www.bibliothequescientifiquenumerique.fr/"
- target="_blank"> <img src="../../images/logos/bsn.png"
+ target="_blank"> <img src="../images/logos/bsn.png"
  alt="Digital Scientific Library" border="0" height="75"></a>
             <p style="font-style: italic;"><span
  style="font-style: italic;"></span></p>

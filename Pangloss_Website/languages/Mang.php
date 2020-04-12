@@ -240,7 +240,7 @@ Pray; Prai; Lua')</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc.php?lg=Phay" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Khmuic</span></small></td>
                   <td
@@ -274,10 +274,10 @@ r&eacute;cits</small></td>
                   </div>
                   <small>(Brou;
 Bru; B'ru; Baru; Brou; S&ocirc;)</small></td>
-<td
- style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../corpus/list_rsc.php?lg=Rmet" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+                  <td
+ style="background-color: rgb(255, 255, 255); text-align: center;"><!--<a
+ href="../corpus/list_rsc.php?lg=Bru" target="_blank"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a>--><i>En cours de traitement</i></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Katuic</span></small></td>
                   <td
@@ -316,9 +316,10 @@ Bru</a> (<span style="font-style: italic;">Ethnologue</span>)<br>
                   </div>
                   <small>(Khamet;
 Lamet; Xmet)</small></td>
-                  <td style="background-color: rgb(255, 255, 255); text-align: center;"><a
- href="../corpus/list_rsc.php?lg=Bru" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+                  <td
+ style="background-color: rgb(255, 255, 255); text-align: center;"><!--<a
+ href="../corpus/list_rsc.php?lg=Na&amp;aff=na" target="_blank"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a>--><i>En cours de traitement</i></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Palaungic/Palaung-Wa&nbsp;</span></small></td>
                   <td
@@ -354,7 +355,7 @@ Nhaheun; Yaheun; Nyahon)</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc.php?lg=Nyaheun" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Bahnaric</span></small></td>
                   <td
@@ -388,7 +389,7 @@ questions/r&eacute;ponses</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc.php?lg=Laven" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Bahnaric</span></small></td>
                   <td
@@ -430,7 +431,7 @@ questions/r&eacute;ponses</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc.php?lg=Palaung" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>M&ocirc;n:
                   <span style="font-style: italic;">Monic</span><br>
                   <br>
@@ -486,7 +487,7 @@ U')</small></div>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc.php?lg=Kháng" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Palaungic&nbsp;</span></small></td>
                   <td
@@ -520,7 +521,7 @@ Ksing Mul; Puoc; Xinh Mun)</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc.php?lg=Ksing Mun" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;">Khmuic</span></small></td>
                   <td
@@ -551,7 +552,7 @@ Coong; Mangkong)</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc.php?lg=Makong dialect of Bru" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small><span
  style="font-style: italic;"><span style="font-style: italic;">dialecte
                   </span>Bru
@@ -578,7 +579,7 @@ Eastern</a>" on <span style="font-style: italic;">Ethnologue</span></small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc.php?lg=Mảng" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>pr&eacute;sum&eacute;
 &ecirc;tre <span style="font-style: italic;">Pakanic</span></small></td>
                   <td

@@ -11,25 +11,19 @@
 <p><table border="1">
  <tr>
  <td>
-            <img src="../../images/images_pangloss/haut_parleur_s.png" width="20" height="22"> </td>
+            <img src="../images/images_pangloss/haut_parleur_s.png" width="20" height="22"> </td>
             <td> 
            Click on this icon to access the <b>recording</b>
             </td>
             </tr>
             <tr>
             <td>
-           <img src="../../images/icones/Txt_Inter_parchemin.jpg" width="30" height="30"> </td>
+           <img src="../images/icones/Txt_Inter_parchemin.jpg" width="30" height="30"> </td>
            <td> 
           Click here to access the <b>text, with synchronized access</b>  to the sound file
           </td>
           </tr>
-          <tr> 
-          <td>
-           <img src="../../images/icones/info_marron.jpg" width="25" height="25"> </td> 
-           <td>
-          <b>Informations</b> about the resource (metadata)
-           </td>          
-           </tr>   
+         
           
           </table>
           </p>
@@ -47,7 +41,7 @@ consultation </div>
 
                         </th>
 
-                        <th width="50"></th>
+                       
 
                         <th width="200">
                         <div align="center"> Original
@@ -65,15 +59,15 @@ signals </div>
                       <tr class="odd">
 
                         <td>
-                        <div align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-VIE_M4_SMOOTHTONES_SOUND&amp;idref=crdo-VIE_M4_SMOOTHTONES"><img src="../../images/icones/Txt_Inter_parchemin.jpg"></a></div>
+                        <div align="center"><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-fee33879-eaac-3fc2-a67f-5a87a291f941&amp;idref=cocoon-acbde263-142a-36a4-97de-caa15554a226"><img src="../images/icones/Txt_Inter_parchemin.jpg"></a></div>
 
                         </td>
 
-                        <td align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-VIE_M4_SMOOTHTONES_SOUND&amp;lg=Vietnamese"><img src="http://lacito.vjf.cnrs.fr/images/icones/info_marron.jpg"></a></td>
+                       
 
                         <td>
-                        <div align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-VIE_M4_SMOOTHTONES_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png"></a> | 
-                        <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-VIE_SmoothTones_M4_EGG.wav"><img src="../../images/icones/egg2.jpg" width="10%"></a>
+                        <div align="center"><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-fee33879-eaac-3fc2-a67f-5a87a291f941"><img src="../images/images_pangloss/haut_parleur_s.png"></a> | 
+                        <a href="http://pangloss.cnrs.fr/audio/crdo-VIE_SmoothTones_M4_EGG.wav"><img src="../images/icones/egg2.jpg" width="10%"></a>
                         <br>
 
                         </div>
@@ -87,15 +81,15 @@ signals </div>
                       <tr class="odd">
 
                         <td>
-                        <div align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-VIE_M5_SMOOTHTONES_SOUND&amp;idref=crdo-VIE_M5_SMOOTHTONES"><img src="../../images/icones/Txt_Inter_parchemin.jpg"></a></div>
+                        <div align="center"><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-730d48da-735b-3856-b360-edfed053d51b&amp;idref=cocoon-4b39e22b-e3bf-32f6-a284-498eb7ea0d4c"><img src="../images/icones/Txt_Inter_parchemin.jpg"></a></div>
 
                         </td>
 
-                        <td align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-VIE_M5_SMOOTHTONES_SOUND&amp;lg=Vietnamese"><img src="http://lacito.vjf.cnrs.fr/images/icones/info_marron.jpg"></a></td>
+                       
 
                         <td>
-                        <div align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-VIE_M5_SMOOTHTONES_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png"></a> | 
-                        <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-VIE_SmoothTones_M5_EGGwav"><img src="../../images/icones/egg2.jpg" width="10%"></a>
+                        <div align="center"><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-730d48da-735b-3856-b360-edfed053d51b"><img src="../images/images_pangloss/haut_parleur_s.png"></a> | 
+                        <a href="http://pangloss.cnrs.fr/audio/crdo-VIE_SmoothTones_M5_EGGwav"><img src="../images/icones/egg2.jpg" width="10%"></a>
                         <br>
 
                         </div>
@@ -109,15 +103,15 @@ signals </div>
                       <tr class="odd">
 
                         <td>
-                        <div align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-VIE_M6_SMOOTHTONES_SOUND&amp;idref=crdo-VIE_M6_SMOOTHTONES"><img src="../../images/icones/Txt_Inter_parchemin.jpg"></a></div>
+                        <div align="center"><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-c2d4eb23-11a8-3575-8431-719230d4d465&amp;idref=cocoon-2866e624-0e8a-3cfe-986b-b84e3d74eca5"><img src="../images/icones/Txt_Inter_parchemin.jpg"></a></div>
 
                         </td>
 
-                        <td align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-VIE_M6_SMOOTHTONES_SOUND&amp;lg=Vietnamese"><img src="http://lacito.vjf.cnrs.fr/images/icones/info_marron.jpg"></a></td>
+                       
 
                         <td>
                         <div align="center">
-                       <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-VIE_M6_SMOOTHTONES_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png"></a>  | <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-VIE_SmoothTones_M6_EGG.wav"><img src="../../images/icones/egg2.jpg" width="10%"></a></div>
+                       <a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-c2d4eb23-11a8-3575-8431-719230d4d465"><img src="../images/images_pangloss/haut_parleur_s.png"></a>  | <a href="http://pangloss.cnrs.fr/audio/crdo-VIE_SmoothTones_M6_EGG.wav"><img src="../images/icones/egg2.jpg" width="10%"></a></div>
 
                         </td>
 
@@ -128,15 +122,15 @@ signals </div>
                       <tr class="odd">
 
                         <td>
-                        <div align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-VIE_M6_SMOOTHTONES_SOUND&amp;idref=crdo-VIE_M6_SMOOTHTONES"><img src="../../images/icones/Txt_Inter_parchemin.jpg"></a></div>
+                        <div align="center"><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-c2d4eb23-11a8-3575-8431-719230d4d465&amp;idref=cocoon-2866e624-0e8a-3cfe-986b-b84e3d74eca5"><img src="../images/icones/Txt_Inter_parchemin.jpg"></a></div>
 
                         </td>
 
-                        <td align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-VIE_M7_SMOOTHTONES_SOUND&amp;lg=Vietnamese"><img src="http://lacito.vjf.cnrs.fr/images/icones/info_marron.jpg"></a></td>
+                     
 
                         <td>
-                        <div align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text_en.php?id=crdo-VIE_M7_SMOOTHTONES_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png"></a> |  
-                        <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-VIE_SmoothTones_M7_EGG.wav"><img src="../../images/icones/egg2.jpg" width="10%"></a>
+                        <div align="center"><a href="http://pangloss.cnrs.fr/corpus/show_text_en.php?id=cocoon-a966a1bc-6642-36a3-8f87-e298a78678d3"><img src="../images/images_pangloss/haut_parleur_s.png"></a> |  
+                        <a href="http://pangloss.cnrs.fr/audio/crdo-VIE_SmoothTones_M7_EGG.wav"><img src="../images/icones/egg2.jpg" width="10%"></a>
                         <br>
 
                         </div>

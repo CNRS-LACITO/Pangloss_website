@@ -12,27 +12,27 @@ thiệu bằng tiếng Việt</span></a></p>
             <h4 align="left">Resources
 :</h4>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=Maleng+Br%C3%B4&amp;aff=Maleng+Br%C3%B4"
  target="_blank"> Click
 here for access to Maleng Br&ocirc; data (8 documents)</a></p>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=Pakatan&amp;aff=Pakatan" target="_blank">
 Click
 here for access to Pakatan data (4 documents)</a></p>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=Malang&amp;aff=Malang" target="_blank">
 Click
 here for access to Malang data (4 documents)</a></p>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=Malieng&amp;aff=Malieng" target="_blank">
 Click
 here for access to Malieng (M&atilde;liềng) data (3 documents)</a></p>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=Kha%20Phong&amp;aff=Kha%20Phong"
  target="_blank"> Click
 here for access to Kha Phong data (4 documents)</a></p>
@@ -115,7 +115,7 @@ by the <a href="http://www.bibliothequescientifiquenumerique.fr/"
 French Ministry for Higher
 Education and Research.&nbsp;</span></p>
             <a href="http://www.bibliothequescientifiquenumerique.fr/"
- target="_blank"> <img src="../../images/logos/bsn.png"
+ target="_blank"> <img src="../images/logos/bsn.png"
  alt="Digital Scientific Library" border="0" height="75"></a>
             <p>Last updated 2015.</p>
             <p><a href="../../membres/michaud.htm">Contact: Alexis
@@ -155,7 +155,7 @@ tr&igrave;nh của Bộ Gi&aacute;o
 dục đại học v&agrave;
 Nghi&ecirc;n cứu Ph&aacute;p.&nbsp;</span></p>
             <a href="http://www.bibliothequescientifiquenumerique.fr/"
- target="_blank"> <img src="../../images/logos/bsn.png"
+ target="_blank"> <img src="../images/logos/bsn.png"
  alt="Digital Scientific Library" border="0" height="75"></a>
             <p style="font-style: italic;"><span
  style="font-style: italic;"></span></p>

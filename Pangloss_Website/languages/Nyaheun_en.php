@@ -242,7 +242,7 @@ Pray; Prai; Lua')</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc_en.php?lg=Phay" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Phay
 is a <span style="font-style: italic;">Khmuic
 language</span>&nbsp;of the
@@ -279,9 +279,9 @@ narratives</small></td>
                   <small>(Brou;
 Bru; B'ru; Baru; Brou; S&ocirc;)</small></td>
                   <td
- style="background-color: rgb(255, 255, 255); text-align: center;"><a
+ style="background-color: rgb(255, 255, 255); text-align: center;"><!--<a
  href="../corpus/list_rsc_en.php?lg=Bru" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a>--><i>Coming soon</i></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Bru
 is a <span style="font-style: italic;">Katuic
 language</span> of the Austroasiatic
@@ -322,10 +322,10 @@ Bru</a> (<span style="font-style: italic;">Ethnologue</span>)<br>
                   </div>
                   <small>(Khamet;
 Lamet; Xmet)</small></td>
-                   <td
- style="background-color: rgb(255, 255, 255); text-align: center;"><a
+                  <td
+ style="background-color: rgb(255, 255, 255); text-align: center;"><!--<a
  href="../corpus/list_rsc_en.php?lg=Rmet" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a>--><i>Coming soon</i></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Rmet
 is a <span style="font-style: italic;">Palaungic/Palaung-Wa
 language</span> of the Austroasiatic
@@ -363,7 +363,7 @@ Nhaheun; Yaheun; Nyahon)</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc_en.php?lg=Nyaheun" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Nya-heun
 is a <span style="font-style: italic;">Bahnaric
 language</span> of the Austroasiatic
@@ -407,7 +407,7 @@ question/answers in Nya-heun</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc_en.php?lg=Na&amp;aff=na" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Laven
 is a <span style="font-style: italic;">Bahnaric
 language</span> of the Austroasiatic
@@ -451,7 +451,7 @@ question/answers in Laven</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc_en.php?lg=Palaong" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>M&ocirc;n
 is a <span style="font-style: italic;">Monic
 language</span> of the Austroasiatic
@@ -512,7 +512,7 @@ U')</small></div>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc_en.php?lg=Kháng" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Kh&aacute;ng&nbsp;is
 a <span style="font-style: italic;">Palaungic
 language</span> of the Austroasiatic
@@ -550,7 +550,7 @@ Ksing Mul; Puoc; Xinh Mun)</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc_en.php?lg=Ksing Mun" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Ksing
 Mun is a <span style="font-style: italic;">Khmuic
 language</span>&nbsp;of the
@@ -584,7 +584,7 @@ Coong; Mangkong)</small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc_en.php?lg=Makong dialect of Bru" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Mankong
 is a <span style="font-style: italic;">Bru
 dialect</span> (<span style="font-style: italic;">Katuic language</span>
@@ -612,7 +612,7 @@ Eastern</a>" on <span style="font-style: italic;">Ethnologue</span></small></td>
                   <td
  style="background-color: rgb(255, 255, 255); text-align: center;"><a
  href="../corpus/list_rsc_en.php?lg=Mảng" target="_blank"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"></a></td>
                   <td style="background-color: rgb(255, 255, 255);"><small>Mảng
 could be a <span style="font-style: italic;">Pakanic
 language</span>&nbsp;of the

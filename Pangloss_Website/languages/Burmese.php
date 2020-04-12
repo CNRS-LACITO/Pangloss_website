@@ -3,16 +3,16 @@
 <html><head><meta charset="utf-8"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
            <div class="page-header"><h1>Corpus birman</h1></div>
       <div class="text-left"><p class="intertitre">&nbsp;</p>
-      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Birman_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">birman<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
+      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Birman_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">birman<img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
       <br/>
       
       <h4 align="left">Ressources :</h4>
      <p align="left" class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Birman" target="_blank">Accès à toutes les ressources</a>
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Birman" target="_blank">Accès à toutes les ressources</a>
       </p>
 
 <p>&nbsp;</p>
-      <p class="intertitre"><a href="../tools/show_other.php?id=crdo-MYA-001_SOUND&idref=crdo-MYA-001_IMG"><img src="../../images/icones/pdf_son2.png" alt="a" width="30" height="30" border="0"> Achat d'un billet de bus</a> et <a href="../stockage/dawPu-99A2_TRAD.pdf"><img src="../../images/icones/pdf2.gif">traduction en français</a><br>
+      <p class="intertitre"><a href="../corpus/show_other.php?id=cocoon-b658f84e-bd7e-37f3-8d1b-84f0ab75bd52&idref=cocoon-daee117a-e0c4-33a0-a68f-bf52f3d865db"><img src="../images/icones/pdf_son2.png" alt="a" width="30" height="30" border="0"> Achat d'un billet de bus</a> et <a href="../stockage/dawPu-99A2_TRAD.pdf"><img src="../images/icones/pdf2.gif">traduction en français</a><br>
 Myanmar, Yangon, 1999, Daw Pu, <a href="../../membres/vittrant.htm">Alice Vittrant</a></p>
       <p class="ZonePrint">Récit enregistré à Yangon, Birmanie (Myanmar) en aout 1999 - Locutrice Daw Pu, 50 ans
 "Daw Pu raconte à sa soeur ses pérégrinations dans Yangon en compagnie de Ma Win Win Maw  (linguiste.)"</p>

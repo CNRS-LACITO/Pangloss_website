@@ -4,7 +4,7 @@
               <h1>Newar Corpus </h1></div>
             <div class="text-left">
    
-      <!--<p class="intertitre"><a href="../../ALC/Languages/Newar_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0">Newar</a>: a brief note</p>-->
+      <!--<p class="intertitre"><a href="../../ALC/Languages/Newar_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0">Newar</a>: a brief note</p>-->
     
 
       <p class="intertitre">Newar is the language of the Newar nation and civilization, which ruled Kathmandu and some neighboring valleys until 1768. The Newar today account for about a quarter of the population of the Kathmandu Valley. The language is a member of the Tibeto-Burman or Sino-Tibetan family, heavily influenced by Sanskrit and by Nepali and other Indo-Aryan languages. It has been written, in Devanagari and closely related Indian scripts, for almost a millenium. Some 846,000 personnes claimed Newar as their mother tongue in the Nepal Census of 2011.</p>

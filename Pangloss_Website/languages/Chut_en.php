@@ -10,17 +10,17 @@ thiệu bằng tiếng Việt</span></a></p>
             <h4 align="left">Resources
 :</h4>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=R%E1%BB%A5c&amp;aff=R%E1%BB%A5c"
  target="_blank"> Click
 here for access to the Rục vocabulary (3 files)</a></p>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=S%C3%A1ch&amp;aff=S%C3%A1ch"
  target="_blank"> Click
 here for access to the S&aacute;ch vocabulary (3 files)</a></p>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=Salang&amp;aff=Salang" target="_blank">
 Click
 here for access to the Salang vocabulary (6 files)</a></p>
@@ -191,7 +191,7 @@ số <a href="http://www.bibliothequescientifiquenumerique.fr/"
 tr&igrave;nh của Bộ Gi&aacute;o dục đại học v&agrave;
 Nghi&ecirc;n cứu Ph&aacute;p.&nbsp;</span> <a
  href="http://www.bibliothequescientifiquenumerique.fr/" target="_blank">
-            <img src="../../images/logos/bsn.png"
+            <img src="../images/logos/bsn.png"
  alt="Digital Scientific Library" border="0" height="75"></a>
             <p style="font-style: italic;"><span
  style="font-style: italic;"></span></p>

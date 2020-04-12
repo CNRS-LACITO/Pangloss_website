@@ -4,7 +4,7 @@
            <div class="page-header"><h1>Corpus ixcatèque</h1></div>
            <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre">Fiche technique sur l'<a href="../../ALC/Languages/Ixcatec_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">ixcatèque<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
+      <p class="intertitre">Fiche technique sur l'<a href="../../ALC/Languages/Ixcatec_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">ixcatèque<img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
       <p class="intertitre">&nbsp;</p>
       <p align="left">&nbsp;</p>
       <h4 align="left">Ressources vidéo : </h4>
@@ -52,7 +52,7 @@
       </tr>
       </table>  
      <!--<p align="left" class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Ixcatec" target="_blank">Accès à toutes les ressources</a>
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Ixcatec" target="_blank">Accès à toutes les ressources</a>
       </p>-->
        <p align="left" class="intertitre">&nbsp;</p>
 

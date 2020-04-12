@@ -7,7 +7,7 @@
             <h4 align="left">Ressources
 :</h4>
             <p class="intertitre" align="left"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
             <a
  href="../corpus/list_rsc.php?lg=M%C6%B0%E1%BB%9Dng&amp;aff=m%C6%B0%E1%BB%9Dng"
  target="_blank">Acc&egrave;s &agrave; toutes

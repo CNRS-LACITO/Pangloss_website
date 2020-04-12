@@ -10,7 +10,7 @@ Corpus </h1></div>
             <h4 align="left">Resources
 :</h4>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
             <a href="../corpus/list_rsc_en.php?lg=Arem&amp;aff=Arem"
  target="_blank">All
 available resources here </a></p>

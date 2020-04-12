@@ -4,21 +4,21 @@
             <div class="page-header"><h1>Romani Corpus</h1></div>
             <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre"><a href="../../ALC/Languages/Romani_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="infos" width="15" height="15" border="0">Romani</a>: a brief note</p>
+      <p class="intertitre"><a href="../../ALC/Languages/Romani_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../images/icones/info.gif" alt="infos" width="15" height="15" border="0">Romani</a>: a brief note</p>
       <p align="left">&nbsp;</p>
       <h4 align="left">Resources :</h4>
       <p class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Romani&aff=Romani" target="_blank"> All available resources here
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Romani&aff=Romani" target="_blank"> All available resources here
       </a></p>
       <p class="intertitre">&nbsp;</p>
       <h4 align="left">Romani Texts</h4>
-      <p class="intertitre"><a href="../corpus/show_text_en.php?id=crdo-RMN-ROM3_SOUND&idref=crdo-RMN-ROM3"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> The Louse and the Rom</a><br>
-        Grèce, Thrace, Komotini, 2006, <a href="../corpus/show_text.php?id=crdo-RMN-ROM3_SOUND" target="_blank"></a><a href="../../membres/adamou.htm">Evangelia Adamou</a></p>
+      <p class="intertitre"><a href="../corpus/show_text_en.php?id=cocoon-b48c740d-59ad-3d91-9956-fdd3ea003ba0&idref=cocoon-1330a853-7d11-346b-97c2-cd52ec8b0231"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> The Louse and the Rom</a><br>
+        Grèce, Thrace, Komotini, 2006, <a href="../corpus/show_text.php?id=cocoon-b48c740d-59ad-3d91-9956-fdd3ea003ba0" target="_blank"></a><a href="../../membres/adamou.htm">Evangelia Adamou</a></p>
       <p>This is a comical tale of a Rom anti-hero who gets married to the king&rsquo;s daughter (for having recognized an over-sized louse), wins a war for his new kingdom (for having followed a dog who stole his food) and is mistaken for a wise, educated man (for speaking Romani to an old Rom woman begging in the streets).</p>
-      <p class="intertitre"><a href="../corpus/show_text_en.php?id=crdo-RMN-MAN_SNAKE_SOUND&idref=crdo-RMN-MAN_SNAKE"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> The Man-Snake</a><br>
+      <p class="intertitre"><a href="../corpus/show_text_en.php?id=cocoon-3c211c50-ea89-39e7-a502-67572d668627&idref=cocoon-a94769b5-8b5a-35bb-af02-130f145706b5"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> The Man-Snake</a><br>
         Grèce, Thrace, Komotini, 2006, <a href="../../membres/adamou.htm">Evangelia Adamou</a></p>
       <p>This is a short version of a classical tale of a man who was born as a snake. The man-snake kills all the women he marries during their wedding night. But one mother dreams of how her daughter will get married to him and help him stay a man. She has to wear forty one pieces of clothing and take them off one by one as the man-snake removes one by one his forty coats of snake skin. Thus he removes all his layers of snake skin and reveals himself as a very handsome man.</p>
-      <p class="intertitre"><a href="../corpus/show_text_en.php?id=crdo-RMN-COWARD_SOUND&idref=crdo-RMN-COWARD"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> The Coward and the Giants</a><br>
+      <p class="intertitre"><a href="../corpus/show_text_en.php?id=cocoon-af3f71a6-b342-38e0-9707-ad82d5175fac&idref=cocoon-f4d1f3b5-7464-35d7-a716-d423146cf073"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> The Coward and the Giants</a><br>
         Grèce, Thrace, Komotini, 2006, <a href="../../membres/adamou.htm">Evangelia Adamou</a></p>
       <p>This tale is another case where the Rom is an anti-hero who is mistaken for a hero. The story is about the village coward who is even scared to go to the toilet alone at night. But one such night he kills forty mosquitoes and proudly buys a sword with this inscription: "the man who killed forty at once". One day, while he's sleeping under a tree, some giants happen to see his sword and thinking he's really strong, they take him as their groom. Except that their groom turns out to be extremely lazy and their only wish then becomes to find a way to get rid of him.<br>
         <br>

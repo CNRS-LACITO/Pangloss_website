@@ -121,7 +121,7 @@ sách từ chương trình Thư viện Khoa học Kỹ thuật
 số <a href="http://www.bibliothequescientifiquenumerique.fr/" target="_blank">(Digital Scientific Library)</a><span style="font-style: italic;">, một chương
 trình của Bộ Giáo dục đại học và
 Nghiên cứu Pháp.&nbsp;</span> <a href="http://www.bibliothequescientifiquenumerique.fr/" target="_blank">
-            <img src="../../images/logos/bsn.png" alt="Digital Scientific Library" border="0" height="75"></a>
+            <img src="../images/logos/bsn.png" alt="Digital Scientific Library" border="0" height="75"></a>
             <p style="font-style: italic;"><span style="font-style: italic;"></span></p>
 			</div>
 </body></html>

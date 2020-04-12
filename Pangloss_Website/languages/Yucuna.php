@@ -4,30 +4,30 @@
            <div class="page-header"><h1>Corpus yucuna</h1></div>
            <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Yucuna_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">yucuna<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
+      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Yucuna_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">yucuna<img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
       <p class="intertitre">&nbsp;</p>
       <h3>Introduction à la langue et à l'écriture yucuna (voir <a href="#intro">ci-dessous</a>)</h3>
             <p align="left">&nbsp;</p>
       <h4 align="left">Ressources :</h4>
      <p align="left" class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Yucuna&aff=yucuna" target="_blank">Accès à toutes les ressources</a>
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Yucuna&aff=yucuna" target="_blank">Accès à toutes les ressources</a>
       </p>
        <p align="left" class="intertitre">&nbsp;</p>
 
       <h3 align="left">Textes yucuna</h3>
-      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=crdo-YCN_KEYAKO_SOUND&idref=crdo-YCN_KEYAKO"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Histoire de Keyako</a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=cocoon-6fba1a62-8874-32f9-b75d-d369f1d89d47&idref=cocoon-3bb440bd-e319-35fd-9562-07f7353c9d73"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Histoire de Keyako</a><br>
       Colombie, Amazonas, Mirití-Parana, Jariyé, 1998, Milciades Yucuna, <a href="../../membres/fontaine.htm">Laurent Fontaine</a></p>
       <p align="left" class="intertitre"> Il s'agit de l'histoire du premier indigène de langue yucuna, de tribu Kamejeya, à avoir établi des contacts réguliers avec les Blancs, en descendant le Caqueta et le Japura (même fleuve côté Brésil) jusqu'à un comptoir brésilien (identifié ici comme Tefé), pour aller échanger de l'artisanat fabriqué par ses servants indigènes (de tribus jurumi et jupichiya) contre des marchandises des Blancs. Mais à son retour, des ragots se sont propagés sur son compte : sa femme aurait organisé des fêtes en son absence pour se soûler avec ses amants…</p>
-      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=crdo-YCN_PIMI_MAWARI_SOUND&idref=crdo-YCN_PIMI_MAWARI"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Mythe du H&eacute;ron cocoi et du Colibri</a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=cocoon-21635c07-e4c7-3e24-9fee-04909cead1b8&idref=cocoon-dd9404c6-8f1e-318d-96ab-542c82653446"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Mythe du H&eacute;ron cocoi et du Colibri</a><br>
         Colombie, Amazonas, Camaritagua, 2003i, Hua'mé Matapi, <a href="../../membres/fontaine.htm">Laurent Fontaine</a></p>
       <p align="left" class="ZonePrint">Mythe du H&eacute;ron cocoi (<em>Ardea cocoi</em>) et du Colibri.</p>
-      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=crdo-YCN_KURUKURU_JUWA_SOUND&idref=crdo-YCN_KURUKURU_JUWA"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Histoire du Flamant Bois et de la Grande Aigrette </a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=cocoon-f5a8231a-7887-3161-a615-b1343b511cb6&idref=cocoon-45b89851-6560-3a7d-bb89-e4530fec3731"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Histoire du Flamant Bois et de la Grande Aigrette </a><br>
       Colombie, Amazonas, Camaritagua, 2003, Hua'mé Matapi, <a href="../../membres/fontaine.htm">Laurent Fontaine</a></p>
       <p align="left">[fr] Mythe du Flamant Bois (<em>Mesembrinibis cayennensis</em>) et de la Grande Aigrette (<em>Casmerodius albus</em>).</p>
-      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=crdo-YCN_KANUMA_SOUND&idref=crdo-YCN_KANUMA"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Histoire de Kanumá</a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=cocoon-8eff4fb3-6a33-3e0e-bb5c-dcacf370ef73&idref=cocoon-ad9c2a3b-7f1b-3b57-9dc4-87f60d38f475"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Histoire de Kanumá</a><br>
       Colombie, Amazonas, La Pedrera, 2005, Mario Matapi, <a href="../../membres/fontaine.htm">Laurent Fontaine</a></p>
       <p align="left">Kanumá est pour les Indiens de langue yucuna, le premier homme. Primitif à l'origine, il vit d'abord avec les Amazones, une tribu de femmes surnaturelles appelées Ñamatu, qui se comportent comme des hommes, et qui lui font faire la cuisine comme une femme. Ces femmes pratiquent en secret le Yurupari et cachent les flûtes sacrées de ce rite à Kanumá, jusqu'au jour où celui-ci leur dérobe... Après une course poursuite entre Kanumá et les Ñamatu qui ont décidé de l'abandonner en descendant le fleuve Miriti, puis le Caqueta jusqu'à l'embouchure de l'Amazone, Kanumá se retrouve seul. Il rencontrera ensuite les deux filles de Je'chú (le Ciel) dont l'une deviendra sa femme et lui apportera les tubercules (manioc, igname), les fruits du jardin (chontaduro, ananas, etc.) et même la coca.</p>
-      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=crdo-YCN_KOMEYAPHU_SOUND&idref=crdo-YCN_KOMEYAPHU"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Mythe de Komeyaphu</a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=cocoon-23cc275b-a4b1-349f-84a4-572999780000&idref=cocoon-41fbc272-64c6-328f-97e7-4527c0103246"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Mythe de Komeyaphu</a><br>
       Colombie, Amazonas, La Pedrera, 2005, Arturo Yucuna, <a href="../../membres/fontaine.htm">Laurent Fontaine</a></p>
       <p align="left"> Le mythe de Komeyaphu (l'Arc-en-Ciel) est celui d'un homme qui alla avec ses enfants séjourner chez le fils de la Lune, installé près de l'embouchure de l'Amazone, à proximité de la mer. Une fois chez ce dernier, Komeyaphu souhaite chasser des petits animaux pour ses enfants, mais à sa grande surprise, ils sont tous gigantesques, ce qui lui occasionnera quelques soucis...</p>
       <p align="left">&nbsp;</p>

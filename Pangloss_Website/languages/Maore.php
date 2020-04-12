@@ -4,7 +4,7 @@
            <div class="page-header"><h1><a name="up"></a>Corpus mahorais  </h1></div>
             <div class="text-left">
         <p class="intertitre">&nbsp;</p>
-        <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Maore_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">mahorais</a> <a href="../../ALC/Languages/Maore_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
+        <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Maore_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">mahorais</a> <a href="../../ALC/Languages/Maore_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
         <p align="left">&nbsp;</p>
         <ul class="liste-liens">
           <li>
@@ -28,14 +28,14 @@
           <p>Le maore pr&eacute;sente des diff&eacute;rences sensibles par rapport au ngazidja et au mwali (parlers des deux &icirc;les les plus septentrionales de l'archipel des Comores) et s'apparente nettement plus au parler de l'&icirc;le voisine d'Anjouan (le nzuani). </p>
           <h4 class="intertitre"><strong> <a name="reference"></a>R&eacute;f&eacute;rence</strong></h4>
           <p>ROMBI Marie-Fran&ccedil;oise, 1983, <em>Le shimaore (&icirc;le de Mayotte, Comores). Premi&egrave;re approche d'un parler de la langue comorienne</em>, Paris, Peeters-Sefaf.</p>
-          <h4 class="intertitre"><a name="textes" id="textes"></a>Textes enregistr&eacute;s <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="up" width="10" height="9" border="0"></a></h4>
+          <h4 class="intertitre"><a name="textes" id="textes"></a>Textes enregistr&eacute;s <a href="#up"><img src="../images/icones/fleche-haut.gif" alt="up" width="10" height="9" border="0"></a></h4>
           <p align="left">&nbsp;</p>
       <h4 align="left">Ressources :</h4>
      <p align="left" class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Maore&aff=mahorais" target="_blank">Accès à toutes les ressources</a>
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Maore&aff=mahorais" target="_blank">Accès à toutes les ressources</a>
       </p>
        <p align="left" class="intertitre">&nbsp;</p>
-          <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-SWB_HOMME_SOUND&idref=crdo-SWB_HOMME"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> L'homme et sa femme en bois</a><br>
+          <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-88960ad6-84dd-35fc-9061-962d9e005b42&idref=cocoon-f5a9d562-922d-3797-bfd6-9951240c3b72"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> L'homme et sa femme en bois</a><br>
           Comores, Mayotte, Mtsapere (Grande Terre), 1978, conteur anonyme, <a href="../../membres/rombi.htm">Marie-Fran&ccedil;oise Rombi</a></p>
           <p>Le conte a &eacute;t&eacute; recueilli &agrave; Mayotte en 1978. Il a &eacute;t&eacute; collect&eacute; en milieu urbanis&eacute;, &agrave; Mutsapere, faubourg de Mamudzu (en r&eacute;alit&eacute; Momoju) ville principale, en 1978, de la Grande Terre.<br>
           Le conteur est un homme d'une cinquantaine d'ann&eacute;es, non francophone, n'ayant pas voyag&eacute; en dehors des Comores.<br>
@@ -44,7 +44,7 @@
           <p>La langue utilis&eacute;e par le conteur est un mahorais courant qui ne posait pas de probl&egrave;mes de compr&eacute;hension, en 1978, &agrave; la jeune g&eacute;n&eacute;ration.<br>
             La partie chant&eacute;e montre que l'&eacute;tude de la litt&eacute;rature orale apporte des &eacute;l&eacute;ments tr&egrave;s importants et permet, avec prudence certes, d'&eacute;baucher des hypoth&egrave;ses sur les mouvements de populations dans la r&eacute;gion.<br>
             En effet, cette partie chant&eacute;e m'a &eacute;t&eacute; pr&eacute;sent&eacute;e par le conteur comme provenant de la langue des anc&ecirc;tres d'Afrique. Il s'est av&eacute;r&eacute; ult&eacute;rieurement qu'il s'agit de makua du Mozambique.</p>
-          <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-SWB_PAUVRES_TIRANS_SOUND&idref=crdo-SWB_PAUVRES_TIRANS"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Trois pauvres, deux tyrans, deux princesses </a><br>
+          <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-4974d908-a030-3deb-9d04-5a5d5d0398c0&idref=cocoon-d3489dcf-033a-3115-8c90-85bac681f531"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Trois pauvres, deux tyrans, deux princesses </a><br>
           Comores, Mayotte, Mtsapere (Grande Terre), 1978, Darvesh Soihili, <a href="../../membres/rombi.htm">Marie-Fran&ccedil;oise Rombi</a></p>
        </div>
 </body>

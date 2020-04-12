@@ -6,7 +6,7 @@
       <p align="left">&nbsp;</p>
       <strong>Resources</strong> :
 <p class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Sorabe supérieur (courant)" target="_blank"> All available resources here
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Sorabe supérieur (courant)" target="_blank"> All available resources here
       </a></p>
       <h1>&nbsp;</h1>
       <p align="center" class="intertitre">&nbsp;</p>

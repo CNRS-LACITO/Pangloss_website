@@ -4,11 +4,11 @@
             <div class="page-header"><h1><a name="up"></a>Mizo Corpus </h1></div>
             <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre"><a href="../../ALC/Languages/Mizo_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0">Mizo</a>: a brief note </p>
+      <p class="intertitre"><a href="../../ALC/Languages/Mizo_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0">Mizo</a>: a brief note </p>
         <p class="intertitre">&nbsp;</p>
       <h4 align="left">Resources :</h4>
       <p class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Mizo&aff=Mizo" target="_blank"> All available resources here
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Mizo&aff=Mizo" target="_blank"> All available resources here
       </a></p>
       <p class="intertitre">&nbsp;</p>
       <p>Mizo (ISO 639-3: lus), also known as Lushai, is a language of the subgroup of Tibeto-Burman known as Kukish (Shafer), Chin, or Kuki-Chin. It is the official language of the Indian state of Mizoram. There are over half a million speakers in Mizoram and in neighboring areas of India, Bangladesh, and Burma. A writing system using the roman alphabet was designed by Christian missionaries in the 1890s, and literacy is widespread among speakers.</p>

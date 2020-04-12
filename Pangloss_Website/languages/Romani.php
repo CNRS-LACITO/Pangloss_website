@@ -4,21 +4,21 @@
            <div class="page-header"><h1>Corpus romani</h1></div>
            <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Romani_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">romani<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
+      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Romani_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">romani<img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
       <p align="left">&nbsp;</p>
       <h4 align="left">Ressources :</h4>
      <p align="left" class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Romani&aff=romani" target="_blank">Accès à toutes les ressources</a>
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Romani&aff=romani" target="_blank">Accès à toutes les ressources</a>
       </p>
        <p align="left" class="intertitre">&nbsp;</p>
       <h4 align="left">Textes romani</h4>
-      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=crdo-RMN-ROM3_SOUND&idref=crdo-RMN-ROM3"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Le pou et le Rom</a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=cocoon-b48c740d-59ad-3d91-9956-fdd3ea003ba0&idref=cocoon-1330a853-7d11-346b-97c2-cd52ec8b0231"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Le pou et le Rom</a><br>
       Grèce, Thrace, Komotini, 2006, <a href="../../membres/adamou.htm">Evangelia Adamou</a></p>
       <p>C&rsquo;est l&rsquo;histoire amusante d&rsquo;un anti-h&eacute;ros rom qui &eacute;pousa la fille du roi (pour avoir reconnu un &eacute;norme pou), gagna une guerre au profit de son nouveau royaume (pour avoir suivi un chien qui lui avait vol&eacute; un morceau de viande) et fut consid&eacute;r&eacute; comme un homme sage et &eacute;rudit (pour avoir parl&eacute; en romani &agrave; une vieille mendiante rom).</p>
-      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=crdo-RMN-MAN_SNAKE_SOUND&idref=crdo-RMN-MAN_SNAKE"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> L'homme-serpent</a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=cocoon-3c211c50-ea89-39e7-a502-67572d668627&idref=cocoon-a94769b5-8b5a-35bb-af02-130f145706b5"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> L'homme-serpent</a><br>
       Grèce, Thrace, Komotini, 2006, <a href="../../membres/adamou.htm">Evangelia Adamou</a></p>
       <p>L&rsquo;histoire de l&rsquo;homme n&eacute; sous forme de serpent est cont&eacute;e ici rapidement. L&rsquo;homme-serpent tue toutes ses &eacute;pouses successives lors de leur nuit de noces. Gr&acirc;ce &agrave; un r&ecirc;ve, la m&egrave;re d'une future &eacute;pouse peut indiquer &agrave; sa fille comment l'aider &agrave; se transformer d&eacute;finitivement en homme. Elle doit s&rsquo;habiller avec quarante et un v&ecirc;tements et en enlever un chaque fois que l&rsquo;homme-serpent enl&egrave;vera l'une de ses quarante peaux. Ainsi, apr&egrave;s avoir enlev&eacute; toutes ses peaux de serpent,  il deviendra  vraiment un bel homme.</p>
-      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=crdo-RMN-COWARD_SOUND&idref=crdo-RMN-COWARD"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Le couard et les g&eacute;ants</a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text.php?id=cocoon-af3f71a6-b342-38e0-9707-ad82d5175fac&idref=cocoon-f4d1f3b5-7464-35d7-a716-d423146cf073"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> Le couard et les g&eacute;ants</a><br>
       Grèce, Thrace, Komotini, 2006, <a href="../../membres/adamou.htm">Evangelia Adamou</a></p>
       <p>Voici une autre  occasion de raconter l&rsquo;histoire d&rsquo;un anti-h&eacute;ros rom qui est pris pour un h&eacute;ros. C&rsquo;est en effet l&rsquo;histoire du plus peureux du village, celui qui ne peut m&ecirc;me pas aller seul aux toilettes une fois la nuit tomb&eacute;e. Un soir, il tue quarante moustiques et tout fier fait inscrire sur une &eacute;p&eacute;e : &laquo; Celui qui en a tu&eacute; quarante d&rsquo;un coup&nbsp;&raquo;. Un jour, alors qu&rsquo;il dort sous un arbre, des g&eacute;ants viennent &agrave; lire cette inscription et  le kidnappent pour lui faire &eacute;pouser leur s&oelig;ur. Mais le Rom se r&eacute;v&egrave;le bien fain&eacute;ant et ils ne cherchent plus que le moyen de s&rsquo;en d&eacute;barasser. <br>
       </p>

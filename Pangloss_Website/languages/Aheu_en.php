@@ -9,12 +9,12 @@
             <h4 align="left">Resources
 :</h4>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=Thavung&amp;aff=Thavung" target="_blank">
 Click
 here for a list of Thavung resources</a></p>
             <p class="intertitre"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=Aheu&amp;aff=Aheu" target="_blank">
 Click
 here for a list of

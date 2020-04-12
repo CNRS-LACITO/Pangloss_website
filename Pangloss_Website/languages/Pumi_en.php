@@ -7,7 +7,7 @@
       <p class="intertitre">&nbsp;</p>
       <h4 align="left">Resources :</h4>
       <p class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Pumi&aff=Pumi" target="_blank"> All available resources here
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Pumi&aff=Pumi" target="_blank"> All available resources here
       </a></p>
       <p class="intertitre">&nbsp;</p>
       

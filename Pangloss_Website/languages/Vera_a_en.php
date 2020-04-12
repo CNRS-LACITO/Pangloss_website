@@ -4,11 +4,11 @@
             <div class="page-header"><h1><span class="intertitre"><a name="up"></a></span>Vera'a Corpus</h1></div>
             <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre"><a href="../../ALC/Languages/Vera_a_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0">Vera'a</a>: a brief note </p>
+      <p class="intertitre"><a href="../../ALC/Languages/Vera_a_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0">Vera'a</a>: a brief note </p>
             <p align="left">&nbsp;</p>
       <h4 align="left">Resources :</h4>
       <p class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Vera'a&aff=Vera'a" target="_blank"> All available resources here
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Vera'a&aff=Vera'a" target="_blank"> All available resources here
       </a></p>
       <p class="intertitre">&nbsp;</p>
       </div>

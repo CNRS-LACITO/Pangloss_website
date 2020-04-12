@@ -6,7 +6,7 @@
 
       <p class="intertitre">&nbsp;</p>
 
-      <p class="intertitre"><a href="../../ALC/Languages/Laze_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="a" border="0" height="15" width="15">Laze</a>: a brief note </p>
+      <p class="intertitre"><a href="../../ALC/Languages/Laze_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../images/icones/info.gif" alt="a" border="0" height="15" width="15">Laze</a>: a brief note </p>
 
       <p>&nbsp;</p>
 
@@ -18,7 +18,7 @@ lower than 1,000, and probably under 400. This language belongs to the
 Naish subgroup of the Sino-Tibetan family, along with Naxi and Na
 (Mosuo). In Chinese, Laze is called 拉热 or 木里水田话.</p>
 
-      <p class="intertitre"> <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/list_rsc.php?lg=Lazé&amp;aff=lazé" target="_blank"> Click here to access a list of all
+      <p class="intertitre"> <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"> <a href="http://pangloss.cnrs.fr/corpus/list_rsc.php?lg=Lazé&amp;aff=lazé" target="_blank"> Click here to access a list of all
 available resources</a></p>
 
       <p>The resources available at present are: (i) two <a href="#stories">stories</a>
@@ -32,7 +32,7 @@ touch!)</p>
 
       <h2><a name="stories"></a>Laze stories</h2>
 
-      <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_ENTERREEVIVE_SOUND&amp;id_ref=crdo-NBF_ENTERREEVIVE"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">&nbsp;</a><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_ENTERREEVIVE_SOUND&amp;id_ref=crdo-NBF_ENTERREEVIVE">Buried
+      <p class="intertitre"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-702bbb09-377a-3a2e-b687-d68b22eaa564&amp;id_ref=cocoon-0b19f353-0929-3cb1-ad83-a150689c9615"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">&nbsp;</a><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-702bbb09-377a-3a2e-b687-d68b22eaa564&amp;id_ref=cocoon-0b19f353-0929-3cb1-ad83-a150689c9615">Buried
 Alive</a><br>
 
 Muli, Liangshan, Sichuan, 2008, speaker: Tian Xiufang.</p>
@@ -51,7 +51,7 @@ home, her family thought she was a ghost coming back to haunt them, and
 wouldn't let her in. Finally, they made out what had happened, and
 forgave her.</p>
 
-      <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_FEMMECELESTE_SOUND&amp;id_ref=crdo-NBF_FEMMECELESTE"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Celestial
+      <p class="intertitre"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-b3c77db4-54b3-331d-97ba-d907c1a05239&amp;id_ref=cocoon-2bea6885-628c-34e7-94be-09a5fbdda588"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0" height="20" width="20">Celestial
 Wife</a><br>
 
 Muli, Liangshan, Sichuan, 2008, speaker: Tian Xiufang.</p>
@@ -65,7 +65,7 @@ curse by heavenly powers.</p>
       <h2><a name="songs"></a>Fragments of
 Laze songs</h2>
 
-      <p>Unlike <a href="http://lacito.vjf.cnrs.fr/pangloss/languages/Naxi_en.php#XiaoRulian" target="_blank">the Naxi songs available as part of the Naxi
+      <p>Unlike <a href="http://pangloss.cnrs.fr/languages/Naxi_en.php#XiaoRulian" target="_blank">the Naxi songs available as part of the Naxi
 corpus</a>, which are sung by a professional singer, the Laze
 songs were elicited from ordinary people; the objective was not to
 preserve outstanding performances, but to record data that might prove
@@ -88,7 +88,7 @@ these are now replaced by songs in Chinese.</p>
       <p>
 My teacher was aware that I was interested in collecting folk songs to
 improve the record, and tried her best to overcome the two other
-speakers' reluctance, even jumping in herself and singing <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_F7_SONG_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">a short song</a>.
+speakers' reluctance, even jumping in herself and singing <a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-aaa916fa-a531-303d-8ef2-24d857400d85" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">a short song</a>.
 Thanks to her efforts, a total of six fragments of songs and a nursery
 rhyme were recorded, but
 not without long pauses in the middle of songs when the speakers tried
@@ -97,8 +97,8 @@ this&nbsp;awkward situation: three women well past the age of
 singing in public, recording songs for publication in an archive which
 they knew would be accessible from any computer.&nbsp;</p>
 
-      <p><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_SONG_SOUND" target="_blank">Another song had been
-sung the year before by </a><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_SONG_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"></a><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_SONG_SOUND" target="_blank">Mr.
+      <p><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-f97ec661-066c-3940-9cbc-c6dceb36b0dd" target="_blank">Another song had been
+sung the year before by </a><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-f97ec661-066c-3940-9cbc-c6dceb36b0dd" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"></a><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-f97ec661-066c-3940-9cbc-c6dceb36b0dd" target="_blank">Mr.
 Hu</a>, to the same tune.</p>
 
       <p>These songs could not be transcribed due to severe
@@ -141,8 +141,8 @@ available online.)</p>
 
             <td>F7</td>
 
-            <td><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_F7_SONG_SOUND" target="_blank">song</a></td>
+            <td><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-aaa916fa-a531-303d-8ef2-24d857400d85" target="_blank">song</a></td>
 
             <td>1'50</td>
 
@@ -152,8 +152,8 @@ available online.)</p>
 
             <td>F10</td>
 
-            <td><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_F10_SONG_SOUND" target="_blank">song</a></td>
+            <td><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-b14424e7-adf9-3efa-9dcf-e891b0ae0f24" target="_blank">song</a></td>
 
             <td>1'28</td>
 
@@ -163,7 +163,7 @@ available online.)</p>
 
             <td>F11</td>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_F11_SONG1_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-620ad3fd-5ad6-384a-9405-1260e9fa01cb" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 song (1)</a></td>
 
             <td>0'49</td>
@@ -174,7 +174,7 @@ song (1)</a></td>
 
             <td>F11</td>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_F11_SONG2_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-cc3321a8-8c48-376a-93c5-b351d0bed18b" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 song (2)</a></td>
 
             <td>0'32</td>
@@ -185,7 +185,7 @@ song (2)</a></td>
 
             <td>F11</td>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_F11_SONG3_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-a8d85e89-0b81-38f5-bcb3-f2701fc86322" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 song (3)</a></td>
 
             <td>2'48</td>
@@ -196,7 +196,7 @@ song (3)</a></td>
 
             <td>F11</td>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_F11_SONG4_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-95595c7b-0548-3796-b062-6101c703595a" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 song (4)</a></td>
 
             <td>2'11</td>
@@ -207,7 +207,7 @@ song (4)</a></td>
 
             <td>F11</td>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_F11_NURSERY_RHYME_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"> nursery
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-2e6f0db8-fa33-3759-bf86-156df9c4702c" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"> nursery
 rhyme</a></td>
 
             <td>0'47</td>
@@ -218,7 +218,7 @@ rhyme</a></td>
 
             <td>M20</td>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_SONG_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">song</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-f97ec661-066c-3940-9cbc-c6dceb36b0dd" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">song</a></td>
 
             <td>10'15</td>
 
@@ -287,7 +287,7 @@ cultural area. </p>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_RITUAL1_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-c8b5602d-2d7e-30f5-911d-f876dcb12f8a" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 Ritual 1</a></td>
 
             <td>18'33</td>
@@ -296,7 +296,7 @@ Ritual 1</a></td>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_RITUAL2_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-cdf12766-c31b-360f-bbc1-c813213faac4" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 Ritual 2</a></td>
 
             <td>6'17</td>
@@ -305,7 +305,7 @@ Ritual 2</a></td>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_RITUAL3_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-3b3f73b5-34d0-3069-8fde-9ed387a7ed9c" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 Ritual 3</a></td>
 
             <td>7'24</td>
@@ -314,8 +314,8 @@ Ritual 3</a></td>
 
           <tr>
 
-            <td><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
-            <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_RITUAL4_SOUND" target="_blank">Ritual 4</a>. Note: the chanting is preceded by a narrative portion of about one minute.</td>
+            <td><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-776af093-aec1-3d9b-bd1b-67d65474a565" target="_blank">Ritual 4</a>. Note: the chanting is preceded by a narrative portion of about one minute.</td>
 
             <td>8'10</td>
 
@@ -323,7 +323,7 @@ Ritual 3</a></td>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_RITUAL5_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-add6e172-040d-3e9e-a659-6f9e1366ad9e" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 Ritual 5</a></td>
 
             <td>4'57</td>
@@ -332,7 +332,7 @@ Ritual 5</a></td>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_RITUAL6_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-1c9ac3a4-f9a8-3316-9cd3-8eda2d159574" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 Ritual 6</a></td>
 
             <td>3'32</td>
@@ -341,7 +341,7 @@ Ritual 6</a></td>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_RITUAL7_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-d6370ebe-735e-3336-831f-7b16d07646df" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 Ritual 7</a></td>
 
             <td>9'55</td>
@@ -350,7 +350,7 @@ Ritual 7</a></td>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_RITUAL8_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-df521e58-226d-3595-aff6-005922377c6e" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 Ritual 8</a></td>
 
             <td>4'26</td>
@@ -359,7 +359,7 @@ Ritual 8</a></td>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_RITUAL9_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-b478d042-efc0-3c92-beb5-76b8aa0d4122" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 Ritual 9</a></td>
 
             <td>8'58</td>
@@ -368,7 +368,7 @@ Ritual 9</a></td>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_RITUAL10_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-cb35637f-85dd-3303-9f9c-3d90f8e8efdf" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">
 Ritual 10</a></td>
 
             <td>3'20</td>
@@ -377,7 +377,7 @@ Ritual 10</a></td>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_RITUAL11_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"> Ritual 11</a></td>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-4c0ed244-2c8a-36ce-ab01-1f0c19ffce32" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"> Ritual 11</a></td>
 
             <td>4'38</td>
 
@@ -386,7 +386,7 @@ Ritual 10</a></td>
         </tbody>
       </table>
 
-      <p>That day, Mr. Hu also told stories and sang <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_SONG_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">a
+      <p>That day, Mr. Hu also told stories and sang <a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-f97ec661-066c-3940-9cbc-c6dceb36b0dd" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20">a
 song.</a></p>
 
       <table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
@@ -403,7 +403,7 @@ song.</a></p>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_LIFESTORY_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"> Life story</a>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-a4d1fcff-f7a3-39e5-adf0-6189ef4c0424" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"> Life story</a>
             </td>
 
             <td>3'14</td>
@@ -412,7 +412,7 @@ song.</a></p>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_NARRATIVE1_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"> Narrative 1</a>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-86286c2a-5113-3d7d-ac46-24497a372260" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"> Narrative 1</a>
             </td>
 
             <td>2'44</td>
@@ -421,7 +421,7 @@ song.</a></p>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_NARRATIVE2_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"> Narrative 2</a>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-db7319db-63c1-3756-a7b8-20651cd1203d" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"> Narrative 2</a>
             </td>
 
             <td>9'33</td>
@@ -430,7 +430,7 @@ song.</a></p>
 
           <tr>
 
-            <td><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-NBF_M20_NARRATIVE3_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"> Narrative 3</a>
+            <td><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-a86de337-6564-3c63-830d-753c4bdd22aa" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" border="0" height="20" width="20"> Narrative 3</a>
             </td>
 
             <td>3'46</td>

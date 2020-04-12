@@ -4,30 +4,30 @@
             <div class="page-header"><h1>Yucuna Corpus </h1></div>
             <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre"><a href="../../ALC/Languages/Yucuna_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="infos" width="15" height="15" border="0">Yucuna</a>: a brief note </p>
+      <p class="intertitre"><a href="../../ALC/Languages/Yucuna_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../images/icones/info.gif" alt="infos" width="15" height="15" border="0">Yucuna</a>: a brief note </p>
       <p class="intertitre">&nbsp;</p>
       <h3>Introduction to the Yucuna language and writing system (see <a href="#intro">below</a>)</h3>
             <p align="left">&nbsp;</p>
       <h4 align="left">Resources :</h4>
       <p class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Yucuna&aff=Yucuna" target="_blank"> All available resources here
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Yucuna&aff=Yucuna" target="_blank"> All available resources here
       </a></p>
       <p class="intertitre">&nbsp;</p>
 
       <h3 align="left">Yucuna Texts</h3>
-      <p align="left" class="intertitre"><a href="../corpus/show_text_en.php?id=crdo-YCN_KEYAKO_SOUND&idref=crdo-YCN_KEYAKO"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> The Story of Keyako</a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text_en.php?id=cocoon-6fba1a62-8874-32f9-b75d-d369f1d89d47&idref=cocoon-3bb440bd-e319-35fd-9562-07f7353c9d73"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0"> The Story of Keyako</a><br>
         Colombia, Amazonas, Mirití-Parana, Jariyé, 1998, Milciades Yucuna, <a href="../../membres/fontaine.htm">Laurent Fontaine</a></p>
       <p align="left" class="intertitre">This is the story of the first indigenous Yucuna language speaker, from the Kamejeya tribe, to have established regular contacts with Whites, by going down the Caqueta and Japura (the same river on the Brazilian side) all the way to a Brazilian outpost (identified here as Tefé), to exchange objects manufactured locally by indigenous servants (from the Jurumi and Jupichiya tribes) for White goods. However, when he returns home, there are rumors abroad: his wife is said to have organized parties while he was away, in order to drink with her lovers… </p>
-      <p align="left" class="intertitre"><a href="../corpus/show_text_en.php?id=crdo-YCN_PIMI_MAWARI_SOUND&idref=crdo-YCN_PIMI_MAWARI"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Myth of the Cocoi Heron and the Hummingbird</a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text_en.php?id=cocoon-21635c07-e4c7-3e24-9fee-04909cead1b8&idref=cocoon-dd9404c6-8f1e-318d-96ab-542c82653446"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Myth of the Cocoi Heron and the Hummingbird</a><br>
         Colombia, Amazonas, Camaritagua, 2003i, Hua'mé Matapi, <a href="../../membres/fontaine.htm">Laurent Fontaine</a></p>
       <p align="left" class="ZonePrint">The Myth of the Cocoi Heron (<em>Ardea cocoi</em>) and the Hummingbird.</p>
-      <p align="left" class="intertitre"><a href="../corpus/show_text_en.php?id=crdo-YCN_KURUKURU_JUWA_SOUND&idref=crdo-YCN_KURUKURU_JUWA"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Story of the Green Ibis and the Great Egret</a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text_en.php?id=cocoon-f5a8231a-7887-3161-a615-b1343b511cb6&idref=cocoon-45b89851-6560-3a7d-bb89-e4530fec3731"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Story of the Green Ibis and the Great Egret</a><br>
         Colombia, Amazonas, Camaritagua, 2003, Hua'mé Matapi, <a href="../../membres/fontaine.htm">Laurent Fontaine</a></p>
       <p align="left">The Story of the Green Ibis (<em>Mesembrinibis cayennensis</em>) and the Great Egret (<em>Casmerodius albus</em>).</p>
-      <p align="left" class="intertitre"><a href="../corpus/show_text_en.php?id=crdo-YCN_KANUMA_SOUND&idref=crdo-YCN_KANUMA"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Story of Kanumá</a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text_en.php?id=cocoon-8eff4fb3-6a33-3e0e-bb5c-dcacf370ef73&idref=cocoon-ad9c2a3b-7f1b-3b57-9dc4-87f60d38f475"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Story of Kanumá</a><br>
         Colombia, Amazonas, La Pedrera, 2005, Mario Matapi, <a href="../../membres/fontaine.htm">Laurent Fontaine</a></p>
       <p align="left">For the Yucuna speaking Indians, Kanumá was the first man. A primitive at first, he lived with the Amazons, a tribe of supernatural women called the Namatu. They behaved like men, and made him do the cooking like a woman. In secret, the women performed the Yurupari, and hid the rite's sacred flutes from Kanumá, but one day he managed to steal them… After chasing Kanumá for quite some time, the Namatu gave up and went down the Miriti river, then the Caqueta river, until they reached the Amazon delta. Kanumá was left on his own. He then met the two daughters of Je'chú (the Sky), one of whom became his wife, bringing him tubers (cassava, yams), garden fruits (chontaduro, pineapples, etc.), and even coca. </p>
-      <p align="left" class="intertitre"><a href="../corpus/show_text_en.php?id=crdo-YCN_KOMEYAPHU_SOUND&idref=crdo-YCN_KOMEYAPHU"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Myth of Komeyaphu</a><br>
+      <p align="left" class="intertitre"><a href="../corpus/show_text_en.php?id=cocoon-23cc275b-a4b1-349f-84a4-572999780000&idref=cocoon-41fbc272-64c6-328f-97e7-4527c0103246"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">The Myth of Komeyaphu</a><br>
         Colombia, Amazonas, La Pedrera, 2005, Arturo Yucuna, <a href="../../membres/fontaine.htm">Laurent Fontaine</a></p>
       <p align="left">The myth of Komeyaphu (Rainbow) is that of a man who went with his children to stay with the son of the Moon, who lived near the mouth of the Amazon river, near the sea. Once there, Komeyaphu decides to hunt some small animals for his children, but much to his surprise they are all gigantic and give him considerable trouble…</p>
       <p align="left">&nbsp;</p>

@@ -4,11 +4,11 @@
            <div class="page-header"><h1><a name="up"></a>Corpus mizo</h1></div>
            <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Mizo_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">mizo<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
+      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Mizo_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">mizo<img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
        <p class="intertitre">&nbsp;</p>
             <h4 align="left">Ressources :</h4>
      <p align="left" class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Mizo&aff=mizo" target="_blank">Accès à toutes les ressources</a>
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Mizo&aff=mizo" target="_blank">Accès à toutes les ressources</a>
       </p>
        <p align="left" class="intertitre">&nbsp;</p>
       <p>Le mizo (ISO 639-3: lus), également connu sous le nom de "lushai", appartient au sous-groupe kuki-chin de la famille tibéto-birmane. Il est la langue officielle de l'Etat indien de Mizoram, avec un demi-million de locuteurs dans cet Etat et dans les régions voisines. Il a été doté d'un système d'écriture en alphabet romain par des missionaires chrétiens à la fin du 19ème siècle, et le taux d'alphabétisation au Mizoram avoisine les 80 pour cent.</p>

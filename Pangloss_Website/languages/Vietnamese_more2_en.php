@@ -5,7 +5,7 @@
             <div class="text-left">
 
       <p class="intertitre">&nbsp;</p>
-      A detailed description of this data set is <a href="http://lacito.vjf.cnrs.fr/pangloss/docs_pdf/VIE_SFP_dialogues_2013.pdf" target="_blank">available in PDF format</a>. The
+      A detailed description of this data set is <a href="http://pangloss.cnrs.fr/docs_pdf/VIE_SFP_dialogues_2013.pdf" target="_blank">available in PDF format</a>. The
 reader is referred to the PDF document&nbsp;for full details and
 explanations. This page proposes a bird's-eye view with links to the
 resources.
@@ -66,21 +66,21 @@ urgent business. </p>
 <p><table border="1">
  <tr>
  <td>
-            <img src="../../images/images_pangloss/haut_parleur_s.png" width="20" height="22"> </td>
+            <img src="../images/images_pangloss/haut_parleur_s.png" width="20" height="22"> </td>
             <td> 
            Click on this icon to access the <b>recording</b>
             </td>
             </tr>
             <tr>
             <td>
-           <img src="../../images/icones/Txt_Inter_parchemin.jpg" width="30" height="30"> </td>
+           <img src="../images/icones/Txt_Inter_parchemin.jpg" width="30" height="30"> </td>
            <td> 
           Click here to access the <b>text, with synchronized access</b>  to the sound file
           </td>
           </tr>
           <tr> 
           <td>
-           <img src="../../images/icones/info_marron.jpg" width="25" height="25"> </td> 
+           <img src="../images/icones/info_marron.jpg" width="25" height="25"> </td> 
            <td>
           <b>Informations</b> about the resource (metadata)
            </td>          
@@ -91,7 +91,7 @@ urgent business. </p>
 
           <p>&nbsp;</p>
           <p>The detailed description of this data set is
-            available <a target="_blank" href="http://lacito.vjf.cnrs.fr/pangloss/docs_pdf/VIE_SFP_dialogues_2013.pdf">here</a>,
+            available <a target="_blank" href="http://pangloss.cnrs.fr/docs_pdf/VIE_SFP_dialogues_2013.pdf">here</a>,
             to which the reader is referred for full details and explanations. </p>
 
                   <table class="resultats" align="center" border="1">
@@ -105,10 +105,7 @@ urgent business. </p>
 
                         </th>
 
-                        <th align="center" width="50">
-                        <div></div>
-
-                        </th>
+                      
 
                         <th width="250">
                         <div align="center"><font size="-1">For online consultation</font></div>
@@ -129,19 +126,19 @@ urgent business. </p>
 
                         </td>
 
-                        <td align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-VIE_M4_DIALOGUE1_SOUND&amp;lg=Vietnamese"><img src="http://lacito.vjf.cnrs.fr/images/icones/info_marron.jpg"></a></td>
+                  
 
                         <td>
-                        <div align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-VIE_M4M5_DIALOGUES1_SOUND&amp;idref=crdo-VIE_M4M5_DIALOGUES1"><img src="../../images/icones/Txt_Inter_parchemin.jpg"></a></div>
+                        <div align="center"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-f453d6e2-0fb3-3064-aa8f-6a4d2e11ff6a&amp;idref=cocoon-f57d2b34-5dc4-3afd-8402-8c758cd9b5a2"><img src="../images/icones/Txt_Inter_parchemin.jpg"></a></div>
 
                         </td>
 
                         <td>
-                        <div>M4: <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-VIE_M4_DIALOGUE1_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png"></a>
-| <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/VIE_M4_dialogues1_EGG.wav"><img src="../../images/icones/egg2.jpg" width="10%"></a>
+                        <div>M4: <a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-9c6c8976-c329-3f3d-a92a-7551c343965c"><img src="../images/images_pangloss/haut_parleur_s.png"></a>
+| <a href="http://pangloss.cnrs.fr/audio/VIE_M4_dialogues1_EGG.wav"><img src="../images/icones/egg2.jpg" width="10%"></a>
                         <br>
 
-M5: <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-VIE_M5_DIALOGUE1_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png"></a></div>
+M5: <a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-fdb849de-4956-3a3c-a271-f15ce7435153"><img src="../images/images_pangloss/haut_parleur_s.png"></a></div>
 
                         </td>
 
@@ -156,18 +153,18 @@ M5: <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-VIE
 
                         </td>
 
-                        <td align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-VIE_M5_DIALOGUE1_SOUND&amp;lg=Vietnamese"><img src="http://lacito.vjf.cnrs.fr/images/icones/info_marron.jpg"></a></td>
+                      
 
                         <td>
-                        <div align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-VIE_M4M5_DIALOGUES2_SOUND&amp;idref=crdo-VIE_M4M5_DIALOGUES2"><img src="../../images/icones/Txt_Inter_parchemin.jpg"></a></div>
+                        <div align="center"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-4dea1ed4-df9e-305d-91ed-099d68880648&amp;idref=cocoon-6c5619ff-9351-331a-9872-9e00785fd033"><img src="../images/icones/Txt_Inter_parchemin.jpg"></a></div>
 
                         </td>
 
                         <td>
-                        <div>M4: <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-VIE_M4_DIALOGUE2_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png"></a><br>
+                        <div>M4: <a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-0032a221-fe47-3b39-afb8-9a8b89cd8e8c"><img src="../images/images_pangloss/haut_parleur_s.png"></a><br>
 
-M5: <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-VIE_M5_DIALOGUE2_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png"></a>
-| <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/VIE_M5_dialogues2_EGG.wav"><img src="../../images/icones/egg2.jpg" width="10%"></a></div>
+M5: <a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-374f702a-536e-3951-8a73-c6b64a143969"><img src="../images/images_pangloss/haut_parleur_s.png"></a>
+| <a href="http://pangloss.cnrs.fr/audio/VIE_M5_dialogues2_EGG.wav"><img src="../images/icones/egg2.jpg" width="10%"></a></div>
 
                         </td>
 
@@ -189,11 +186,11 @@ SET 2; 1 speaker only) <br>
 
                         </td>
 
-                        <td align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-VIE_M6_SIM_DIAL_SOUND&amp;lg=Vietnamese"><img src="http://lacito.vjf.cnrs.fr/images/icones/info_marron.jpg"></a></td>
+                      
 
                         <td>
                         <div align="center">(no XML
-annotation;&nbsp;see <a href="http://lacito.vjf.cnrs.fr/pangloss/docs_pdf/VIE_SFP_dialogues_2013.pdf">PDF</a>
+annotation;&nbsp;see <a href="http://pangloss.cnrs.fr/docs_pdf/VIE_SFP_dialogues_2013.pdf">PDF</a>
 file)<br>
 
                         </div>
@@ -201,8 +198,8 @@ file)<br>
                         </td>
 
                         <td>
-                        <div>M6: <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-VIE_M6_SIM_DIAL_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png"></a>
-| <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-VIE_SimulatedDialogue_M6_EGG.wav"><img src="../../images/icones/egg2.jpg" width="10%"></a>
+                        <div>M6: <a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-723cbf2c-f500-31fd-916d-085fbbc3f424"><img src="../images/images_pangloss/haut_parleur_s.png"></a>
+| <a href="http://pangloss.cnrs.fr/audio/crdo-VIE_SimulatedDialogue_M6_EGG.wav"><img src="../images/icones/egg2.jpg" width="10%"></a>
                         </div>
 
                         </td>
@@ -225,18 +222,18 @@ SET 2; 1 speaker only) <br>
 
                         </td>
 
-                        <td align="center"><a href="http://lacito.vjf.cnrs.fr/pangloss/tools/show_metadatas.php?id=crdo-VIE_M7_SIM_DIAL_SOUND&amp;lg=Vietnamese"><img src="http://lacito.vjf.cnrs.fr/images/icones/info_marron.jpg"></a></td>
+                     
 
                         <td>
                         <div align="center">(no XML
-annotation;&nbsp;see <a href="http://lacito.vjf.cnrs.fr/pangloss/docs_pdf/VIE_SFP_dialogues_2013.pdf">PDF</a>
+annotation;&nbsp;see <a href="http://pangloss.cnrs.fr/docs_pdf/VIE_SFP_dialogues_2013.pdf">PDF</a>
 file)</div>
 
                         </td>
 
                         <td>
-                        <div>M7: <a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-VIE_M7_SIM_DIAL_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png"></a>
-| <a href="http://lacito.vjf.cnrs.fr/pangloss/audio/crdo-VIE_SimulatedDialogue_M7_EGG.wav"><img src="../../images/icones/egg2.jpg" width="10%"></a>
+                        <div>M7: <a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-e398a0c0-b117-372c-8156-7e0b3f9dce1b"><img src="../images/images_pangloss/haut_parleur_s.png"></a>
+| <a href="http://pangloss.cnrs.fr/audio/crdo-VIE_SimulatedDialogue_M7_EGG.wav"><img src="../images/icones/egg2.jpg" width="10%"></a>
                         </div>
 
                         </td>

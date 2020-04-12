@@ -8,7 +8,7 @@
 Pangloss - Corpus Thổ</h1></div>
  <div class="text-left">
             <p class="intertitre">&nbsp;</p>
-<!--<p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Cuoi_Cham_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"> cuối Chăm<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>-->
+<!--<p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Cuoi_Cham_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"> cuối Chăm<img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>-->
             <p class="intertitre">&nbsp;</p>
             <p class="intertitre">&nbsp;<br>
             <b><a h="" href="Cuoi_Cham_en.htm"><span

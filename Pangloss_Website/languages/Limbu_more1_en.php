@@ -12,7 +12,7 @@ This font is known to work with Firefox and IE9, and not with Chrome or Safari.
       <p class="intertitre">&nbsp;</p>
 <p>"The composer of this song is the singer himself, Subba Khadga Bahadur Nembang. Dr Richard K. Sprigg stayed for a few days in the home of Subba Khadga Bahadur (Double Subba) in Sartap village in January 1956 (VS 2012), in the course of his research on the Limbu script.  He recorded the song, together with songs sung by other distinguished guests, at a gathering on the porch of the house of Subba Khadga Bahadur's brother, Subba Nar Bahadur, in Pauwa village, Panchthar (then Dhankuta) district. Also present were Mrs. Sprigg, Ran Dhoj Nembang of Yambong village, Phedangma Raj Man Nembang of Yambong Hangyok, and other persons who took an interest in Limbu language and oral traditions, including Brijhang Jabegu of Ukase Lubaphu village." —Bairagi Kainla </p>
       <p>&nbsp;</p>
-      <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-LIF_APPEAL_SOUND&idref=crdo-LIF_APPEAL"><img src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0"> An appeal with folded hands</a><br></p>
+      <p class="intertitre"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-ee7c1224-628f-3952-ae01-8ab020647e0a&idref=cocoon-d3cf25bf-a36d-3221-9afc-4988fd6f63d0"><img src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" width="20" height="20" border="0"> An appeal with folded hands</a><br></p>
       <p>&nbsp;</p>
       
       <h4 align="left">Notes:</h4>

@@ -7,12 +7,12 @@ khmer</h1></div>
             <p style="font-weight: bold;">Ressources
 :</p>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
             <a href="../corpus/list_rsc_en.php?lg=Cardamom Khmer"
  target="_blank">Acc&egrave;s
 &agrave; toutes les ressources dans le dialecte khmer des Cardamomes </a></p>
             <p class="intertitre"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
             <a href="../corpus/list_rsc_en.php?lg=Krom Khmer"
  target="_blank">Acc&egrave;s &agrave; un enregistrement en dialecte
 khmer krom</a><span style="font-weight: bold;"></span></p>

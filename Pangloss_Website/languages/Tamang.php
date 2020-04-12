@@ -4,11 +4,11 @@
            <div class="page-header"><h1>Corpus tamang</h1></div>
            <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Tamang_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">tamang<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
+      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Tamang_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">tamang<img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
        <p align="left">&nbsp;</p>
       <h4 align="left">Ressources :</h4>
      <p align="left" class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Tamang&aff=tamang" target="_blank">Accès à toutes les ressources</a>
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Tamang&aff=tamang" target="_blank">Accès à toutes les ressources</a>
       </p>
        <p align="left" class="intertitre">&nbsp;</p>
       <p>Le tamang, parl&eacute; par un million de locuteurs au Centre du N&eacute;pal, &eacute;tait connu au si&egrave;cle dernier sous le nom de murmi, et plac&eacute; par Konow (<i>Linguistic Survey of India</i>) dans le groupe "non-pronominalis&eacute;" des langues himalayennes. Proche parent du tib&eacute;tain, le tamang appartient &agrave; la branche "gurung" de la section "bodaise" (<i>Bodish</i>) de la division "bodique" (<i>Bodic</i>) du sino-tib&eacute;tain dans la classification de Shafer, une branche actuellement renomm&eacute;e "branche tamang" du fait que les locuteurs des autres parlers de cette branche utilisent majoritairement pour se d&eacute;signer eux-m&ecirc;mes, comme les Tamang proprement dits, un nom d&eacute;rivable d'une forme ancienne *tamang. Les autres langues principales de cette branche sont le gurung, le thakali, et les parlers de Manang, langues avec lesquelles, quoique proches, il n'y a pas intercompr&eacute;hension</p>

@@ -4,7 +4,7 @@
            <div class="page-header"><h1><a name="up"></a>Corpus langi<em> </em> </h1></div>
            <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Langi_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">langi<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
+      <p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Langi_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">langi<img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>
       <p align="left">&nbsp;</p>
       <ul class="liste-liens">
         <li>
@@ -36,25 +36,25 @@
 &mdash; 2004, &laquo;&nbsp;Misiru fille de Lose&nbsp;&raquo;, Contribution avec un texte langi au cédérom d'Hommages &agrave; Jacqueline Thomas (E. Motte-Florac, G. Guarisma eds.), 2004. <em>Du terrain au cognitif Linguistique, Ethnolinguistique, Ethnosciences, </em>SELAF 417 (Num&eacute;ros sp&eacute;ciaux 30), Louvain-Paris-Dudley MA&nbsp;: Peeters. 40 p.<br>
 &mdash; To appear, &laquo;&nbsp;Langi et la Vall&eacute;e du Rift Tanzanien&nbsp;: contacts et convergences&nbsp;&raquo;, <em>Bulletin de la Soci&eacute;t&eacute; de Linguistique</em>.</p>
       Kiessling, Roland, Maarten Mous &amp; Derek Nurse, 2007, &laquo;&nbsp;The Tanzanian Rift Valley area&nbsp;&raquo;, in Heine, Bernd &amp; Derek Nurse (eds), <em>A Linguistic Geography of Africa</em>, Cambridge, Cambridge University Press, ch. 6.
-      <h4 class="intertitre"><a name="texts"></a>Textes enregistrés <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="up" width="10" height="9" border="0"></a>  </h4>
+      <h4 class="intertitre"><a name="texts"></a>Textes enregistrés <a href="#up"><img src="../images/icones/fleche-haut.gif" alt="up" width="10" height="9" border="0"></a>  </h4>
       <p align="left" class="intertitre">&nbsp;</p>
        <h4 align="left">Ressources :</h4>
      <p align="left" class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Langi&aff=langi" target="_blank">Accès à toutes les ressources</a>
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Langi&aff=langi" target="_blank">Accès à toutes les ressources</a>
       </p>
        <p align="left" class="intertitre">&nbsp;</p>
       <p class="intertitre">
-      <a href="../corpus/show_text.php?id=crdo-LAG_FER_SOUND&idref=crdo-LAG_FER"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Fer </a><br>
+      <a href="../corpus/show_text.php?id=cocoon-0d955b0a-3eb9-35bd-86bc-ab618bb01f20&idref=cocoon-671cac53-068e-3b81-b5cd-99aa9e1614e3"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Fer </a><br>
       Tanzanie, Pahi, 1996, Gaetano Paoli, <a href="../../membres/dunham.htm">Margaret Dunham</a></p>
-      <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-LAG_QUESTIONNAIRE_SOUND&idref=crdo-LAG_QUESTIONNAIRE"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Questionnaire</a><br>
+      <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-8269124d-c027-3ffa-8f62-06593cf04c91&idref=cocoon-c9d63d05-9659-3e5f-8457-b477b0b408e7"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Questionnaire</a><br>
       Tanzanie, Pahi, 1996, <a href="../../membres/dunham.htm">Margaret Dunham</a></p>
-      <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-LAG_hBili" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" width="20" height="20" border="0">Questionnaire1</a><br>
+      <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-b9ee6c7d-1cda-3cc7-b4bf-bbd96136a117" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" width="20" height="20" border="0">Questionnaire1</a><br>
       Tanzanie, Kondoa, 1996, <a href="../../membres/dunham.htm">Margaret Dunham</a></p>
-      <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-LAG_CONTE_SOUND&idref=crdo-LAG_CONTE"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Conte </a><br>
+      <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-ee7c1eb7-b9a1-386d-a50e-d00fc170c240&idref=cocoon-7502a063-53be-3457-a957-9a866b7d9928"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">Conte </a><br>
       Tanzanie, Piriri, 1996, Pascali Daudi, <a href="../../membres/dunham.htm">Margaret Dunham</a></p>
-      <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-LAG_HYENA_SOUND&idref=crdo-LAG_HYENA"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">L'hy&egrave;ne et le li&egrave;vre </a><br>
+      <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-67c08a30-95a8-3c43-86de-1c291905bd73&idref=cocoon-9e340a70-ed56-3efb-b7b1-fd70eeb97c10"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">L'hy&egrave;ne et le li&egrave;vre </a><br>
       Tanzanie, Pahi, 2003, Philomena Sabasi, <a href="../../membres/dunham.htm">Margaret Dunham</a></p>
-      <p class="intertitre"><a href="../corpus/show_text.php?id=crdo-LAG_HYENA_LION_SOUND&idref=crdo-LAG_HYENA_LION"><img src="../../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">L'hy&egrave;ne et le lion </a><br>
+      <p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-affb1761-354a-32ab-97cb-615bbd5c38f2&idref=cocoon-26ceb5be-4a98-3edf-9eb6-2b8955d49cf0"><img src="../images/icones/Txt_Inter_parchemin.jpg" alt="a" width="20" height="20" border="0">L'hy&egrave;ne et le lion </a><br>
       Tanzanie, Piriri, 2004, Pascali Daudi, <a href="../../membres/dunham.htm">Margaret Dunham</a></p>
       </div>
 </body>

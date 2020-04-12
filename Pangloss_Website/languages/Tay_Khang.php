@@ -110,7 +110,7 @@ số <a href="http://www.bibliothequescientifiquenumerique.fr/"
 tr&igrave;nh của Bộ Gi&aacute;o dục đại học v&agrave;
 Nghi&ecirc;n cứu Ph&aacute;p.&nbsp;</span>
 <a href="http://www.bibliothequescientifiquenumerique.fr/"
- target="_blank"> <img src="../images/logos/bsn.png"
+ target="_blank"> <img src="images/logos/bsn.png"
  alt="Digital Scientific Library" border="0" height="75"></a><br>
 <br>
 </body>

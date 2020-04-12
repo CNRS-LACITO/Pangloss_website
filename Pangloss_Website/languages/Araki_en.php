@@ -4,11 +4,11 @@
             <div class="page-header"><h1><a name="up"></a>Araki Corpus</h1></div>
             <div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre"><a href="../../ALC/Languages/Araki_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="infos" width="15" height="15" border="0">Araki</a>: a brief note </p>
+      <p class="intertitre"><a href="../../ALC/Languages/Araki_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../images/icones/info.gif" alt="infos" width="15" height="15" border="0">Araki</a>: a brief note </p>
       <p class="intertitre">&nbsp;</p>
       <h4 align="left">Resources :</h4>
       <p class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Araki&aff=araki" target="_blank"> All available resources here
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc_en.php?lg=Araki&aff=araki" target="_blank"> All available resources here
       </a></p>
       <p class="intertitre">&nbsp;</p>
       <h3>The geographic and social context of Araki</h3>
@@ -46,9 +46,9 @@
         Map 2 <i>Vanuatu <br>
       </i>The Republic of Vanuatu consists of more than a hundred distinct languages,<br>
 all belonging to the Oceanic subgroup of the Austronesian family. </p>
-      <h4><a name="araki"></a>Araki, a dying language <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a></h4>
+      <h4><a name="araki"></a>Araki, a dying language <a href="#up"><img src="../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a></h4>
       <p> Former figures recorded up to <i>eighty</i> (Tryon and Charpentier 1989) or even <i>one hundred and five</i> (SIL 1983) speakers of Araki; but they are evidently overestimated. An in-depth sociolinguistic survey of the island (Varisipite and Bogiri-Vari 1998) showed that though <i>thirty four</i> people claimed to speak Araki, the majority of them are not fluent. In reality, there appears to have been a steady decrease in the number of speakers over the last three or four genera&shy;tions: as a consequence, there are nowadays hardly <i>fifteen speakers</i>, who can understand and speak Araki fluently. Most of them were born between the 1920s and the early 1960s, which means that this language ceased to be used daily, in most families of the island, at least fifty years ago. </p>
-      <h4><a name="speakers"></a>Fluent speakers of Araki: official figures vs. our estimate <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a></h4>
+      <h4><a name="speakers"></a>Fluent speakers of Araki: official figures vs. our estimate <a href="#up"><img src="../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a></h4>
       <table width="80%" border="1" align="center" class="table-avec-bordures">
         <tr>
           <td><strong>source</strong></td>
@@ -94,13 +94,13 @@ all belonging to the Oceanic subgroup of the Austronesian family. </p>
       </i>Araki is a small island located south of Santo I.,<br>
 in Vanuatu. A famous myth tells how Araki moved from Hog Harbour<br>
 to its current location, near Tangoa and Elia (see text). </p>
-      <h4><a name="alphabet"></a>The alphabet of Araki, with corresponding phonemes <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a></h4>
+      <h4><a name="alphabet"></a>The alphabet of Araki, with corresponding phonemes <a href="#up"><img src="../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a></h4>
       <table width="70%" border="0" align="center" cellpadding="0" class="table-avec-bordures" style="font-family:'Arial Unicode MS','Lucida sans unicode'">
         <tr>
           <td><div align="center"><img src="araki_phonemes.jpg" alt="araki" width="80%" border="0"></div></td>
         </tr>
       </table>
-      <h4><a name="conventions"></a>Conventions for word-to-word literal translations <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a></h4>
+      <h4><a name="conventions"></a>Conventions for word-to-word literal translations <a href="#up"><img src="../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a></h4>
       <table border="1" align="center" class="table-avec-bordures">
         <tr>
           <td width="38">1/2/3S</td>
@@ -211,27 +211,27 @@ to its current location, near Tangoa and Elia (see text). </p>
           <td>&nbsp;</td>
         </tr>
       </table>
-      <h4><a name="references"></a>References and links <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a></h4>
+      <h4><a name="references"></a>References and links <a href="#up"><img src="../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a></h4>
       <p> Fran&ccedil;ois, Alexandre. 2002. <i>Araki : A disappearing language of Vanuatu</i>. Pacific Linguistics, 522. Canberra: Australian National University. xx + 355 pp. </p>
       <p> Click <a href="http://alex.francois.free.fr/AF-field.htm" target="_blank">here</a> for more information on this book. <br>
         Have a look at the Ethnologue Web's explanations on the language of Araki: click <a href="http://www.ethnologue.com/15/show_language.asp?code=akr" target="_blank">here</a>. </p>
-      <h4><a name="texts"></a>The Araki texts <a href="#up"><img src="../../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a></h4>
+      <h4><a name="texts"></a>The Araki texts <a href="#up"><img src="../images/icones/fleche-haut.gif" alt="to up" width="10" height="9" border="0"></a></h4>
       <ul class="liste-liens">
         <li><a href="#Araki">A myth of origin : the island of Araki</a></li>
         <li><a href="#Sope">How the village of Sope was exorcised</a></li>
         <li><a href="#coconutcrab">Hunting for coconut crab</a></li>
         <li><a href="#RatHawkOctopus">The Rat, the Hawk and the Octopus</a></li>
       </ul>
-      <p class="intertitre"><a name="Araki"></a><a href="../corpus/show_text_en.php?id=crdo-AKR_HISTOIRE_ARAKI_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="hear" width="20" height="20" border="0"> A myth of origin: the island of Araki</a> <a href="#texts"><img src="../../images/icones/fleche-haut.gif" alt="to texts" width="10" height="9" border="0"></a><br>
+      <p class="intertitre"><a name="Araki"></a><a href="../corpus/show_text_en.php?id=cocoon-5ffcaf9d-3ced-31ff-9d2f-00711be8d98c" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="hear" width="20" height="20" border="0"> A myth of origin: the island of Araki</a> <a href="#texts"><img src="../images/icones/fleche-haut.gif" alt="to texts" width="10" height="9" border="0"></a><br>
         Vanuatu, Espiritu Santo, Luganville, 1997, Moli Lele, <a href="../../membres/francois.htm">Alexandre Fran&ccedil;ois </a></p>
       <p>This myth tells how the island of Araki, which used to be near Hog Harbour (north-east of the island of Santo), decided once to migrate along the coast of Santo island, and eventually came to settle in its current day location, south of Santo. According to this myth, the island took with it the women of Hog Harbour; this is an interesting clue towards interpreting this story on historical grounds. The modern population of Araki is represented as descending from a former human group who would have lived on (or closer to) the eastern coast of Santo; after some period of good political relations - and especially women-exchanging traditions - with the people of Hog Harbour, that group would have left the mainland, and eventually populated the island of Araki. Other interpretations are possible, however, and the question may well be solved with the help of historical linguistics or archeology.</p>
-      <p class="intertitre"><a name="RatHawkOctopus"></a><a href="../corpus/show_text_en.php?id=crdo-AKR_RAT_OCTOPUS_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="hear" width="20" height="20" border="0"> The Rat, the Hawk and the Octopus</a> <a href="#texts"><img src="../../images/icones/fleche-haut.gif" alt="to texts" width="10" height="9" border="0"></a><br>
+      <p class="intertitre"><a name="RatHawkOctopus"></a><a href="../corpus/show_text_en.php?id=cocoon-b11ea8bb-5af5-3395-a69a-956356a36f1b" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="hear" width="20" height="20" border="0"> The Rat, the Hawk and the Octopus</a> <a href="#texts"><img src="../images/icones/fleche-haut.gif" alt="to texts" width="10" height="9" border="0"></a><br>
         Vanuatu, Espiritu Santo, Luganville, 1997, Moli Lele, <a href="../../membres/francois.htm">Alexandre Fran&ccedil;ois </a></p>
       <p>This tale is a long, pleasant narration of Mr Rat's misadventures with his fellow creatures: first, with animals of the air and especially the Hawk (Circus approximans); and then animals of the sea, above all the Octopus. This story consists of several parts: [1] the Rat is paddling in his canoe, but several birds harass him, wanting to embark with him (this gives the tale its song); the boat nearly sinks. [2] while on the boat, the Rat steals a piece of yam belonging to the Hawk; the Hawk takes his revenge by making the boat sink. [3] the Rat swims to escape death, and asks for the help of a shark, of the Turtle, of the Dolphin, and finally the Octopus accepts to carry him. But when the Octopus realises the Rat is laughing at him, he tries to kill him. [4] the last part is an etiological reflection about how this story accounts for nowadays rats and octopuses. We believe this version probably mingles more than one traditional plot: in particular, the first part [1] is a crescendo which should naturally result in the boat sinking, but the episode of the hawk [2] brings in a new suspense; finally, the story with the octopus could form a whole tale per se. The result of this assortment is a pleasant, poetic and lively tale, in which each animal is endowed with its own human-like psychology and world. The personification of animals is patent in the many details of the story (e.g. the rat is going to have lunch with his Mum, or the birds threaten him with telling everything to their Dad when he comes back home), but it is also visible linguistically, through their genitive and object marking.</p><
-      <p class="intertitre"><a name="Sope"></a><a href="../corpus/show_text_en.php?id=crdo-AKR_PASTOR_SOPE_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="hear" width="20" height="20" border="0"> How the Village of Sope was Exorcised</a> <a href="#texts"><img src="../../images/icones/fleche-haut.gif" alt="to texts" width="10" height="9" border="0"></a><br><
+      <p class="intertitre"><a name="Sope"></a><a href="../corpus/show_text_en.php?id=cocoon-ab1b0ac1-6553-34a9-a0a6-d6bca277fa87" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="hear" width="20" height="20" border="0"> How the Village of Sope was Exorcised</a> <a href="#texts"><img src="../images/icones/fleche-haut.gif" alt="to texts" width="10" height="9" border="0"></a><br><
         Vanuatu, Araki I. South Espiritu Santo, 1998,  Moli  Sohe, <a href="../../membres/francois.htm">Alexandre Fran&ccedil;ois </a></p>
       <p>This holy story tells how a village (now Sope) in Araki was released from the spell of a devil, by a Christian Pastor called Sope. This devil used to hide in a hollow tree close to the road, and would kill people by just dropping some of his poisonous rain water kept in the tree. This early missionary, who belonged to the T.T.I. (Tangoa Training Institute) Bible college on Tangoa, was one of the first Presbyterians who came to Araki to fight the 'dark ages' of paganism, at the end of the nineteenth century. He freed the place from its heathen fears and taboos, bringing the Christian word of God. The village of Sope was named after him.</p>
-      <p class="intertitre"><a name="coconutcrab"></a><a href="../corpus/show_text_en.php?id=crdo-AKR_CRABE_COCOTIER_SOUND" target="_blank"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="hear" width="20" height="20" border="0"> Hunting for Coconut Crab</a> <a href="#texts"><img src="../../images/icones/fleche-haut.gif" alt="to texts" width="10" height="9" border="0"></a><br>
+      <p class="intertitre"><a name="coconutcrab"></a><a href="../corpus/show_text_en.php?id=cocoon-36a659c3-8a57-39ea-b622-02b396d5d65f" target="_blank"><img src="../images/images_pangloss/haut_parleur_s.png" alt="hear" width="20" height="20" border="0"> Hunting for Coconut Crab</a> <a href="#texts"><img src="../images/icones/fleche-haut.gif" alt="to texts" width="10" height="9" border="0"></a><br>
         Vanuatu, Araki I. South Espiritu Santo, 1998, Ropo, <a href="../../membres/francois.htm">Alexandre Fran&ccedil;ois </a></p>
       <p> It is the story of an evil spirit, who changed himself into a coconut crab and played a bad trick on a couple of men who were precisely looking for coconut crabs. That is when the hunter becomes the prey. Following widespread beliefs in the area, the worst thing with devils is their ability to transform themselves into anything they like, either a person or an animal, to get closer to their victims; this is how they 'lie' to people. The scene takes place in Rahuna, a spot in the western bush of Araki, where coconut crabs abound. This hunting activity is still popular on the island, since this animal is renouned for its taste.</p>
       <p class="intertitre">&nbsp;</p>

@@ -9,7 +9,7 @@ corpus</h1></div>
             <h4 align="left">Resources
 :</h4>
             <!--<p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
             <a
  href="../corpus/list_rsc_en.php?lg=Vietnamese&amp;aff=Vietnamese"
  target="_blank"> All available resources here (all
@@ -54,7 +54,7 @@ AuCo/&Acirc;uCơ collection are an allusion to these hundred eggs -
 a symbol of the cultural and linguistic diversity reflected in the
 collection.&nbsp;</p>
             <p class="intertitre"><img
- src="../../images/logos/AuCo_logo.jpg"
+ src="../images/logos/AuCo_logo.jpg"
  alt="Logo of the AuCo project, International Research Institute MICA, Hanoi Univ. of Science and Technology"
  style="width: 230px; height: 98px;" align="middle" height="77"
  width="304"></p>
@@ -96,7 +96,7 @@ and <a href="http://cc.in2p3.fr/">IN2P3</a>.
 Tasks of data
 filing are realized with the help of the two centres that serve as
 archive entry points: the <a
- href="http://lacito.vjf.cnrs.fr/pangloss/index_en.htm">Pangloss
+ href="http://pangloss.cnrs.fr/index_en.htm">Pangloss
 Collection</a> / Cocoon data
 repository (CNRS-<a href="http://lacito.vjf.cnrs.fr/">LACITO</a>),
 and the
@@ -148,7 +148,7 @@ of the Tibeto-Burman Area</span>
             <p>The entire data set
 on which this study is based is made available here: click on the link
 below to access the full list.</p>
-            <p class="intertitre"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a"
+            <p class="intertitre"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a"
  height="20" width="20"> <a
  href="../corpus/list_rsc_en.php?lg=Phong Nha"
  target="_blank"> All available resources for the
@@ -178,7 +178,7 @@ set
 on which the 1995 report is based is made available here: click on the
 link
 below to access the full list.</p>
-            <p class="intertitre"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a"
+            <p class="intertitre"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a"
  height="20" width="20"> <a
  href="../corpus/list_rsc_en.php?lg=Cao Lao Hạ"
  target="_blank"> All available resources for the Cao
@@ -2183,7 +2183,7 @@ by the <a href="http://www.bibliothequescientifiquenumerique.fr/"
 French Ministry for Higher
 Education and Research.&nbsp;</span></p>
             <a href="http://www.bibliothequescientifiquenumerique.fr/"
- target="_blank"> <img src="../../images/logos/bsn.png"
+ target="_blank"> <img src="../images/logos/bsn.png"
  alt="Digital Scientific Library" border="0" height="75"></a>
             <p><a href="Vietnamese_en.htm#table_of_content"
  style="font-size: 14px;">Back

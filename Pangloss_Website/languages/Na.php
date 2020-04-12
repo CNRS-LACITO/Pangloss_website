@@ -58,23 +58,22 @@ bibliographiques</a></span>
 </ul>
 <p>&nbsp;</p>
 <h3 align="left"><a name="resources"></a>Ressources</h3>
-<p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NRU_MARIAGE_DE_LA_SOEUR_V1_SOUND&amp;idref=crdo-NRU_Mariage_De_La_Soeur_V1"><img
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0"
+<p class="intertitre"><a href="../corpus/show_text.php?id=cocoon-3dd9341b-647a-33d3-b0fd-2b0ab0e7f638&amp;idref=cocoon-46ae2130-95ad-342d-9606-ef3d47594bee"><img
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0"
  height="20" width="20">Le
 mariage de la soeur (Version 1)</a><br>
 Chine, province du Yunnan, Latami Dashi-Lame, 2006, <a
  href="../../membres/michaud.htm">Alexis Michaud</a></p>
 <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NRU_Mariage_De_La_Soeur_V2_SOUND"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a"
+ href="../corpus/show_text.php?id=cocoon-9b6fe6cf-0338-3482-9125-b1628aa0e459"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a"
  border="0" height="20" width="20">Le
 mariage de la soeur (Version 2)</a><br>
 Chine, province du Yunnan, Latami Dashi-Lame, 2007, <a
  href="../../membres/michaud.htm">Alexis Michaud</a></p>
 <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NRU_Mariage_De_La_Soeur_V3_SOUND&amp;idref=crdo-NRU_Mariage_De_La_Soeur_V3"><img
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0"
+ href="../corpus/show_text.php?id=cocoon-9245e7d0-3e19-3eac-8f3e-2dc3a04bbf43&amp;idref=cocoon-b5285065-cb88-3de1-b3d6-9cab013681f7"><img
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0"
  height="20" width="20">Le
 mariage de la soeur (Version 3)</a><br>
 Chine, province du Yunnan, Latami Dashi-Lame, 2008, <a
@@ -106,22 +105,22 @@ troisi&egrave;me version.
 </p>
 <p>&nbsp;</p>
 <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NRU_Naissance_du_Lac_V1_SOUND"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a"
+ href="../corpus/show_text.php?id=cocoon-4bd41f19-8a74-3607-bb8e-fc9709d9d5bc"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a"
  border="0" height="20" width="20">La
 naissance du lac (version 1)</a><br>
 Chine, province du Yunnan, Latami Dashi-Lame, 2006, <a
  href="../../membres/michaud.htm">Alexis Michaud</a></p>
 <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NRU_Naissance_du_Lac_V2_SOUND"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a"
+ href="../corpus/show_text.php?id=cocoon-ff590185-32d0-3939-a8d1-f3ed34b98673"><img
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a"
  border="0" height="20" width="20">La
 naissance du lac (version 2)</a><br>
 Chine, province du Yunnan, Latami Dashi-Lame, 2007, <a
  href="../../membres/michaud.htm">Alexis Michaud</a></p>
 <p class="intertitre"><a
- href="../corpus/show_text.php?id=crdo-NRU_Naissance_du_Lac_V3_SOUND&amp;idref=crdo-NRU_Naissance_du_Lac_V3"><img
- src="../../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0"
+ href="../corpus/show_text.php?id=cocoon-1fee21d5-125f-313d-aab7-121aa9c2cac5&amp;idref=cocoon-2c55a91e-c666-3033-8d07-09da47d9f2ba"><img
+ src="../images/icones/Txt_Inter_parchemin1.jpg" alt="a" border="0"
  height="20" width="20">La
 naissance du lac (version 3)</a><br>
 Chine, province du Yunnan, Latami Dashi-Lame, 2008, <a

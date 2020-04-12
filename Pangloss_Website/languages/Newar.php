@@ -4,7 +4,7 @@
              <h1>Corpus newar</h1></div>
            <div class="text-left">
 
-      <!--<p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Newar_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">newar<img src="../../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>-->
+      <!--<p class="intertitre">Fiche technique sur le <a href="../../ALC/Languages/Newar_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false">newar<img src="../images/icones/info.gif" alt="a" width="15" height="15" border="0"></a></p>-->
       <p>&nbsp;</p>
       <p class="intertitre">Dans le recensesment népalais de 2011, quelques 846,000 personnes ont reclamé le néwar comme "mother tongue".</p>
 

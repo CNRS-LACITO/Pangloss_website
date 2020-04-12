@@ -86,7 +86,7 @@ by the <a href="http://www.bibliothequescientifiquenumerique.fr/"
 French Ministry for Higher
 Education and Research.&nbsp;</span></p>
 <a href="http://www.bibliothequescientifiquenumerique.fr/"
- target="_blank"> <img src="../../images/logos/bsn.png"
+ target="_blank"> <img src="../images/logos/bsn.png"
  alt="Digital Scientific Library" border="0" height="75"></a>
 <p>Last updated 11/2017.</p>
 <p><a href="../../membres/michaud.htm">Contact: Alexis
@@ -128,7 +128,7 @@ tr&igrave;nh của Bộ Gi&aacute;o
 dục đại học v&agrave;
 Nghi&ecirc;n cứu Ph&aacute;p.&nbsp;</span></p>
 <a href="http://www.bibliothequescientifiquenumerique.fr/"
- target="_blank"> <img src="../../images/logos/bsn.png"
+ target="_blank"> <img src="../images/logos/bsn.png"
  alt="Digital Scientific Library" border="0" height="75"></a>
 <p style="font-style: italic;"><span style="font-style: italic;"></span></p>
 </div>

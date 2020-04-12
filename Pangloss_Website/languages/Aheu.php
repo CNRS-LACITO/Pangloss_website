@@ -7,12 +7,12 @@ aheu (thavung)</h1></div>
             <h4 align="left">Ressources
 :</h4>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=Thavung&amp;aff=Thavung" target="_blank">
 Acc&egrave;s
 &agrave; la liste des ressources thavung</a></p>
             <p class="intertitre"><img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20"><a
  href="../corpus/list_rsc_en.php?lg=Aheu&amp;aff=Aheu" target="_blank">
 Acc&egrave;s
 &agrave; la liste des ressources aheu (ph&ocirc;n soung) </a></p>

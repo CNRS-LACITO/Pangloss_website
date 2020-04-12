@@ -8,12 +8,12 @@ Corpus<br>
             <p style="font-weight: bold;"></p>
             <p style="font-weight: bold;">Resources:</p>
             <p class="intertitre"> <img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
             <a href="../corpus/list_rsc_en.php?lg=Cardamom Khmer"
  target="_blank">All
 available resources in Cardamom Khmer here </a></p>
             <p class="intertitre">&nbsp;<img
- src="../../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
+ src="../images/images_pangloss/haut_parleur_s.png" alt="a" height="20" width="20">
             <a href="../corpus/list_rsc_en.php?lg=Krom Khmer"
  target="_blank">Available resources in Khmer Krom here</a><span
  style="font-weight: bold;"></span></p>

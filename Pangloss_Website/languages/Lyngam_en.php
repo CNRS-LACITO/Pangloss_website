@@ -5,7 +5,7 @@
 Corpus </h1></div>
 			<div class="text-left">
       <p class="intertitre">&nbsp;</p>
-      <p class="intertitre"><a href="../../ALC/Languages/Lyngam_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../../images/icones/info.gif" alt="infos" width="15" height="15" border="0">Lyngam</a>: a brief note            </p>
+      <p class="intertitre"><a href="../../ALC/Languages/Lyngam_popup.htm" target="_blank" onClick="window.open(this.href,'popupLink','width=600,height=600,scrollbars=yes,resizable=yes',1);return false"><img src="../images/icones/info.gif" alt="infos" width="15" height="15" border="0">Lyngam</a>: a brief note            </p>
       <p class="intertitre">&nbsp;</p>
           
             <h4 align="left">Resources
@@ -16,13 +16,13 @@ Corpus </h1></div>
        <h4>Lyngam langkma</h4>
         <p class="intertitre">&nbsp;</p>
        
-       <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-LYN_ADA037_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Le chacal et le tigre</a></p>
+       <p class="intertitre"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-7290a267-3121-3691-8635-3ba067a4c28e"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Le chacal et le tigre</a></p>
      <p class="intertitre">
         Lyngam langkma, Amarsang, Meghalaya, Inde,  Leena Momin, 2011,  <a href="../../membres/daladier.htm">Anne Daladier</a></p>
         <p>Conte traditionnel. Le tigre croit que le chacal est son ami. Le chacal lui explique qu'il sera beaucoup plus compétent que lui pour l'éducation de ses enfants. Le tigre le croit et et lui confie un par un chacun de ses enfants après leur naissance. Il s'étonne de ne pas avoir de nouvelles d'eux. Trop tard, le chacal lui révèle qu'il les a mangé un par un. Ce conte ressemble aux contes du chacal de Marlyda Pohleng en war de Thangbuli et à ceux de Thakur Pohtam en war de Kudeng</p>
             <p class="intertitre">&nbsp;</p>
             
-            <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-LYN_ADA038_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"></a></p>
+            <p class="intertitre"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-39e20791-e757-390f-af95-3337e18c47dd"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"></a></p>
               <ul>
               <li><b>Pawar et Juradeng</b>
      <p class="intertitre">
@@ -39,14 +39,14 @@ Corpus </h1></div>
             
                <p class="intertitre">&nbsp;</p>
             
-              <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-LYN_ADA039_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Chants traditionnels </a></p>
+              <p class="intertitre"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-43730e5d-8431-3322-bac1-3bfdc059f1be"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Chants traditionnels </a></p>
      <p class="intertitre">
       Lyngam Langkma, Shillong, Elisabeth Hasha, Shillong, 2010,<a href="../../membres/daladier.htm"> Anne Daladier</a></p>
         <p>Chants traditionnels revus par Elisabeth Hasha.</p>
         <p> Plusieurs versions du 2ème chant 'Mère des rivières chérie'  </p>
             <p class="intertitre">&nbsp;</p>
             
-             <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-LYN_ADA040_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Liste de vocabulaire  </a></p>
+             <p class="intertitre"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-9374c813-44e8-35f4-a7b8-3fa839c12c78"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0">Liste de vocabulaire  </a></p>
      <p class="intertitre">
       Lyngam Langkma, Shillong, Leena Momin, Shillong, 2010,<a href="../../membres/daladier.htm"> Anne Daladier</a></p>
        
@@ -57,7 +57,7 @@ Corpus </h1></div>
              <h4>Lyngam nongtrei</h4>
   <p class="intertitre">&nbsp;</p>
      
-     <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-LYN_ADA029_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Daughters of iaw long sun and fire how they seperate and come back</a></p>
+     <p class="intertitre"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-14d84c67-6703-3268-a75e-abe0e0ed30cc"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Daughters of iaw long sun and fire how they seperate and come back</a></p>
      <p class="intertitre">
         Lyngam Nongtrei, Meghalaya, Inde, 2013, Stephen Nongsiang, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
         <p>Il s'agit du premier des 4 fichiers de mythes de fondation sur l'origine du monde, connus par Rosaia Nianglang de Nongporiu, et redits ici par Stephen Nongsiang.</p>
@@ -67,25 +67,25 @@ Corpus </h1></div>
             <p>Iawlong fille de la champignon donne naissance au tonnerre et au tremblement de terre.            </p>
             <p class="intertitre">&nbsp;</p>
             
-            <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-LYN_ADA030_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> How they steal the seed from heaven by monkey from niangresi and marsi</a></p>
+            <p class="intertitre"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-47b7783c-3615-39b6-9664-7f9a47cd77a9"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> How they steal the seed from heaven by monkey from niangresi and marsi</a></p>
      <p class="intertitre">
         Lyngam Nongtrei, Meghalaya, Inde, 2013, Stephen Nongsiang, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
         <p>Il s'agit du deuxième des 4 fichiers de mythes de fondation sur l'origine du monde.            </p>
         <p class="intertitre">&nbsp;</p>
             
-            <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-LYN_ADA031_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Starting of earth</a></p>
+            <p class="intertitre"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-722d069d-5571-3cd3-bfbc-25a2963ce175"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Starting of earth</a></p>
      <p class="intertitre">
         Lyngam Nongtrei, Meghalaya, Inde, 2013, Stephen Nongsiang, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
         <p>Il s'agit du troisième des 4 fichiers de mythes de fondation sur l'origine du monde.            </p>
         <p class="intertitre">&nbsp;</p>
             
-            <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-LYN_ADA032_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> When iawlong give birth to thunder and earth quake</a></p>
+            <p class="intertitre"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-03d01317-7d13-3bc5-b1a2-ab90454f00a3"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> When iawlong give birth to thunder and earth quake</a></p>
      <p class="intertitre">
         Lyngam Nongtrei, Meghalaya, Inde, 2013, Stephen Nongsiang, <a href="../../membres/daladier.htm">Anne Daladier</a></p>
         <p>Il s'agit du quatrième des 4 fichiers de mythes de fondation sur l'origine du monde.</p>
             <p class="intertitre">&nbsp;</p>
                     <p class="intertitre">&nbsp;</p>
-      <p class="intertitre"><a href="http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=crdo-LYN_ADA041_SOUND"><img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Récits mythologiques de la création du monde</a></p>
+      <p class="intertitre"><a href="http://pangloss.cnrs.fr/corpus/show_text.php?id=cocoon-d77fb2ce-45a7-30c9-a568-7bd0fd31a506"><img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20" border="0"> Récits mythologiques de la création du monde</a></p>
      <p class="intertitre">
       Lyngam Nongtrei de Nongporiu, 2014, Rosaïa Nianglang,<a href="../../membres/daladier.htm"> Anne Daladier</a></p>
         <p>Le conteur, Rosaia Nianglang est un des dernier grand représentant de la religion traditionnelle. Les Lyngam ont quasiment tous été christianisés. 

@@ -9,7 +9,7 @@
      
       <h4 align="left">Ressources :</h4>
      <p align="left" class="intertitre">
-      <img src="../../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Chang Naga" target="_blank">Accès à toutes les ressources</a>
+      <img src="../images/images_pangloss/haut_parleur_s.png" alt="a" width="20" height="20"> <a href="../corpus/list_rsc.php?lg=Chang Naga" target="_blank">Accès à toutes les ressources</a>
       </p>
       <p class="intertitre">&nbsp;</p>
       </div>
