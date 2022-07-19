@@ -4,7 +4,6 @@ This is the GitHub repository of [the Pangloss Collection](https://pangloss.cnrs
 
 Related repositories include 
 * [DoiPangloss](https://github.com/vasaura/DoiPangloss), the code used to generate DOI identifiers for resources in the Pangloss Collection
-* [A space on GitLab](https://gitlab.com/lacito)
-* [A cool tool for bulk downloads](https://gitlab.com/lacito/outilspangloss)
+* [A cool tool for bulk downloads](https://gitlab.com/lacito/outilspangloss) and its broader [environment on GitLab](https://gitlab.com/lacito)
 * [The Eastling software suite for editing & displaying resources on the Pangloss website](https://github.com/CNRS-LACITO/eastlingplayer/)
 
