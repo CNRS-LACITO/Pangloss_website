@@ -14,13 +14,9 @@ The  `.eaf` file `buddhism.eaf` is offered as a sample of the ELAN format to whi
 
 [TEI Corpo, by Christophe Parisse](http://ct3.ortolang.fr/teiconvertbeta/)
 
-## 3. Scripts by the team of the DoReCo project
+## 3. Scripts by Séverine Guillaume
 
-See [their repository in GitHub](https://github.com/DoReCo/multitool).
+(work in progress)
 
-## 4. Scripts by Séverine Guillaume
-
-(being finalized, as of 2020)
-
-## 5. Scripts by Benjamin Galliot
+## 4. Scripts by Benjamin Galliot
 [Elan Converter](https://github.com/BenjaminGalliot/ElanConverter) (new to June 2020)
